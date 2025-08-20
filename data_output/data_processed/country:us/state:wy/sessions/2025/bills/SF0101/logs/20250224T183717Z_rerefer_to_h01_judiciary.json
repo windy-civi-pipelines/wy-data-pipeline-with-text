@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": ":Rerefer to H01 - Judiciary",
+    "date": "2025-02-24T18:37:17+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0101"
+}

@@ -1,0 +1,410 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SF0043",
+  "title": "Temporary water use agreements amendments.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "2025/Summaries/SF0043.pdf"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to water; extending the number of years for which temporary water rights may be granted; providing exceptions; and providing for an effective date."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Assigned Chapter Number 134",
+      "date": "2025-03-12T16:19:15+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Governor Signed SEA No. 0071",
+      "date": "2025-03-12T16:18:57+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Speaker Signed SEA No. 0071",
+      "date": "2025-03-04T22:04:59+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S President Signed SEA No. 0071",
+      "date": "2025-03-04T17:31:04+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Assigned Number SEA No. 0071",
+      "date": "2025-03-04T17:30:04+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H Appointed JCC01 Members",
+      "date": "2025-02-27T01:04:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S Appointed JCC01 Members",
+      "date": "2025-02-26T17:28:48+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S Concur:Failed 0-31-0-0-0",
+      "date": "2025-02-26T17:28:04+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S Received for Concurrence",
+      "date": "2025-02-24T21:34:35+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H 3rd Reading:Passed 56-3-3-0-0",
+      "date": "2025-02-24T21:18:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H 2nd Reading:Passed",
+      "date": "2025-02-21T17:34:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H COW:Passed",
+      "date": "2025-02-21T01:21:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Placed on General File",
+      "date": "2025-02-18T17:48:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H05 - Agriculture:Recommend Do Pass 6-3-0-0-0",
+      "date": "2025-02-18T17:48:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Introduced and Referred to H05 - Agriculture",
+      "date": "2025-02-14T18:11:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Received for Introduction",
+      "date": "2025-01-20T20:40:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S 3rd Reading:Passed 23-4-4-0-0",
+      "date": "2025-01-20T18:16:32+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S 2nd Reading:Passed",
+      "date": "2025-01-17T17:39:24+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S COW:Passed",
+      "date": "2025-01-16T22:03:17+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Placed on General File",
+      "date": "2025-01-16T18:59:21+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0",
+      "date": "2025-01-16T18:59:14+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Introduced and Referred to S05 - Agriculture",
+      "date": "2025-01-15T21:11:12+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Received for Introduction",
+      "date": "2024-12-19T18:30:05+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Bill Number Assigned",
+      "date": "2024-12-16T21:04:44+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Agriculture, State and Public Lands and Water Resources",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Agriculture, State and Public Lands and Water Resources\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Introduced/SF0043.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Enroll/SF0043.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SF0043H3001 (3rd reading) - Representative Strock (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0043H3001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0043H3001",
+        "sponsor": "Representative Strock"
+      }
+    },
+    {
+      "note": "Amendment SF0043HW001 (Committee of the Whole) - Representative Strock (Divided)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0043HW001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0043HW001",
+        "sponsor": "Representative Strock"
+      }
+    },
+    {
+      "note": "Amendment SF0043HW001.01 (Committee of the Whole) - Representative Strock (Corrected, Corrected, Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0043HW001.01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0043HW001.01",
+        "sponsor": "Representative Strock"
+      }
+    },
+    {
+      "note": "Amendment SF0043HW001.02 (Committee of the Whole) - Representative Strock (Corrected, Corrected, Failed)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0043HW001.02.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0043HW001.02",
+        "sponsor": "Representative Strock"
+      }
+    },
+    {
+      "note": "Amendment SF0043JC001 (Conference Committee)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0043JC001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0043JC001",
+        "sponsor": ""
+      }
+    },
+    {
+      "note": "Amendment SF0043S2001 (2nd reading) - Senator Hicks (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0043S2001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0043S2001",
+        "sponsor": "Senator Hicks"
+      }
+    },
+    {
+      "note": "Amendment SF0043SS001 (Standing Committee) - Senate Agriculture, State and Public Lands & Water (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0043SS001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0043SS001",
+        "sponsor": "Senate Agriculture, State and Public Lands & Water"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Fiscal/SF0043.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Digest",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Digest/SF0043.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://wyoleg.gov/Legislation/2025/SF0043",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "wy_enrolled_number": "SEA0071",
+    "chapter": "CH0134",
+    "effective_date": "2025-07-01",
+    "wy_bill_id": 12200
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wy/government",
+    "name": "Wyoming",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wy"
+  }
+}

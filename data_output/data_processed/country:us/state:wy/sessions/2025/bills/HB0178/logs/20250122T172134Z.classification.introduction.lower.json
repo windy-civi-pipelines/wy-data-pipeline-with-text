@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "H Introduced and Referred to H07 - Corporations",
+    "date": "2025-01-22T17:21:34+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0178"
+}

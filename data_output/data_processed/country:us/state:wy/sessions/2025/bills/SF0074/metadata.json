@@ -1,0 +1,380 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SF0074",
+  "title": "Immunity for drug overdose reporting.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "2025/Summaries/SF0074.pdf"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to controlled substances; providing immunity from prosecution of specified offenses under the Wyoming Controlled Substances Act of 1971 to persons who report or experience an emergency drug overdose event as specified; providing applicability; making conforming amendments; and providing for an effective date."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Assigned Chapter Number 123",
+      "date": "2025-03-06T20:45:20+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Governor Signed SEA No. 0063",
+      "date": "2025-03-06T20:44:42+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Speaker Signed SEA No. 0063",
+      "date": "2025-03-03T17:30:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S President Signed SEA No. 0063",
+      "date": "2025-03-03T17:13:45+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Assigned Number SEA No. 0063",
+      "date": "2025-03-01T02:47:08+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H Appointed JCC01 Members",
+      "date": "2025-02-28T02:53:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S Appointed JCC01 Members",
+      "date": "2025-02-27T21:22:07+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S Concur:Failed 3-26-2-0-0",
+      "date": "2025-02-27T21:21:30+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S Received for Concurrence",
+      "date": "2025-02-27T14:45:33+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H 3rd Reading:Passed 58-0-4-0-0",
+      "date": "2025-02-26T21:18:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H 2nd Reading:Passed",
+      "date": "2025-02-25T18:14:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H COW:Passed",
+      "date": "2025-02-24T21:50:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Placed on General File",
+      "date": "2025-02-20T02:38:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H10 - Labor:Recommend Amend and Do Pass 8-0-1-0-0",
+      "date": "2025-02-20T02:38:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Introduced and Referred to H10 - Labor",
+      "date": "2025-02-10T19:09:44+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Received for Introduction",
+      "date": "2025-01-29T16:34:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S 3rd Reading:Passed 29-0-2-0-0",
+      "date": "2025-01-28T17:40:52+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S 2nd Reading:Passed",
+      "date": "2025-01-27T18:35:52+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S COW:Passed",
+      "date": "2025-01-24T18:56:27+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Placed on General File",
+      "date": "2025-01-22T23:24:53+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S10 - Labor:Recommend Do Pass 4-1-0-0-0",
+      "date": "2025-01-22T23:24:46+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Introduced and Referred to S10 - Labor",
+      "date": "2025-01-14T21:12:34+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Received for Introduction",
+      "date": "2025-01-06T18:09:36+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Bill Number Assigned",
+      "date": "2024-12-31T17:37:31+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Labor, Health and Social Services",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Labor, Health and Social Services\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Introduced/SF0074.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Enroll/SF0074.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SF0074H3001 (3rd reading) - Representative Lien (Withdrawn)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0074H3001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0074H3001",
+        "sponsor": "Representative Lien"
+      }
+    },
+    {
+      "note": "Amendment SF0074HS001 (Standing Committee) - House Labor, Health and Social Services Committee (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0074HS001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0074HS001",
+        "sponsor": "House Labor, Health and Social Services Committee"
+      }
+    },
+    {
+      "note": "Amendment SF0074JC001 (Conference Committee)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0074JC001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0074JC001",
+        "sponsor": ""
+      }
+    },
+    {
+      "note": "Amendment SF0074S2001 (2nd reading) - Senator Crago (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0074S2001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0074S2001",
+        "sponsor": "Senator Crago"
+      }
+    },
+    {
+      "note": "Amendment SF0074SW001 (Committee of the Whole) - Senator Hutchings (Failed)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0074SW001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0074SW001",
+        "sponsor": "Senator Hutchings"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Fiscal/SF0074.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Digest",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Digest/SF0074.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://wyoleg.gov/Legislation/2025/SF0074",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "wy_enrolled_number": "SEA0063",
+    "chapter": "CH0123",
+    "effective_date": "2025-07-01",
+    "wy_bill_id": 12119
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wy/government",
+    "name": "Wyoming",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wy"
+  }
+}

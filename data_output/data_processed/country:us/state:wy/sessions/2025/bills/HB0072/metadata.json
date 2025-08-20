@@ -1,0 +1,665 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB0072",
+  "title": "Protecting privacy in public spaces act.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "2025/Summaries/HB0072.pdf"
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to the administration of the government; specifying requirements for the use of sex-designated restrooms, showers, sleeping quarters and locker room facilities at public facilities; providing for complaints and civil actions; specifying duties for public entities; providing definitions; making conforming amendments; and providing for an effective date."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Assigned Chapter Number 94",
+      "date": "2025-03-04T02:59:56+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Governor Signed HEA No. 0048",
+      "date": "2025-03-04T02:59:05+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S President Signed HEA No. 0048",
+      "date": "2025-02-28T02:59:27+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H Speaker Signed HEA No. 0048",
+      "date": "2025-02-28T02:04:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Assigned Number HEA No. 0048",
+      "date": "2025-02-27T22:49:28+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H Concur:Passed 54-7-1-0-0",
+      "date": "2025-02-27T18:44:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S Appointed JCC01 Members",
+      "date": "2025-02-27T18:41:14+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H Appointed JCC01 Members",
+      "date": "2025-02-27T01:01:59+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H Concur:Failed 2-57-3-0-0",
+      "date": "2025-02-26T23:57:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H Received for Concurrence",
+      "date": "2025-02-26T20:55:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S 3rd Reading:Passed 25-6-0-0-0",
+      "date": "2025-02-26T18:32:53+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S 2nd Reading:Passed",
+      "date": "2025-02-25T17:59:29+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S 2nd Reading:Laid Back",
+      "date": "2025-02-24T17:22:05+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S COW:Passed 16-14-1-0-0",
+      "date": "2025-02-21T23:13:57+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Placed on General File",
+      "date": "2025-02-20T23:31:49+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0",
+      "date": "2025-02-20T23:31:42+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Introduced and Referred to S01 - Judiciary",
+      "date": "2025-02-11T17:17:13+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Received for Introduction",
+      "date": "2025-02-07T23:08:33+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H 3rd Reading:Passed 52-8-2-0-0",
+      "date": "2025-02-07T16:51:21+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H 2nd Reading:Passed",
+      "date": "2025-02-06T17:28:21+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H 2nd Reading:Laid Back",
+      "date": "2025-02-05T16:21:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H COW:Passed",
+      "date": "2025-02-04T22:51:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Placed on General File",
+      "date": "2025-01-24T23:03:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H04 - Education:Recommend Amend and Do Pass 9-0-0-0-0",
+      "date": "2025-01-24T23:03:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Introduced and Referred to H04 - Education",
+      "date": "2025-01-16T18:07:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Received for Introduction",
+      "date": "2025-01-02T19:48:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Bill Number Assigned",
+      "date": "2024-12-23T21:22:02+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Andrew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Andrew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Angelos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Banks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Banks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bratten",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bratten\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Guggenmos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Guggenmos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haroldson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Haroldson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heiner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Heiner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kelly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larson, JT",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Larson, JT\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lawley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lawley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Neiman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Neiman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Washut",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Washut\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wylie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wylie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Crago",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Crago\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hutchings",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hutchings\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Olsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Olsen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Introduced/HB0072.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Enroll/HB0072.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment HB0072H2001 (2nd reading) - Representative Lawley (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072H2001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072H2001",
+        "sponsor": "Representative Lawley"
+      }
+    },
+    {
+      "note": "Amendment HB0072H2002 (2nd reading) - Representative Williams (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072H2002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072H2002",
+        "sponsor": "Representative Williams"
+      }
+    },
+    {
+      "note": "Amendment HB0072H2003 (2nd reading) - Representative Provenza (Failed)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072H2003.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072H2003",
+        "sponsor": "Representative Provenza"
+      }
+    },
+    {
+      "note": "Amendment HB0072H2004 (2nd reading) - Representative Nicholas (Failed)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072H2004.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072H2004",
+        "sponsor": "Representative Nicholas"
+      }
+    },
+    {
+      "note": "Amendment HB0072H3001 (3rd reading) - Representative Lawley (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072H3001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072H3001",
+        "sponsor": "Representative Lawley"
+      }
+    },
+    {
+      "note": "Amendment HB0072HS001 (Standing Committee) - House Education Committee (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072HS001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072HS001",
+        "sponsor": "House Education Committee"
+      }
+    },
+    {
+      "note": "Amendment HB0072HW001 (Committee of the Whole)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072HW001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072HW001",
+        "sponsor": "Representative Lawley"
+      }
+    },
+    {
+      "note": "Amendment HB0072JC001 (Conference Committee)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072JC001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072JC001",
+        "sponsor": ""
+      }
+    },
+    {
+      "note": "Amendment HB0072S2001 (2nd reading) - Senator Crago (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072S2001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072S2001",
+        "sponsor": "Senator Crago"
+      }
+    },
+    {
+      "note": "Amendment HB0072S2002 (2nd reading) - Senator Laursen, D (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072S2002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072S2002",
+        "sponsor": "Senator Laursen, D"
+      }
+    },
+    {
+      "note": "Amendment HB0072S2003 (2nd reading) - Senator Crum (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072S2003.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072S2003",
+        "sponsor": "Senator Crum"
+      }
+    },
+    {
+      "note": "Amendment HB0072S3001 (3rd reading) - Senator Laursen, D (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072S3001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072S3001",
+        "sponsor": "Senator Laursen, D"
+      }
+    },
+    {
+      "note": "Amendment HB0072SS001 (Standing Committee) - Senate Judiciary Committee (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/HB0072SS001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "HB0072SS001",
+        "sponsor": "Senate Judiciary Committee"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Fiscal/HB0072.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Digest",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Digest/HB0072.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://wyoleg.gov/Legislation/2025/HB0072",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "wy_enrolled_number": "HEA0048",
+    "chapter": "CH0094",
+    "effective_date": "2025-07-01",
+    "wy_bill_id": 12300
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wy/government",
+    "name": "Wyoming",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wy"
+  }
+}

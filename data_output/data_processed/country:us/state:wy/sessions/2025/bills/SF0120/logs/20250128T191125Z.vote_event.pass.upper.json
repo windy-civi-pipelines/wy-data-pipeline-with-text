@@ -1,0 +1,73 @@
+{
+  "identifier": "",
+  "motion_text": "S05 - Agriculture:Recommend Do Pass 5-0-0-0-0",
+  "motion_classification": [],
+  "start_date": "2025-01-28T19:11:25+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "862c00f4-7e06-11f0-9266-b6a14fbcfd2b",
+  "bill_action": null,
+  "bill_identifier": "SF0120",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "CRAGO",
+      "voter_id": "~{\"name\": \"CRAGO\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "IDE",
+      "voter_id": "~{\"name\": \"IDE\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "MCKEOWN",
+      "voter_id": "~{\"name\": \"MCKEOWN\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "TALIAFERRO PEARSON",
+      "voter_id": "~{\"name\": \"TALIAFERRO PEARSON\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "FRENCH",
+      "voter_id": "~{\"name\": \"FRENCH\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://lso.wyoleg.gov/Legislation/2025/SF0120",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

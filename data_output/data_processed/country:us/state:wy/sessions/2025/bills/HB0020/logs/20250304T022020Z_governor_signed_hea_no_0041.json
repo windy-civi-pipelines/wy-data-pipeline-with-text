@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Signed HEA No. 0041",
+    "date": "2025-03-04T02:20:20+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0020"
+}

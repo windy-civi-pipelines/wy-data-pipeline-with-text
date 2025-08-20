@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H Received for Introduction",
+    "date": "2025-01-21T15:43:51+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJ0005"
+}

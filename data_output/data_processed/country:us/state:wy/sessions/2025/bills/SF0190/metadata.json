@@ -1,0 +1,377 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SF0190",
+  "title": "Election transparency.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to elections; requiring paper ballots as specified; providing for the automatic tabulation of paper ballots; providing a process for the certain recounts to be conducted by hand counting the votes; requiring proof of United States citizenship to register to vote as specified; revising the time that absentee polling places may be open; revising dates of the primary election and the county and state canvass to allow time for hand counting as specified; creating an account; making conforming amendments; repealing conflicting provisions; providing an appropriation; and providing for an effective date."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "H COW:H Did not consider for COW",
+      "date": "2025-03-01T02:42:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Placed on General File",
+      "date": "2025-02-28T17:52:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "H02 - Appropriations:Recommend Do Pass 4-3-0-0-0",
+      "date": "2025-02-28T17:52:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": ":Rerefer to H02 - Appropriations",
+      "date": "2025-02-27T23:06:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0",
+      "date": "2025-02-27T22:32:31+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Introduced and Referred to H07 - Corporations",
+      "date": "2025-02-13T17:44:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "H Received for Introduction",
+      "date": "2025-02-13T15:22:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S 3rd Reading:Passed 29-1-1-0-0",
+      "date": "2025-02-12T18:54:03+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S 2nd Reading:Passed",
+      "date": "2025-02-11T18:18:01+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S COW:Passed",
+      "date": "2025-02-10T23:14:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Placed on General File",
+      "date": "2025-02-08T00:25:40+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0",
+      "date": "2025-02-08T00:25:32+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Introduced and Referred to S07 - Corporations",
+      "date": "2025-01-29T22:09:03+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "S Received for Introduction",
+      "date": "2025-01-28T15:07:02+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Bill Number Assigned",
+      "date": "2025-01-27T18:39:55+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Biteman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Biteman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salazar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Salazar\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Introduced/SF0190.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SF0190HS001 (Standing Committee)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0190HS001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0190HS001",
+        "sponsor": "House Corporations, Elections & Political Subdivis"
+      }
+    },
+    {
+      "note": "Amendment SF0190HW001 (Committee of the Whole)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0190HW001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0190HW001",
+        "sponsor": "Representative Wasserburger"
+      }
+    },
+    {
+      "note": "Amendment SF0190S2001 (2nd reading) - Senator Boner (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0190S2001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0190S2001",
+        "sponsor": "Senator Boner"
+      }
+    },
+    {
+      "note": "Amendment SF0190S2002 (2nd reading) - Senator Boner (Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0190S2002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0190S2002",
+        "sponsor": "Senator Boner"
+      }
+    },
+    {
+      "note": "Amendment SF0190S3001 (3rd reading) - Senator Gierau (Failed)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0190S3001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0190S3001",
+        "sponsor": "Senator Gierau"
+      }
+    },
+    {
+      "note": "Amendment SF0190SS001 (Standing Committee) - Senate Corporations, Elections & Political Subdivi (Divided)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0190SS001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0190SS001",
+        "sponsor": "Senate Corporations, Elections & Political Subdivi"
+      }
+    },
+    {
+      "note": "Amendment SF0190SS001.01 (Standing Committee) - Senate Corporations, Elections & Political Subdivi (Corrected, Adopted)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0190SS001.01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0190SS001.01",
+        "sponsor": "Senate Corporations, Elections & Political Subdivi"
+      }
+    },
+    {
+      "note": "Amendment SF0190SS001.02 (Standing Committee) - Senate Corporations, Elections & Political Subdivi (Corrected, Failed)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0190SS001.02.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0190SS001.02",
+        "sponsor": "Senate Corporations, Elections & Political Subdivi"
+      }
+    },
+    {
+      "note": "Amendment SF0190SW001 (Committee of the Whole) - Senator Steinmetz (Failed)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0190SW001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0190SW001",
+        "sponsor": "Senator Steinmetz"
+      }
+    },
+    {
+      "note": "Amendment SF0190SW002 (Committee of the Whole) - Senator Case (Withdrawn)",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Amends/SF0190SW002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "",
+      "extras": {
+        "amendmentNumber": "SF0190SW002",
+        "sponsor": "Senator Case"
+      }
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Fiscal/SF0190.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Digest",
+      "links": [
+        {
+          "url": "https://wyoleg.gov/2025/Digest/SF0190.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://wyoleg.gov/Legislation/2025/SF0190",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "effective_date": "2025-03-01",
+    "wy_bill_id": 12484
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:wy/government",
+    "name": "Wyoming",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:wy"
+  }
+}

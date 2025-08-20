@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Signed SEA No. 0086",
+    "date": "2025-03-19T16:23:28+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0167"
+}

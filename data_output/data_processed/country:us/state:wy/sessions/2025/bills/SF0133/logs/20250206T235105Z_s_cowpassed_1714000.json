@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S COW:Passed 17-14-0-0-0",
+    "date": "2025-02-06T23:51:05+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0133"
+}

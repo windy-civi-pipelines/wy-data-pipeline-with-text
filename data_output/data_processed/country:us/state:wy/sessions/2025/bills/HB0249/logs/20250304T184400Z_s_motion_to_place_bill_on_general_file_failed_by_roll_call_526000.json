@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "S: Motion To Place Bill on General File Failed by Roll Call 5-26-0-0-0",
+    "date": "2025-03-04T18:44:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB0249"
+}

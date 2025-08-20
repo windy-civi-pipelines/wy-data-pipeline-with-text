@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H05 - Agriculture:Recommend Amend and Do Pass 9-0-0-0-0",
+    "date": "2025-02-05T01:48:31+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0117"
+}

@@ -1,0 +1,73 @@
+{
+  "identifier": "",
+  "motion_text": "S03 - Revenue:Do Pass Failed 1-4-0-0-0",
+  "motion_classification": [],
+  "start_date": "2025-02-05T22:17:14+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "8a89dcde-7e06-11f0-9266-b6a14fbcfd2b",
+  "bill_action": null,
+  "bill_identifier": "SF0194",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "PAPPAS",
+      "voter_id": "~{\"name\": \"PAPPAS\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "CASE",
+      "voter_id": "~{\"name\": \"CASE\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "FRENCH",
+      "voter_id": "~{\"name\": \"FRENCH\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "IDE",
+      "voter_id": "~{\"name\": \"IDE\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "MCKEOWN",
+      "voter_id": "~{\"name\": \"MCKEOWN\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 1
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://lso.wyoleg.gov/Legislation/2025/SF0194",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

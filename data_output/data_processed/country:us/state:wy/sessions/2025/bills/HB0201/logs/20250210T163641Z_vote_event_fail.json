@@ -1,0 +1,97 @@
+{
+  "identifier": "",
+  "motion_text": "H09 - Minerals:Do Pass Failed 1-7-1-0-0",
+  "motion_classification": [],
+  "start_date": "2025-02-10T16:36:41+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "96f7baea-7e06-11f0-9266-b6a14fbcfd2b",
+  "bill_action": null,
+  "bill_identifier": "HB0201",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "CAMPBELL",
+      "voter_id": "~{\"name\": \"CAMPBELL\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "KNAPP",
+      "voter_id": "~{\"name\": \"KNAPP\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "LARSON",
+      "voter_id": "~{\"name\": \"LARSON\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "LAWLEY",
+      "voter_id": "~{\"name\": \"LAWLEY\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "RIGGINS",
+      "voter_id": "~{\"name\": \"RIGGINS\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "SCHMID",
+      "voter_id": "~{\"name\": \"SCHMID\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "TARVER",
+      "voter_id": "~{\"name\": \"TARVER\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "WEBBER",
+      "voter_id": "~{\"name\": \"WEBBER\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "HEINER",
+      "voter_id": "~{\"name\": \"HEINER\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 1
+    },
+    {
+      "option": "no",
+      "value": 7
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://lso.wyoleg.gov/Legislation/2025/HB0201",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

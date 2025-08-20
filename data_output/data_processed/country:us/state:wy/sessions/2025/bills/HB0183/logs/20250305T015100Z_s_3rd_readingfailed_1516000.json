@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S 3rd Reading:Failed 15-16-0-0-0",
+    "date": "2025-03-05T01:51:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0183"
+}

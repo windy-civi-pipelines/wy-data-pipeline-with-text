@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Signed HEA No. 0078",
+    "date": "2025-03-12T15:59:47+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0246"
+}

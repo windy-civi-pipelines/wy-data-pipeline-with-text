@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "S Introduced and Referred to S04 - Education",
+    "date": "2025-02-10T19:25:08+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0316"
+}

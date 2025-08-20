@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Vetoed HEA No. 0047",
+    "date": "2025-03-04T16:49:42+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0094"
+}

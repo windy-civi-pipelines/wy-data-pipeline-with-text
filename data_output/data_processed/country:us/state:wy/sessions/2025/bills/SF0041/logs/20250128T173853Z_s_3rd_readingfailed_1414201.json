@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S 3rd Reading:Failed 14-14-2-0-1",
+    "date": "2025-01-28T17:38:53+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0041"
+}

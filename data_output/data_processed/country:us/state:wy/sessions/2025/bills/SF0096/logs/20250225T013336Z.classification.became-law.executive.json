@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Assigned Chapter Number 42",
+    "date": "2025-02-25T01:33:36+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0096"
+}

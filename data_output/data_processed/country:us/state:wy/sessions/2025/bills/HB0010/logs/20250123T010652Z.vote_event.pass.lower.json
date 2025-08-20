@@ -1,0 +1,97 @@
+{
+  "identifier": "",
+  "motion_text": "H09 - Minerals:Recommend Amend and Do Pass 8-1-0-0-0",
+  "motion_classification": [],
+  "start_date": "2025-01-23T01:06:52+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025",
+  "bill": "8c2bf248-7e06-11f0-9266-b6a14fbcfd2b",
+  "bill_action": null,
+  "bill_identifier": "HB0010",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "CAMPBELL",
+      "voter_id": "~{\"name\": \"CAMPBELL\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "KNAPP",
+      "voter_id": "~{\"name\": \"KNAPP\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "LARSON",
+      "voter_id": "~{\"name\": \"LARSON\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "RIGGINS",
+      "voter_id": "~{\"name\": \"RIGGINS\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "SCHMID",
+      "voter_id": "~{\"name\": \"SCHMID\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "TARVER",
+      "voter_id": "~{\"name\": \"TARVER\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "WEBBER",
+      "voter_id": "~{\"name\": \"WEBBER\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "HEINER",
+      "voter_id": "~{\"name\": \"HEINER\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "LAWLEY",
+      "voter_id": "~{\"name\": \"LAWLEY\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://lso.wyoleg.gov/Legislation/2025/HB0010",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

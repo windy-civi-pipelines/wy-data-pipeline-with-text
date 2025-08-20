@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S10 - Labor:Rerefer to S02 - Appropriations",
+    "date": "2025-02-06T00:38:21+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0175"
+}

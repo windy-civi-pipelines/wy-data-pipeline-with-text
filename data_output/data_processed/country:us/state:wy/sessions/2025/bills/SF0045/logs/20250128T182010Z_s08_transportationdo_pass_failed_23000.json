@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S08 - Transportation:Do Pass Failed 2-3-0-0-0",
+    "date": "2025-01-28T18:20:10+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0045"
+}

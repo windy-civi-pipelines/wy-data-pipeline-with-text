@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H10 - Labor:Recommend Amend and Do Pass 8-0-1-0-0",
+    "date": "2025-02-14T18:02:13+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0075"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S COW:Failed 4-27-0-0-0",
+    "date": "2025-02-26T00:24:50+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0235"
+}

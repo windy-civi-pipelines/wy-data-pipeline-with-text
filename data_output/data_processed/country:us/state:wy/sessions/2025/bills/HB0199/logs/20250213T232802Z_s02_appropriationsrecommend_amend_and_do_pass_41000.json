@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S02 - Appropriations:Recommend Amend and Do Pass 4-1-0-0-0",
+    "date": "2025-02-13T23:28:02+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0199"
+}

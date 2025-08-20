@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "H No report prior to CoW Cutoff",
+    "date": "2025-02-10T16:45:16+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB0029"
+}

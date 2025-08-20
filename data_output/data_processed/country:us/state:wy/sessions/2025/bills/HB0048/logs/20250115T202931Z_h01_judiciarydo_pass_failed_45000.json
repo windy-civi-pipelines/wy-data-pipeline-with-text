@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H01 - Judiciary:Do Pass Failed 4-5-0-0-0",
+    "date": "2025-01-15T20:29:31+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0048"
+}

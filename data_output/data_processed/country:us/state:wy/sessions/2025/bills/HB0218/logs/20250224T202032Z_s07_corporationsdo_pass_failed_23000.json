@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S07 - Corporations:Do Pass Failed 2-3-0-0-0",
+    "date": "2025-02-24T20:20:32+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0218"
+}

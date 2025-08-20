@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "S 3rd Reading:Passed 19-8-4-0-0",
+    "date": "2025-02-06T00:22:33+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0143"
+}

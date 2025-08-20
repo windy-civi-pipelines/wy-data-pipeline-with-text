@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate:Pursuant to JR 14-1 (g) referred directly to JCC",
+    "date": "2025-02-25T23:33:56+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB0001"
+}

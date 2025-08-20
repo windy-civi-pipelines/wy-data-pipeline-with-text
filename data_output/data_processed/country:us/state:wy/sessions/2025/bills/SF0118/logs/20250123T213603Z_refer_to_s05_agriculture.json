@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": ":Refer to S05 - Agriculture",
+    "date": "2025-01-23T21:36:03+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF0118"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Assigned Number HEJR No. 0001",
+    "date": "2025-02-21T16:24:04+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HJ0001"
+}

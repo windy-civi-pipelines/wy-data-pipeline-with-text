@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S Did not Consider for Introduction",
+    "date": "2025-02-28T15:46:10+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "deferral"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0085"
+}

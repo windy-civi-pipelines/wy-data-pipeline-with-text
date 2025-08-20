@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": ":Rerefer to H02 - Appropriations",
+    "date": "2025-02-07T02:27:13+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0341"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S04 - Education:Recommend Do Pass 3-2-0-0-0",
+    "date": "2025-01-31T21:12:58+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0162"
+}

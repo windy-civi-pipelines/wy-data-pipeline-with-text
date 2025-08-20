@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "H 3rd Reading:Passed 56-5-1-0-0",
+    "date": "2025-01-30T19:18:59+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0258"
+}

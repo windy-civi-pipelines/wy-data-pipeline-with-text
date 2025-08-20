@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H02 - Appropriations:Do Pass Failed 2-5-0-0-0",
+    "date": "2025-01-30T00:11:10+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0034"
+}

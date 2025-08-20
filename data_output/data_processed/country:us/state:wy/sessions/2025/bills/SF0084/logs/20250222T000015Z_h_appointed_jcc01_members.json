@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "H Appointed JCC01 Members",
+    "date": "2025-02-22T00:00:15+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF0084"
+}

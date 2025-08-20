@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H10 - Labor:Do Pass Failed 4-4-1-0-0",
+    "date": "2025-02-27T21:39:41+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0157"
+}

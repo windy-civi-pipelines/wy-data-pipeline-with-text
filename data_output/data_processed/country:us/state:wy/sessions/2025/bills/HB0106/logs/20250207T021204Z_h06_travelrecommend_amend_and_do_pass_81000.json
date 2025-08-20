@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H06 - Travel:Recommend Amend and Do Pass 8-1-0-0-0",
+    "date": "2025-02-07T02:12:04+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0106"
+}

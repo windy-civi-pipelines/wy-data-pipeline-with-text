@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "H Introduced and Referred to H08 - Transportation",
+    "date": "2025-02-13T17:49:30+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0102"
+}

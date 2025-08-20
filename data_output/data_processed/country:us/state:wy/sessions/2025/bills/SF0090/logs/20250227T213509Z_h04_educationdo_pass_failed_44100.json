@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H04 - Education:Do Pass Failed 4-4-1-0-0",
+    "date": "2025-02-27T21:35:09+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0090"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "S Concur:Passed 20-8-1-0-2",
+    "date": "2025-02-18T22:40:09+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF0042"
+}

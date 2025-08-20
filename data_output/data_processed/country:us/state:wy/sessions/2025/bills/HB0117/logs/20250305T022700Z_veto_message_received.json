@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Veto Message Received",
+    "date": "2025-03-05T02:27:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0117"
+}

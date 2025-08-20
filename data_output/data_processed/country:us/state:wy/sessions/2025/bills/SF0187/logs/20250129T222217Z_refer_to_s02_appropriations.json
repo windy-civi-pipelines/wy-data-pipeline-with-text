@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": ":Refer to S02 - Appropriations",
+    "date": "2025-01-29T22:22:17+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF0187"
+}

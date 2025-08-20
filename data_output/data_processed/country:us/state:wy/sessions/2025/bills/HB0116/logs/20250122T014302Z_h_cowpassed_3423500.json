@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H COW:Passed 34-23-5-0-0",
+    "date": "2025-01-22T01:43:02+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0116"
+}

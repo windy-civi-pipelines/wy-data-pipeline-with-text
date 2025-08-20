@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "S Introduced and Referred to S09 - Minerals",
+    "date": "2025-02-25T17:47:28+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0137"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S05 - Agriculture:Do Pass Failed 2-3-0-0-0",
+    "date": "2025-02-04T20:13:16+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0192"
+}

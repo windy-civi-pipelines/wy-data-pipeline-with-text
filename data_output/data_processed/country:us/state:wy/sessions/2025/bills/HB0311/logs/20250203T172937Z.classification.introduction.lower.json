@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "H Introduced and Referred to H03 - Revenue",
+    "date": "2025-02-03T17:29:37+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0311"
+}

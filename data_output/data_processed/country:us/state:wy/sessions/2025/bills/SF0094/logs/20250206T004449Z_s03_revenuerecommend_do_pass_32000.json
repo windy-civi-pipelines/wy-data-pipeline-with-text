@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S03 - Revenue:Recommend Do Pass 3-2-0-0-0",
+    "date": "2025-02-06T00:44:49+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0094"
+}

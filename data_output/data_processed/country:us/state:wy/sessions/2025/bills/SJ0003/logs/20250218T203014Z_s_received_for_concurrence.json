@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "S Received for Concurrence",
+    "date": "2025-02-18T20:30:14+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SJ0003"
+}

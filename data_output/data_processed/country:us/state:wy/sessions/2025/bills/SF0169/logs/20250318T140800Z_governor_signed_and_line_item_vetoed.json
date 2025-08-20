@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Governor Signed and Line Item Vetoed",
+    "date": "2025-03-18T14:08:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-signature",
+      "executive-veto-line-item"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0169"
+}

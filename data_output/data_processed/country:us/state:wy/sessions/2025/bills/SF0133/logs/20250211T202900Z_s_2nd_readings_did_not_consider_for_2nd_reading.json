@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "S 2nd Reading:S Did not consider for 2nd Reading",
+    "date": "2025-02-11T20:29:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF0133"
+}

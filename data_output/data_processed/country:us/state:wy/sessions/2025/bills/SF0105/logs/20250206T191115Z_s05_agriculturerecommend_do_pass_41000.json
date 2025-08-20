@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S05 - Agriculture:Recommend Do Pass 4-1-0-0-0",
+    "date": "2025-02-06T19:11:15+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0105"
+}

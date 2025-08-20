@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "S Introduced and Referred to S05 - Agriculture",
+    "date": "2025-02-10T19:58:30+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJ0002"
+}

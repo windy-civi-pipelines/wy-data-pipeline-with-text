@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H04 - Education:Recommend Do Pass 6-3-0-0-0",
+    "date": "2025-01-28T00:16:39+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB0202"
+}

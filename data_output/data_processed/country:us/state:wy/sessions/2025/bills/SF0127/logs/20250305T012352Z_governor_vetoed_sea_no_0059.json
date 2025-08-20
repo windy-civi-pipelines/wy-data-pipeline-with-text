@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Vetoed SEA No. 0059",
+    "date": "2025-03-05T01:23:52+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF0127"
+}
