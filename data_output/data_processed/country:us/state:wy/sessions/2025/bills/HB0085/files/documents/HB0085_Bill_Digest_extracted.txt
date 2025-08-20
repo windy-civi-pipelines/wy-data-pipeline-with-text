@@ -1,0 +1,177 @@
+Title: AN ACT relating to pari-mutuel wagering; specifying requirements for permitting
+Official Title: AN ACT relating to pari-mutuel wagering; specifying requirements for permitting
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0085 Local approval for simulcasting.
+Sponsored By: Joint Appropriations Committee
+simulcasting and historic horse racing machines; requiring approval, review and
+objection by a city, town or county for the issuance of a simulcasting permit
+as specified; authorizing conditions and revocation of approval; authorizing
+appeals; amending enforcement requirements; conforming provisions; specifying
+applicability; and providing for an effective date.
+12/30/2024 Bill Number Assigned
+1/2/2025 H Received for Introduction
+1/23/2025 H Introduced and Referred to H06 - Travel
+2/3/2025 H06 - Travel:Recommend Amend and Do Pass 8-0-1-0-0
+ROLL CALL
+Ayes: Representative(s) Byron, Campbell, Connolly, Harshman, Jarvis, Provenza,
+Storer, Wharff
+Excused: Representative Thayer
+Ayes 8 Nays 0 Excused 1 Absent 0 Conflicts 0
+2/3/2025 H Placed on General File
+HB0085HS001/ADOPTED
+Page 1-line 3 After "approval" delete "and" and insert ","; delete
+"consent" and insert "review and objection".
+Page 2-line 2 Delete "and consent" and insert ", review and
+objection".
+Page 3-line 4 Delete "consent" and insert "review and objection".
+Page 3-line 16 Delete "consent" and insert "review and objection".
+Page 4-line 18 Delete "consent" and insert "review and objection".
+Page 5-line 13 After "permit" insert "and the holder of the permit to
+simulcast may, in advance of the designated meeting,
+request a contested case hearing".
+Page 6-line 7 After "including" delete balance of line and insert
+":".
+Page 7-line 20 Delete "that are not cured" and insert "for which
+reasonable steps to cure the issue are not initiated".
+Page 8-line 6 Delete ", or any employee or agent thereof,".
+Page 8-lines 11 through 13 Delete entirely and renumber as necessary.
+Page 8-line 15 Delete "(D)" and insert "(C)".
+Page 9-line 2 Delete "consent" and insert "review and objection".
+Page 10-after line 4 Insert:
+"(m) Subject to local authority approval of a transfer of location, the
+transfer of an existing simulcasting permit shall be treated as a renewal of
+approval for a simulcasting permit.".
+Page 10-line 6 After "Section 2." delete balance of line and insert
+"W.S. 11-25-102(a)(vii)(intro) and by".
+Page 10-line 7 Delete "through (xxv)" and insert "and (xxiv)".
+Page 10-line 8 After "11-25-201(a)" delete balance of line.
+Page 10-line 9 Delete "(iv)".
+Page 10-lines 15 through 22 Delete entirely.
+Page 11-lines 1 through 7 Delete entirely.
+Page 11-lines 15 through 21 Delete entirely and renumber as necessary.
+Page 12-line 1 Delete "(xxiv)" and insert "(xxiii)".
+Page 12-line 6 Delete "(xxv)" and insert "(xxiv)".
+Page 14-lines 8 through 22 Delete entirely.
+Page 15-lines 1 through 14 Delete entirely.
+Page 15-lines 21 and 22 Delete entirely.
+Page 16-lines 1 through 16 Delete entirely and insert:
+"(a) Notwithstanding W.S. 11-25-210, permitted simulcasting facilities
+as of the effective date of this act shall be authorized to continue operations
+until June 30, 2026, subject to the conditions of their existing approvals and
+permits.
+(b) On and after July 1, 2026, all simulcasting facilities that were
+permitted as of the effective date of this act shall be subject to the
+requirements of W.S. 11-25-210 and a city, town or county may deny or refuse to
+provide its approval of such simulcasting facilities pursuant to the
+requirements of W.S. 11-25-210 only upon a showing of good cause, as specified
+in W.S. 11-25-210(g)(viii).". BYRON, CHAIRMAN
+2/4/2025 H COW:Passed
+2/5/2025 H 2nd Reading:Passed
+2/6/2025 H 3rd Reading:Passed 61-0-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+Lien, Locke, Lucas, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey,
+Provenza, Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock,
+Styvar, Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams,
+Winter, Wylie, Yin
+Excused: Representative Riggins
+Ayes 61 Nays 0 Excused 1 Absent 0 Conflicts 0
+2/7/2025 S Received for Introduction
+2/28/2025 S Did not Consider for Introduction
+
+
+================================================================================
+
+Raw Text:
+HB0085 Local approval for simulcasting.
+Sponsored By: Joint Appropriations Committee
+AN ACT relating to pari-mutuel wagering; specifying requirements for permitting
+simulcasting and historic horse racing machines; requiring approval, review and
+objection by a city, town or county for the issuance of a simulcasting permit
+as specified; authorizing conditions and revocation of approval; authorizing
+appeals; amending enforcement requirements; conforming provisions; specifying
+applicability; and providing for an effective date.
+12/30/2024 Bill Number Assigned
+1/2/2025 H Received for Introduction
+1/23/2025 H Introduced and Referred to H06 - Travel
+2/3/2025 H06 - Travel:Recommend Amend and Do Pass 8-0-1-0-0
+ROLL CALL
+Ayes: Representative(s) Byron, Campbell, Connolly, Harshman, Jarvis, Provenza,
+Storer, Wharff
+Excused: Representative Thayer
+Ayes 8 Nays 0 Excused 1 Absent 0 Conflicts 0
+2/3/2025 H Placed on General File
+HB0085HS001/ADOPTED
+Page 1-line 3 After "approval" delete "and" and insert ","; delete
+"consent" and insert "review and objection".
+Page 2-line 2 Delete "and consent" and insert ", review and
+objection".
+Page 3-line 4 Delete "consent" and insert "review and objection".
+Page 3-line 16 Delete "consent" and insert "review and objection".
+Page 4-line 18 Delete "consent" and insert "review and objection".
+Page 5-line 13 After "permit" insert "and the holder of the permit to
+simulcast may, in advance of the designated meeting,
+request a contested case hearing".
+Page 6-line 7 After "including" delete balance of line and insert
+":".
+Page 7-line 20 Delete "that are not cured" and insert "for which
+reasonable steps to cure the issue are not initiated".
+Page 8-line 6 Delete ", or any employee or agent thereof,".
+Page 8-lines 11 through 13 Delete entirely and renumber as necessary.
+Page 8-line 15 Delete "(D)" and insert "(C)".
+Page 9-line 2 Delete "consent" and insert "review and objection".
+Page 10-after line 4 Insert:
+
+"(m) Subject to local authority approval of a transfer of location, the
+transfer of an existing simulcasting permit shall be treated as a renewal of
+approval for a simulcasting permit.".
+Page 10-line 6 After "Section 2." delete balance of line and insert
+"W.S. 11-25-102(a)(vii)(intro) and by".
+Page 10-line 7 Delete "through (xxv)" and insert "and (xxiv)".
+Page 10-line 8 After "11-25-201(a)" delete balance of line.
+Page 10-line 9 Delete "(iv)".
+Page 10-lines 15 through 22 Delete entirely.
+Page 11-lines 1 through 7 Delete entirely.
+Page 11-lines 15 through 21 Delete entirely and renumber as necessary.
+Page 12-line 1 Delete "(xxiv)" and insert "(xxiii)".
+Page 12-line 6 Delete "(xxv)" and insert "(xxiv)".
+Page 14-lines 8 through 22 Delete entirely.
+Page 15-lines 1 through 14 Delete entirely.
+Page 15-lines 21 and 22 Delete entirely.
+Page 16-lines 1 through 16 Delete entirely and insert:
+"(a) Notwithstanding W.S. 11-25-210, permitted simulcasting facilities
+as of the effective date of this act shall be authorized to continue operations
+until June 30, 2026, subject to the conditions of their existing approvals and
+permits.
+(b) On and after July 1, 2026, all simulcasting facilities that were
+permitted as of the effective date of this act shall be subject to the
+requirements of W.S. 11-25-210 and a city, town or county may deny or refuse to
+provide its approval of such simulcasting facilities pursuant to the
+requirements of W.S. 11-25-210 only upon a showing of good cause, as specified
+in W.S. 11-25-210(g)(viii).". BYRON, CHAIRMAN
+2/4/2025 H COW:Passed
+2/5/2025 H 2nd Reading:Passed
+2/6/2025 H 3rd Reading:Passed 61-0-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+Lien, Locke, Lucas, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey,
+Provenza, Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock,
+Styvar, Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams,
+Winter, Wylie, Yin
+
+Excused: Representative Riggins
+Ayes 61 Nays 0 Excused 1 Absent 0 Conflicts 0
+2/7/2025 S Received for Introduction
+2/28/2025 S Did not Consider for Introduction

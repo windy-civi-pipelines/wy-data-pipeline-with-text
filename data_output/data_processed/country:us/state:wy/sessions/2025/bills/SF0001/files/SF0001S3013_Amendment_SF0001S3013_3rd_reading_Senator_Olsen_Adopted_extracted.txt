@@ -1,0 +1,216 @@
+Title: 1 Delete the eleventh Driskill, et al. second reading amendment
+Official Title: 1 Delete the eleventh Driskill, et al. second reading amendment
+Number of Sections: 4
+Source: versions - Amendment SF0001S3013 (3rd reading) - Senator Olsen (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0001S3013
+[BUDGET(s) AFFECTED]
+
+Section 2:
+Section Under Consideration:
+
+Section 3:
+Section 206. DEPARTMENT OF EDUCATION
+(Accountability & Commun.)
+Other Budget(s) Affected:
+
+Section 4:
+Section 001. OFFICE OF THE GOVERNOR
+* * * * * * * * * *
+2 (SF0001S2022/A) entirely and further amend as
+3 follows:
+4
+5 Page 4-line 21 After "205" insert ", 206".
+6
+7 Page 11-line 23 After "expended" insert "by the office of the
+8 governor".
+9
+10 Page 65-after line 14 Insert:
+11
+12 "Section 206. DEPARTMENT OF EDUCATION 1., 5.
+13
+14 PROGRAM
+15
+16 State Board of Education 204,148 424,314 S5 628,462
+17
+18 Leadership, Finance & IT 2., 3. 10,352,430 16,050 5,446,240 S5
+19 200,458 SR 16,015,178
+20 Accountability & Commun. 7. 903,811 45,909,620 10,306,414 S5
+21 10,508,116 S5
+22 220,494 SR
+23 1,000 T0 57,341,339
+24 57,543,041
+25 School Support 4., 5., 6. 3,858,639 304,951,075 1,897,438 S5
+26 5,738,155 SR
+27 468,495 T0 316,913,802
+28 TOTALS 15,319,028 350,876,745 24,703,008 390,898,781
+29 24,904,710 391,100,483
+30
+31 AUTHORIZED EMPLOYEES
+32 Full Time 2., 6., 7. 113 114
+33 Part Time 2
+34 TOTAL 115 115
+35
+36 1. The department of education shall maintain the total amount of direct
+37 expenditures for and grants to local school districts in support of applied
+38 agriculture and farming programs during the 2025-2026 fiscal biennium as
+39 compared to the 2023-2024 fiscal biennium. It is the intent of the legislature
+1
+1 that any expenditures by the department of education pursuant to this footnote
+2 be documented and included in the department of education's standard budget for
+3 the immediately succeeding fiscal biennium.
+4
+5 2. Of this general fund appropriation, two hundred sixty thousand dollars
+6 ($260,000.00) is appropriated, and of these authorized employees, one (1) full-
+7 time position is authorized for increased staffing in the finance unit.
+8
+9 3. Of this general fund appropriation, thirty-three thousand four hundred
+10 seventy-six dollars ($33,476.00) is appropriated for increased compensation and
+11 employer paid benefits for two (2) positions within the finance unit.
+12
+13 4. Of this general fund appropriation, one hundred thousand dollars
+14 ($100,000.00) is appropriated for the advancement of civics education through
+15 support of the Wyoming boys' state and Wyoming girls' state programs in the
+16 amount of twenty-five thousand dollars ($25,000.00) annually to each program.
+17 It is the intent of the legislature that this appropriation be included in the
+18 department of education's standard budget for the immediately succeeding fiscal
+19 biennium.
+20
+21 5. Of this general fund appropriation, fifty thousand dollars ($50,000.00) is
+22 appropriated to pay for processing costs for Wyoming poultry, lamb, pork, beef
+23 or bison donated to a school district to be used in school meals. Expenditures
+24 authorized in this footnote shall be made only if an equal amount of funding
+25 has been contributed by a local school district for the processing costs of the
+26 donated Wyoming poultry, lamb, pork, beef or bison. The department shall
+27 endeavor to provide funding to as many school districts as possible under this
+28 footnote and participation in the federal school lunch program shall not be
+29 used as a limiting criterion for the distribution of these funds. To the extent
+30 all funds from this appropriation are expended, the department of education
+31 shall identify other funds appropriated in this section for continuation of the
+32 expenditures under this footnote.
+33
+34 6. Of this general fund appropriation, four hundred ninety-six thousand
+35 eight dollars ($496,008.00) is appropriated, and of these authorized
+36 employees, two (2) full-time positions are authorized for outreach for the
+37 deaf and hard of hearing unit.
+38
+39 7. Of this other funds appropriation, two hundred one thousand seven hundred
+40 two dollars ($201,702.00)S5 is appropriated, and of these authorized employees,
+41 one (1) full-time position is authorized, for the Wyoming charter school
+42 authorizing board. It is the intent of the legislature that this appropriation
+43 be included in the standard budget for the department of education for the
+44 immediately succeeding fiscal biennium. This appropriation shall not be
+45 transferred or expended for any other purpose.".
+46
+47 To the extent required by this amendment: adjust totals; and
+48 renumber as necessary. OLSEN, DRISKILL
+49
+2
+
+
+================================================================================
+
+Raw Text:
+SF0001S3013
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 206. DEPARTMENT OF EDUCATION
+(Accountability & Commun.)
+Other Budget(s) Affected:
+Section 001. OFFICE OF THE GOVERNOR
+* * * * * * * * * *
+1 Delete the eleventh Driskill, et al. second reading amendment
+2 (SF0001S2022/A) entirely and further amend as
+3 follows:
+4
+5 Page 4-line 21 After "205" insert ", 206".
+6
+7 Page 11-line 23 After "expended" insert "by the office of the
+8 governor".
+9
+10 Page 65-after line 14 Insert:
+11
+12 "Section 206. DEPARTMENT OF EDUCATION 1., 5.
+13
+14 PROGRAM
+15
+16 State Board of Education 204,148 424,314 S5 628,462
+17
+18 Leadership, Finance & IT 2., 3. 10,352,430 16,050 5,446,240 S5
+19 200,458 SR 16,015,178
+20 Accountability & Commun. 7. 903,811 45,909,620 10,306,414 S5
+21 10,508,116 S5
+22 220,494 SR
+23 1,000 T0 57,341,339
+24 57,543,041
+25 School Support 4., 5., 6. 3,858,639 304,951,075 1,897,438 S5
+26 5,738,155 SR
+27 468,495 T0 316,913,802
+28 TOTALS 15,319,028 350,876,745 24,703,008 390,898,781
+29 24,904,710 391,100,483
+30
+31 AUTHORIZED EMPLOYEES
+32 Full Time 2., 6., 7. 113 114
+33 Part Time 2
+34 TOTAL 115 115
+35
+36 1. The department of education shall maintain the total amount of direct
+37 expenditures for and grants to local school districts in support of applied
+38 agriculture and farming programs during the 2025-2026 fiscal biennium as
+39 compared to the 2023-2024 fiscal biennium. It is the intent of the legislature
+1
+
+1 that any expenditures by the department of education pursuant to this footnote
+2 be documented and included in the department of education's standard budget for
+3 the immediately succeeding fiscal biennium.
+4
+5 2. Of this general fund appropriation, two hundred sixty thousand dollars
+6 ($260,000.00) is appropriated, and of these authorized employees, one (1) full-
+7 time position is authorized for increased staffing in the finance unit.
+8
+9 3. Of this general fund appropriation, thirty-three thousand four hundred
+10 seventy-six dollars ($33,476.00) is appropriated for increased compensation and
+11 employer paid benefits for two (2) positions within the finance unit.
+12
+13 4. Of this general fund appropriation, one hundred thousand dollars
+14 ($100,000.00) is appropriated for the advancement of civics education through
+15 support of the Wyoming boys' state and Wyoming girls' state programs in the
+16 amount of twenty-five thousand dollars ($25,000.00) annually to each program.
+17 It is the intent of the legislature that this appropriation be included in the
+18 department of education's standard budget for the immediately succeeding fiscal
+19 biennium.
+20
+21 5. Of this general fund appropriation, fifty thousand dollars ($50,000.00) is
+22 appropriated to pay for processing costs for Wyoming poultry, lamb, pork, beef
+23 or bison donated to a school district to be used in school meals. Expenditures
+24 authorized in this footnote shall be made only if an equal amount of funding
+25 has been contributed by a local school district for the processing costs of the
+26 donated Wyoming poultry, lamb, pork, beef or bison. The department shall
+27 endeavor to provide funding to as many school districts as possible under this
+28 footnote and participation in the federal school lunch program shall not be
+29 used as a limiting criterion for the distribution of these funds. To the extent
+30 all funds from this appropriation are expended, the department of education
+31 shall identify other funds appropriated in this section for continuation of the
+32 expenditures under this footnote.
+33
+34 6. Of this general fund appropriation, four hundred ninety-six thousand
+35 eight dollars ($496,008.00) is appropriated, and of these authorized
+36 employees, two (2) full-time positions are authorized for outreach for the
+37 deaf and hard of hearing unit.
+38
+39 7. Of this other funds appropriation, two hundred one thousand seven hundred
+40 two dollars ($201,702.00)S5 is appropriated, and of these authorized employees,
+41 one (1) full-time position is authorized, for the Wyoming charter school
+42 authorizing board. It is the intent of the legislature that this appropriation
+43 be included in the standard budget for the department of education for the
+44 immediately succeeding fiscal biennium. This appropriation shall not be
+45 transferred or expended for any other purpose.".
+46
+47 To the extent required by this amendment: adjust totals; and
+48 renumber as necessary. OLSEN, DRISKILL
+49
+2

@@ -1,0 +1,41 @@
+Title: 1 Page 4-line 6 After "(v)" insert "Through fiscal year
+Official Title: 1 Page 4-line 6 After "(v)" insert "Through fiscal year
+Number of Sections: 1
+Source: versions - Amendment HB0271H2001 (2nd reading) - Representative Harshman (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0271H2001
+2 2026,"; reinsert all stricken language; delete
+3 all new language.
+4
+5 Page 4-line 7 Delete all new language.
+6
+7 Page 4-line 9 After "year." insert "Beginning with fiscal
+8 year 2027, the percentage shall be reduced by
+9 five hundredths percent (0.05%) each fiscal
+10 year, for five (5) years, and thereafter it
+11 shall be an amount equal to four and seventy-
+12 five hundredths percent (4.75%).".HARSHMAN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0271H2001
+1 Page 4-line 6 After "(v)" insert "Through fiscal year
+2 2026,"; reinsert all stricken language; delete
+3 all new language.
+4
+5 Page 4-line 7 Delete all new language.
+6
+7 Page 4-line 9 After "year." insert "Beginning with fiscal
+8 year 2027, the percentage shall be reduced by
+9 five hundredths percent (0.05%) each fiscal
+10 year, for five (5) years, and thereafter it
+11 shall be an amount equal to four and seventy-
+12 five hundredths percent (4.75%).".HARSHMAN
+1

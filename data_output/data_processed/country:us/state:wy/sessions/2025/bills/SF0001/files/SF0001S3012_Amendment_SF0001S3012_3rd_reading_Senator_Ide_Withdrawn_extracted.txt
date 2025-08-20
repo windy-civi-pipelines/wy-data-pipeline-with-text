@@ -1,0 +1,136 @@
+Title: 6 "Section 091. WYOMING STABLE TOKEN COMMISSION 1. 4.
+Official Title: 6 "Section 091. WYOMING STABLE TOKEN COMMISSION 1. 4.
+Number of Sections: 4
+Source: versions - Amendment SF0001S3012 (3rd reading) - Senator Ide (Withdrawn)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0001S3012
+[BUDGET(s) AFFECTED]
+
+Section 2:
+Section Under Consideration:
+
+Section 3:
+Section 091. WYOMING STABLE TOKEN COMMISSION
+(Administration)
+1 Other Budget(s) Affected:
+
+Section 4:
+Section 300. [BUDGET BALANCERS - TRANSFERS]
+* * * * * * * * * *
+2 Page 4-line 21 After "085," insert "091,".
+3
+4 Page 57-after line 9 Insert:
+5
+7 PROGRAM
+8 Administration 2., 3. 5,800,000 S0 5,800,000
+9 TOTALS 0 0 5,800,000 5,800,000
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 0
+13 Part Time 0
+14 TOTAL 0
+15
+16 1. It is the intent of the legislature that the Wyoming stable token
+17 commission's budget exception requests for the immediately succeeding fiscal
+18 biennium be submitted in accordance with W.S. 9-2-1013.
+19
+20 2. Of this other funds appropriation, five million eight hundred thousand
+21 dollars ($5,800,000.00)S0 is appropriated from the Wyoming stable token
+22 administration account. It is the intent of the legislature that this
+23 appropriation not be included in the stable token commission's standard budget
+24 for the immediately succeeding fiscal biennium.
+25
+26 3. the Wyoming stable token commission shall endeavor to contract with Wyoming
+27 domiciled entities when conducting business funded by this appropriation.
+28
+29 4. Of this other funds appropriation, any unobligated, unexpended monies, up to
+30 five million eight hundred thousand dollars ($5,800,000.00)S0 from the Wyoming
+31 stable token administration account shall revert to the general fund on the
+32 effective date of this act.
+33
+34 Page 68-line 1 Delete "300" and insert "300(n) and".
+35
+36 Page 68-after line 11 Insert:
+37
+1
+1 "(n) The state auditor shall transfer five million eight
+2 hundred thousand dollars ($5,800,000.00) from the general fund to
+3 the Wyoming stable token administration account. This transfer
+4 shall be reduced in an amount equal to the amount of the
+5 unobligated, unencumbered fund balance in the Wyoming stable token
+6 administration account on June 30, 2024. The Wyoming stable token
+7 commission shall endeavor to contract with Wyoming domiciled
+8 entities when conducting business funded by the transfer required
+9 by this subsection.".
+10
+11 To the extent required by this amendment: adjust totals; and
+12 renumber as necessary. IDE, BITEMAN, LAURSEN, D, MCKEOWN, SALAZAR
+2
+
+
+================================================================================
+
+Raw Text:
+SF0001S3012
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 091. WYOMING STABLE TOKEN COMMISSION
+(Administration)
+1 Other Budget(s) Affected:
+Section 300. [BUDGET BALANCERS - TRANSFERS]
+* * * * * * * * * *
+2 Page 4-line 21 After "085," insert "091,".
+3
+4 Page 57-after line 9 Insert:
+5
+6 "Section 091. WYOMING STABLE TOKEN COMMISSION 1. 4.
+7 PROGRAM
+8 Administration 2., 3. 5,800,000 S0 5,800,000
+9 TOTALS 0 0 5,800,000 5,800,000
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 0
+13 Part Time 0
+14 TOTAL 0
+15
+16 1. It is the intent of the legislature that the Wyoming stable token
+17 commission's budget exception requests for the immediately succeeding fiscal
+18 biennium be submitted in accordance with W.S. 9-2-1013.
+19
+20 2. Of this other funds appropriation, five million eight hundred thousand
+21 dollars ($5,800,000.00)S0 is appropriated from the Wyoming stable token
+22 administration account. It is the intent of the legislature that this
+23 appropriation not be included in the stable token commission's standard budget
+24 for the immediately succeeding fiscal biennium.
+25
+26 3. the Wyoming stable token commission shall endeavor to contract with Wyoming
+27 domiciled entities when conducting business funded by this appropriation.
+28
+29 4. Of this other funds appropriation, any unobligated, unexpended monies, up to
+30 five million eight hundred thousand dollars ($5,800,000.00)S0 from the Wyoming
+31 stable token administration account shall revert to the general fund on the
+32 effective date of this act.
+33
+34 Page 68-line 1 Delete "300" and insert "300(n) and".
+35
+36 Page 68-after line 11 Insert:
+37
+1
+
+1 "(n) The state auditor shall transfer five million eight
+2 hundred thousand dollars ($5,800,000.00) from the general fund to
+3 the Wyoming stable token administration account. This transfer
+4 shall be reduced in an amount equal to the amount of the
+5 unobligated, unencumbered fund balance in the Wyoming stable token
+6 administration account on June 30, 2024. The Wyoming stable token
+7 commission shall endeavor to contract with Wyoming domiciled
+8 entities when conducting business funded by the transfer required
+9 by this subsection.".
+10
+11 To the extent required by this amendment: adjust totals; and
+12 renumber as necessary. IDE, BITEMAN, LAURSEN, D, MCKEOWN, SALAZAR
+2

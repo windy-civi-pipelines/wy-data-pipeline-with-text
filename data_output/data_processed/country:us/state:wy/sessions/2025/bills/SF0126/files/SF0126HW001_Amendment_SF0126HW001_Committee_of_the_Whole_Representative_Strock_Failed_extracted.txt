@@ -1,0 +1,110 @@
+Title: 1 Page 3-line 1 After "(b)" delete balance of line.
+Official Title: 1 Page 3-line 1 After "(b)" delete balance of line.
+Number of Sections: 1
+Source: versions - Amendment SF0126HW001 (Committee of the Whole) - Representative Strock (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0126HW001 (TO ENGROSSED COPY)
+2
+3 Page 3-lines 2 and 3 Delete entirely.
+4
+5 Page 3-line 4 Delete "school district.".
+6
+7 Page 4-line 4 After "of" insert "not less than".
+8
+9 Page 4-line 5 After "seven (7)" insert ", but not more than
+10 nine (9),".
+11
+12 Page 4-line 7 After "board" insert ":".
+13
+14 Page 4-lines 8 through 14 Delete entirely and insert and
+15 renumber as necessary:
+16
+17 "(i) Shall include the following seven (7) voting
+18 members:
+19
+20 Page 4-line 16 Delete "(iii)" and insert "(A)".
+21
+22 Page 4-line 19 Delete "(iv)" and insert "(B)".
+23
+24 Page 4-line 22 Delete "(v)" and insert "(C)".
+25
+26 Page 5-line 2 Delete "(vi) One (1) teacher that instructs"
+27 and insert "(D) Two (2) teachers that
+28 instruct".
+29
+30 Page 5-line 7 Delete entirely and insert "(E) Two (2)
+31 parents of students that attend".
+32
+33 Page 5-line 12 Delete "(viii)" and insert "(ii) Shall
+34 include" and renumber as necessary.
+35
+36 Page 5-after line 15 Insert and renumber as necessary:
+37
+38 "(iii) May, at the discretion of the resident school
+39 district, include the following two (2) voting members:
+40
+41 (A) One (1) member that serves on the resident
+42 school district's board of trustees;
+43
+1
+1 (B) The superintendent of the resident school
+2 district, or his designee.". STROCK
+2
+
+
+================================================================================
+
+Raw Text:
+SF0126HW001 (TO ENGROSSED COPY)
+1 Page 3-line 1 After "(b)" delete balance of line.
+2
+3 Page 3-lines 2 and 3 Delete entirely.
+4
+5 Page 3-line 4 Delete "school district.".
+6
+7 Page 4-line 4 After "of" insert "not less than".
+8
+9 Page 4-line 5 After "seven (7)" insert ", but not more than
+10 nine (9),".
+11
+12 Page 4-line 7 After "board" insert ":".
+13
+14 Page 4-lines 8 through 14 Delete entirely and insert and
+15 renumber as necessary:
+16
+17 "(i) Shall include the following seven (7) voting
+18 members:
+19
+20 Page 4-line 16 Delete "(iii)" and insert "(A)".
+21
+22 Page 4-line 19 Delete "(iv)" and insert "(B)".
+23
+24 Page 4-line 22 Delete "(v)" and insert "(C)".
+25
+26 Page 5-line 2 Delete "(vi) One (1) teacher that instructs"
+27 and insert "(D) Two (2) teachers that
+28 instruct".
+29
+30 Page 5-line 7 Delete entirely and insert "(E) Two (2)
+31 parents of students that attend".
+32
+33 Page 5-line 12 Delete "(viii)" and insert "(ii) Shall
+34 include" and renumber as necessary.
+35
+36 Page 5-after line 15 Insert and renumber as necessary:
+37
+38 "(iii) May, at the discretion of the resident school
+39 district, include the following two (2) voting members:
+40
+41 (A) One (1) member that serves on the resident
+42 school district's board of trustees;
+43
+1
+
+1 (B) The superintendent of the resident school
+2 district, or his designee.". STROCK
+2

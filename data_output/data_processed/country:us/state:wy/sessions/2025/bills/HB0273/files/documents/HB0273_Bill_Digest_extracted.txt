@@ -1,0 +1,154 @@
+Title: HB0273 Wyoming pregnancy centers-autonomy and rights.
+Official Title: HB0273 Wyoming pregnancy centers-autonomy and rights.
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Sponsored By: Representative(s) Rodriguez-Williams, Angelos,
+Haroldson, Harshman, Hoeft, Johnson and Ottman and
+Senator(s) Biteman, Boner, Brennan and French
+AN ACT relating to public health and safety; providing legislative findings;
+prohibiting the state and specified governmental entities from adopting any
+law, rule or policy that targets pregnancy centers for oversight or regulation
+based on the centers' stance against abortion; providing definitions; providing
+penalties; specifying available damages; providing a right of intervention for
+members of the legislature as specified; making conforming amendments; and
+providing for an effective date.
+1/21/2025 Bill Number Assigned
+1/22/2025 H Received for Introduction
+1/23/2025 H Introduced and Referred to H10 - Labor
+1/29/2025 H10 - Labor:Recommend Do Pass 7-1-1-0-0
+ROLL CALL
+Ayes: Representative(s) Clouston, Guggenmos, Hoeft, Mccann, Ottman, Rodriguez-
+Williams, Wasserburger
+Nays: Representative Yin
+Excused: Representative Styvar
+Ayes 7 Nays 1 Excused 1 Absent 0 Conflicts 0
+1/29/2025 H Placed on General File
+2/4/2025 H COW:Passed
+2/5/2025 H 2nd Reading:Laid Back
+HB0273H2001/FAILED
+Page 1-line 1 Delete "providing".
+Page 1-line 2 Delete "legislative findings;".
+Page 1-line 13 Delete "Section 1.".
+Pages 2 and 3 Delete entirely.
+Page 4-line 1 Delete "Section 2." and insert "Section 1.".
+Page 11-line 13 Delete "Section 3." and insert "Section 2.".
+Page 12-line 7 Delete "Section 4." and insert "Section 3.". PROVENZA
+HB0273H2002/FAILED
+Page 1-line 5 After "abortion;" insert "requiring pregnancy centers
+to follow medical ethics and provide medically accurate
+information to patients;".
+Page 8-line 2 After "prohibited" insert "; specifying requirements
+for pregnancy centers".
+Page 10-after line 14 Insert and renumber as necessary:
+"(b) A pregnancy center shall provide medically accurate information to
+patients receiving services at the pregnancy center and shall follow all
+standards of ethics and guidelines required by other healthcare facilities.".
+PROVENZA
+2/6/2025 H 2nd Reading:Passed
+HB0273H3001/FAILED
+Page 1-line 7 After "damages;" delete balance of line.
+Page 1-line 8 Delete "the legislature as specified;".
+Page 11-lines 8 through 11 Delete entirely. CHESTEK
+HB0273H3002/WITHDRAWN
+2/7/2025 H 3rd Reading:Passed 46-14-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Banks, Bear, Brady, Bratten, Brown,
+G, Campbell, K, Clouston, Connolly, Eklund, Erickson, Filer, Geringer,
+Guggenmos, Haroldson, Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp,
+Larson, Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft,
+Rodriguez-Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Winter
+Nays: Representative(s) Brown, L, Byron, Campbell, E, Chestek, Davis, Larsen,
+Nicholas, Posey, Provenza, Sherwood, Storer, Thayer, Wylie, Yin
+Excused: Representative(s) Andrew, Riggins
+Ayes 46 Nays 14 Excused 2 Absent 0 Conflicts 0
+2/7/2025 S Received for Introduction
+2/10/2025 S Introduced and Referred to S01 - Judiciary
+2/24/2025 S01 - Judiciary:Recommend Amend and Do Pass 3-0-2-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, Kolb, Olsen
+Excused: Senator(s) Crum, Hicks
+Ayes 3 Nays 0 Excused 2 Absent 0 Conflicts 0
+2/24/2025 S Placed on General File
+2/28/2025 S COW:S Did not consider for COW
+
+
+================================================================================
+
+Raw Text:
+HB0273 Wyoming pregnancy centers-autonomy and rights.
+Sponsored By: Representative(s) Rodriguez-Williams, Angelos,
+Haroldson, Harshman, Hoeft, Johnson and Ottman and
+Senator(s) Biteman, Boner, Brennan and French
+AN ACT relating to public health and safety; providing legislative findings;
+prohibiting the state and specified governmental entities from adopting any
+law, rule or policy that targets pregnancy centers for oversight or regulation
+based on the centers' stance against abortion; providing definitions; providing
+penalties; specifying available damages; providing a right of intervention for
+members of the legislature as specified; making conforming amendments; and
+providing for an effective date.
+1/21/2025 Bill Number Assigned
+1/22/2025 H Received for Introduction
+1/23/2025 H Introduced and Referred to H10 - Labor
+1/29/2025 H10 - Labor:Recommend Do Pass 7-1-1-0-0
+ROLL CALL
+Ayes: Representative(s) Clouston, Guggenmos, Hoeft, Mccann, Ottman, Rodriguez-
+Williams, Wasserburger
+Nays: Representative Yin
+Excused: Representative Styvar
+Ayes 7 Nays 1 Excused 1 Absent 0 Conflicts 0
+1/29/2025 H Placed on General File
+2/4/2025 H COW:Passed
+2/5/2025 H 2nd Reading:Laid Back
+HB0273H2001/FAILED
+Page 1-line 1 Delete "providing".
+Page 1-line 2 Delete "legislative findings;".
+Page 1-line 13 Delete "Section 1.".
+Pages 2 and 3 Delete entirely.
+Page 4-line 1 Delete "Section 2." and insert "Section 1.".
+Page 11-line 13 Delete "Section 3." and insert "Section 2.".
+Page 12-line 7 Delete "Section 4." and insert "Section 3.". PROVENZA
+HB0273H2002/FAILED
+Page 1-line 5 After "abortion;" insert "requiring pregnancy centers
+to follow medical ethics and provide medically accurate
+information to patients;".
+Page 8-line 2 After "prohibited" insert "; specifying requirements
+for pregnancy centers".
+Page 10-after line 14 Insert and renumber as necessary:
+
+"(b) A pregnancy center shall provide medically accurate information to
+patients receiving services at the pregnancy center and shall follow all
+standards of ethics and guidelines required by other healthcare facilities.".
+PROVENZA
+2/6/2025 H 2nd Reading:Passed
+HB0273H3001/FAILED
+Page 1-line 7 After "damages;" delete balance of line.
+Page 1-line 8 Delete "the legislature as specified;".
+Page 11-lines 8 through 11 Delete entirely. CHESTEK
+HB0273H3002/WITHDRAWN
+2/7/2025 H 3rd Reading:Passed 46-14-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Banks, Bear, Brady, Bratten, Brown,
+G, Campbell, K, Clouston, Connolly, Eklund, Erickson, Filer, Geringer,
+Guggenmos, Haroldson, Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp,
+Larson, Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft,
+Rodriguez-Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Winter
+Nays: Representative(s) Brown, L, Byron, Campbell, E, Chestek, Davis, Larsen,
+Nicholas, Posey, Provenza, Sherwood, Storer, Thayer, Wylie, Yin
+Excused: Representative(s) Andrew, Riggins
+Ayes 46 Nays 14 Excused 2 Absent 0 Conflicts 0
+2/7/2025 S Received for Introduction
+2/10/2025 S Introduced and Referred to S01 - Judiciary
+2/24/2025 S01 - Judiciary:Recommend Amend and Do Pass 3-0-2-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, Kolb, Olsen
+Excused: Senator(s) Crum, Hicks
+Ayes 3 Nays 0 Excused 2 Absent 0 Conflicts 0
+2/24/2025 S Placed on General File
+2/28/2025 S COW:S Did not consider for COW

@@ -1,0 +1,31 @@
+Title: 1 Page 1-line 3 Delete "requiring" and insert "authorizing".
+Official Title: 1 Page 1-line 3 Delete "requiring" and insert "authorizing".
+Number of Sections: 1
+Source: versions - Amendment HB0022H2001 (2nd reading) - Representative Davis (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0022H2001
+2
+3 Page 2-line 1 Strike "shall" and insert "may".
+4
+5 Page 2-line 4 Strike "will" and insert "may".
+6
+7 Page 2-line 11 Delete "shall" and insert "may". DAVIS
+1
+
+
+================================================================================
+
+Raw Text:
+HB0022H2001
+1 Page 1-line 3 Delete "requiring" and insert "authorizing".
+2
+3 Page 2-line 1 Strike "shall" and insert "may".
+4
+5 Page 2-line 4 Strike "will" and insert "may".
+6
+7 Page 2-line 11 Delete "shall" and insert "may". DAVIS
+1

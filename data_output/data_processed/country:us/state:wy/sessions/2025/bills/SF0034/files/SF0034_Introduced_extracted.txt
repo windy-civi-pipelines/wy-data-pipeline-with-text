@@ -1,0 +1,343 @@
+Title: School finance-routine and major maintenance calculations.
+Official Title: School finance-routine and major maintenance calculations.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0155
+SENATE FILE NO. SF0034
+Sponsored by: Select Committee on School Facilities
+A BILL
+for
+1 AN ACT relating to K-12 public school finance; increasing
+2 the allowable square footage utilized to calculate routine
+3 and major maintenance for school districts; increasing the
+4 percentage utilized to calculate major maintenance payments
+5 to school districts; providing appropriations; and
+6 providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 21-13-309(m)(v)(G)(II) and
+11 21-15-109(c)(iii)(C), (vi) and (vii)(intro) are amended to
+12 read:
+13
+14 21-13-309. Determination of amount to be included in
+15 foundation program for each district.
+16
+1 SF0034
+2025 STATE OF WYOMING 25LSO-0155
+1 (m) In determining the amount to be included in the
+2 foundation program for each district, the state
+3 superintendent shall:
+4
+5 (v) Based upon ADM computations and identified
+6 school configurations within each district pursuant to
+7 paragraph (iv) of this subsection, compute the foundation
+8 program amount for each district as prescribed by the
+9 education resource block grant model adopted by the Wyoming
+10 legislature as defined under W.S. 21-13-101(a)(xiv), as
+11 contained within the spreadsheets and accompanying reports
+12 referenced under W.S. 21-13-101(a)(xvii). The following
+13 criteria shall be used by the state superintendent in the
+14 administration of the education resource block grant model:
+15
+16 (G) Amounts within the block grant model
+17 for maintenance and operations shall be based upon actual
+18 gross square footage of school buildings and facilities
+19 subject to the following:
+20
+21 (II) Actual gross square footage of
+22 education space shall be the gross square footage
+23 prescribed by statewide building adequacy standards
+2 SF0034
+2025 STATE OF WYOMING 25LSO-0155
+1 promulgated pursuant to W.S. 21-15-115. For school year
+2 2025-2026 and each school year thereafter, education space
+3 capacity in excess of one hundred fifteen percent (115%)
+4 one hundred thirty-five percent (135%) of the standard
+5 space level shall not be included in actual gross square
+6 footage computations under this subdivision;
+7
+8 21-15-109. Major building and facility repair and
+9 replacement payments; computation; square footage
+10 allowance; use of payment funds; accounting and reporting
+11 requirements.
+12
+13 (c) To compute the major building and facility repair
+14 and replacement payment for each district, the department
+15 shall:
+16
+17 (iii) Except as otherwise provided by this
+18 paragraph, adjust the total amount of gross square footage
+19 determined for educational buildings under subparagraph
+20 (c)(ii)(C) of this section by excluding from computations
+21 under this section the square footage for those educational
+22 buildings closed and not operational as provided for under
+23 paragraph (c)(iv) of this section and any amount including
+3 SF0034
+2025 STATE OF WYOMING 25LSO-0155
+1 the gross square footage of portable buildings, which
+2 exceeds capacity levels specified by this paragraph which
+3 are above the statewide minimum gross square footage
+4 criteria as prescribed by the statewide building and
+5 facility adequacy standards promulgated under W.S.
+6 21-15-115(a). For the purpose of adjusting the gross square
+7 footage of educational buildings under this paragraph, the
+8 gross square footage of buildings used for the provision of
+9 certified child care, developmental preschool and
+10 cooperative education programs pursuant to subparagraph
+11 (c)(i)(A) of this section shall not be excluded. For
+12 purposes of this section, per student gross square footage
+13 criteria prescribed by the statewide building adequacy
+14 standards shall be based upon an average daily membership
+15 (ADM) computed as defined under W.S. 21-13-101(a)(i) for
+16 the prior school year. For purposes of computations under
+17 this section, the allowable capacity in educational
+18 building gross square footage for each district including
+19 portable buildings but excluding buildings used for the
+20 provision of certified child care, developmental preschool
+21 and cooperative education programs pursuant to subparagraph
+22 (c)(i)(A) of this section, shall be as follows:
+23
+4 SF0034
+2025 STATE OF WYOMING 25LSO-0155
+1 (C) For school year 2009-2010 2025-2026 and
+2 each school year thereafter, up to one hundred fifteen
+3 percent (115%) one hundred thirty-five percent (135%) of
+4 the prescribed per student gross square footage criteria.
+5
+6 (vi) Multiply the amount computed under
+7 paragraph (c)(v) of this section for the adjusted square
+8 footage of the district's educational buildings times two
+9 and one-half percent (2.5%) for school year 2001-2002,
+10 three percent (3%) for school year 2002-2003, and by two
+11 percent (2%) for school year 2003-2004 2025-2026 and each
+12 school year thereafter;
+13
+14 (vii) Multiply the sum of the amounts obtained
+15 under paragraph (c)(v) of this section for the building
+16 categories identified under subparagraphs (c)(ii)(A) and
+17 (D) of this section times two and one-half percent (2.5%)
+18 for school year 2001-2002, three percent (3%) for school
+19 year 2002-2003, and by two percent (2%) for school year
+20 2003-2004 2025-2026 and each school year thereafter,
+21 adjusted as follows:
+22
+23 Section 2.
+5 SF0034
+2025 STATE OF WYOMING 25LSO-0155
+1
+2 (a) There is appropriated thirty-eight million one
+3 hundred thousand dollars ($38,100,000.00) from the public
+4 school foundation program account to the state construction
+5 department for major maintenance payments to school
+6 districts made necessary by the amendments enacted in
+7 section 1 of this act. This appropriation shall be for the
+8 period beginning July 1, 2025 and ending June 30, 2026.
+9 This appropriation shall not be transferred or expended for
+10 any other purpose and any unexpended, unobligated funds
+11 remaining from this appropriation shall revert as provided
+12 by law on June 30, 2026. It is the intent of the
+13 legislature that this appropriation be included in the
+14 standard budget for the state construction department for
+15 the immediately succeeding fiscal biennium.
+16
+17 (b) There is appropriated five million five hundred
+18 thousand dollars ($5,500,000.00) from the public school
+19 foundation program account to the department of
+20 education-school finance for routine maintenance payments
+21 to school districts made necessary by the amendments
+22 enacted in section 1 of this act. This appropriation shall
+23 be for the period beginning July 1, 2025 and ending June
+6 SF0034
+2025 STATE OF WYOMING 25LSO-0155
+1 30, 2026. This appropriation shall not be transferred or
+2 expended for any other purpose and any unexpended,
+3 unobligated funds remaining from this appropriation shall
+4 revert as provided by law on June 30, 2026. It is the
+5 intent of the legislature that this appropriation be
+6 included in the standard budget for the department of
+7 education-school finance for the immediately succeeding
+8 fiscal biennium.
+9
+10 Section 3. This act is effective July 1, 2025.
+11
+12 (END)
+7 SF0034
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0155
+SENATE FILE NO. SF0034
+School finance-routine and major maintenance calculations.
+Sponsored by: Select Committee on School Facilities
+A BILL
+for
+1 AN ACT relating to K-12 public school finance; increasing
+2 the allowable square footage utilized to calculate routine
+3 and major maintenance for school districts; increasing the
+4 percentage utilized to calculate major maintenance payments
+5 to school districts; providing appropriations; and
+6 providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 21-13-309(m)(v)(G)(II) and
+11 21-15-109(c)(iii)(C), (vi) and (vii)(intro) are amended to
+12 read:
+13
+14 21-13-309. Determination of amount to be included in
+15 foundation program for each district.
+16
+1 SF0034
+
+2025 STATE OF WYOMING 25LSO-0155
+1 (m) In determining the amount to be included in the
+2 foundation program for each district, the state
+3 superintendent shall:
+4
+5 (v) Based upon ADM computations and identified
+6 school configurations within each district pursuant to
+7 paragraph (iv) of this subsection, compute the foundation
+8 program amount for each district as prescribed by the
+9 education resource block grant model adopted by the Wyoming
+10 legislature as defined under W.S. 21-13-101(a)(xiv), as
+11 contained within the spreadsheets and accompanying reports
+12 referenced under W.S. 21-13-101(a)(xvii). The following
+13 criteria shall be used by the state superintendent in the
+14 administration of the education resource block grant model:
+15
+16 (G) Amounts within the block grant model
+17 for maintenance and operations shall be based upon actual
+18 gross square footage of school buildings and facilities
+19 subject to the following:
+20
+21 (II) Actual gross square footage of
+22 education space shall be the gross square footage
+23 prescribed by statewide building adequacy standards
+2 SF0034
+
+2025 STATE OF WYOMING 25LSO-0155
+1 promulgated pursuant to W.S. 21-15-115. For school year
+2 2025-2026 and each school year thereafter, education space
+3 capacity in excess of one hundred fifteen percent (115%)
+4 one hundred thirty-five percent (135%) of the standard
+5 space level shall not be included in actual gross square
+6 footage computations under this subdivision;
+7
+8 21-15-109. Major building and facility repair and
+9 replacement payments; computation; square footage
+10 allowance; use of payment funds; accounting and reporting
+11 requirements.
+12
+13 (c) To compute the major building and facility repair
+14 and replacement payment for each district, the department
+15 shall:
+16
+17 (iii) Except as otherwise provided by this
+18 paragraph, adjust the total amount of gross square footage
+19 determined for educational buildings under subparagraph
+20 (c)(ii)(C) of this section by excluding from computations
+21 under this section the square footage for those educational
+22 buildings closed and not operational as provided for under
+23 paragraph (c)(iv) of this section and any amount including
+3 SF0034
+
+2025 STATE OF WYOMING 25LSO-0155
+1 the gross square footage of portable buildings, which
+2 exceeds capacity levels specified by this paragraph which
+3 are above the statewide minimum gross square footage
+4 criteria as prescribed by the statewide building and
+5 facility adequacy standards promulgated under W.S.
+6 21-15-115(a). For the purpose of adjusting the gross square
+7 footage of educational buildings under this paragraph, the
+8 gross square footage of buildings used for the provision of
+9 certified child care, developmental preschool and
+10 cooperative education programs pursuant to subparagraph
+11 (c)(i)(A) of this section shall not be excluded. For
+12 purposes of this section, per student gross square footage
+13 criteria prescribed by the statewide building adequacy
+14 standards shall be based upon an average daily membership
+15 (ADM) computed as defined under W.S. 21-13-101(a)(i) for
+16 the prior school year. For purposes of computations under
+17 this section, the allowable capacity in educational
+18 building gross square footage for each district including
+19 portable buildings but excluding buildings used for the
+20 provision of certified child care, developmental preschool
+21 and cooperative education programs pursuant to subparagraph
+22 (c)(i)(A) of this section, shall be as follows:
+23
+4 SF0034
+
+2025 STATE OF WYOMING 25LSO-0155
+1 (C) For school year 2009-2010 2025-2026 and
+2 each school year thereafter, up to one hundred fifteen
+3 percent (115%) one hundred thirty-five percent (135%) of
+4 the prescribed per student gross square footage criteria.
+5
+6 (vi) Multiply the amount computed under
+7 paragraph (c)(v) of this section for the adjusted square
+8 footage of the district's educational buildings times two
+9 and one-half percent (2.5%) for school year 2001-2002,
+10 three percent (3%) for school year 2002-2003, and by two
+11 percent (2%) for school year 2003-2004 2025-2026 and each
+12 school year thereafter;
+13
+14 (vii) Multiply the sum of the amounts obtained
+15 under paragraph (c)(v) of this section for the building
+16 categories identified under subparagraphs (c)(ii)(A) and
+17 (D) of this section times two and one-half percent (2.5%)
+18 for school year 2001-2002, three percent (3%) for school
+19 year 2002-2003, and by two percent (2%) for school year
+20 2003-2004 2025-2026 and each school year thereafter,
+21 adjusted as follows:
+22
+23 Section 2.
+5 SF0034
+
+2025 STATE OF WYOMING 25LSO-0155
+1
+2 (a) There is appropriated thirty-eight million one
+3 hundred thousand dollars ($38,100,000.00) from the public
+4 school foundation program account to the state construction
+5 department for major maintenance payments to school
+6 districts made necessary by the amendments enacted in
+7 section 1 of this act. This appropriation shall be for the
+8 period beginning July 1, 2025 and ending June 30, 2026.
+9 This appropriation shall not be transferred or expended for
+10 any other purpose and any unexpended, unobligated funds
+11 remaining from this appropriation shall revert as provided
+12 by law on June 30, 2026. It is the intent of the
+13 legislature that this appropriation be included in the
+14 standard budget for the state construction department for
+15 the immediately succeeding fiscal biennium.
+16
+17 (b) There is appropriated five million five hundred
+18 thousand dollars ($5,500,000.00) from the public school
+19 foundation program account to the department of
+20 education-school finance for routine maintenance payments
+21 to school districts made necessary by the amendments
+22 enacted in section 1 of this act. This appropriation shall
+23 be for the period beginning July 1, 2025 and ending June
+6 SF0034
+
+2025 STATE OF WYOMING 25LSO-0155
+1 30, 2026. This appropriation shall not be transferred or
+2 expended for any other purpose and any unexpended,
+3 unobligated funds remaining from this appropriation shall
+4 revert as provided by law on June 30, 2026. It is the
+5 intent of the legislature that this appropriation be
+6 included in the standard budget for the department of
+7 education-school finance for the immediately succeeding
+8 fiscal biennium.
+9
+10 Section 3. This act is effective July 1, 2025.
+11
+12 (END)
+7 SF0034

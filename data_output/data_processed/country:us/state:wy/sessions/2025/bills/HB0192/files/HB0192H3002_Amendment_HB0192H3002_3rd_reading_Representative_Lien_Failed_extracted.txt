@@ -1,0 +1,33 @@
+Title: 1 Page 10-after line 19 Insert and renumber as necessary:
+Official Title: 1 Page 10-after line 19 Insert and renumber as necessary:
+Number of Sections: 1
+Source: versions - Amendment HB0192H3002 (3rd reading) - Representative Lien (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0192H3002
+2
+3 "(e) An electric utility shall recover not more than eighty
+4 percent (80%) of the total costs of an approved wildfire mitigation
+5 plan through rate adjustments to consumers. Not less than twenty
+6 percent (20%) of the costs shall be borne by the electric utility
+7 to ensure financial accountability and incentive-based risk
+8 management.". LIEN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0192H3002
+1 Page 10-after line 19 Insert and renumber as necessary:
+2
+3 "(e) An electric utility shall recover not more than eighty
+4 percent (80%) of the total costs of an approved wildfire mitigation
+5 plan through rate adjustments to consumers. Not less than twenty
+6 percent (20%) of the costs shall be borne by the electric utility
+7 to ensure financial accountability and incentive-based risk
+8 management.". LIEN
+1

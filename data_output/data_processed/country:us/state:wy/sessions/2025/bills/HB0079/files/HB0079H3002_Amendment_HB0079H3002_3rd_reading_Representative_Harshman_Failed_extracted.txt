@@ -1,0 +1,29 @@
+Title: 1 Page 3-line 1 After "election" insert "." and delete balance
+Official Title: 1 Page 3-line 1 After "election" insert "." and delete balance
+Number of Sections: 1
+Source: versions - Amendment HB0079H3002 (3rd reading) - Representative Harshman (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0079H3002
+2 of line.
+3
+4 Page 3-line 2 Delete entirely.
+5
+6 Page 3-line 3 Delete "this bond election.". HARSHMAN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0079H3002
+1 Page 3-line 1 After "election" insert "." and delete balance
+2 of line.
+3
+4 Page 3-line 2 Delete entirely.
+5
+6 Page 3-line 3 Delete "this bond election.". HARSHMAN
+1

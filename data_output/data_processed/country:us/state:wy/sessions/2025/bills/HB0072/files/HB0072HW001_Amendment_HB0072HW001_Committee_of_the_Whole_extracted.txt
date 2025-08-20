@@ -1,0 +1,138 @@
+Title: 1 Page 2-after line 16 Insert and renumber as necessary:
+Official Title: 1 Page 2-after line 16 Insert and renumber as necessary:
+Number of Sections: 1
+Source: versions - Amendment HB0072HW001 (Committee of the Whole)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0072HW001
+2
+3 "(ii) "Coach" means a person, including but not limited
+4 to a coaches, assistant coaches or athletic trainers, who is
+5 employed by or contracted with an educational facility and who is
+6 involved in the teaching, coaching or training of students
+7 participating in an athletic activity sponsored by an educational
+8 facility;".
+9
+10 Page 2-line 18 Delete "(ii)" and insert "(iii)".
+11
+12 Page 3-line 2 Delete "(iii)" and insert "(iv)".
+13
+14 Page 3-line 9 Delete "(iv)" and insert "(v)".
+15
+16 Page 3-line 15 Delete "(v)" and insert "(vi)".
+17
+18 Page 3-line 18 Delete "(vi)" and insert "(vii)".
+19
+20 Page 4-line 5 Delete "(vii)" and insert "(viii)".
+21
+22 Page 4-line 11 Delete "(viii)" and insert "(ix)".
+23
+24 Page 4-line 16 Delete "(ix)" and insert "(x)".
+25
+26 Page 4-line 19 Delete "(x)" and insert "(xi)".
+27
+28 Page 4-line 22 Delete "(xi)" and insert "(xii)".
+29
+30 Page 5-line 2 Delete "(xii)" and insert "(xiii)".
+31
+32 Page 11-after line 18 Insert and renumber as necessary:
+33
+34 "(viii) A coach's entry into a locker room before, during
+35 or after an athletic activity sponsored by an educational facility,
+36 if all of the following are met:
+37
+38 (A) Another suitable meeting room or area is not
+39 available;
+40
+41 (B) All students present are fully clothed;
+42
+43 (C) The coach shall be accompanied by not less than
+44 one (1) additional adult at all times;
+1
+1
+2 (D) If the coach is the opposite sex of the students
+3 present, the coach shall be accompanied by at least one (1) adult
+4 employed by the educational facility and of the same sex as the Commented [JA1]: With C and D, are two adults
+5 students present; required or only 1? May need to clarify. Could
+consider combining (C) and (D) and say: ...not
+6 less than one additional adult. If the coach
+7 (E) The accompanying adults present shall not be is the opposite sex...at least one of the
+additional adults shall be the same sex as the
+8 current students of the educational facility.". LAWLEY students.
+Commented [JA2]: I think this should be
+“accompanying adult” just in case one of the
+student athletes is an adult. Or maybe
+consider: “accompanying adults under
+subparagraphs (C) and (D) of this paragraph”
+2
+
+
+================================================================================
+
+Raw Text:
+HB0072HW001
+1 Page 2-after line 16 Insert and renumber as necessary:
+2
+3 "(ii) "Coach" means a person, including but not limited
+4 to a coaches, assistant coaches or athletic trainers, who is
+5 employed by or contracted with an educational facility and who is
+6 involved in the teaching, coaching or training of students
+7 participating in an athletic activity sponsored by an educational
+8 facility;".
+9
+10 Page 2-line 18 Delete "(ii)" and insert "(iii)".
+11
+12 Page 3-line 2 Delete "(iii)" and insert "(iv)".
+13
+14 Page 3-line 9 Delete "(iv)" and insert "(v)".
+15
+16 Page 3-line 15 Delete "(v)" and insert "(vi)".
+17
+18 Page 3-line 18 Delete "(vi)" and insert "(vii)".
+19
+20 Page 4-line 5 Delete "(vii)" and insert "(viii)".
+21
+22 Page 4-line 11 Delete "(viii)" and insert "(ix)".
+23
+24 Page 4-line 16 Delete "(ix)" and insert "(x)".
+25
+26 Page 4-line 19 Delete "(x)" and insert "(xi)".
+27
+28 Page 4-line 22 Delete "(xi)" and insert "(xii)".
+29
+30 Page 5-line 2 Delete "(xii)" and insert "(xiii)".
+31
+32 Page 11-after line 18 Insert and renumber as necessary:
+33
+34 "(viii) A coach's entry into a locker room before, during
+35 or after an athletic activity sponsored by an educational facility,
+36 if all of the following are met:
+37
+38 (A) Another suitable meeting room or area is not
+39 available;
+40
+41 (B) All students present are fully clothed;
+42
+43 (C) The coach shall be accompanied by not less than
+44 one (1) additional adult at all times;
+1
+
+1
+2 (D) If the coach is the opposite sex of the students
+3 present, the coach shall be accompanied by at least one (1) adult
+4 employed by the educational facility and of the same sex as the Commented [JA1]: With C and D, are two adults
+5 students present; required or only 1? May need to clarify. Could
+consider combining (C) and (D) and say: ...not
+6 less than one additional adult. If the coach
+7 (E) The accompanying adults present shall not be is the opposite sex...at least one of the
+additional adults shall be the same sex as the
+8 current students of the educational facility.". LAWLEY students.
+Commented [JA2]: I think this should be
+“accompanying adult” just in case one of the
+student athletes is an adult. Or maybe
+consider: “accompanying adults under
+subparagraphs (C) and (D) of this paragraph”
+2

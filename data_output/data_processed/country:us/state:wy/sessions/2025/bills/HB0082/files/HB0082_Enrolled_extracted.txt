@@ -1,0 +1,307 @@
+Title: BILL NO. HB0082
+Official Title: BILL NO. HB0082
+Number of Sections: 6
+Source: versions - Enrolled
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+ORIGINAL HOUSE
+ENROLLED ACT NO. 12, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+AN ACT relating to the insurance code; requiring health
+insurance carriers to follow specified guidelines regarding
+health care provider credentialing; specifying that health
+carriers shall not be required to violate or fail to meet
+requirements of a nationally recognized accrediting entity;
+providing definitions; specifying applicability; requiring
+rulemaking; and providing for effective dates.
+Be It Enacted by the Legislature of the State of Wyoming:
+
+Section 2:
+Section 1. W.S. 26-56-101 and 26-56-102 are created
+to read:
+CHAPTER 56
+HEALTH CARE PROVIDER CREDENTIALING
+26-56-101. Definitions.
+(a) As used in this chapter:
+(i) "Applicant" means a health care provider who
+submits an application to a health carrier to become
+credentialed as a participating health care provider in one
+(1) or more of the health carrier's provider networks;
+(ii) "Application" means an applicant's most
+recent application to become credentialed by a health
+carrier as a participating health care provider in one (1)
+or more of the health carrier's provider networks;
+(iii) "Completed credentialing application"
+means a credentialing application that is free of defects
+and contains all of the information that, when later
+supplemented by verification and documentation gathered by
+the health carrier during the primary source verification
+1
+ORIGINAL HOUSE
+BILL NO. HB0082
+ENROLLED ACT NO. 12, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+process, is necessary for the health carrier to make a
+credentialing decision;
+(iv) "Credentialing" means the process by which
+a health carrier or its designee collects information
+concerning an applicant, assesses whether the applicant
+satisfies the requirements to become a participating health
+care provider in one (1) or more of the health carrier's
+provider networks, verifies all information submitted by
+the applicant and approves or denies the applicant's
+application;
+(v) "Health carrier" means as defined by W.S.
+26-13-303(a)(iii) and shall not mean pharmacy benefit
+managers as defined by W.S. 26-52-102(a)(vii).
+26-56-102. Health care provider credentialing;
+requirements.
+(a) Within seven (7) calendar days after a health
+carrier receives an application for credentialing, the
+health carrier shall provide the applicant notice of
+receipt of the application in written or electronic form
+and contact information for the person reviewing the
+application. After receiving an application, a health
+carrier shall determine whether the application is
+complete. If the health carrier determines that the
+application is incomplete, the health carrier shall notify
+the applicant in writing or by electronic means that the
+application is incomplete within thirty (30) calendar days
+after the date the health carrier received the application.
+The notice shall describe the items that are required to
+complete the application. The health care provider shall
+submit a completed credentialing application within thirty
+(30) calendar days of receiving the notice. Failure of the
+2
+ORIGINAL HOUSE
+BILL NO. HB0082
+ENROLLED ACT NO. 12, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+health care provider to submit a completed credentialing
+application within thirty (30) days of receiving the notice
+shall restart the timelines in this subsection.
+(b) A health carrier shall conclude the process of
+credentialing an applicant within sixty (60) calendar days
+after the health carrier receives the applicant's
+application. The sixty (60) calendar day period shall pause
+if a health care provider receives notification that their
+application is incomplete and shall resume after the health
+carrier verifies that the health care provider has
+resubmitted a completed credentialing application. A health
+carrier shall provide each applicant written or electronic
+notice of the outcome of the applicant's credentialing at
+the conclusion of the credentialing process.
+(c) If an applicant becomes credentialed as a
+participating health care provider in a health carrier's
+network and a fully executed contract between the health
+care provider and the health carrier is in effect prior to
+covered services being provided, the health carrier shall
+reimburse the applicant for all covered reimbursable health
+care services provided by the applicant beginning with the
+date the health carrier received a completed credentialing
+application from the applicant, unless otherwise preempted
+by federal law.
+(d) A health carrier shall not be required to approve
+any application for credentialing, except as provided by
+W.S. 26-22-503.
+
+Section 3:
+Section 2. The department of insurance shall
+promulgate rules providing for a uniform credentialing
+application that shall be used by applicants and health
+3
+ORIGINAL HOUSE
+BILL NO. HB0082
+ENROLLED ACT NO. 12, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+carriers. Dental and vision insurance are exempt from using
+the uniform application.
+
+Section 4:
+Section 3. Nothing in this act shall require a health
+carrier to violate or fail to meet a standard or
+requirement of a nationally recognized accrediting entity.
+
+Section 5:
+Section 4. This act shall apply to applications for
+credentialing submitted to health carriers on or after July
+1, 2025.
+4
+ORIGINAL HOUSE
+BILL NO. HB0082
+ENROLLED ACT NO. 12, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+
+Section 6:
+Section 5.
+(a) Except as otherwise provided by subsection (b) of
+this section, this act is effective July 1, 2025.
+(b) Sections 2 and 5 of this act are effective
+immediately upon completion of all acts necessary for a
+bill to become law as provided by Article 4, Section 8 of
+the Wyoming Constitution.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the House.
+Chief Clerk
+5
+
+
+================================================================================
+
+Raw Text:
+ORIGINAL HOUSE
+BILL NO. HB0082
+ENROLLED ACT NO. 12, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+AN ACT relating to the insurance code; requiring health
+insurance carriers to follow specified guidelines regarding
+health care provider credentialing; specifying that health
+carriers shall not be required to violate or fail to meet
+requirements of a nationally recognized accrediting entity;
+providing definitions; specifying applicability; requiring
+rulemaking; and providing for effective dates.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 26-56-101 and 26-56-102 are created
+to read:
+CHAPTER 56
+HEALTH CARE PROVIDER CREDENTIALING
+26-56-101. Definitions.
+(a) As used in this chapter:
+(i) "Applicant" means a health care provider who
+submits an application to a health carrier to become
+credentialed as a participating health care provider in one
+(1) or more of the health carrier's provider networks;
+(ii) "Application" means an applicant's most
+recent application to become credentialed by a health
+carrier as a participating health care provider in one (1)
+or more of the health carrier's provider networks;
+(iii) "Completed credentialing application"
+means a credentialing application that is free of defects
+and contains all of the information that, when later
+supplemented by verification and documentation gathered by
+the health carrier during the primary source verification
+1
+
+ORIGINAL HOUSE
+BILL NO. HB0082
+ENROLLED ACT NO. 12, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+process, is necessary for the health carrier to make a
+credentialing decision;
+(iv) "Credentialing" means the process by which
+a health carrier or its designee collects information
+concerning an applicant, assesses whether the applicant
+satisfies the requirements to become a participating health
+care provider in one (1) or more of the health carrier's
+provider networks, verifies all information submitted by
+the applicant and approves or denies the applicant's
+application;
+(v) "Health carrier" means as defined by W.S.
+26-13-303(a)(iii) and shall not mean pharmacy benefit
+managers as defined by W.S. 26-52-102(a)(vii).
+26-56-102. Health care provider credentialing;
+requirements.
+(a) Within seven (7) calendar days after a health
+carrier receives an application for credentialing, the
+health carrier shall provide the applicant notice of
+receipt of the application in written or electronic form
+and contact information for the person reviewing the
+application. After receiving an application, a health
+carrier shall determine whether the application is
+complete. If the health carrier determines that the
+application is incomplete, the health carrier shall notify
+the applicant in writing or by electronic means that the
+application is incomplete within thirty (30) calendar days
+after the date the health carrier received the application.
+The notice shall describe the items that are required to
+complete the application. The health care provider shall
+submit a completed credentialing application within thirty
+(30) calendar days of receiving the notice. Failure of the
+2
+
+ORIGINAL HOUSE
+BILL NO. HB0082
+ENROLLED ACT NO. 12, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+health care provider to submit a completed credentialing
+application within thirty (30) days of receiving the notice
+shall restart the timelines in this subsection.
+(b) A health carrier shall conclude the process of
+credentialing an applicant within sixty (60) calendar days
+after the health carrier receives the applicant's
+application. The sixty (60) calendar day period shall pause
+if a health care provider receives notification that their
+application is incomplete and shall resume after the health
+carrier verifies that the health care provider has
+resubmitted a completed credentialing application. A health
+carrier shall provide each applicant written or electronic
+notice of the outcome of the applicant's credentialing at
+the conclusion of the credentialing process.
+(c) If an applicant becomes credentialed as a
+participating health care provider in a health carrier's
+network and a fully executed contract between the health
+care provider and the health carrier is in effect prior to
+covered services being provided, the health carrier shall
+reimburse the applicant for all covered reimbursable health
+care services provided by the applicant beginning with the
+date the health carrier received a completed credentialing
+application from the applicant, unless otherwise preempted
+by federal law.
+(d) A health carrier shall not be required to approve
+any application for credentialing, except as provided by
+W.S. 26-22-503.
+Section 2. The department of insurance shall
+promulgate rules providing for a uniform credentialing
+application that shall be used by applicants and health
+3
+
+ORIGINAL HOUSE
+BILL NO. HB0082
+ENROLLED ACT NO. 12, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+carriers. Dental and vision insurance are exempt from using
+the uniform application.
+Section 3. Nothing in this act shall require a health
+carrier to violate or fail to meet a standard or
+requirement of a nationally recognized accrediting entity.
+Section 4. This act shall apply to applications for
+credentialing submitted to health carriers on or after July
+1, 2025.
+4
+
+ORIGINAL HOUSE
+BILL NO. HB0082
+ENROLLED ACT NO. 12, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+Section 5.
+(a) Except as otherwise provided by subsection (b) of
+this section, this act is effective July 1, 2025.
+(b) Sections 2 and 5 of this act are effective
+immediately upon completion of all acts necessary for a
+bill to become law as provided by Article 4, Section 8 of
+the Wyoming Constitution.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the House.
+Chief Clerk
+5

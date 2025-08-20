@@ -1,0 +1,43 @@
+Title: 1 Page 1-line 3 Before "and providing" insert "requiring a
+Official Title: 1 Page 1-line 3 Before "and providing" insert "requiring a
+Number of Sections: 1
+Source: versions - Amendment HB0047H2001 (2nd reading) - Representative Filer (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0047H2001
+2 report;".
+3
+4 Page 2-after line 16 In the House standing committee amendment
+5 (HB0047HS001/A) to this line, after section 2,
+6 subsection (c) created by that amendment,
+7 insert:
+8
+9 "(d) The secretary of state shall report to the joint
+10 appropriations committee before December 31, 2025 regarding
+11 whether the position provided by this section has been filled and,
+12 if filled, whether the position has been necessary to implement
+13 this act.". FILER
+1
+
+
+================================================================================
+
+Raw Text:
+HB0047H2001
+1 Page 1-line 3 Before "and providing" insert "requiring a
+2 report;".
+3
+4 Page 2-after line 16 In the House standing committee amendment
+5 (HB0047HS001/A) to this line, after section 2,
+6 subsection (c) created by that amendment,
+7 insert:
+8
+9 "(d) The secretary of state shall report to the joint
+10 appropriations committee before December 31, 2025 regarding
+11 whether the position provided by this section has been filled and,
+12 if filled, whether the position has been necessary to implement
+13 this act.". FILER
+1

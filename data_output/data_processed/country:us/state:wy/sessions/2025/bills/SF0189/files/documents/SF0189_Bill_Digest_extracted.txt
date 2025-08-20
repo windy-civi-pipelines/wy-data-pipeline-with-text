@@ -1,0 +1,71 @@
+Title: AN ACT relating to the uniform commercial code; clarifying rules for the
+Official Title: AN ACT relating to the uniform commercial code; clarifying rules for the
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Uniform commercial code-investment securities
+SF0189
+amendments.
+Sponsored By: Senator(s) Biteman
+applicability of the code for investment securities; amending priority rules
+for securities intermediaries; making conforming amendments; repealing priority
+rules and applicability rules related to securities intermediaries; and
+providing for an effective date.
+1/27/2025 Bill Number Assigned
+1/28/2025 S Received for Introduction
+1/29/2025 S Introduced and Referred to S02 - Appropriations
+2/6/2025 S02 - Appropriations:Recommend Do Pass 4-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Laursen, Salazar, Smith
+Nays: Senator Gierau
+Ayes 4 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/6/2025 S Placed on General File
+2/10/2025 S COW:Passed
+2/11/2025 S 2nd Reading:Passed
+2/12/2025 S 3rd Reading:Failed 10-20-1-0-0
+ROLL CALL
+Ayes: Senator(s) Biteman, Dockstader, French, Ide, Laursen, Mckeown, Pearson,
+Salazar, Smith, Steinmetz
+Nays: Senator(s) Anderson, Barlow, Boner, Brennan, Case, Cooper, Crago, Crum,
+Driskill, Gierau, Hicks, Hutchings, Jones, Kolb, Landen, Nethercott, Olsen,
+Rothfuss, Schuler, Scott
+Excused: Senator Pappas
+Ayes 10 Nays 20 Excused 1 Absent 0 Conflicts 0
+
+
+================================================================================
+
+Raw Text:
+Uniform commercial code-investment securities
+SF0189
+amendments.
+Sponsored By: Senator(s) Biteman
+AN ACT relating to the uniform commercial code; clarifying rules for the
+applicability of the code for investment securities; amending priority rules
+for securities intermediaries; making conforming amendments; repealing priority
+rules and applicability rules related to securities intermediaries; and
+providing for an effective date.
+1/27/2025 Bill Number Assigned
+1/28/2025 S Received for Introduction
+1/29/2025 S Introduced and Referred to S02 - Appropriations
+2/6/2025 S02 - Appropriations:Recommend Do Pass 4-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Laursen, Salazar, Smith
+Nays: Senator Gierau
+Ayes 4 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/6/2025 S Placed on General File
+2/10/2025 S COW:Passed
+2/11/2025 S 2nd Reading:Passed
+2/12/2025 S 3rd Reading:Failed 10-20-1-0-0
+ROLL CALL
+Ayes: Senator(s) Biteman, Dockstader, French, Ide, Laursen, Mckeown, Pearson,
+Salazar, Smith, Steinmetz
+Nays: Senator(s) Anderson, Barlow, Boner, Brennan, Case, Cooper, Crago, Crum,
+Driskill, Gierau, Hicks, Hutchings, Jones, Kolb, Landen, Nethercott, Olsen,
+Rothfuss, Schuler, Scott
+Excused: Senator Pappas
+Ayes 10 Nays 20 Excused 1 Absent 0 Conflicts 0

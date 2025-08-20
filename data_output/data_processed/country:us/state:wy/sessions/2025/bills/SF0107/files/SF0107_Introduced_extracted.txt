@@ -1,0 +1,194 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0643
+SENATE FILE NO. SF0107
+Freedom to work and build business.
+Sponsored by: Senator(s) Nethercott and Kolb and
+Representative(s) Angelos, Filer, Johnson,
+Lucas, Singh, Washut and Wharff
+for
+1 AN ACT relating to miscellaneous contracts and actions;
+2 providing that contractual covenants not to compete are
+3 void; providing exceptions; specifying requirements for
+4 covenants not to compete for physicians; specifying
+5 applicability; and providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 1-23-108 is created to read:
+10
+11 1-23-108. Contractual provisions in restraint of
+12 trade generally void; exceptions; unlawful intimidation.
+13
+14 (a) Any covenant not to compete that restricts the
+15 right of any person to receive compensation for performance
+1 SF0107
+2025 STATE OF WYOMING 25LSO-0643
+1 of skilled or unskilled labor shall be void. This
+2 subsection shall not apply to:
+3
+4 (i) Any covenant not to compete contained in a
+5 contract for the purchase and sale of a business or the
+6 assets of a business;
+7
+8 (ii) Any covenant not to compete to the extent
+9 the covenant provides for the protection of trade secrets
+10 as defined by W.S. 6-3-501(a)(xi);
+11
+12 (iii) Any contractual provision providing for
+13 recovery of the expense of educating and training an
+14 employee who has served an employer for a period of less
+15 than two (2) years;
+16
+17 (iv) Executive and management personnel and
+18 officers and employees who constitute professional staff to
+19 executive and management personnel.
+20
+21 (b) Any covenant not to compete provision of an
+22 employment, partnership or corporate agreement between
+23 physicians that restricts the right of a physician to
+2 SF0107
+2025 STATE OF WYOMING 25LSO-0643
+1 practice medicine as defined in W.S. 33-26-102(a)(xi), upon
+2 termination of the physician's employment, partnership or
+3 corporate affiliation, is void, provided that all other
+4 provisions of the agreement enforceable at law shall remain
+5 enforceable.
+6
+7 (c) Notwithstanding subsection (b) of this section,
+8 upon termination of the employment, partnership or
+9 corporate affiliation, or upon the voiding of an agreement
+10 not to compete specified in subsection (b) of this section,
+11 a physician may disclose his continuing practice of
+12 medicine and new professional contact information to any
+13 patient with a rare disorder as defined in accordance with
+14 the national organization for rare disorders, or a
+15 successor organization, to whom the physician was providing
+16 consultation or treatment before termination of the
+17 employment, partnership or corporate affiliation. Neither
+18 the physician nor the physician's employer shall be liable
+19 to any party to the prior agreement for damages alleged to
+20 have resulted from the disclosure or from the physician's
+21 treatment of the patient after termination of the prior
+22 agreement or employment, partnership or corporate
+23 affiliation.
+3 SF0107
+2025 STATE OF WYOMING 25LSO-0643
+1
+2 Section 2.
+3
+4 (a) This act shall apply to contracts entered into on
+5 and after July 1, 2025.
+6
+7 (b) Nothing in this act shall be construed to alter,
+8 amend or impair any contract or agreement entered into
+9 before July 1, 2025.
+10
+11 Section 3. This act is effective July 1, 2025.
+12
+13 (END)
+4 SF0107
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0643
+SENATE FILE NO. SF0107
+Freedom to work and build business.
+Sponsored by: Senator(s) Nethercott and Kolb and
+Representative(s) Angelos, Filer, Johnson,
+Lucas, Singh, Washut and Wharff
+A BILL
+for
+1 AN ACT relating to miscellaneous contracts and actions;
+2 providing that contractual covenants not to compete are
+3 void; providing exceptions; specifying requirements for
+4 covenants not to compete for physicians; specifying
+5 applicability; and providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 1-23-108 is created to read:
+10
+11 1-23-108. Contractual provisions in restraint of
+12 trade generally void; exceptions; unlawful intimidation.
+13
+14 (a) Any covenant not to compete that restricts the
+15 right of any person to receive compensation for performance
+1 SF0107
+
+2025 STATE OF WYOMING 25LSO-0643
+1 of skilled or unskilled labor shall be void. This
+2 subsection shall not apply to:
+3
+4 (i) Any covenant not to compete contained in a
+5 contract for the purchase and sale of a business or the
+6 assets of a business;
+7
+8 (ii) Any covenant not to compete to the extent
+9 the covenant provides for the protection of trade secrets
+10 as defined by W.S. 6-3-501(a)(xi);
+11
+12 (iii) Any contractual provision providing for
+13 recovery of the expense of educating and training an
+14 employee who has served an employer for a period of less
+15 than two (2) years;
+16
+17 (iv) Executive and management personnel and
+18 officers and employees who constitute professional staff to
+19 executive and management personnel.
+20
+21 (b) Any covenant not to compete provision of an
+22 employment, partnership or corporate agreement between
+23 physicians that restricts the right of a physician to
+2 SF0107
+
+2025 STATE OF WYOMING 25LSO-0643
+1 practice medicine as defined in W.S. 33-26-102(a)(xi), upon
+2 termination of the physician's employment, partnership or
+3 corporate affiliation, is void, provided that all other
+4 provisions of the agreement enforceable at law shall remain
+5 enforceable.
+6
+7 (c) Notwithstanding subsection (b) of this section,
+8 upon termination of the employment, partnership or
+9 corporate affiliation, or upon the voiding of an agreement
+10 not to compete specified in subsection (b) of this section,
+11 a physician may disclose his continuing practice of
+12 medicine and new professional contact information to any
+13 patient with a rare disorder as defined in accordance with
+14 the national organization for rare disorders, or a
+15 successor organization, to whom the physician was providing
+16 consultation or treatment before termination of the
+17 employment, partnership or corporate affiliation. Neither
+18 the physician nor the physician's employer shall be liable
+19 to any party to the prior agreement for damages alleged to
+20 have resulted from the disclosure or from the physician's
+21 treatment of the patient after termination of the prior
+22 agreement or employment, partnership or corporate
+23 affiliation.
+3 SF0107
+
+2025 STATE OF WYOMING 25LSO-0643
+1
+2 Section 2.
+3
+4 (a) This act shall apply to contracts entered into on
+5 and after July 1, 2025.
+6
+7 (b) Nothing in this act shall be construed to alter,
+8 amend or impair any contract or agreement entered into
+9 before July 1, 2025.
+10
+11 Section 3. This act is effective July 1, 2025.
+12
+13 (END)
+4 SF0107

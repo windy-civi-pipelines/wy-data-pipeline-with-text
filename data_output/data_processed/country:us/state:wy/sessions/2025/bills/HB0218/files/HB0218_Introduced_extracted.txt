@@ -1,0 +1,227 @@
+Title: HOUSE BILL NO. HB0218
+Official Title: HOUSE BILL NO. HB0218
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0394
+Public utilities-stays during resolution of lawsuits.
+Sponsored by: Representative(s) Locke, Allemand, Banks,
+Brown, G, Campbell, K, Heiner, Knapp, Lien,
+Riggins, Rodriguez-Williams, Strock and
+Styvar and Senator(s) Pearson and Steinmetz
+A BILL
+for
+1 AN ACT relating to public utilities; requiring stays of
+2 proceedings of the public service commission pending the
+3 resolution of lawsuits as specified; providing exemptions;
+4 making conforming amendments; specifying applicability; and
+5 providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 37-2-130 and 37-2-214 are amended to
+10 read:
+11
+12 37-2-130. Right of review; stay of proceedings.
+13
+1 HB0218
+2025 STATE OF WYOMING 25LSO-0394
+1 (a) Subject to subsections (b) and (c) of this
+2 section, a person adversely affected or aggrieved by any
+3 action, findings, conclusions or decision of the public
+4 service commission is entitled to judicial review thereof
+5 according to the procedures established by the Wyoming
+6 Administrative Procedure Act and the Wyoming Rules of
+7 Appellate Procedure. The standards to be applied, to
+8 judicial review proceedings, including scope of review,
+9 shall be those standards established in the Wyoming
+10 Administrative Procedure Act.
+11
+12 (b) If a public utility files a lawsuit that
+13 challenges or seeks judicial review under this section by
+14 challenging the constitutionality or legality of a
+15 provision of this act or of a rule, regulation or procedure
+16 of the commission, or that raises an argument under W.S.
+17 16-3-114(c)(ii)(A) through (D), the commission shall stay
+18 each request, application, rate case and any other matter
+19 that requires application or consideration of the
+20 challenged statute, rule, regulation or procedure until the
+21 lawsuit or judicial review is fully resolved and closed.
+22 This subsection shall apply to all requests, applications,
+23 rate cases and other matters before the commission impacted
+2 HB0218
+2025 STATE OF WYOMING 25LSO-0394
+1 by the challenged statute, rule, regulation or procedure or
+2 that requires the application of the challenged statute,
+3 rule, regulation or procedure, regardless of the party
+4 involved in the request, application, rate case or matter.
+5
+6 (c) Subsection (b) of this section shall not apply
+7 to:
+8
+9 (i) Any lawsuit or judicial review based on the
+10 commission's application of facts or evidence or resolution
+11 of disputed facts or evidence or based on an argument
+12 raised under W.S. 16-3-114(c)(ii)(E);
+13
+14 (ii) Any action that the commission begins and
+15 prosecutes for violations under W.S. 37-2-215.
+16
+17 37-2-214. Rehearing.
+18
+19 Subject to W.S. 37-2-130(b) and (c), at any time after
+20 an order has been made by the commission any person
+21 interested therein may apply for a rehearing in respect to
+22 any matter determined therein and the commission shall
+23 grant and hold a rehearing if in its judgment sufficient
+3 HB0218
+2025 STATE OF WYOMING 25LSO-0394
+1 reason therefor be made to appear, which rehearing shall be
+2 subject to rules as the commission may prescribe.
+3 Applications for rehearing shall stay the effect of any
+4 order or decision of the commission only as to the portion
+5 of the order addressed in the rehearing application until
+6 the commission denies the application or enters an order
+7 following rehearing, whichever last occurs, provided,
+8 however, that upon the request of any party and a showing
+9 of good cause therefor, the commission may vacate the stay
+10 and allow the order or decision to remain in effect. An
+11 order or decision made after the rehearing vacating,
+12 amending or modifying the original order or decision shall
+13 not, as to the matter considered on rehearing, be open to a
+14 further application for rehearing, and shall have the same
+15 force and effect as the original order or decision.
+16
+17 Section 2. This act shall apply to all requests,
+18 applications, rate cases and other matters filed with the
+19 public service commission for which litigation specified in
+20 this act has been filed before, on and after the effective
+21 date of this act.
+22
+4 HB0218
+2025 STATE OF WYOMING 25LSO-0394
+1 Section 3. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+5 HB0218
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0394
+HOUSE BILL NO. HB0218
+Public utilities-stays during resolution of lawsuits.
+Sponsored by: Representative(s) Locke, Allemand, Banks,
+Brown, G, Campbell, K, Heiner, Knapp, Lien,
+Riggins, Rodriguez-Williams, Strock and
+Styvar and Senator(s) Pearson and Steinmetz
+A BILL
+for
+1 AN ACT relating to public utilities; requiring stays of
+2 proceedings of the public service commission pending the
+3 resolution of lawsuits as specified; providing exemptions;
+4 making conforming amendments; specifying applicability; and
+5 providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 37-2-130 and 37-2-214 are amended to
+10 read:
+11
+12 37-2-130. Right of review; stay of proceedings.
+13
+1 HB0218
+
+2025 STATE OF WYOMING 25LSO-0394
+1 (a) Subject to subsections (b) and (c) of this
+2 section, a person adversely affected or aggrieved by any
+3 action, findings, conclusions or decision of the public
+4 service commission is entitled to judicial review thereof
+5 according to the procedures established by the Wyoming
+6 Administrative Procedure Act and the Wyoming Rules of
+7 Appellate Procedure. The standards to be applied, to
+8 judicial review proceedings, including scope of review,
+9 shall be those standards established in the Wyoming
+10 Administrative Procedure Act.
+11
+12 (b) If a public utility files a lawsuit that
+13 challenges or seeks judicial review under this section by
+14 challenging the constitutionality or legality of a
+15 provision of this act or of a rule, regulation or procedure
+16 of the commission, or that raises an argument under W.S.
+17 16-3-114(c)(ii)(A) through (D), the commission shall stay
+18 each request, application, rate case and any other matter
+19 that requires application or consideration of the
+20 challenged statute, rule, regulation or procedure until the
+21 lawsuit or judicial review is fully resolved and closed.
+22 This subsection shall apply to all requests, applications,
+23 rate cases and other matters before the commission impacted
+2 HB0218
+
+2025 STATE OF WYOMING 25LSO-0394
+1 by the challenged statute, rule, regulation or procedure or
+2 that requires the application of the challenged statute,
+3 rule, regulation or procedure, regardless of the party
+4 involved in the request, application, rate case or matter.
+5
+6 (c) Subsection (b) of this section shall not apply
+7 to:
+8
+9 (i) Any lawsuit or judicial review based on the
+10 commission's application of facts or evidence or resolution
+11 of disputed facts or evidence or based on an argument
+12 raised under W.S. 16-3-114(c)(ii)(E);
+13
+14 (ii) Any action that the commission begins and
+15 prosecutes for violations under W.S. 37-2-215.
+16
+17 37-2-214. Rehearing.
+18
+19 Subject to W.S. 37-2-130(b) and (c), at any time after
+20 an order has been made by the commission any person
+21 interested therein may apply for a rehearing in respect to
+22 any matter determined therein and the commission shall
+23 grant and hold a rehearing if in its judgment sufficient
+3 HB0218
+
+2025 STATE OF WYOMING 25LSO-0394
+1 reason therefor be made to appear, which rehearing shall be
+2 subject to rules as the commission may prescribe.
+3 Applications for rehearing shall stay the effect of any
+4 order or decision of the commission only as to the portion
+5 of the order addressed in the rehearing application until
+6 the commission denies the application or enters an order
+7 following rehearing, whichever last occurs, provided,
+8 however, that upon the request of any party and a showing
+9 of good cause therefor, the commission may vacate the stay
+10 and allow the order or decision to remain in effect. An
+11 order or decision made after the rehearing vacating,
+12 amending or modifying the original order or decision shall
+13 not, as to the matter considered on rehearing, be open to a
+14 further application for rehearing, and shall have the same
+15 force and effect as the original order or decision.
+16
+17 Section 2. This act shall apply to all requests,
+18 applications, rate cases and other matters filed with the
+19 public service commission for which litigation specified in
+20 this act has been filed before, on and after the effective
+21 date of this act.
+22
+4 HB0218
+
+2025 STATE OF WYOMING 25LSO-0394
+1 Section 3. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+5 HB0218

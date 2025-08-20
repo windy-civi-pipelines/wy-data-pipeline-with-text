@@ -1,0 +1,261 @@
+Title: Electricity production facilities on municipal property.
+Official Title: Electricity production facilities on municipal property.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0027
+SENATE FILE NO. SF0054
+Sponsored by: Joint Corporations, Elections & Political
+Subdivisions Interim Committee
+A BILL
+for
+1 AN ACT relating to cities and towns; clarifying that cities
+2 and towns are authorized to construct electricity
+3 production facilities; clarifying when revenue bonds can be
+4 issued for electricity production facilities; specifying
+5 that cities and towns operating electricity production
+6 facilities pursuant to an agreement are not public
+7 utilities; and providing for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 15-1-702(a)(intro), 15-7-101(a)(v),
+12 15-7-111 by creating a new subsection (c),
+13 37-1-101(a)(vi)(H)(II) and 37-16-101(a)(ii) are amended to
+14 read:
+15
+1 SF0054
+2025 STATE OF WYOMING 25LSO-0027
+1 15-1-702. Powers of municipalities and counties;
+2 limitations.
+3
+4 (a) Nothing in this article is intended, nor shall
+5 operate, to limit or restrict any governing body from
+6 carrying out its purposes and objectives through the
+7 exercise of powers otherwise granted by law. In addition to
+8 all other powers each municipality, county, and
+9 multi-county joint powers board has without any other
+10 authority the power to:
+11
+12 15-7-101. Purposes.
+13
+14 (a) In addition to all other powers provided by law,
+15 any city or town may make public improvements as follows
+16 for which bonds may be issued to the contractor or be sold
+17 as provided in this chapter to:
+18
+19 (v) Establish, construct, maintain and regulate
+20 electric light plants, and electric power plants to supply
+21 the inhabitants with electric lights and power, to light
+22 the streets, highways and public buildings, and supply
+2 SF0054
+2025 STATE OF WYOMING 25LSO-0027
+1 power for water works and other municipally owned works and
+2 utilities electricity generation facilities;
+3
+4 15-7-111. Bonds for municipal improvements;
+5 exception; procedure.
+6
+7 (c) In addition to all other powers provide by law
+8 and notwithstanding the municipal improvements authorized
+9 under subsection (a) of this section, any city or town may
+10 issue and sell revenue bonds for the purpose of creating,
+11 constructing, maintaining, expanding or improving
+12 electrical systems and any facilities located or to be
+13 located on property owned by a city or town for the
+14 wholesale generation, transmission or distribution of
+15 electrical energy. A city or town shall only operate
+16 electrical systems for wholesale energy production subject
+17 to agreement with the public utility that has the city or
+18 town or a portion of the city or town within the
+19 certificated service territory of the public utility. No
+20 revenue bonds shall be issued or sold for the purpose of
+21 purchasing or in any manner acquiring the ownership of an
+22 existing electrical system.
+23
+3 SF0054
+2025 STATE OF WYOMING 25LSO-0027
+1 37-1-101. Definitions.
+2
+3 (a) As used in chapters 1, 2, 3, 12, 17 and 18 of
+4 this title:
+5
+6 (vi) "Public utility" means and includes every
+7 person that owns, operates, leases, controls or has power
+8 to operate, lease or control:
+9
+10 (H) None of the provisions of this chapter
+11 shall apply to:
+12
+13 (II) Public utilities owned and
+14 operated by a municipality selling electricity at wholesale
+15 pursuant to a commission regulated agreement with a public
+16 utility as provided in W.S. 15-7-111(c) or to public
+17 utilities owned and operated by a municipality of the state
+18 of Wyoming or owned and operated by a joint powers entity
+19 formed pursuant to the Wyoming Joint Powers Act, W.S.
+20 16-1-102 through 16-1-110, and comprised of two (2) or more
+21 municipalities, except as to that portion of a municipality
+22 owned and operated public utility or joint powers entity
+23 owned and operated public utility, if any, as may extend
+4 SF0054
+2025 STATE OF WYOMING 25LSO-0027
+1 services outside the corporate limits of a municipality and
+2 except that if any municipal or joint powers utility owns
+3 an undivided interest in a facility for the production of
+4 electricity which is also partly owned by an agency subject
+5 to the jurisdiction of the public service commission, the
+6 sale of electricity in excess of the participating
+7 municipalities' or joint powers entities' need is subject
+8 to this act;
+9
+10 37-16-101. Definitions.
+11
+12 (a) As used in this chapter unless the context or a
+13 specific article otherwise requires:
+14
+15 (ii) "Customer-generator" means a user of a net
+16 metering system. "Customer-generator" shall not include a
+17 municipality operating electrical systems for wholesale
+18 energy production pursuant to an agreement with a public
+19 utility as provided in W.S. 15-7-111(c);
+20
+21 Section 2. This act is effective July 1, 2025.
+22
+23 (END)
+5 SF0054
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0027
+SENATE FILE NO. SF0054
+Electricity production facilities on municipal property.
+Sponsored by: Joint Corporations, Elections & Political
+Subdivisions Interim Committee
+A BILL
+for
+1 AN ACT relating to cities and towns; clarifying that cities
+2 and towns are authorized to construct electricity
+3 production facilities; clarifying when revenue bonds can be
+4 issued for electricity production facilities; specifying
+5 that cities and towns operating electricity production
+6 facilities pursuant to an agreement are not public
+7 utilities; and providing for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 15-1-702(a)(intro), 15-7-101(a)(v),
+12 15-7-111 by creating a new subsection (c),
+13 37-1-101(a)(vi)(H)(II) and 37-16-101(a)(ii) are amended to
+14 read:
+15
+1 SF0054
+
+2025 STATE OF WYOMING 25LSO-0027
+1 15-1-702. Powers of municipalities and counties;
+2 limitations.
+3
+4 (a) Nothing in this article is intended, nor shall
+5 operate, to limit or restrict any governing body from
+6 carrying out its purposes and objectives through the
+7 exercise of powers otherwise granted by law. In addition to
+8 all other powers each municipality, county, and
+9 multi-county joint powers board has without any other
+10 authority the power to:
+11
+12 15-7-101. Purposes.
+13
+14 (a) In addition to all other powers provided by law,
+15 any city or town may make public improvements as follows
+16 for which bonds may be issued to the contractor or be sold
+17 as provided in this chapter to:
+18
+19 (v) Establish, construct, maintain and regulate
+20 electric light plants, and electric power plants to supply
+21 the inhabitants with electric lights and power, to light
+22 the streets, highways and public buildings, and supply
+2 SF0054
+
+2025 STATE OF WYOMING 25LSO-0027
+1 power for water works and other municipally owned works and
+2 utilities electricity generation facilities;
+3
+4 15-7-111. Bonds for municipal improvements;
+5 exception; procedure.
+6
+7 (c) In addition to all other powers provide by law
+8 and notwithstanding the municipal improvements authorized
+9 under subsection (a) of this section, any city or town may
+10 issue and sell revenue bonds for the purpose of creating,
+11 constructing, maintaining, expanding or improving
+12 electrical systems and any facilities located or to be
+13 located on property owned by a city or town for the
+14 wholesale generation, transmission or distribution of
+15 electrical energy. A city or town shall only operate
+16 electrical systems for wholesale energy production subject
+17 to agreement with the public utility that has the city or
+18 town or a portion of the city or town within the
+19 certificated service territory of the public utility. No
+20 revenue bonds shall be issued or sold for the purpose of
+21 purchasing or in any manner acquiring the ownership of an
+22 existing electrical system.
+23
+3 SF0054
+
+2025 STATE OF WYOMING 25LSO-0027
+1 37-1-101. Definitions.
+2
+3 (a) As used in chapters 1, 2, 3, 12, 17 and 18 of
+4 this title:
+5
+6 (vi) "Public utility" means and includes every
+7 person that owns, operates, leases, controls or has power
+8 to operate, lease or control:
+9
+10 (H) None of the provisions of this chapter
+11 shall apply to:
+12
+13 (II) Public utilities owned and
+14 operated by a municipality selling electricity at wholesale
+15 pursuant to a commission regulated agreement with a public
+16 utility as provided in W.S. 15-7-111(c) or to public
+17 utilities owned and operated by a municipality of the state
+18 of Wyoming or owned and operated by a joint powers entity
+19 formed pursuant to the Wyoming Joint Powers Act, W.S.
+20 16-1-102 through 16-1-110, and comprised of two (2) or more
+21 municipalities, except as to that portion of a municipality
+22 owned and operated public utility or joint powers entity
+23 owned and operated public utility, if any, as may extend
+4 SF0054
+
+2025 STATE OF WYOMING 25LSO-0027
+1 services outside the corporate limits of a municipality and
+2 except that if any municipal or joint powers utility owns
+3 an undivided interest in a facility for the production of
+4 electricity which is also partly owned by an agency subject
+5 to the jurisdiction of the public service commission, the
+6 sale of electricity in excess of the participating
+7 municipalities' or joint powers entities' need is subject
+8 to this act;
+9
+10 37-16-101. Definitions.
+11
+12 (a) As used in this chapter unless the context or a
+13 specific article otherwise requires:
+14
+15 (ii) "Customer-generator" means a user of a net
+16 metering system. "Customer-generator" shall not include a
+17 municipality operating electrical systems for wholesale
+18 energy production pursuant to an agreement with a public
+19 utility as provided in W.S. 15-7-111(c);
+20
+21 Section 2. This act is effective July 1, 2025.
+22
+23 (END)
+5 SF0054

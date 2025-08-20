@@ -1,0 +1,41 @@
+Title: 1 Page 1-line 12 After "Unless" delete "the" and insert "a
+Official Title: 1 Page 1-line 12 After "Unless" delete "the" and insert "a
+Number of Sections: 1
+Source: versions - Amendment HB0227H2001 (2nd reading) - Representative Chestek (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0227H2001
+2 newly elected".
+3
+4 Page 1-line 14 Delete entirely, including the House standing
+5 committee amendment (HB0227HS001/A) to this
+6 line.
+7
+8 Page 2-line 1 Delete entirely, including the House standing
+9 committee amendment (HB0227HS001/A) to this
+10 line and insert "the previous governor of this
+11 state shall expire thirty (30) days after the
+12 previous governor". CHESTEK
+1
+
+
+================================================================================
+
+Raw Text:
+HB0227H2001
+1 Page 1-line 12 After "Unless" delete "the" and insert "a
+2 newly elected".
+3
+4 Page 1-line 14 Delete entirely, including the House standing
+5 committee amendment (HB0227HS001/A) to this
+6 line.
+7
+8 Page 2-line 1 Delete entirely, including the House standing
+9 committee amendment (HB0227HS001/A) to this
+10 line and insert "the previous governor of this
+11 state shall expire thirty (30) days after the
+12 previous governor". CHESTEK
+1

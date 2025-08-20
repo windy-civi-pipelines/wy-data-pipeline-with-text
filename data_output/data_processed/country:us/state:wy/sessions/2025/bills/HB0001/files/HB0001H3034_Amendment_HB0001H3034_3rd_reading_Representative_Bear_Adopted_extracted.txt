@@ -1,0 +1,233 @@
+Title: 1 Page 1-line 9 After "repayments;" insert "providing for
+Official Title: 1 Page 1-line 9 After "repayments;" insert "providing for
+Number of Sections: 3
+Source: versions - Amendment HB0001H3034 (3rd reading) - Representative Bear (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0001H3034
+[BUDGET(s) AFFECTED]
+
+Section 2:
+Section Under Consideration:
+
+Section 3:
+Section 351. [ADDITIONS TO 300 SECTIONS]
+* * * * * * * * * *
+2 supplemental payments to local governments and
+3 political subdivisions;".
+4
+5 Page 84-after line 15 Insert:
+6
+7 "[LOCAL GOVERNMENT PROPERTY TAX GRANTS]
+8
+9 Section 351.
+10
+11 (a) There is appropriated seventy-two million dollars
+12 ($72,000,000.00) from the general fund to the department of revenue
+13 to be expended only for payments to qualifying counties under this
+14 section. This appropriation shall not be transferred or expended
+15 for any other purpose. Notwithstanding W.S. 9-2-1008, 9-2-1012(e)
+16 and 9-4-207, any unexpended, unobligated funds remaining from this
+17 appropriation shall not revert until June 30, 2027. It is the
+18 intent of the legislature that this appropriation not be included
+19 in the standard budget of the department of revenue for the
+20 immediately succeeding fiscal biennium.
+21
+22 (b) The department of revenue shall establish a grant
+23 application and program for distribution of the funds appropriated
+24 in subsection (a) of this section and as specified in this
+25 subsection. Not more than one-half (1/2) of the amount appropriated
+26 in subsection (a) of this section may be distributed for purposes
+27 of restoring revenue attributable to any reduction in residential
+28 property tax assessments from tax year 2025. Any remaining funds
+29 from the appropriation in subsection (a) of this section shall be
+30 available for distribution for purposes of restoring revenue
+31 attributable to any reduction in residential property tax
+32 assessments from tax year 2026.
+33
+34 (c) The following shall apply to grants made under this
+35 section:
+36
+1
+1 (i) No school district shall qualify for a grant under
+2 this section;
+3
+4 (ii) Subject to paragraph (iii) of this subsection, only
+5 counties, cities and towns that are, or are located within, the
+6 counties with the eight (8) lowest total assessed valuations for
+7 the current tax year, as certified by the department of revenue,
+8 shall qualify for grants under this section;
+9
+10 (iii) Only counties, cities and towns within the
+11 counties qualifying under paragraph (ii) of this subsection that
+12 also each impose the maximum statutory mill levy authorized to be
+13 imposed by the applicable governing board shall qualify for grants
+14 under this section;
+15
+16 (iv) Any special district that also imposes the maximum
+17 statutory mill levy authorized to be imposed by the applicable
+18 governing board shall qualify for grants under this section.
+19
+20 (d) Counties qualified under subsection (c) of this section
+21 and any special district located outside of a county qualified
+22 under subsection (c) of this section shall prepare a grant
+23 application to the department of revenue on behalf of the county
+24 and all cities, towns and qualifying special districts in the
+25 county. If awarded grant funds under this section, the county shall
+26 distribute the funds in proportion to the demonstrated reduction
+27 in residential property tax assessments as compared to tax year
+28 2024 and directly attributable to legislation exempting or
+29 otherwise reducing residential property tax assessments enacted
+30 during the 2025 general session.
+31
+32 (e) Grants awarded under this section shall not exceed an
+33 amount equal to seventy-five percent (75%) of the demonstrated
+34 reduction of residential property tax assessments as compared to
+35 tax year 2024 and directly attributable to legislation exempting
+36 or otherwise reducing residential property tax assessments enacted
+37 during the 2025 general session. If funds appropriated under
+38 subsection (a) of this section and allocated for tax years 2025
+39 and 2026 are insufficient to restore the demonstrated reduced
+40 residential property tax assessments under this section, the
+41 department of revenue shall make the grant awards on a pro rata
+42 basis.
+43
+44 (f) The department of revenue shall administer the program
+45 under this section and shall promulgate all rules necessary to
+46 implement this section.
+47
+2
+1 (g) This section shall only be effective if:
+2
+3 (i) At least one (1) of 2025 House Bill 0130, 2025 House
+4 Bill 0169, 2025 House Bill 0282, 2025 House Bill 0290, 2025 House
+5 Bill 0328, 2025 Senate File 0069, 2025 Senate File 0136, 2025
+6 Senate File 0153, 2025 Senate File 0161 or 2025 Senate File 0182
+7 is enacted into law; and
+8
+9 (ii) Within any of the bills specified in paragraph (i)
+10 of this subsection that are enacted into law, there is no provision
+11 providing compensation to local governments for the reduction of
+12 residential property taxes resulting from the enactment of the
+13 bills.".
+14
+15 To the extent required by this amendment: adjust totals; and
+16 renumber as necessary. BEAR
+3
+
+
+================================================================================
+
+Raw Text:
+HB0001H3034
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 351. [ADDITIONS TO 300 SECTIONS]
+* * * * * * * * * *
+1 Page 1-line 9 After "repayments;" insert "providing for
+2 supplemental payments to local governments and
+3 political subdivisions;".
+4
+5 Page 84-after line 15 Insert:
+6
+7 "[LOCAL GOVERNMENT PROPERTY TAX GRANTS]
+8
+9 Section 351.
+10
+11 (a) There is appropriated seventy-two million dollars
+12 ($72,000,000.00) from the general fund to the department of revenue
+13 to be expended only for payments to qualifying counties under this
+14 section. This appropriation shall not be transferred or expended
+15 for any other purpose. Notwithstanding W.S. 9-2-1008, 9-2-1012(e)
+16 and 9-4-207, any unexpended, unobligated funds remaining from this
+17 appropriation shall not revert until June 30, 2027. It is the
+18 intent of the legislature that this appropriation not be included
+19 in the standard budget of the department of revenue for the
+20 immediately succeeding fiscal biennium.
+21
+22 (b) The department of revenue shall establish a grant
+23 application and program for distribution of the funds appropriated
+24 in subsection (a) of this section and as specified in this
+25 subsection. Not more than one-half (1/2) of the amount appropriated
+26 in subsection (a) of this section may be distributed for purposes
+27 of restoring revenue attributable to any reduction in residential
+28 property tax assessments from tax year 2025. Any remaining funds
+29 from the appropriation in subsection (a) of this section shall be
+30 available for distribution for purposes of restoring revenue
+31 attributable to any reduction in residential property tax
+32 assessments from tax year 2026.
+33
+34 (c) The following shall apply to grants made under this
+35 section:
+36
+1
+
+1 (i) No school district shall qualify for a grant under
+2 this section;
+3
+4 (ii) Subject to paragraph (iii) of this subsection, only
+5 counties, cities and towns that are, or are located within, the
+6 counties with the eight (8) lowest total assessed valuations for
+7 the current tax year, as certified by the department of revenue,
+8 shall qualify for grants under this section;
+9
+10 (iii) Only counties, cities and towns within the
+11 counties qualifying under paragraph (ii) of this subsection that
+12 also each impose the maximum statutory mill levy authorized to be
+13 imposed by the applicable governing board shall qualify for grants
+14 under this section;
+15
+16 (iv) Any special district that also imposes the maximum
+17 statutory mill levy authorized to be imposed by the applicable
+18 governing board shall qualify for grants under this section.
+19
+20 (d) Counties qualified under subsection (c) of this section
+21 and any special district located outside of a county qualified
+22 under subsection (c) of this section shall prepare a grant
+23 application to the department of revenue on behalf of the county
+24 and all cities, towns and qualifying special districts in the
+25 county. If awarded grant funds under this section, the county shall
+26 distribute the funds in proportion to the demonstrated reduction
+27 in residential property tax assessments as compared to tax year
+28 2024 and directly attributable to legislation exempting or
+29 otherwise reducing residential property tax assessments enacted
+30 during the 2025 general session.
+31
+32 (e) Grants awarded under this section shall not exceed an
+33 amount equal to seventy-five percent (75%) of the demonstrated
+34 reduction of residential property tax assessments as compared to
+35 tax year 2024 and directly attributable to legislation exempting
+36 or otherwise reducing residential property tax assessments enacted
+37 during the 2025 general session. If funds appropriated under
+38 subsection (a) of this section and allocated for tax years 2025
+39 and 2026 are insufficient to restore the demonstrated reduced
+40 residential property tax assessments under this section, the
+41 department of revenue shall make the grant awards on a pro rata
+42 basis.
+43
+44 (f) The department of revenue shall administer the program
+45 under this section and shall promulgate all rules necessary to
+46 implement this section.
+47
+2
+
+1 (g) This section shall only be effective if:
+2
+3 (i) At least one (1) of 2025 House Bill 0130, 2025 House
+4 Bill 0169, 2025 House Bill 0282, 2025 House Bill 0290, 2025 House
+5 Bill 0328, 2025 Senate File 0069, 2025 Senate File 0136, 2025
+6 Senate File 0153, 2025 Senate File 0161 or 2025 Senate File 0182
+7 is enacted into law; and
+8
+9 (ii) Within any of the bills specified in paragraph (i)
+10 of this subsection that are enacted into law, there is no provision
+11 providing compensation to local governments for the reduction of
+12 residential property taxes resulting from the enactment of the
+13 bills.".
+14
+15 To the extent required by this amendment: adjust totals; and
+16 renumber as necessary. BEAR
+3

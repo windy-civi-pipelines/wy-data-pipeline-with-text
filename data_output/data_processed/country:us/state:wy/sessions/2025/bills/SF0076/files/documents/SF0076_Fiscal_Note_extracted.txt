@@ -1,0 +1,85 @@
+Title: Protecting critical infrastructure from 25LSO-0163, 1.0
+Official Title: Protecting critical infrastructure from 25LSO-0163, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+foreign adversaries.
+FISCAL NOTE
+This bill contains an appropriation of $209,800 from the GENERAL FUND to the
+Office of Homeland Security. This appropriation is effective immediately.
+This bill contains an authorization of up to 2 full-time positions.
+DETAIL OF APPROPRIATION
+Agency #: 001A Agency Name: Office of Homeland Security
+Unit: (new) Critical Infrastructure
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $0 $209,800 $0
+Total Expenditure Per Year: $0 $209,800 $0
+Grand Total Expenditure: $209,800
+Total Appropriated to Agency: $209,800
+Total Appropriated by Fund:
+GENERAL FUND $209,800
+Description of appropriation:
+The appropriation will be utilized to hire 2 additional critical infrastructure
+protection personnel.
+The fiscal impact to the Attorney General’s Office, Division of Criminal
+Investigation (DCI) in indeterminable. The DCI does not know the volume of
+investigations that may come from The Wyoming Office of Homeland Security (WOHS).
+The DCI cannot estimate the number of investigations, the length of time for
+those investigations, nor the resources that will be required.
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Office of Homeland Security
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Lynn Budd, Office of Homeland Security, 777-8511;
+Steven Winders, Attorney General's Office, 777-7840)
+SF0076
+
+
+================================================================================
+
+Raw Text:
+Protecting critical infrastructure from 25LSO-0163, 1.0
+foreign adversaries.
+FISCAL NOTE
+This bill contains an appropriation of $209,800 from the GENERAL FUND to the
+Office of Homeland Security. This appropriation is effective immediately.
+This bill contains an authorization of up to 2 full-time positions.
+DETAIL OF APPROPRIATION
+Agency #: 001A Agency Name: Office of Homeland Security
+Unit: (new) Critical Infrastructure
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $0 $209,800 $0
+Total Expenditure Per Year: $0 $209,800 $0
+Grand Total Expenditure: $209,800
+Total Appropriated to Agency: $209,800
+Total Appropriated by Fund:
+GENERAL FUND $209,800
+Description of appropriation:
+The appropriation will be utilized to hire 2 additional critical infrastructure
+protection personnel.
+The fiscal impact to the Attorney General’s Office, Division of Criminal
+Investigation (DCI) in indeterminable. The DCI does not know the volume of
+investigations that may come from The Wyoming Office of Homeland Security (WOHS).
+The DCI cannot estimate the number of investigations, the length of time for
+those investigations, nor the resources that will be required.
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Office of Homeland Security
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Lynn Budd, Office of Homeland Security, 777-8511;
+Steven Winders, Attorney General's Office, 777-7840)
+SF0076

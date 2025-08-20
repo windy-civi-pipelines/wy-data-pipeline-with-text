@@ -1,0 +1,89 @@
+Title: Sponsored By: Senator(s) Driskill, Anderson, Case, Cooper,
+Official Title: Sponsored By: Senator(s) Driskill, Anderson, Case, Cooper,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0144 Wyoming-Ireland Trade Commission.
+Dockstader, Olsen and Schuler and Representative(s)
+Clouston, Geringer and Wylie
+AN ACT relating to economic development; establishing the Wyoming-Ireland Trade
+Commission; providing for the purposes, membership, and operation of the
+commission; amending a definition; and providing for an effective date.
+1/20/2025 Bill Number Assigned
+1/20/2025 S Received for Introduction
+1/23/2025 S Introduced and Referred to S09 - Minerals
+1/28/2025 S09 - Minerals:Recommend Amend and Do Pass 4-0-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Cooper, Jones, Rothfuss
+Excused: Senator Nethercott
+Ayes 4 Nays 0 Excused 1 Absent 0 Conflicts 0
+1/28/2025 S Placed on General File
+SF0144SS001/FAILED
+Page 5-line 8 After "furnished by the" insert "Wyoming business".
+ANDERSON, CHAIRMAN
+1/30/2025 S COW:Passed
+1/31/2025 S 2nd Reading:Passed
+2/3/2025 S 3rd Reading:Passed 23-8-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, Gierau, Hicks, Jones, Landen, Laursen,
+Mckeown, Nethercott, Olsen, Pappas, Rothfuss, Salazar, Schuler
+Nays: Senator(s) French, Hutchings, Ide, Kolb, Pearson, Scott, Smith, Steinmetz
+Ayes 23 Nays 8 Excused 0 Absent 0 Conflicts 0
+2/3/2025 H Received for Introduction
+2/20/2025 H Introduced and Referred to H09 - Minerals
+2/25/2025 :Rerefer to H06 - Travel
+2/27/2025 H06 - Travel:Recommend Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Byron, Campbell, Connolly, Harshman, Jarvis, Provenza,
+Storer, Thayer, Wharff
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/27/2025 H Placed on General File
+2/28/2025 H COW:H Did not consider for COW
+
+
+================================================================================
+
+Raw Text:
+SF0144 Wyoming-Ireland Trade Commission.
+Sponsored By: Senator(s) Driskill, Anderson, Case, Cooper,
+Dockstader, Olsen and Schuler and Representative(s)
+Clouston, Geringer and Wylie
+AN ACT relating to economic development; establishing the Wyoming-Ireland Trade
+Commission; providing for the purposes, membership, and operation of the
+commission; amending a definition; and providing for an effective date.
+1/20/2025 Bill Number Assigned
+1/20/2025 S Received for Introduction
+1/23/2025 S Introduced and Referred to S09 - Minerals
+1/28/2025 S09 - Minerals:Recommend Amend and Do Pass 4-0-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Cooper, Jones, Rothfuss
+Excused: Senator Nethercott
+Ayes 4 Nays 0 Excused 1 Absent 0 Conflicts 0
+1/28/2025 S Placed on General File
+SF0144SS001/FAILED
+Page 5-line 8 After "furnished by the" insert "Wyoming business".
+ANDERSON, CHAIRMAN
+1/30/2025 S COW:Passed
+1/31/2025 S 2nd Reading:Passed
+2/3/2025 S 3rd Reading:Passed 23-8-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, Gierau, Hicks, Jones, Landen, Laursen,
+Mckeown, Nethercott, Olsen, Pappas, Rothfuss, Salazar, Schuler
+Nays: Senator(s) French, Hutchings, Ide, Kolb, Pearson, Scott, Smith, Steinmetz
+Ayes 23 Nays 8 Excused 0 Absent 0 Conflicts 0
+2/3/2025 H Received for Introduction
+2/20/2025 H Introduced and Referred to H09 - Minerals
+2/25/2025 :Rerefer to H06 - Travel
+2/27/2025 H06 - Travel:Recommend Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Byron, Campbell, Connolly, Harshman, Jarvis, Provenza,
+Storer, Thayer, Wharff
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/27/2025 H Placed on General File
+2/28/2025 H COW:H Did not consider for COW

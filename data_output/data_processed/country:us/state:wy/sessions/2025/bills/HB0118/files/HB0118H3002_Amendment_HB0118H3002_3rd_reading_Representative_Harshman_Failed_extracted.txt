@@ -1,0 +1,51 @@
+Title: 1 Page 1-above line 1 In the catch title, after "government"
+Official Title: 1 Page 1-above line 1 In the catch title, after "government"
+Number of Sections: 1
+Source: versions - Amendment HB0118H3002 (3rd reading) - Representative Harshman (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0118H3002
+2 insert "and nonprofit corporations".
+3
+4 Page 1-line 3 After "government" insert "and nonprofit
+5 corporations".
+6
+7 Page 1-line 11 After "States" insert "and nonprofit
+8 corporations".
+9
+10 Page 2-line 10 After "States" insert "or a nonprofit
+11 corporation".
+12
+13 Page 5-line 6 After "government" insert "or a nonprofit
+14 corporation".
+15
+16 Page 5-line 11 After "government" insert "or a nonprofit
+17 corporation". HARSHMAN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0118H3002
+1 Page 1-above line 1 In the catch title, after "government"
+2 insert "and nonprofit corporations".
+3
+4 Page 1-line 3 After "government" insert "and nonprofit
+5 corporations".
+6
+7 Page 1-line 11 After "States" insert "and nonprofit
+8 corporations".
+9
+10 Page 2-line 10 After "States" insert "or a nonprofit
+11 corporation".
+12
+13 Page 5-line 6 After "government" insert "or a nonprofit
+14 corporation".
+15
+16 Page 5-line 11 After "government" insert "or a nonprofit
+17 corporation". HARSHMAN
+1

@@ -1,0 +1,41 @@
+Title: 1 Page 1-line 9 After "service;" insert "amending the price
+Official Title: 1 Page 1-line 9 After "service;" insert "amending the price
+Number of Sections: 1
+Source: versions - Amendment SF0051SW001 (Committee of the Whole) - Senator Case (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0051SW001
+2 benchmark and credit requirements for the
+3 universal service fund;".
+4
+5 Page 20-line 20 After "fund" insert ", provided that the
+6 credit is given only to one (1) line for each
+7 customer or household".
+8
+9 Page 22-line 20 Strike "thirty dollars".
+10
+11 Page 22-line 21 Strike "($30.00)" and insert "forty dollars
+12 ($40.00)". CASE
+1
+
+
+================================================================================
+
+Raw Text:
+SF0051SW001
+1 Page 1-line 9 After "service;" insert "amending the price
+2 benchmark and credit requirements for the
+3 universal service fund;".
+4
+5 Page 20-line 20 After "fund" insert ", provided that the
+6 credit is given only to one (1) line for each
+7 customer or household".
+8
+9 Page 22-line 20 Strike "thirty dollars".
+10
+11 Page 22-line 21 Strike "($30.00)" and insert "forty dollars
+12 ($40.00)". CASE
+1

@@ -1,0 +1,91 @@
+Title: Source of revenue (decrease) and expenditure increase:
+Official Title: Source of revenue (decrease) and expenditure increase:
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Bear coupons-game and fish. 25LSO-0449, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+GAME & FISH FUND ($112,025) ($224,050) ($112,025)
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+GAME & FISH FUND $33,073 $29,660 $0
+This bill requires each resident elk license issued for calendar years 2026 and
+2027 in a hunt area that is entirely outside the greater Yellowstone ecosystem
+recovery zone established by the United States Fish and Wildlife Services to include
+a bear coupon at no cost.
+Programming changes to the Game and Fish licensing system will be required to ensure
+bear coupons are attached to each resident elk license issued outside the greater
+Yellowstone ecosystem recovery zone for calendar years 2026 and 2027.
+Assumptions:
+The Game and Fish Department indicates 4,767 resident black bear license holders
+also have a resident elk license, resulting in a revenue decrease in the form of
+resident bear license fees to the Game and Fish Fund for calendar years 2026 and
+2027 in the amount of $224,050 each year.
+The Game and Fish Department estimates it will take approximately 56 hours of
+programming time at the rate of $60.95 per hour to modify the licensing system to
+accommodate the changes to attach bear coupons to resident elk licenses, resulting
+in an estimated expenditure increase of $3,413 from the Game and Fish Fund.
+The Game and Fish Department also indicates different print stock paper will be
+required for resident elk licenses and the current paper stock is perforated to
+only accommodate two coupons and adding an additional coupon will likely require
+new stock to be configured and delivered before modifications to the print layout,
+resulting in an estimated expenditure increase of $29,660, annually, from the Game
+and Fish Fund.
+The expenditure increases reflected above could be considered an administrative
+cost. However, for simplicity and to follow consistent practice on legislation of
+this type, it is included on the fiscal note.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Meredith Wood, Game and Fish Department, 777-4618)
+HB0186
+
+
+================================================================================
+
+Raw Text:
+Bear coupons-game and fish. 25LSO-0449, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+GAME & FISH FUND ($112,025) ($224,050) ($112,025)
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+GAME & FISH FUND $33,073 $29,660 $0
+Source of revenue (decrease) and expenditure increase:
+This bill requires each resident elk license issued for calendar years 2026 and
+2027 in a hunt area that is entirely outside the greater Yellowstone ecosystem
+recovery zone established by the United States Fish and Wildlife Services to include
+a bear coupon at no cost.
+Programming changes to the Game and Fish licensing system will be required to ensure
+bear coupons are attached to each resident elk license issued outside the greater
+Yellowstone ecosystem recovery zone for calendar years 2026 and 2027.
+Assumptions:
+The Game and Fish Department indicates 4,767 resident black bear license holders
+also have a resident elk license, resulting in a revenue decrease in the form of
+resident bear license fees to the Game and Fish Fund for calendar years 2026 and
+2027 in the amount of $224,050 each year.
+The Game and Fish Department estimates it will take approximately 56 hours of
+programming time at the rate of $60.95 per hour to modify the licensing system to
+accommodate the changes to attach bear coupons to resident elk licenses, resulting
+in an estimated expenditure increase of $3,413 from the Game and Fish Fund.
+The Game and Fish Department also indicates different print stock paper will be
+required for resident elk licenses and the current paper stock is perforated to
+only accommodate two coupons and adding an additional coupon will likely require
+new stock to be configured and delivered before modifications to the print layout,
+resulting in an estimated expenditure increase of $29,660, annually, from the Game
+and Fish Fund.
+The expenditure increases reflected above could be considered an administrative
+cost. However, for simplicity and to follow consistent practice on legislation of
+this type, it is included on the fiscal note.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Meredith Wood, Game and Fish Department, 777-4618)
+HB0186

@@ -1,0 +1,574 @@
+Title: HOUSE BILL NO. HB0043
+Official Title: HOUSE BILL NO. HB0043
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0269
+Age verification for websites with harmful material.
+Sponsored by: Representative(s) Lawley, Andrew, Angelos,
+Connolly, Heiner, Knapp, Larson, JT and
+Neiman and Senator(s) Brennan, Crago, Jones,
+Olsen and Steinmetz
+A BILL
+for
+1 AN ACT relating to child protection; requiring age
+2 verification for visiting websites with material harmful to
+3 minors; specifying requirements and exceptions for age
+4 verification; specifying remedies, liability and damages;
+5 specifying applicability; and providing for an effective
+6 date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 14-3-501 through 14-3-504 are created
+11 to read:
+12
+13 ARTICLE 5
+14 AGE VERIFICATION FOR WEBSITES WITH OBSCENE MATERIAL
+1 HB0043
+2025 STATE OF WYOMING 25LSO-0269
+1
+2 14-3-501. Definitions.
+3
+4 (a) As used in this article:
+5
+6 (i) "Access software provider" means a provider
+7 of software, including client or server software, or
+8 enabling tools that do any one (1) or more of the
+9 following:
+10
+11 (A) Filter, screen, allow or disallow
+12 content;
+13
+14 (B) Pick, choose, analyze or digest
+15 content;
+16
+17 (C) Transmit, receive, display, forward,
+18 cache, search, subset, organize, reorganize or translate
+19 content.
+20
+21 (ii) "Child pornography" means as defined by
+22 W.S. 6-4-303(a)(ii);
+23
+2 HB0043
+2025 STATE OF WYOMING 25LSO-0269
+1 (iii) "Covered platform" means an entity that
+2 operates a website that, in the regular course of business,
+3 creates, hosts or makes available content that is material
+4 harmful to minors that is provided by the entity, a user or
+5 other information content provider for purposes of making a
+6 profit. "Covered platform" includes an entity described in
+7 this paragraph regardless of whether the entity:
+8
+9 (A) Earns a profit on the activities
+10 described in this paragraph; or
+11
+12 (B) Creates, hosts, or makes available
+13 content that is material harmful to minors as the sole
+14 source of income or principal business of the entity.
+15
+16 (iv) "Interactive computer service" means any
+17 information service, system or access software provider
+18 that provides or enables computer access by multiple users
+19 to a computer server, including specifically a service or
+20 system that provides access to the internet and systems
+21 operated or services offered by libraries or educational
+22 institutions;
+23
+3 HB0043
+2025 STATE OF WYOMING 25LSO-0269
+1 (v) "Information content provider" means any
+2 person that is responsible, in whole or in part, for the
+3 creation or development of information provided through the
+4 internet or any other interactive computer service;
+5
+6 (vi) "Material harmful to minors" means any
+7 picture, image, graphic image file, film, videotape or
+8 other visual depiction that is obscene or is child
+9 pornography;
+10
+11 (vii) "Minor" means a person who has not
+12 attained the age of eighteen (18) years;
+13
+14 (viii) "Obscene" means as defined by W.S.
+15 6-4-301(a)(iii);
+16
+17 (ix) "Reasonable age verification measures"
+18 include:
+19
+20 (A) A Wyoming driver's license as defined
+21 by W.S. 31-7-102(a)(xxv);
+22
+4 HB0043
+2025 STATE OF WYOMING 25LSO-0269
+1 (B) A Wyoming identification card issued
+2 under W.S. 31-8-101;
+3
+4 (C) A valid United States passport;
+5
+6 (D) A United States military card;
+7
+8 (E) A tribal identification card;
+9
+10 (F) A driver's license or identification
+11 card issued by any state or outlying possession of the
+12 United States;
+13
+14 (G) A credit card, except for cards that do
+15 not require the person in ownership of the credit card
+16 account to be eighteen (18) years of age or older;
+17
+18 (H) A debit card, except for cards that do
+19 not require the person in ownership of the debit card
+20 account to be eighteen (18) years of age or older;
+21
+5 HB0043
+2025 STATE OF WYOMING 25LSO-0269
+1 (J) Any other means or method that reliably
+2 and accurately can determine whether a user of a covered
+3 platform is a minor.
+4
+5 14-3-502. Covered platforms with material harmful to
+6 minors; age verification; exceptions.
+7
+8 (a) Except as otherwise provided in W.S. 14-3-504,
+9 any covered platform shall perform reasonable age
+10 verification methods to verify the age of all persons
+11 accessing or attempting to access the material and shall
+12 prevent access by minors to the material.
+13
+14 (b) Any covered platform or third party that performs
+15 the required age verification shall not retain any
+16 identifying information of the person after access has been
+17 granted to the material.
+18
+19 14-3-503. Covered platforms; age verification;
+20 liability; limitations.
+21
+22 (a) Any parent or guardian of a minor who is
+23 aggrieved by a violation of W.S. 14-3-502 shall have a
+6 HB0043
+2025 STATE OF WYOMING 25LSO-0269
+1 cause of action on the minor's behalf against the covered
+2 platform that violated W.S. 14-3-502.
+3
+4 (b) Any person may bring a civil action against a
+5 covered platform for knowingly retaining identifying
+6 information of the person after access to the material
+7 harmful to minors has been granted to the person in
+8 violation of W.S. 14-3-502.
+9
+10 (c) Any covered platform that violates W.S. 14-3-502
+11 shall be liable to a person for damages, including those
+12 defined in this section, court costs and reasonable
+13 attorney fees.
+14
+15 (d) A covered platform that is found to have
+16 knowingly retained identifying information of a person in
+17 violation of W.S. 14-3-502(b) after access to the covered
+18 platform has been granted to the person shall be liable to
+19 the person for damages for retaining the identifying
+20 information, including court costs and reasonable attorney
+21 fees.
+22
+7 HB0043
+2025 STATE OF WYOMING 25LSO-0269
+1 (e) A plaintiff who brings a successful cause of
+2 action under subsection (a) of this section shall, in
+3 addition to the damages specified in subsection (c) of this
+4 section, receive damages in an amount of five thousand
+5 dollars ($5,000.00) for each instance that the covered
+6 platform failed to perform reasonable age verification
+7 methods to restrict a minor's access to material harmful to
+8 minors. For purposes of this subsection, each failure to
+9 perform age verification shall constitute a separate
+10 violation.
+11
+12 (f) A person may bring an action under this section
+13 regardless of whether another court has declared any
+14 provision of this article unconstitutional unless that
+15 court decision is binding on the court in which the action
+16 is brought.
+17
+18 (g) For purposes of causes of action under this
+19 section, nonmutual issue preclusion and nonmutual claim
+20 preclusion are not defenses to an action brought under this
+21 section.
+22
+23 (h) Notwithstanding any other provision of law:
+8 HB0043
+2025 STATE OF WYOMING 25LSO-0269
+1
+2 (i) Violations of W.S. 14-3-502 shall be
+3 enforced exclusively through the civil actions provided in
+4 this section;
+5
+6 (ii) No direct or indirect enforcement of this
+7 article shall be taken or threatened by the state or any
+8 other political subdivision of the state against any person
+9 in any manner whatsoever except as provided in this
+10 section.
+11
+12 (j) Except as provided in subsection (k) of this
+13 section, any waiver, purported waiver or estoppel of a
+14 person's right to bring an action as provided under this
+15 section shall be void as unlawful and against public
+16 policy. No court or arbitrator shall enforce or give effect
+17 to a waiver or estoppel, notwithstanding any choice-of-law
+18 provision or other provision in any contract or other
+19 agreement.
+20
+21 (k) The prohibition in subsection (j) of this section
+22 shall not apply to contractual waivers to the extent that
+23 the application of the prohibition in subsection (j) of
+9 HB0043
+2025 STATE OF WYOMING 25LSO-0269
+1 this section would impair a contract or contract obligation
+2 in violation of the constitutions of the United States or
+3 Wyoming.
+4
+5 14-3-504. Covered platforms; age verification;
+6 applicability and exceptions.
+7
+8 (a) This article shall apply only to minors who:
+9
+10 (i) Are permanent residents of Wyoming;
+11
+12 (ii) Have resided in Wyoming for more than one
+13 (1) year; or
+14
+15 (iii) Have been sojourning or present in Wyoming
+16 for not less than thirty-one (31) consecutive days.
+17
+18 (b) This article shall not:
+19
+20 (i) Apply to any internet service provider, any
+21 affiliate or subsidiary of an internet service provider,
+22 any general purpose search engine or cloud service
+23 provider;
+10 HB0043
+2025 STATE OF WYOMING 25LSO-0269
+1
+2 (ii) Subject a covered platform to any cause of
+3 action or liability to the extent the covered platform is
+4 protected from liability or causes of action under federal
+5 law;
+6
+7 (iii) Excuse any person from any other legal
+8 duties arising from compliance with this article or relieve
+9 any person from any other available legal remedies;
+10
+11 (iv) Apply in cases to the extent the article
+12 would violate the commerce clause of the United States
+13 Constitution.
+14
+15 (c) Any contract, agreement or other arrangement made
+16 or entered in violation of this article shall be contrary
+17 to law and public policy and shall be void and
+18 unenforceable.
+19
+20 Section 2. Nothing in this act shall be construed to
+21 impair or alter any contract, obligation or other agreement
+22 entered into before the effective date of this act.
+23
+11 HB0043
+2025 STATE OF WYOMING 25LSO-0269
+1 Section 3. This act is effective July 1, 2025.
+2
+3 (END)
+12 HB0043
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0269
+HOUSE BILL NO. HB0043
+Age verification for websites with harmful material.
+Sponsored by: Representative(s) Lawley, Andrew, Angelos,
+Connolly, Heiner, Knapp, Larson, JT and
+Neiman and Senator(s) Brennan, Crago, Jones,
+Olsen and Steinmetz
+A BILL
+for
+1 AN ACT relating to child protection; requiring age
+2 verification for visiting websites with material harmful to
+3 minors; specifying requirements and exceptions for age
+4 verification; specifying remedies, liability and damages;
+5 specifying applicability; and providing for an effective
+6 date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 14-3-501 through 14-3-504 are created
+11 to read:
+12
+13 ARTICLE 5
+14 AGE VERIFICATION FOR WEBSITES WITH OBSCENE MATERIAL
+1 HB0043
+
+2025 STATE OF WYOMING 25LSO-0269
+1
+2 14-3-501. Definitions.
+3
+4 (a) As used in this article:
+5
+6 (i) "Access software provider" means a provider
+7 of software, including client or server software, or
+8 enabling tools that do any one (1) or more of the
+9 following:
+10
+11 (A) Filter, screen, allow or disallow
+12 content;
+13
+14 (B) Pick, choose, analyze or digest
+15 content;
+16
+17 (C) Transmit, receive, display, forward,
+18 cache, search, subset, organize, reorganize or translate
+19 content.
+20
+21 (ii) "Child pornography" means as defined by
+22 W.S. 6-4-303(a)(ii);
+23
+2 HB0043
+
+2025 STATE OF WYOMING 25LSO-0269
+1 (iii) "Covered platform" means an entity that
+2 operates a website that, in the regular course of business,
+3 creates, hosts or makes available content that is material
+4 harmful to minors that is provided by the entity, a user or
+5 other information content provider for purposes of making a
+6 profit. "Covered platform" includes an entity described in
+7 this paragraph regardless of whether the entity:
+8
+9 (A) Earns a profit on the activities
+10 described in this paragraph; or
+11
+12 (B) Creates, hosts, or makes available
+13 content that is material harmful to minors as the sole
+14 source of income or principal business of the entity.
+15
+16 (iv) "Interactive computer service" means any
+17 information service, system or access software provider
+18 that provides or enables computer access by multiple users
+19 to a computer server, including specifically a service or
+20 system that provides access to the internet and systems
+21 operated or services offered by libraries or educational
+22 institutions;
+23
+3 HB0043
+
+2025 STATE OF WYOMING 25LSO-0269
+1 (v) "Information content provider" means any
+2 person that is responsible, in whole or in part, for the
+3 creation or development of information provided through the
+4 internet or any other interactive computer service;
+5
+6 (vi) "Material harmful to minors" means any
+7 picture, image, graphic image file, film, videotape or
+8 other visual depiction that is obscene or is child
+9 pornography;
+10
+11 (vii) "Minor" means a person who has not
+12 attained the age of eighteen (18) years;
+13
+14 (viii) "Obscene" means as defined by W.S.
+15 6-4-301(a)(iii);
+16
+17 (ix) "Reasonable age verification measures"
+18 include:
+19
+20 (A) A Wyoming driver's license as defined
+21 by W.S. 31-7-102(a)(xxv);
+22
+4 HB0043
+
+2025 STATE OF WYOMING 25LSO-0269
+1 (B) A Wyoming identification card issued
+2 under W.S. 31-8-101;
+3
+4 (C) A valid United States passport;
+5
+6 (D) A United States military card;
+7
+8 (E) A tribal identification card;
+9
+10 (F) A driver's license or identification
+11 card issued by any state or outlying possession of the
+12 United States;
+13
+14 (G) A credit card, except for cards that do
+15 not require the person in ownership of the credit card
+16 account to be eighteen (18) years of age or older;
+17
+18 (H) A debit card, except for cards that do
+19 not require the person in ownership of the debit card
+20 account to be eighteen (18) years of age or older;
+21
+5 HB0043
+
+2025 STATE OF WYOMING 25LSO-0269
+1 (J) Any other means or method that reliably
+2 and accurately can determine whether a user of a covered
+3 platform is a minor.
+4
+5 14-3-502. Covered platforms with material harmful to
+6 minors; age verification; exceptions.
+7
+8 (a) Except as otherwise provided in W.S. 14-3-504,
+9 any covered platform shall perform reasonable age
+10 verification methods to verify the age of all persons
+11 accessing or attempting to access the material and shall
+12 prevent access by minors to the material.
+13
+14 (b) Any covered platform or third party that performs
+15 the required age verification shall not retain any
+16 identifying information of the person after access has been
+17 granted to the material.
+18
+19 14-3-503. Covered platforms; age verification;
+20 liability; limitations.
+21
+22 (a) Any parent or guardian of a minor who is
+23 aggrieved by a violation of W.S. 14-3-502 shall have a
+6 HB0043
+
+2025 STATE OF WYOMING 25LSO-0269
+1 cause of action on the minor's behalf against the covered
+2 platform that violated W.S. 14-3-502.
+3
+4 (b) Any person may bring a civil action against a
+5 covered platform for knowingly retaining identifying
+6 information of the person after access to the material
+7 harmful to minors has been granted to the person in
+8 violation of W.S. 14-3-502.
+9
+10 (c) Any covered platform that violates W.S. 14-3-502
+11 shall be liable to a person for damages, including those
+12 defined in this section, court costs and reasonable
+13 attorney fees.
+14
+15 (d) A covered platform that is found to have
+16 knowingly retained identifying information of a person in
+17 violation of W.S. 14-3-502(b) after access to the covered
+18 platform has been granted to the person shall be liable to
+19 the person for damages for retaining the identifying
+20 information, including court costs and reasonable attorney
+21 fees.
+22
+7 HB0043
+
+2025 STATE OF WYOMING 25LSO-0269
+1 (e) A plaintiff who brings a successful cause of
+2 action under subsection (a) of this section shall, in
+3 addition to the damages specified in subsection (c) of this
+4 section, receive damages in an amount of five thousand
+5 dollars ($5,000.00) for each instance that the covered
+6 platform failed to perform reasonable age verification
+7 methods to restrict a minor's access to material harmful to
+8 minors. For purposes of this subsection, each failure to
+9 perform age verification shall constitute a separate
+10 violation.
+11
+12 (f) A person may bring an action under this section
+13 regardless of whether another court has declared any
+14 provision of this article unconstitutional unless that
+15 court decision is binding on the court in which the action
+16 is brought.
+17
+18 (g) For purposes of causes of action under this
+19 section, nonmutual issue preclusion and nonmutual claim
+20 preclusion are not defenses to an action brought under this
+21 section.
+22
+23 (h) Notwithstanding any other provision of law:
+8 HB0043
+
+2025 STATE OF WYOMING 25LSO-0269
+1
+2 (i) Violations of W.S. 14-3-502 shall be
+3 enforced exclusively through the civil actions provided in
+4 this section;
+5
+6 (ii) No direct or indirect enforcement of this
+7 article shall be taken or threatened by the state or any
+8 other political subdivision of the state against any person
+9 in any manner whatsoever except as provided in this
+10 section.
+11
+12 (j) Except as provided in subsection (k) of this
+13 section, any waiver, purported waiver or estoppel of a
+14 person's right to bring an action as provided under this
+15 section shall be void as unlawful and against public
+16 policy. No court or arbitrator shall enforce or give effect
+17 to a waiver or estoppel, notwithstanding any choice-of-law
+18 provision or other provision in any contract or other
+19 agreement.
+20
+21 (k) The prohibition in subsection (j) of this section
+22 shall not apply to contractual waivers to the extent that
+23 the application of the prohibition in subsection (j) of
+9 HB0043
+
+2025 STATE OF WYOMING 25LSO-0269
+1 this section would impair a contract or contract obligation
+2 in violation of the constitutions of the United States or
+3 Wyoming.
+4
+5 14-3-504. Covered platforms; age verification;
+6 applicability and exceptions.
+7
+8 (a) This article shall apply only to minors who:
+9
+10 (i) Are permanent residents of Wyoming;
+11
+12 (ii) Have resided in Wyoming for more than one
+13 (1) year; or
+14
+15 (iii) Have been sojourning or present in Wyoming
+16 for not less than thirty-one (31) consecutive days.
+17
+18 (b) This article shall not:
+19
+20 (i) Apply to any internet service provider, any
+21 affiliate or subsidiary of an internet service provider,
+22 any general purpose search engine or cloud service
+23 provider;
+10 HB0043
+
+2025 STATE OF WYOMING 25LSO-0269
+1
+2 (ii) Subject a covered platform to any cause of
+3 action or liability to the extent the covered platform is
+4 protected from liability or causes of action under federal
+5 law;
+6
+7 (iii) Excuse any person from any other legal
+8 duties arising from compliance with this article or relieve
+9 any person from any other available legal remedies;
+10
+11 (iv) Apply in cases to the extent the article
+12 would violate the commerce clause of the United States
+13 Constitution.
+14
+15 (c) Any contract, agreement or other arrangement made
+16 or entered in violation of this article shall be contrary
+17 to law and public policy and shall be void and
+18 unenforceable.
+19
+20 Section 2. Nothing in this act shall be construed to
+21 impair or alter any contract, obligation or other agreement
+22 entered into before the effective date of this act.
+23
+11 HB0043
+
+2025 STATE OF WYOMING 25LSO-0269
+1 Section 3. This act is effective July 1, 2025.
+2
+3 (END)
+12 HB0043

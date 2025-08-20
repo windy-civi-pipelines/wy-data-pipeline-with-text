@@ -1,0 +1,29 @@
+Title: 3 Page 4-line 7 Delete line through "(4.5%)" and insert "four
+Official Title: 3 Page 4-line 7 Delete line through "(4.5%)" and insert "four
+Number of Sections: 1
+Source: versions - Amendment HB0271H3001 (3rd reading) - Representative Clouston (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0271H3001
+1 Page 4-line 6 Delete "four".
+2
+4 and three quarters percent (4.75%) for fiscal
+5 year 2026 and four and one-half percent (4.5%)
+6 each fiscal year thereafter". CLOUSTON
+1
+
+
+================================================================================
+
+Raw Text:
+HB0271H3001
+1 Page 4-line 6 Delete "four".
+2
+3 Page 4-line 7 Delete line through "(4.5%)" and insert "four
+4 and three quarters percent (4.75%) for fiscal
+5 year 2026 and four and one-half percent (4.5%)
+6 each fiscal year thereafter". CLOUSTON
+1

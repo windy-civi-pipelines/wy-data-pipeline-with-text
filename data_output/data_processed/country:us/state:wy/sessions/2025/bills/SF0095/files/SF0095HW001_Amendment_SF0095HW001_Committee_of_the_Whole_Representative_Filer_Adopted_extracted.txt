@@ -1,0 +1,87 @@
+Title: 1 Page 1-line 10 After "fees;" insert "providing an
+Official Title: 1 Page 1-line 10 After "fees;" insert "providing an
+Number of Sections: 1
+Source: versions - Amendment SF0095HW001 (Committee of the Whole) - Representative Filer (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0095HW001
+2 appropriation for the University of Wyoming
+3 center for blockchain and digital innovation
+4 to develop software for the secretary of
+5 state's office;".
+6
+7 Page 7-after line 13 Insert and renumber as necessary:
+8
+9 "Section 4. There is appropriated five hundred thousand
+10 dollars ($500,000.00) from the general fund to the University of
+11 Wyoming center for blockchain and digital innovation. Funds from
+12 this general fund appropriation shall be expended by the University
+13 of Wyoming center for blockchain and digital innovation, provided
+14 that the center develops software for the secretary of state's
+15 office that would allow for initial business entity formation and
+16 amendments, notary registration and renewal, apostille or
+17 authentication certification requests, lobbyist registration and
+18 renewal and all initial and additional filing types, as well as
+19 amendments, to be filed online. This appropriation shall be for
+20 the period beginning with the effective date of this act and ending
+21 June 30, 2026. This appropriation shall not be transferred or
+22 expended for any other purpose and any unexpended, unobligated
+23 funds remaining from this appropriation shall revert as provided
+24 by law on June 30, 2026. It is the intent of the legislature that
+25 this appropriation not be included in the University of Wyoming's
+26 standard budget for the immediately succeeding fiscal biennium.".
+27
+28 Page 7-line 15 Delete "Section 4." and insert "Section 5.".
+29
+30 Page 8-line 1 Delete "Section 5." and insert "Section 6.".
+31
+32 Page 8-line 5 Delete "Section 6." and insert "Section 7.".
+33
+34 Page 8-line 10 Delete "5 and 6" and insert "4, 6 and 7".
+35 FILER, WASSERBURGER, YIN
+1
+
+
+================================================================================
+
+Raw Text:
+SF0095HW001
+1 Page 1-line 10 After "fees;" insert "providing an
+2 appropriation for the University of Wyoming
+3 center for blockchain and digital innovation
+4 to develop software for the secretary of
+5 state's office;".
+6
+7 Page 7-after line 13 Insert and renumber as necessary:
+8
+9 "Section 4. There is appropriated five hundred thousand
+10 dollars ($500,000.00) from the general fund to the University of
+11 Wyoming center for blockchain and digital innovation. Funds from
+12 this general fund appropriation shall be expended by the University
+13 of Wyoming center for blockchain and digital innovation, provided
+14 that the center develops software for the secretary of state's
+15 office that would allow for initial business entity formation and
+16 amendments, notary registration and renewal, apostille or
+17 authentication certification requests, lobbyist registration and
+18 renewal and all initial and additional filing types, as well as
+19 amendments, to be filed online. This appropriation shall be for
+20 the period beginning with the effective date of this act and ending
+21 June 30, 2026. This appropriation shall not be transferred or
+22 expended for any other purpose and any unexpended, unobligated
+23 funds remaining from this appropriation shall revert as provided
+24 by law on June 30, 2026. It is the intent of the legislature that
+25 this appropriation not be included in the University of Wyoming's
+26 standard budget for the immediately succeeding fiscal biennium.".
+27
+28 Page 7-line 15 Delete "Section 4." and insert "Section 5.".
+29
+30 Page 8-line 1 Delete "Section 5." and insert "Section 6.".
+31
+32 Page 8-line 5 Delete "Section 6." and insert "Section 7.".
+33
+34 Page 8-line 10 Delete "5 and 6" and insert "4, 6 and 7".
+35 FILER, WASSERBURGER, YIN
+1

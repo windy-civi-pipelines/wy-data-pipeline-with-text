@@ -1,0 +1,63 @@
+Title: 1 Page 1-line 1 After "education;" delete balance of line.
+Official Title: 1 Page 1-line 1 After "education;" delete balance of line.
+Number of Sections: 1
+Source: versions - Amendment SF0072H3005 (3rd reading) - Representative Yin (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0072H3005
+2
+3 Page 1-line 2 Delete entirely.
+4
+5 Page 1-line 3 Delete "scheduling for a school year;".
+6
+7 Page 1-line 6 After "specified;" delete balance of line.
+8
+9 Page 1-line 7 Delete entirely.
+10
+11 Page 1-line 8 Delete "specified;".
+12
+13 Page 2-line 9 Delete "to commence a".
+14
+15 Page 2-line 10 Delete entirely.
+16
+17 Page 2-line 11 Delete "Memorial Day or".
+18
+19 Page 3-line 10 Delete "Each school year".
+20
+21 Page 3-lines 11 through 13 Delete entirely.
+22
+23 Page 3-line 14 Delete "state board.". YIN, BYRON, ERICKSON
+1
+
+
+================================================================================
+
+Raw Text:
+SF0072H3005
+1 Page 1-line 1 After "education;" delete balance of line.
+2
+3 Page 1-line 2 Delete entirely.
+4
+5 Page 1-line 3 Delete "scheduling for a school year;".
+6
+7 Page 1-line 6 After "specified;" delete balance of line.
+8
+9 Page 1-line 7 Delete entirely.
+10
+11 Page 1-line 8 Delete "specified;".
+12
+13 Page 2-line 9 Delete "to commence a".
+14
+15 Page 2-line 10 Delete entirely.
+16
+17 Page 2-line 11 Delete "Memorial Day or".
+18
+19 Page 3-line 10 Delete "Each school year".
+20
+21 Page 3-lines 11 through 13 Delete entirely.
+22
+23 Page 3-line 14 Delete "state board.". YIN, BYRON, ERICKSON
+1

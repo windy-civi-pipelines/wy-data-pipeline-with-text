@@ -1,0 +1,243 @@
+Title: HOUSE BILL NO. HB0019
+Official Title: HOUSE BILL NO. HB0019
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0182
+Social media-parental consent for minors required.
+Sponsored by: Representative(s) Harshman, Lawley, Washut
+and Wharff and Senator(s) Barlow and Olsen
+A BILL
+for
+1 AN ACT relating to trade and commerce; requiring parental
+2 consent for minors under age eighteen (18) to use a social
+3 media platform; providing definitions; requiring
+4 rulemaking; and providing for effective dates.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 40-32-101 and 40-32-102 are created
+9 to read:
+10
+11 CHAPTER 32
+12 SOCIAL MEDIA REGULATION
+13
+14 40-32-101. Definitions.
+15
+1 HB0019
+2025 STATE OF WYOMING 25LSO-0182
+1 (a) As used in this chapter:
+2
+3 (i) "Account holder" means a person who has or
+4 who creates or opens an account or profile to use a social
+5 media platform;
+6
+7 (ii) "Minor" means a person who is a resident of
+8 Wyoming, who is under the age of eighteen (18) and who is
+9 not married or has not become emancipated as provided in
+10 W.S. 14-1-201 through 14-1-206;
+11
+12 (iii) "Social media company" means a person that
+13 is an interactive computer service that provides a social
+14 media platform for use;
+15
+16 (iv) "Social media platform" means an online
+17 forum that a social media company makes available for an
+18 account holder to create a profile, upload posts, view the
+19 posts of other account holders or interact with other
+20 account holders or users.
+21
+22 40-32-102. Social media platforms; parental consent
+23 required; remedies.
+2 HB0019
+2025 STATE OF WYOMING 25LSO-0182
+1
+2 (a) No social media company shall allow a minor to be
+3 an account holder on the social media company's social
+4 media platform unless the social media company obtains the
+5 express consent of the minor's parent or guardian.
+6
+7 (b) Each social media company shall deny access to
+8 its social media platform for each account holder who fails
+9 to meet the verification requirements specified in
+10 subsection (a) of this section until the social media
+11 company receives the express parental or guardian consent
+12 required under subsection (a) of this section.
+13
+14 (c) The attorney general shall promulgate all rules
+15 for:
+16
+17 (i) The process by which a social media company
+18 can obtain parental consent for a minor seeking to open or
+19 create an account and be an account holder on a social
+20 media platform;
+21
+22 (ii) The method by which a parent or guardian of
+23 a minor can provide consent for a minor to open or create
+3 HB0019
+2025 STATE OF WYOMING 25LSO-0182
+1 an account and be an account holder on a social media
+2 platform;
+3
+4 (iii) The methods by which social media
+5 companies shall verify the authenticity of the parental or
+6 guardian consent provided for a minor to open or create an
+7 account and be an account holder on a social media
+8 platform;
+9
+10 (iv) The methods by which a social media company
+11 shall allow parents or guardians to revoke or withdraw
+12 consent previously given for a minor to open or create an
+13 account and be an account holder on a social media platform
+14 and for parents or guardians to revoke or withdraw
+15 nonconsent previously expressed and thereafter consent for
+16 a minor to open or create an account and be an account
+17 holder on a social media platform.
+18
+19 (d) The attorney general may pursue any remedy
+20 authorized under the Wyoming Consumer Protection Act
+21 against a social media company that fails to comply with
+22 this article.
+23
+4 HB0019
+2025 STATE OF WYOMING 25LSO-0182
+1 Section 2. The attorney general shall promulgate all
+2 rules necessary to implement this act.
+3
+4 Section 3.
+5
+6 (a) Except as provided in subsection (b) of this
+7 section, this act is effective immediately upon completion
+8 of all acts necessary for a bill to become law as provided
+9 by Article 4, Section 8 of the Wyoming Constitution.
+10
+11 (b) Section 1 of this act is effective July 1, 2025.
+12
+13 (END)
+5 HB0019
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0182
+HOUSE BILL NO. HB0019
+Social media-parental consent for minors required.
+Sponsored by: Representative(s) Harshman, Lawley, Washut
+and Wharff and Senator(s) Barlow and Olsen
+A BILL
+for
+1 AN ACT relating to trade and commerce; requiring parental
+2 consent for minors under age eighteen (18) to use a social
+3 media platform; providing definitions; requiring
+4 rulemaking; and providing for effective dates.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 40-32-101 and 40-32-102 are created
+9 to read:
+10
+11 CHAPTER 32
+12 SOCIAL MEDIA REGULATION
+13
+14 40-32-101. Definitions.
+15
+1 HB0019
+
+2025 STATE OF WYOMING 25LSO-0182
+1 (a) As used in this chapter:
+2
+3 (i) "Account holder" means a person who has or
+4 who creates or opens an account or profile to use a social
+5 media platform;
+6
+7 (ii) "Minor" means a person who is a resident of
+8 Wyoming, who is under the age of eighteen (18) and who is
+9 not married or has not become emancipated as provided in
+10 W.S. 14-1-201 through 14-1-206;
+11
+12 (iii) "Social media company" means a person that
+13 is an interactive computer service that provides a social
+14 media platform for use;
+15
+16 (iv) "Social media platform" means an online
+17 forum that a social media company makes available for an
+18 account holder to create a profile, upload posts, view the
+19 posts of other account holders or interact with other
+20 account holders or users.
+21
+22 40-32-102. Social media platforms; parental consent
+23 required; remedies.
+2 HB0019
+
+2025 STATE OF WYOMING 25LSO-0182
+1
+2 (a) No social media company shall allow a minor to be
+3 an account holder on the social media company's social
+4 media platform unless the social media company obtains the
+5 express consent of the minor's parent or guardian.
+6
+7 (b) Each social media company shall deny access to
+8 its social media platform for each account holder who fails
+9 to meet the verification requirements specified in
+10 subsection (a) of this section until the social media
+11 company receives the express parental or guardian consent
+12 required under subsection (a) of this section.
+13
+14 (c) The attorney general shall promulgate all rules
+15 for:
+16
+17 (i) The process by which a social media company
+18 can obtain parental consent for a minor seeking to open or
+19 create an account and be an account holder on a social
+20 media platform;
+21
+22 (ii) The method by which a parent or guardian of
+23 a minor can provide consent for a minor to open or create
+3 HB0019
+
+2025 STATE OF WYOMING 25LSO-0182
+1 an account and be an account holder on a social media
+2 platform;
+3
+4 (iii) The methods by which social media
+5 companies shall verify the authenticity of the parental or
+6 guardian consent provided for a minor to open or create an
+7 account and be an account holder on a social media
+8 platform;
+9
+10 (iv) The methods by which a social media company
+11 shall allow parents or guardians to revoke or withdraw
+12 consent previously given for a minor to open or create an
+13 account and be an account holder on a social media platform
+14 and for parents or guardians to revoke or withdraw
+15 nonconsent previously expressed and thereafter consent for
+16 a minor to open or create an account and be an account
+17 holder on a social media platform.
+18
+19 (d) The attorney general may pursue any remedy
+20 authorized under the Wyoming Consumer Protection Act
+21 against a social media company that fails to comply with
+22 this article.
+23
+4 HB0019
+
+2025 STATE OF WYOMING 25LSO-0182
+1 Section 2. The attorney general shall promulgate all
+2 rules necessary to implement this act.
+3
+4 Section 3.
+5
+6 (a) Except as provided in subsection (b) of this
+7 section, this act is effective immediately upon completion
+8 of all acts necessary for a bill to become law as provided
+9 by Article 4, Section 8 of the Wyoming Constitution.
+10
+11 (b) Section 1 of this act is effective July 1, 2025.
+12
+13 (END)
+5 HB0019

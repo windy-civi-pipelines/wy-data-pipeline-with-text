@@ -1,0 +1,288 @@
+Title: HOUSE BILL NO. HB0128
+Official Title: HOUSE BILL NO. HB0128
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0237
+Public health emergency-definition amendments.
+Sponsored by: Representative(s) Lucas, Angelos, Haroldson,
+Heiner, Johnson, McCann, Rodriguez-Williams,
+Smith, S, Styvar, Webb and Wharff and
+Senator(s) McKeown and Smith, D
+A BILL
+for
+1 AN ACT relating to public health and safety; requiring the
+2 governor to convene the legislature after declaring that a
+3 public health emergency exists as specified; authorizing
+4 the legislature to satisfy quorum requirements and vote in
+5 person or remotely by an electronic method; amending the
+6 definition of public health emergency as specified; making
+7 conforming amendments; specifying applicability; and
+8 providing for an effective date.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 35-4-116 is created to read:
+13
+14 35-4-116. Declaration of a public health emergency.
+1 HB0128
+2025 STATE OF WYOMING 25LSO-0237
+1
+2 The governor shall declare when a public health emergency
+3 exists or has ended. After the governor declares that a
+4 public health emergency exists, the governor shall by
+5 proclamation convene the legislature on the second day
+6 following the date of the declaration for purposes of
+7 concurring with or not concurring with the existence of a
+8 public health emergency. The legislature by joint
+9 resolution may concur that a public health emergency exists
+10 or shall have the authority to terminate the public health
+11 emergency. The legislature shall meet at the seat of
+12 government and may satisfy quorum requirements and vote in
+13 person or remotely by electronic video or audio conference
+14 method.
+15
+16 Section 2. W.S. 1-1-141(a)(ii), 33-25-102(f)(vi),
+17 33-49-107(c)(ii), 35-4-114(b) and (c) and 35-4-115(a)(i)
+18 are amended to read:
+19
+20 1-1-141. COVID-19 exposure and illness; assumption of
+21 the risk.
+22
+23 (a) As used in this section:
+2 HB0128
+2025 STATE OF WYOMING 25LSO-0237
+1
+2 (ii) "COVID-19" means severe acute respiratory
+3 syndrome coronavirus 2 (SARS-CoV-2) and any mutation or
+4 viral fragments thereof or any disease or condition caused
+5 by severe acute respiratory syndrome coronavirus 2
+6 (SARS-CoV-2) that was the subject of the public health
+7 emergency declared by the governor under W.S.
+8 35-4-115(a)(i) on March 13, 2020;
+9
+10 33-25-102. Practice of physical therapy; license or
+11 certificate required; exceptions; false representations.
+12
+13 (f) The following persons are exempt from the
+14 licensure and certification requirements of this act:
+15
+16 (vi) A physical therapist licensed in another
+17 jurisdiction who enters this state to provide physical
+18 therapy during a public health emergency as declared by the
+19 governor pursuant to W.S. 35-4-115(a)(i) 35-4-116. Any
+20 physical therapist practicing pursuant to this paragraph
+21 shall notify the board of the therapist's intent to
+22 practice and supply additional information as provided by
+23 rules of the board;
+3 HB0128
+2025 STATE OF WYOMING 25LSO-0237
+1
+2 33-49-107. Licensure required; components;
+3 exemptions; other licensed health care professionals.
+4
+5 (c) The following persons are exempt from this
+6 chapter's licensure requirements:
+7
+8 (ii) An acupuncturist licensed in another
+9 jurisdiction who enters this state to provide acupuncture
+10 during a natural disaster or a public health emergency, as
+11 declared by the governor pursuant to W.S. 35-4-115(a)(i)
+12 35-4-116;
+13
+14 35-4-114. Immunity from liability.
+15
+16 (b) The licensing boards for any health care provider
+17 holding a permit or license as a health care provider
+18 regulated under title 33 of the Wyoming statutes shall
+19 provide by rule and regulations for the temporary licensure
+20 of health care providers during a public health emergency
+21 as declared by the governor pursuant to W.S. 35-4-115(a)(i)
+22 35-4-116. If necessary during a declared public health
+23 emergency, the state health officer may issue temporary
+4 HB0128
+2025 STATE OF WYOMING 25LSO-0237
+1 practice licenses to health care providers who are retired,
+2 who have an inactive license or who are licensed in another
+3 state without a valid Wyoming license pending action on an
+4 application for issuance of a temporary license by the
+5 appropriate licensing board pursuant to this subsection.
+6
+7 (c) All temporary health care provider licenses
+8 issued by the state health officer under subsection (b) of
+9 this section shall terminate automatically upon declaration
+10 by the governor, pursuant to W.S. 35-4-115(a)(i) 35-4-116,
+11 that the public health emergency has ended.
+12
+13 35-4-115. Definitions.
+14
+15 (a) As used in this article:
+16
+17 (i) "Public health emergency" means an
+18 occurrence or imminent threat of an illness or health
+19 condition caused by an epidemic or pandemic disease, a
+20 novel and highly fatal infectious agent or a biological
+21 toxin that poses a substantial risk of a significant number
+22 of human fatalities or incidents of permanent or long-term
+5 HB0128
+2025 STATE OF WYOMING 25LSO-0237
+1 disability;. The governor shall declare when a public
+2 health emergency exists or has ended;
+3
+4 Section 3. This act shall apply to all declarations
+5 of public health emergencies occurring on and after July 1,
+6 2025.
+7
+8 Section 4. This act is effective July 1, 2025.
+9
+10 (END)
+6 HB0128
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0237
+HOUSE BILL NO. HB0128
+Public health emergency-definition amendments.
+Sponsored by: Representative(s) Lucas, Angelos, Haroldson,
+Heiner, Johnson, McCann, Rodriguez-Williams,
+Smith, S, Styvar, Webb and Wharff and
+Senator(s) McKeown and Smith, D
+A BILL
+for
+1 AN ACT relating to public health and safety; requiring the
+2 governor to convene the legislature after declaring that a
+3 public health emergency exists as specified; authorizing
+4 the legislature to satisfy quorum requirements and vote in
+5 person or remotely by an electronic method; amending the
+6 definition of public health emergency as specified; making
+7 conforming amendments; specifying applicability; and
+8 providing for an effective date.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 35-4-116 is created to read:
+13
+14 35-4-116. Declaration of a public health emergency.
+1 HB0128
+
+2025 STATE OF WYOMING 25LSO-0237
+1
+2 The governor shall declare when a public health emergency
+3 exists or has ended. After the governor declares that a
+4 public health emergency exists, the governor shall by
+5 proclamation convene the legislature on the second day
+6 following the date of the declaration for purposes of
+7 concurring with or not concurring with the existence of a
+8 public health emergency. The legislature by joint
+9 resolution may concur that a public health emergency exists
+10 or shall have the authority to terminate the public health
+11 emergency. The legislature shall meet at the seat of
+12 government and may satisfy quorum requirements and vote in
+13 person or remotely by electronic video or audio conference
+14 method.
+15
+16 Section 2. W.S. 1-1-141(a)(ii), 33-25-102(f)(vi),
+17 33-49-107(c)(ii), 35-4-114(b) and (c) and 35-4-115(a)(i)
+18 are amended to read:
+19
+20 1-1-141. COVID-19 exposure and illness; assumption of
+21 the risk.
+22
+23 (a) As used in this section:
+2 HB0128
+
+2025 STATE OF WYOMING 25LSO-0237
+1
+2 (ii) "COVID-19" means severe acute respiratory
+3 syndrome coronavirus 2 (SARS-CoV-2) and any mutation or
+4 viral fragments thereof or any disease or condition caused
+5 by severe acute respiratory syndrome coronavirus 2
+6 (SARS-CoV-2) that was the subject of the public health
+7 emergency declared by the governor under W.S.
+8 35-4-115(a)(i) on March 13, 2020;
+9
+10 33-25-102. Practice of physical therapy; license or
+11 certificate required; exceptions; false representations.
+12
+13 (f) The following persons are exempt from the
+14 licensure and certification requirements of this act:
+15
+16 (vi) A physical therapist licensed in another
+17 jurisdiction who enters this state to provide physical
+18 therapy during a public health emergency as declared by the
+19 governor pursuant to W.S. 35-4-115(a)(i) 35-4-116. Any
+20 physical therapist practicing pursuant to this paragraph
+21 shall notify the board of the therapist's intent to
+22 practice and supply additional information as provided by
+23 rules of the board;
+3 HB0128
+
+2025 STATE OF WYOMING 25LSO-0237
+1
+2 33-49-107. Licensure required; components;
+3 exemptions; other licensed health care professionals.
+4
+5 (c) The following persons are exempt from this
+6 chapter's licensure requirements:
+7
+8 (ii) An acupuncturist licensed in another
+9 jurisdiction who enters this state to provide acupuncture
+10 during a natural disaster or a public health emergency, as
+11 declared by the governor pursuant to W.S. 35-4-115(a)(i)
+12 35-4-116;
+13
+14 35-4-114. Immunity from liability.
+15
+16 (b) The licensing boards for any health care provider
+17 holding a permit or license as a health care provider
+18 regulated under title 33 of the Wyoming statutes shall
+19 provide by rule and regulations for the temporary licensure
+20 of health care providers during a public health emergency
+21 as declared by the governor pursuant to W.S. 35-4-115(a)(i)
+22 35-4-116. If necessary during a declared public health
+23 emergency, the state health officer may issue temporary
+4 HB0128
+
+2025 STATE OF WYOMING 25LSO-0237
+1 practice licenses to health care providers who are retired,
+2 who have an inactive license or who are licensed in another
+3 state without a valid Wyoming license pending action on an
+4 application for issuance of a temporary license by the
+5 appropriate licensing board pursuant to this subsection.
+6
+7 (c) All temporary health care provider licenses
+8 issued by the state health officer under subsection (b) of
+9 this section shall terminate automatically upon declaration
+10 by the governor, pursuant to W.S. 35-4-115(a)(i) 35-4-116,
+11 that the public health emergency has ended.
+12
+13 35-4-115. Definitions.
+14
+15 (a) As used in this article:
+16
+17 (i) "Public health emergency" means an
+18 occurrence or imminent threat of an illness or health
+19 condition caused by an epidemic or pandemic disease, a
+20 novel and highly fatal infectious agent or a biological
+21 toxin that poses a substantial risk of a significant number
+22 of human fatalities or incidents of permanent or long-term
+5 HB0128
+
+2025 STATE OF WYOMING 25LSO-0237
+1 disability;. The governor shall declare when a public
+2 health emergency exists or has ended;
+3
+4 Section 3. This act shall apply to all declarations
+5 of public health emergencies occurring on and after July 1,
+6 2025.
+7
+8 Section 4. This act is effective July 1, 2025.
+9
+10 (END)
+6 HB0128

@@ -1,0 +1,245 @@
+Title: Unemployment insurance coverage-period and reporting.
+Official Title: Unemployment insurance coverage-period and reporting.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0704
+SENATE FILE NO. SF0175
+Sponsored by: Senator(s) Kolb, Ide, McKeown and Steinmetz
+and Representative(s) Bear and Heiner
+A BILL
+for
+1 AN ACT relating to labor and employment; reducing the
+2 maximum length of unemployment benefits; renaming the
+3 unemployment insurance commission; specifying
+4 applicability; providing an appropriation; and providing
+5 for effective dates.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 27-3-102(a)(v), 27-3-304,
+10 27-3-316(c)(ii), 27-3-601(a) and 27-14-802(b) are amended
+11 to read:
+12
+13 27-3-102. Definitions generally.
+14
+1 SF0175
+2025 STATE OF WYOMING 25LSO-0704
+1 (a) Except as otherwise provided, as used in this
+2 act:
+3
+4 (v) "Commission" means the unemployment
+5 reemployment insurance commission of Wyoming within the
+6 department of workforce services;
+7
+8 27-3-304. Maximum payment.
+9
+10 Except as provided by W.S. 27-3-316, the maximum amount of
+11 benefits payable to any eligible individual in a benefit
+12 year shall not exceed twenty-six (26) twenty (20) times his
+13 weekly benefit or thirty percent (30%) of his wages payable
+14 for insured work in his base period, whichever is less.
+15 This amount shall be computed to the next higher multiple
+16 of his weekly benefit.
+17
+18 27-3-316. Applicability of regular claim and payment
+19 provisions to extended benefits; determination of amount.
+20
+21 (c) An eligible individual's total extended benefit
+22 amount for his applicable benefit year is the lesser of:
+23
+2 SF0175
+2025 STATE OF WYOMING 25LSO-0704
+1 (ii) Thirteen (13) Six and one-half (6.5) times
+2 his weekly benefit amount under this article for a week of
+3 total unemployment in the applicable benefit year. A
+4 reduction in an eligible claimant's weekly and potential
+5 maximum extended benefit amount, resulting from the
+6 application of paragraph (b)(i) of this section, will not
+7 increase the number of weeks of extended benefit
+8 entitlement beyond that specified in paragraphs (i) and
+9 (ii) of this subsection.
+10
+11 27-3-601. Reemployment insurance commission created;
+12 composition; terms; vacancies; salary; chairman; quorum;
+13 removal; office; seal.
+14
+15 (a) The unemployment reemployment insurance
+16 commission of Wyoming is created within the department of
+17 workforce services and shall consist of three (3) members
+18 serving a term of six (6) years each. Appointments,
+19 vacancies and expiration of terms shall be in accordance
+20 with W.S. 28-12-101 through 28-12-103. A member shall not
+21 hold any state office or serve as an officer or on a
+22 committee of any political organization during the term of
+3 SF0175
+2025 STATE OF WYOMING 25LSO-0704
+1 membership. No more than seventy-five percent (75%) of the
+2 members shall be of the same political party.
+3
+4 27-14-802. Rulemaking power; fees; state's average
+5 wages; vocational rehabilitation; contracts with clerks of
+6 district court.
+7
+8 (b) Before the last day of each quarter in each year,
+9 the department shall estimate the average monthly and
+10 weekly wage for the twelve (12) months preceding the
+11 quarter, based on unemployment reemployment insurance
+12 commission information and other available statistics.
+13
+14 Section 2. There is appropriated eighteen thousand
+15 dollars ($18,000.00) from the general fund to the Wyoming
+16 department of workforce services for purposes of updating
+17 and administering the Wyoming unemployment insurance
+18 system. This appropriation shall be for the period
+19 beginning with the effective date of this section and
+20 ending June 30, 2026. This appropriation shall not be
+21 transferred or expended for any other purpose and any
+22 unexpended, unobligated funds remaining from this
+4 SF0175
+2025 STATE OF WYOMING 25LSO-0704
+1 appropriation shall revert as provided by law on June 30,
+2 2026.
+3
+4 Section 3. This act shall apply to all unemployment
+5 claims filed on and after January 1, 2026.
+6
+7 Section 4.
+8
+9 (a) Except as provided in subsection (b) of this
+10 section, this act is effective January 1, 2026.
+11
+12 (b) Sections 2 and 4 of this act are effective
+13 immediately upon completion of all acts necessary for a
+14 bill to become law as provided by Article 4, Section 8 of
+15 the Wyoming Constitution.
+16
+17 (END)
+5 SF0175
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0704
+SENATE FILE NO. SF0175
+Unemployment insurance coverage-period and reporting.
+Sponsored by: Senator(s) Kolb, Ide, McKeown and Steinmetz
+and Representative(s) Bear and Heiner
+A BILL
+for
+1 AN ACT relating to labor and employment; reducing the
+2 maximum length of unemployment benefits; renaming the
+3 unemployment insurance commission; specifying
+4 applicability; providing an appropriation; and providing
+5 for effective dates.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 27-3-102(a)(v), 27-3-304,
+10 27-3-316(c)(ii), 27-3-601(a) and 27-14-802(b) are amended
+11 to read:
+12
+13 27-3-102. Definitions generally.
+14
+1 SF0175
+
+2025 STATE OF WYOMING 25LSO-0704
+1 (a) Except as otherwise provided, as used in this
+2 act:
+3
+4 (v) "Commission" means the unemployment
+5 reemployment insurance commission of Wyoming within the
+6 department of workforce services;
+7
+8 27-3-304. Maximum payment.
+9
+10 Except as provided by W.S. 27-3-316, the maximum amount of
+11 benefits payable to any eligible individual in a benefit
+12 year shall not exceed twenty-six (26) twenty (20) times his
+13 weekly benefit or thirty percent (30%) of his wages payable
+14 for insured work in his base period, whichever is less.
+15 This amount shall be computed to the next higher multiple
+16 of his weekly benefit.
+17
+18 27-3-316. Applicability of regular claim and payment
+19 provisions to extended benefits; determination of amount.
+20
+21 (c) An eligible individual's total extended benefit
+22 amount for his applicable benefit year is the lesser of:
+23
+2 SF0175
+
+2025 STATE OF WYOMING 25LSO-0704
+1 (ii) Thirteen (13) Six and one-half (6.5) times
+2 his weekly benefit amount under this article for a week of
+3 total unemployment in the applicable benefit year. A
+4 reduction in an eligible claimant's weekly and potential
+5 maximum extended benefit amount, resulting from the
+6 application of paragraph (b)(i) of this section, will not
+7 increase the number of weeks of extended benefit
+8 entitlement beyond that specified in paragraphs (i) and
+9 (ii) of this subsection.
+10
+11 27-3-601. Reemployment insurance commission created;
+12 composition; terms; vacancies; salary; chairman; quorum;
+13 removal; office; seal.
+14
+15 (a) The unemployment reemployment insurance
+16 commission of Wyoming is created within the department of
+17 workforce services and shall consist of three (3) members
+18 serving a term of six (6) years each. Appointments,
+19 vacancies and expiration of terms shall be in accordance
+20 with W.S. 28-12-101 through 28-12-103. A member shall not
+21 hold any state office or serve as an officer or on a
+22 committee of any political organization during the term of
+3 SF0175
+
+2025 STATE OF WYOMING 25LSO-0704
+1 membership. No more than seventy-five percent (75%) of the
+2 members shall be of the same political party.
+3
+4 27-14-802. Rulemaking power; fees; state's average
+5 wages; vocational rehabilitation; contracts with clerks of
+6 district court.
+7
+8 (b) Before the last day of each quarter in each year,
+9 the department shall estimate the average monthly and
+10 weekly wage for the twelve (12) months preceding the
+11 quarter, based on unemployment reemployment insurance
+12 commission information and other available statistics.
+13
+14 Section 2. There is appropriated eighteen thousand
+15 dollars ($18,000.00) from the general fund to the Wyoming
+16 department of workforce services for purposes of updating
+17 and administering the Wyoming unemployment insurance
+18 system. This appropriation shall be for the period
+19 beginning with the effective date of this section and
+20 ending June 30, 2026. This appropriation shall not be
+21 transferred or expended for any other purpose and any
+22 unexpended, unobligated funds remaining from this
+4 SF0175
+
+2025 STATE OF WYOMING 25LSO-0704
+1 appropriation shall revert as provided by law on June 30,
+2 2026.
+3
+4 Section 3. This act shall apply to all unemployment
+5 claims filed on and after January 1, 2026.
+6
+7 Section 4.
+8
+9 (a) Except as provided in subsection (b) of this
+10 section, this act is effective January 1, 2026.
+11
+12 (b) Sections 2 and 4 of this act are effective
+13 immediately upon completion of all acts necessary for a
+14 bill to become law as provided by Article 4, Section 8 of
+15 the Wyoming Constitution.
+16
+17 (END)
+5 SF0175

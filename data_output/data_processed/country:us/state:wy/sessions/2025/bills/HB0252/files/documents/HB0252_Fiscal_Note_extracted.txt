@@ -1,0 +1,99 @@
+Title: This bill repeals the three-year tax exemption on electricity produced from wind
+Official Title: This bill repeals the three-year tax exemption on electricity produced from wind
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Wind tax exemption-repeal. 25LSO-0423, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase
+GENERAL FUND $180,000 $740,000 $1,660,000
+COUNTY DISTRIBUTION $280,000 $1,100,000 $2,490,000
+Source of revenue increase:
+turbines currently provided in W.S. 39-22-105(b).
+The three-year exemption, as repealed by Section 1 of the bill, would continue to
+apply as currently provided in W.S. 39-22-105(b) to any turbine that first
+produces electricity for sale prior to the effective date of the bill. The bill
+is effective immediately upon completion of all acts necessary for a bill to
+become law as provided by Article 4, Section 8 of the Wyoming Constitution.
+Assumptions:
+The above estimates are based on wind generation projects permitted by the
+Wyoming Department of Environmental Quality, Industrial Siting Division. The
+fiscal year amounts are based on the anticipated completion date(s) of projects.
+The wind generation projects anticipated to be completed before the effective
+date of the bill are assumed to still qualify for the current exemption.
+The above estimates are also based on the anticipated name plate capacities of
+permitted wind projects, and an average capacity factor of 35.6 percent. The 35.6
+percent capacity factor is the average of annual capacity factors for Wyoming
+electricity generation from wind in calendar years 2021 through 2023, as
+published by the Energy Information Administration.
+60 percent of the wind generation tax is proportionately distributed to counties
+based on the relative percentage of assessed value of the generating facilities.
+40 percent of the wind generation tax is distributed to the General Fund. The
+total estimated revenue increases from repealing the three-year exemption are
+$460,000 in FY 2026, $1,840,000 in FY 2027 and $4,150,000 in FY 2028. The total
+estimated revenue increases are expected to continue increasing to $4,560,000 in
+FY 2029, $10,350,000 in FY 2030 and $13,660,000 in FY 2031.
+The Department of Revenue (DOR) states that this exemption repeal will require
+more administrative work due to processing additional tax returns for wind
+production that is currently exempt. Unlike the DOR’s other tax types, the wind
+generation tax is still administered manually. Taxpayers must complete hardcopy
+returns and pay by check. DOR received a quote from its third-party system
+contractor two years ago of $595,000 to update its computer system for the wind
+generation tax. DOR is not requesting additional funding for this bill.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5220)
+HB0252
+
+
+================================================================================
+
+Raw Text:
+Wind tax exemption-repeal. 25LSO-0423, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase
+GENERAL FUND $180,000 $740,000 $1,660,000
+COUNTY DISTRIBUTION $280,000 $1,100,000 $2,490,000
+Source of revenue increase:
+This bill repeals the three-year tax exemption on electricity produced from wind
+turbines currently provided in W.S. 39-22-105(b).
+The three-year exemption, as repealed by Section 1 of the bill, would continue to
+apply as currently provided in W.S. 39-22-105(b) to any turbine that first
+produces electricity for sale prior to the effective date of the bill. The bill
+is effective immediately upon completion of all acts necessary for a bill to
+become law as provided by Article 4, Section 8 of the Wyoming Constitution.
+Assumptions:
+The above estimates are based on wind generation projects permitted by the
+Wyoming Department of Environmental Quality, Industrial Siting Division. The
+fiscal year amounts are based on the anticipated completion date(s) of projects.
+The wind generation projects anticipated to be completed before the effective
+date of the bill are assumed to still qualify for the current exemption.
+The above estimates are also based on the anticipated name plate capacities of
+permitted wind projects, and an average capacity factor of 35.6 percent. The 35.6
+percent capacity factor is the average of annual capacity factors for Wyoming
+electricity generation from wind in calendar years 2021 through 2023, as
+published by the Energy Information Administration.
+60 percent of the wind generation tax is proportionately distributed to counties
+based on the relative percentage of assessed value of the generating facilities.
+40 percent of the wind generation tax is distributed to the General Fund. The
+total estimated revenue increases from repealing the three-year exemption are
+$460,000 in FY 2026, $1,840,000 in FY 2027 and $4,150,000 in FY 2028. The total
+estimated revenue increases are expected to continue increasing to $4,560,000 in
+FY 2029, $10,350,000 in FY 2030 and $13,660,000 in FY 2031.
+The Department of Revenue (DOR) states that this exemption repeal will require
+more administrative work due to processing additional tax returns for wind
+production that is currently exempt. Unlike the DOR’s other tax types, the wind
+generation tax is still administered manually. Taxpayers must complete hardcopy
+returns and pay by check. DOR received a quote from its third-party system
+contractor two years ago of $595,000 to update its computer system for the wind
+generation tax. DOR is not requesting additional funding for this bill.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5220)
+HB0252

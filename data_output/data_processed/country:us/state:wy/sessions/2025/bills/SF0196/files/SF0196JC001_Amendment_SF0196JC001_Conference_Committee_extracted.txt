@@ -1,0 +1,77 @@
+Title: Page 3-lines 1 through 6 Delete entirely and insert:
+Official Title: Page 3-lines 1 through 6 Delete entirely and insert:
+Number of Sections: 1
+Source: versions - Amendment SF0196JC001 (Conference Committee)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0196JC001 (TO ENGROSSED COPY)
+Delete the following House amendments:
+SF0196HS001/A
+Further amend the ENGROSSED COPY as follows:
+Page 1-line 4 After "penalty;" insert "creating a
+criminal penalty;".
+Page 2-lines 16 through 23 Delete entirely.
+"1-39-104. Granting immunity from tort liability;
+liability on contracts; exceptions.
+(a) A governmental entity and its public employees
+while acting within the scope of duties are granted immunity
+from liability for any tort except as provided by W.S.
+1-39-105 through 1-39-112, and 1-39-122 and through 1-39-123
+1-39-124. Any immunity in actions based on a contract entered
+into by a governmental entity is waived except to the extent
+provided by the contract if the contract was within the powers
+granted to the entity and was properly executed and except as
+provided in W.S. 1-39-120(b). The claims procedures of W.S.
+1-39-113 apply to contractual claims against governmental
+entities.".
+Page 3-line 17 Before "to enforce" insert "solely".
+Page 4-line 6 After "6-5-101(a)(v)," insert "or a peace
+officer, as defined by W.S. 7-2-
+101(a)(iv),".
+Page 4-line 15 Delete "employes" and insert "employs".
+Page 7-line 22 After "6-5-101(a)(v)," insert "or a peace
+officer, as defined by W.S. 7-2-
+101(a)(iv),".
+Page 9-line 4 Delete "including" and insert "include".
+SALAZAR, BITEMAN, NETHERCOTT, HAROLDSON,
+LARSEN, L, WHARFF
+
+
+================================================================================
+
+Raw Text:
+SF0196JC001 (TO ENGROSSED COPY)
+Delete the following House amendments:
+SF0196HS001/A
+Further amend the ENGROSSED COPY as follows:
+Page 1-line 4 After "penalty;" insert "creating a
+criminal penalty;".
+Page 2-lines 16 through 23 Delete entirely.
+Page 3-lines 1 through 6 Delete entirely and insert:
+"1-39-104. Granting immunity from tort liability;
+liability on contracts; exceptions.
+(a) A governmental entity and its public employees
+while acting within the scope of duties are granted immunity
+from liability for any tort except as provided by W.S.
+1-39-105 through 1-39-112, and 1-39-122 and through 1-39-123
+1-39-124. Any immunity in actions based on a contract entered
+into by a governmental entity is waived except to the extent
+provided by the contract if the contract was within the powers
+granted to the entity and was properly executed and except as
+provided in W.S. 1-39-120(b). The claims procedures of W.S.
+1-39-113 apply to contractual claims against governmental
+entities.".
+Page 3-line 17 Before "to enforce" insert "solely".
+Page 4-line 6 After "6-5-101(a)(v)," insert "or a peace
+officer, as defined by W.S. 7-2-
+101(a)(iv),".
+Page 4-line 15 Delete "employes" and insert "employs".
+Page 7-line 22 After "6-5-101(a)(v)," insert "or a peace
+officer, as defined by W.S. 7-2-
+101(a)(iv),".
+Page 9-line 4 Delete "including" and insert "include".
+SALAZAR, BITEMAN, NETHERCOTT, HAROLDSON,
+LARSEN, L, WHARFF

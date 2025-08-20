@@ -1,0 +1,508 @@
+Title: BILL NO. HB0156
+Official Title: BILL NO. HB0156
+Number of Sections: 5
+Source: versions - Enrolled
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+ORIGINAL HOUSE ENGROSSED
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+AN ACT relating to elections; requiring a qualified elector
+to be a bona fide resident of the state of Wyoming for not
+less than thirty (30) days before the date of the election
+in which they offer to vote; requiring documentation
+proving residence to register to vote; prohibiting
+registration based on documentation showing noncitizen
+status; making conforming amendments; requiring rulemaking;
+and providing for effective dates.
+Be It Enacted by the Legislature of the State of Wyoming:
+
+Section 2:
+Section 1. W.S. 18-16-102(a)(ix)(E), (F) and by
+creating a new subparagraph (G), 22-1-102(a)(xxvi), (xxvii)
+and by creating new paragraphs (lv) and (lvi),
+22-3-102(a)(i) and by creating a new paragraph (vi),
+22-3-103(a) by creating new paragraphs (ix) and (x) and
+(b), 22-3-117(a)(intro), 22-3-118(a)(ii) and
+22-29-104(a)(v)(E), (F) and by creating a new subparagraph
+(G) are amended to read:
+18-16-102. Definitions.
+(a) As used in this act:
+(ix) "Qualified elector" means a natural person
+who:
+(E) Has not been convicted of a felony or
+if convicted has had his civil rights or voting rights
+restored; and
+(F) Is registered to vote; and
+1
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(G) Has been a bona fide resident of
+Wyoming for not less than thirty (30) days before the date
+of the election at which he offers to vote.
+22-1-102. Definitions.
+(a) The definitions contained in this chapter apply
+to words and phrases used in this Election Code and govern
+the construction of those words and phrases unless they are
+specifically modified by the context in which they appear.
+As used in this Election Code:
+(xxvi) "Qualified elector" includes every
+citizen of the United States who is a bona fide resident of
+Wyoming, has been a bona fide resident of Wyoming for not
+less than thirty (30) days before the date of the election
+at which he offers to vote, has registered to vote and will
+be at least eighteen (18) years of age on the day of the
+election at which he may offer to vote. No person is a
+qualified elector who is a currently adjudicated mentally
+incompetent person, or who has been convicted of a felony
+and his civil or voting rights have not been restored. A
+literacy test shall not be imposed as a condition to voting
+in any election;
+(xxvii) "Registration" is the entry and
+verification of the name, residence, citizenship and voter
+information of a qualified elector on the official registry
+list, as provided in W.S. 22-3-104(f) and 22-3-108;
+(lv) "Proof of residence" means the documents
+or other proof of residence specified by rule of the
+secretary of state, which rule identifies documents or
+other proof that establishes residency. If a person does
+not have the documents or other proof of residency
+2
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+specified by rule of the secretary of state, "proof of
+residence" may be established by a signed attestation of
+the person that the person is a bona fide resident of the
+state of Wyoming. The attestation shall be subject to
+verification by the county clerk or the secretary of state;
+(lvi) "Proof of United States citizenship"
+means, for purposes of voter registration, any of the
+following:
+(A) A valid Wyoming driver's license as
+defined by W.S. 31-7-102(a)(xxv) or a valid Wyoming
+identification card issued under W.S. 31-8-101, provided
+that the license or identification card does not contain
+any indication that the person is not a United States
+citizen;
+(B) A valid tribal identification card
+issued by the governing body of the Eastern Shoshone Tribe
+or the Northern Arapaho Tribe of the Wind River Indian
+Reservation or any other federally recognized Indian tribe,
+provided that the identification card does not contain any
+indication that the person is not a United States citizen;
+(C) A valid driver's license or
+identification card issued by any other state that is
+consistent with the Real ID Act as defined by W.S.
+31-7-102(a)(lii), provided that the driver's license or
+identification card does not include any indication that
+the person is not a United States citizen;
+(D) A valid United States passport;
+(E) A certificate of United States
+citizenship;
+3
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(F) A certificate of naturalization;
+(G) A United States military draft record
+or a selective service registration acknowledgment card;
+(H) A consular report of birth abroad
+issued by the United States department of state;
+(J) An original or certified copy of a
+birth certificate in the United States bearing an official
+seal.
+22-3-102. Qualifications; temporary registration.
+(a) A person may register to vote not less than
+fourteen (14) days before an election, at any election
+specified in W.S. 22-2-101(a)(i) through (viii) or as
+provided by W.S. 22-3-117, who satisfies the following
+qualifications:
+(i) He is a citizen of the United States, as
+evidenced by providing proof of United States citizenship
+as defined by W.S. 22-1-102(a)(lvi);
+(vi) He has been a bona fide resident of Wyoming
+for not less than thirty (30) days before the date of the
+election at which he offers to vote.
+22-3-103. Furnishing of oath forms; contents thereof.
+(a) The county clerk shall furnish voter registration
+oath forms to registry agents which forms shall require the
+following voter information from the applicant:
+4
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(ix) Proof of residence as defined in W.S.
+22-1-102(a)(lv);
+(x) Proof of United States citizenship as
+defined by W.S. 22-1-102(a)(lvi).
+(b) Following the provision of the information
+required in subsection (a) of this section, the form shall
+require the applicant's signature in full below the
+following oath:
+I, ...., do solemnly swear (or affirm) that I am a citizen
+of the United States; that I am a bona fide resident of the
+state of Wyoming and this county; I have resided in the
+state for not less than thirty (30) days before the date of
+the election; that if registered in another county or
+state, I hereby request that my registration be withdrawn;
+that I will be at least eighteen (18) years of age on or
+before the next election; that I am not currently
+adjudicated a mentally incompetent person, that I have not
+been convicted of a felony, or if I have been convicted of
+a felony, I have had my civil or voting rights restored by
+a competent authority; and that the voter registration
+information contained herein is true and accurate to my
+best knowledge and belief.
+.... (Signature in full of applicant)
+Subscribed and affirmed or sworn to before me by .... this
+.... day of ...., (year).
+.... (Signature and title of registry agent
+or person authorized to administer oaths)
+5
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+22-3-117. Absentee registration generally; use of
+federal postcard.
+(a) Notwithstanding any other section or provision in
+this chapter, any citizen of the United States who is a
+resident of Wyoming may apply for registration by providing
+the information required by W.S. 22-3-103(a), and
+acceptable identification, to proof of United States
+citizenship and proof of residence and by completing and
+subscribing, the form of voter registration oath prescribed
+by W.S. 22-3-103(b) before any person authorized by law to
+administer oaths. Each county clerk shall furnish the voter
+registration oath forms. The applicant shall mail or
+return the completed voter registration oath form to the
+county clerk in the county in which the applicant resides.
+In order to vote in the next election, the application must
+be received in the county clerk's office before the close
+of registration for that election, or:
+22-3-118. Proof of identity.
+(a) Unless a voter is challenged pursuant to W.S.
+22-15-101 through 22-15-109, and except as provided in W.S.
+22-9-104(a)(vi) for an absentee ballot obtained in person
+by the elector, no identification shall be required when:
+(ii) Voting by absentee ballot after having
+registered by mail and having submitted a copy of the
+person's acceptable identification, proof of United States
+citizenship as defined by W.S. 22-1-102(a)(lvi) and proof
+of residence as set forth in W.S. 22-1-102(a)(xxxix)(A) and
+(lv), at the time of registration.
+22-29-104. Definitions when principal act is silent.
+6
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(a) When used in a principal act, the following
+definitions apply, unless the term is otherwise
+specifically defined in that principal act:
+(v) "Qualified elector" means a natural person
+who:
+(E) Has not been convicted of a felony, or,
+if so convicted, has had his civil or voting rights
+restored; and
+(F) Has registered to vote; and
+(G) Has been a bona fide resident of
+Wyoming for not less than thirty (30) days before the date
+of the election at which he offers to vote.
+
+Section 3:
+Section 2. The secretary of state shall promulgate
+all rules necessary to implement this act.
+7
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+
+Section 4:
+Section 3.
+(a) Except as provided in subsection (b) of this
+
+Section 5:
+section, this act is effective July 1, 2025.
+(b) Sections 2 and 3 of this act are effective
+immediately upon completion of all acts necessary for a
+bill to become law as provided by Article 4, Section 8 of
+the Wyoming Constitution.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the House.
+Chief Clerk
+8
+
+
+================================================================================
+
+Raw Text:
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+AN ACT relating to elections; requiring a qualified elector
+to be a bona fide resident of the state of Wyoming for not
+less than thirty (30) days before the date of the election
+in which they offer to vote; requiring documentation
+proving residence to register to vote; prohibiting
+registration based on documentation showing noncitizen
+status; making conforming amendments; requiring rulemaking;
+and providing for effective dates.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 18-16-102(a)(ix)(E), (F) and by
+creating a new subparagraph (G), 22-1-102(a)(xxvi), (xxvii)
+and by creating new paragraphs (lv) and (lvi),
+22-3-102(a)(i) and by creating a new paragraph (vi),
+22-3-103(a) by creating new paragraphs (ix) and (x) and
+(b), 22-3-117(a)(intro), 22-3-118(a)(ii) and
+22-29-104(a)(v)(E), (F) and by creating a new subparagraph
+(G) are amended to read:
+18-16-102. Definitions.
+(a) As used in this act:
+(ix) "Qualified elector" means a natural person
+who:
+(E) Has not been convicted of a felony or
+if convicted has had his civil rights or voting rights
+restored; and
+(F) Is registered to vote; and
+1
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(G) Has been a bona fide resident of
+Wyoming for not less than thirty (30) days before the date
+of the election at which he offers to vote.
+22-1-102. Definitions.
+(a) The definitions contained in this chapter apply
+to words and phrases used in this Election Code and govern
+the construction of those words and phrases unless they are
+specifically modified by the context in which they appear.
+As used in this Election Code:
+(xxvi) "Qualified elector" includes every
+citizen of the United States who is a bona fide resident of
+Wyoming, has been a bona fide resident of Wyoming for not
+less than thirty (30) days before the date of the election
+at which he offers to vote, has registered to vote and will
+be at least eighteen (18) years of age on the day of the
+election at which he may offer to vote. No person is a
+qualified elector who is a currently adjudicated mentally
+incompetent person, or who has been convicted of a felony
+and his civil or voting rights have not been restored. A
+literacy test shall not be imposed as a condition to voting
+in any election;
+(xxvii) "Registration" is the entry and
+verification of the name, residence, citizenship and voter
+information of a qualified elector on the official registry
+list, as provided in W.S. 22-3-104(f) and 22-3-108;
+(lv) "Proof of residence" means the documents
+or other proof of residence specified by rule of the
+secretary of state, which rule identifies documents or
+other proof that establishes residency. If a person does
+not have the documents or other proof of residency
+2
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+specified by rule of the secretary of state, "proof of
+residence" may be established by a signed attestation of
+the person that the person is a bona fide resident of the
+state of Wyoming. The attestation shall be subject to
+verification by the county clerk or the secretary of state;
+(lvi) "Proof of United States citizenship"
+means, for purposes of voter registration, any of the
+following:
+(A) A valid Wyoming driver's license as
+defined by W.S. 31-7-102(a)(xxv) or a valid Wyoming
+identification card issued under W.S. 31-8-101, provided
+that the license or identification card does not contain
+any indication that the person is not a United States
+citizen;
+(B) A valid tribal identification card
+issued by the governing body of the Eastern Shoshone Tribe
+or the Northern Arapaho Tribe of the Wind River Indian
+Reservation or any other federally recognized Indian tribe,
+provided that the identification card does not contain any
+indication that the person is not a United States citizen;
+(C) A valid driver's license or
+identification card issued by any other state that is
+consistent with the Real ID Act as defined by W.S.
+31-7-102(a)(lii), provided that the driver's license or
+identification card does not include any indication that
+the person is not a United States citizen;
+(D) A valid United States passport;
+(E) A certificate of United States
+citizenship;
+3
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(F) A certificate of naturalization;
+(G) A United States military draft record
+or a selective service registration acknowledgment card;
+(H) A consular report of birth abroad
+issued by the United States department of state;
+(J) An original or certified copy of a
+birth certificate in the United States bearing an official
+seal.
+22-3-102. Qualifications; temporary registration.
+(a) A person may register to vote not less than
+fourteen (14) days before an election, at any election
+specified in W.S. 22-2-101(a)(i) through (viii) or as
+provided by W.S. 22-3-117, who satisfies the following
+qualifications:
+(i) He is a citizen of the United States, as
+evidenced by providing proof of United States citizenship
+as defined by W.S. 22-1-102(a)(lvi);
+(vi) He has been a bona fide resident of Wyoming
+for not less than thirty (30) days before the date of the
+election at which he offers to vote.
+22-3-103. Furnishing of oath forms; contents thereof.
+(a) The county clerk shall furnish voter registration
+oath forms to registry agents which forms shall require the
+following voter information from the applicant:
+4
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(ix) Proof of residence as defined in W.S.
+22-1-102(a)(lv);
+(x) Proof of United States citizenship as
+defined by W.S. 22-1-102(a)(lvi).
+(b) Following the provision of the information
+required in subsection (a) of this section, the form shall
+require the applicant's signature in full below the
+following oath:
+I, ...., do solemnly swear (or affirm) that I am a citizen
+of the United States; that I am a bona fide resident of the
+state of Wyoming and this county; I have resided in the
+state for not less than thirty (30) days before the date of
+the election; that if registered in another county or
+state, I hereby request that my registration be withdrawn;
+that I will be at least eighteen (18) years of age on or
+before the next election; that I am not currently
+adjudicated a mentally incompetent person, that I have not
+been convicted of a felony, or if I have been convicted of
+a felony, I have had my civil or voting rights restored by
+a competent authority; and that the voter registration
+information contained herein is true and accurate to my
+best knowledge and belief.
+.... (Signature in full of applicant)
+Subscribed and affirmed or sworn to before me by .... this
+.... day of ...., (year).
+.... (Signature and title of registry agent
+or person authorized to administer oaths)
+5
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+22-3-117. Absentee registration generally; use of
+federal postcard.
+(a) Notwithstanding any other section or provision in
+this chapter, any citizen of the United States who is a
+resident of Wyoming may apply for registration by providing
+the information required by W.S. 22-3-103(a), and
+acceptable identification, to proof of United States
+citizenship and proof of residence and by completing and
+subscribing, the form of voter registration oath prescribed
+by W.S. 22-3-103(b) before any person authorized by law to
+administer oaths. Each county clerk shall furnish the voter
+registration oath forms. The applicant shall mail or
+return the completed voter registration oath form to the
+county clerk in the county in which the applicant resides.
+In order to vote in the next election, the application must
+be received in the county clerk's office before the close
+of registration for that election, or:
+22-3-118. Proof of identity.
+(a) Unless a voter is challenged pursuant to W.S.
+22-15-101 through 22-15-109, and except as provided in W.S.
+22-9-104(a)(vi) for an absentee ballot obtained in person
+by the elector, no identification shall be required when:
+(ii) Voting by absentee ballot after having
+registered by mail and having submitted a copy of the
+person's acceptable identification, proof of United States
+citizenship as defined by W.S. 22-1-102(a)(lvi) and proof
+of residence as set forth in W.S. 22-1-102(a)(xxxix)(A) and
+(lv), at the time of registration.
+22-29-104. Definitions when principal act is silent.
+6
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(a) When used in a principal act, the following
+definitions apply, unless the term is otherwise
+specifically defined in that principal act:
+(v) "Qualified elector" means a natural person
+who:
+(E) Has not been convicted of a felony, or,
+if so convicted, has had his civil or voting rights
+restored; and
+(F) Has registered to vote; and
+(G) Has been a bona fide resident of
+Wyoming for not less than thirty (30) days before the date
+of the election at which he offers to vote.
+Section 2. The secretary of state shall promulgate
+all rules necessary to implement this act.
+7
+
+ORIGINAL HOUSE ENGROSSED
+BILL NO. HB0156
+ENROLLED ACT NO. 57, HOUSE OF REPRESENTATIVES
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+Section 3.
+(a) Except as provided in subsection (b) of this
+section, this act is effective July 1, 2025.
+(b) Sections 2 and 3 of this act are effective
+immediately upon completion of all acts necessary for a
+bill to become law as provided by Article 4, Section 8 of
+the Wyoming Constitution.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the House.
+Chief Clerk
+8

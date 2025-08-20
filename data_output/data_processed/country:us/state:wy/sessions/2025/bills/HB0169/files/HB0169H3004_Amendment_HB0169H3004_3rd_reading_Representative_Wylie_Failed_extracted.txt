@@ -1,0 +1,27 @@
+Title: 3 Page 2-line 12 Delete "($1,000,000.00)" and insert "six
+Official Title: 3 Page 2-line 12 Delete "($1,000,000.00)" and insert "six
+Number of Sections: 1
+Source: versions - Amendment HB0169H3004 (3rd reading) - Representative Wylie (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0169H3004
+1 Page 2-line 11 Delete "one million dollars".
+2
+4 hundred thousand dollars ($600,000.00)".
+5 WYLIE
+1
+
+
+================================================================================
+
+Raw Text:
+HB0169H3004
+1 Page 2-line 11 Delete "one million dollars".
+2
+3 Page 2-line 12 Delete "($1,000,000.00)" and insert "six
+4 hundred thousand dollars ($600,000.00)".
+5 WYLIE
+1

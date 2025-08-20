@@ -1,0 +1,396 @@
+Title: HOUSE BILL NO. HB0201
+Official Title: HOUSE BILL NO. HB0201
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0488
+State funds-investment in Bitcoin.
+Sponsored by: Representative(s) Wasserburger, Brown, G,
+Filer, Lucas and Singh and Senator(s) Smith,
+D
+A BILL
+for
+1 AN ACT relating to public funds; authorizing the investment
+2 of state funds and permanent funds in Bitcoin; specifying
+3 requirements for the investment in Bitcoin; requiring
+4 rulemaking; requiring reports; providing definitions; and
+5 providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 9-4-722 is created to read:
+10
+11 9-4-722. Investment of state funds in Bitcoin.
+12
+13 (a) As used in this section:
+14
+1 HB0201
+2025 STATE OF WYOMING 25LSO-0488
+1 (i) "Bitcoin" means the decentralized digital
+2 currency launched in 2009, based on Satoshi Nakamoto's
+3 paper titled Bitcoin: A Peer-to-Peer Electronic Cash
+4 System. "Bitcoin" also includes the digital asset that is
+5 the basis of the Bitcoin exchange-traded product that is
+6 regulated by the United States securities and exchange
+7 commission;
+8
+9 (ii) "Exchange-traded product" means any
+10 financial instrument that:
+11
+12 (A) Is approved by the United States
+13 securities and exchange commission, the federal commodity
+14 futures trading commission or the division of banking;
+15
+16 (B) Is traded on an exchange regulated
+17 under state or federal law; and
+18
+19 (C) Derives its value from an underlying
+20 pool of assets, including stocks, bonds, commodities or
+21 indexes.
+22
+2 HB0201
+2025 STATE OF WYOMING 25LSO-0488
+1 (iii) "Private key" means as defined by W.S.
+2 34-29-101(a)(v);
+3
+4 (iv) "Qualified custodian" means any special
+5 purpose depository institution, a state chartered trust
+6 company or a company regulated under state or federal law
+7 that custodies digital assets for an approved
+8 exchange-traded product;
+9
+10 (v) "Secure custody solution" means a
+11 technological product or blended product or service that
+12 has all of the following:
+13
+14 (A) The cryptographic private keys that
+15 secure digital assets are:
+16
+17 (I) Exclusively known and accessible
+18 by the state treasurer;
+19
+20 (II) Exclusively contained within an
+21 encrypted environment and accessible only through
+22 end-to-end encrypted channels;
+23
+3 HB0201
+2025 STATE OF WYOMING 25LSO-0488
+1 (III) Never contained by, accessible
+2 by or controllable with a mobile or cellular phone.
+3
+4 (B) Any hardware that contains the
+5 cryptographic private keys that secure digital assets is
+6 maintained in at least two (2) geographically diversified
+7 and specially designated secure data centers;
+8
+9 (C) A multi-party governance structure is
+10 enforced for authorizing transactions and for user access
+11 and all user-initiated actions are logged;
+12
+13 (D) The implementation of a disaster
+14 recovery protocol that ensures customer access to assets if
+15 the provider becomes unavailable;
+16
+17 (E) The completion of regular code audits
+18 and penetration testing from audit firms and the
+19 remediation of any identified vulnerabilities.
+20
+21 (b) The state treasurer may invest the following
+22 funds in Bitcoin:
+23
+4 HB0201
+2025 STATE OF WYOMING 25LSO-0488
+1 (i) The general fund, provided that no more than
+2 three percent (3%) of the general fund shall be invested in
+3 Bitcoin at any one (1) time;
+4
+5 (ii) The permanent Wyoming mineral trust fund,
+6 subject to subsection (c) of this section;
+7
+8 (iii) The permanent land fund, subject to
+9 subsection (c) of this section.
+10
+11 (c) The state treasurer may invest the permanent
+12 Wyoming mineral trust fund and the permanent land fund in
+13 Bitcoin, provided that investments under this subsection
+14 shall not exceed three percent (3%) of each fund.
+15
+16 (d) The state treasurer shall acquire and hold
+17 Bitcoin invested under this section using one (1) or more
+18 of the following methods:
+19
+20 (i) Directly by the state treasurer through the
+21 use of a secure custody solution;
+22
+23 (ii) Through a qualified custodian;
+5 HB0201
+2025 STATE OF WYOMING 25LSO-0488
+1
+2 (iii) Through ownership or holding of an
+3 exchange-traded product issued by an investment company or
+4 manager registered under the federal Investment Advisor's
+5 Act of 1940, as amended.
+6
+7 (e) If at any time the total market value of
+8 investments in Bitcoin under this section exceeds the
+9 percentage limits established in subsections (b) and (c) of
+10 this section due to market appreciation, the state
+11 treasurer shall not be required to sell or otherwise reduce
+12 the investments to comply with the limits of this section.
+13 The state treasurer shall not make any additional deposits
+14 or investments in Bitcoin until the percentage of Bitcoin
+15 holdings is within the limits specified in this section.
+16 If the value of investments under this section are at or
+17 fall below the limits specified in this section, the state
+18 treasurer may resume the investment of funds in Bitcoin in
+19 accordance with this section.
+20
+21 (f) The state treasurer shall promulgate all rules
+22 necessary to implement this act.
+23
+6 HB0201
+2025 STATE OF WYOMING 25LSO-0488
+1 (g) Not later than October 1 of each year, the state
+2 treasurer shall report to the joint appropriations
+3 committee and the select committee on capital financing and
+4 investments on:
+5
+6 (i) The amount and performance of investments in
+7 Bitcoin under this section;
+8
+9 (ii) The custody and security arrangements taken
+10 for investments made under this section, including actions
+11 taken to comply with secure custody requirements;
+12
+13 (iii) The cost basis and current market value of
+14 the Bitcoin held under this section;
+15
+16 (iv) The amount of payments received by the
+17 state in Bitcoin and the amounts of Bitcoin converted and
+18 reimbursed under this section.
+19
+20 Section 2. W.S. 9-4-714(a)(viii) is amended to read:
+21
+22 9-4-714. Definitions.
+23
+7 HB0201
+2025 STATE OF WYOMING 25LSO-0488
+1 (a) As used in this act:
+2
+3 (viii) "This act" means W.S. 9-4-714 through
+4 9-4-721 9-4-722.
+5
+6 Section 3. The state treasurer shall promulgate all
+7 rules necessary to implement this act.
+8
+9 Section 4. This act is effective immediately upon
+10 completion of all acts necessary for a bill to become law
+11 as provided by Article 4, Section 8 of the Wyoming
+12 Constitution.
+13
+14 (END)
+8 HB0201
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0488
+HOUSE BILL NO. HB0201
+State funds-investment in Bitcoin.
+Sponsored by: Representative(s) Wasserburger, Brown, G,
+Filer, Lucas and Singh and Senator(s) Smith,
+D
+A BILL
+for
+1 AN ACT relating to public funds; authorizing the investment
+2 of state funds and permanent funds in Bitcoin; specifying
+3 requirements for the investment in Bitcoin; requiring
+4 rulemaking; requiring reports; providing definitions; and
+5 providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 9-4-722 is created to read:
+10
+11 9-4-722. Investment of state funds in Bitcoin.
+12
+13 (a) As used in this section:
+14
+1 HB0201
+
+2025 STATE OF WYOMING 25LSO-0488
+1 (i) "Bitcoin" means the decentralized digital
+2 currency launched in 2009, based on Satoshi Nakamoto's
+3 paper titled Bitcoin: A Peer-to-Peer Electronic Cash
+4 System. "Bitcoin" also includes the digital asset that is
+5 the basis of the Bitcoin exchange-traded product that is
+6 regulated by the United States securities and exchange
+7 commission;
+8
+9 (ii) "Exchange-traded product" means any
+10 financial instrument that:
+11
+12 (A) Is approved by the United States
+13 securities and exchange commission, the federal commodity
+14 futures trading commission or the division of banking;
+15
+16 (B) Is traded on an exchange regulated
+17 under state or federal law; and
+18
+19 (C) Derives its value from an underlying
+20 pool of assets, including stocks, bonds, commodities or
+21 indexes.
+22
+2 HB0201
+
+2025 STATE OF WYOMING 25LSO-0488
+1 (iii) "Private key" means as defined by W.S.
+2 34-29-101(a)(v);
+3
+4 (iv) "Qualified custodian" means any special
+5 purpose depository institution, a state chartered trust
+6 company or a company regulated under state or federal law
+7 that custodies digital assets for an approved
+8 exchange-traded product;
+9
+10 (v) "Secure custody solution" means a
+11 technological product or blended product or service that
+12 has all of the following:
+13
+14 (A) The cryptographic private keys that
+15 secure digital assets are:
+16
+17 (I) Exclusively known and accessible
+18 by the state treasurer;
+19
+20 (II) Exclusively contained within an
+21 encrypted environment and accessible only through
+22 end-to-end encrypted channels;
+23
+3 HB0201
+
+2025 STATE OF WYOMING 25LSO-0488
+1 (III) Never contained by, accessible
+2 by or controllable with a mobile or cellular phone.
+3
+4 (B) Any hardware that contains the
+5 cryptographic private keys that secure digital assets is
+6 maintained in at least two (2) geographically diversified
+7 and specially designated secure data centers;
+8
+9 (C) A multi-party governance structure is
+10 enforced for authorizing transactions and for user access
+11 and all user-initiated actions are logged;
+12
+13 (D) The implementation of a disaster
+14 recovery protocol that ensures customer access to assets if
+15 the provider becomes unavailable;
+16
+17 (E) The completion of regular code audits
+18 and penetration testing from audit firms and the
+19 remediation of any identified vulnerabilities.
+20
+21 (b) The state treasurer may invest the following
+22 funds in Bitcoin:
+23
+4 HB0201
+
+2025 STATE OF WYOMING 25LSO-0488
+1 (i) The general fund, provided that no more than
+2 three percent (3%) of the general fund shall be invested in
+3 Bitcoin at any one (1) time;
+4
+5 (ii) The permanent Wyoming mineral trust fund,
+6 subject to subsection (c) of this section;
+7
+8 (iii) The permanent land fund, subject to
+9 subsection (c) of this section.
+10
+11 (c) The state treasurer may invest the permanent
+12 Wyoming mineral trust fund and the permanent land fund in
+13 Bitcoin, provided that investments under this subsection
+14 shall not exceed three percent (3%) of each fund.
+15
+16 (d) The state treasurer shall acquire and hold
+17 Bitcoin invested under this section using one (1) or more
+18 of the following methods:
+19
+20 (i) Directly by the state treasurer through the
+21 use of a secure custody solution;
+22
+23 (ii) Through a qualified custodian;
+5 HB0201
+
+2025 STATE OF WYOMING 25LSO-0488
+1
+2 (iii) Through ownership or holding of an
+3 exchange-traded product issued by an investment company or
+4 manager registered under the federal Investment Advisor's
+5 Act of 1940, as amended.
+6
+7 (e) If at any time the total market value of
+8 investments in Bitcoin under this section exceeds the
+9 percentage limits established in subsections (b) and (c) of
+10 this section due to market appreciation, the state
+11 treasurer shall not be required to sell or otherwise reduce
+12 the investments to comply with the limits of this section.
+13 The state treasurer shall not make any additional deposits
+14 or investments in Bitcoin until the percentage of Bitcoin
+15 holdings is within the limits specified in this section.
+16 If the value of investments under this section are at or
+17 fall below the limits specified in this section, the state
+18 treasurer may resume the investment of funds in Bitcoin in
+19 accordance with this section.
+20
+21 (f) The state treasurer shall promulgate all rules
+22 necessary to implement this act.
+23
+6 HB0201
+
+2025 STATE OF WYOMING 25LSO-0488
+1 (g) Not later than October 1 of each year, the state
+2 treasurer shall report to the joint appropriations
+3 committee and the select committee on capital financing and
+4 investments on:
+5
+6 (i) The amount and performance of investments in
+7 Bitcoin under this section;
+8
+9 (ii) The custody and security arrangements taken
+10 for investments made under this section, including actions
+11 taken to comply with secure custody requirements;
+12
+13 (iii) The cost basis and current market value of
+14 the Bitcoin held under this section;
+15
+16 (iv) The amount of payments received by the
+17 state in Bitcoin and the amounts of Bitcoin converted and
+18 reimbursed under this section.
+19
+20 Section 2. W.S. 9-4-714(a)(viii) is amended to read:
+21
+22 9-4-714. Definitions.
+23
+7 HB0201
+
+2025 STATE OF WYOMING 25LSO-0488
+1 (a) As used in this act:
+2
+3 (viii) "This act" means W.S. 9-4-714 through
+4 9-4-721 9-4-722.
+5
+6 Section 3. The state treasurer shall promulgate all
+7 rules necessary to implement this act.
+8
+9 Section 4. This act is effective immediately upon
+10 completion of all acts necessary for a bill to become law
+11 as provided by Article 4, Section 8 of the Wyoming
+12 Constitution.
+13
+14 (END)
+8 HB0201

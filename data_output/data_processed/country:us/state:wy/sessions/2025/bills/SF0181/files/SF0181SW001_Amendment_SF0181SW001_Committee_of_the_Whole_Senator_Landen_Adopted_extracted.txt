@@ -1,0 +1,37 @@
+Title: 1 Page 6-lines 8 through 17 Delete the Senate standing
+Official Title: 1 Page 6-lines 8 through 17 Delete the Senate standing
+Number of Sections: 1
+Source: versions - Amendment SF0181SW001 (Committee of the Whole) - Senator Landen (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0181SW001
+2 committee amendment (SF0181SS001/A)
+3 to these lines.
+4
+5 Page 6-lines 14 through 17 Delete entirely and insert:
+6
+7 "(ii) Any energy collector system associated with a
+8 commercial facility generating electricity that began serving load
+9 or that began exporting energy from Wyoming before July 1, 2025.".
+10 LANDEN
+1
+
+
+================================================================================
+
+Raw Text:
+SF0181SW001
+1 Page 6-lines 8 through 17 Delete the Senate standing
+2 committee amendment (SF0181SS001/A)
+3 to these lines.
+4
+5 Page 6-lines 14 through 17 Delete entirely and insert:
+6
+7 "(ii) Any energy collector system associated with a
+8 commercial facility generating electricity that began serving load
+9 or that began exporting energy from Wyoming before July 1, 2025.".
+10 LANDEN
+1

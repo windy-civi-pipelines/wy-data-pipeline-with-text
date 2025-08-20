@@ -1,0 +1,29 @@
+Title: 3 Page 12-line 7 Delete "(21)" and insert "twenty-four (24)".
+Official Title: 3 Page 12-line 7 Delete "(21)" and insert "twenty-four (24)".
+Number of Sections: 1
+Source: versions - Amendment SF0190HW001 (Committee of the Whole)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0190HW001 (TO ENGROSSED COPY)
+1 Page 12-line 6 Delete "twenty-one".
+2
+4
+5 Page 12-line 15 Delete "twenty-one (21)" and insert "twenty-
+6 four (24)". WASSERBURGER
+1
+
+
+================================================================================
+
+Raw Text:
+SF0190HW001 (TO ENGROSSED COPY)
+1 Page 12-line 6 Delete "twenty-one".
+2
+3 Page 12-line 7 Delete "(21)" and insert "twenty-four (24)".
+4
+5 Page 12-line 15 Delete "twenty-one (21)" and insert "twenty-
+6 four (24)". WASSERBURGER
+1

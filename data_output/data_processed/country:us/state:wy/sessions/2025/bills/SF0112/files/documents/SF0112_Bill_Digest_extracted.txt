@@ -1,0 +1,211 @@
+Title: Sponsored By: Senator(s) Schuler and Pappas and Representative(s)
+Official Title: Sponsored By: Senator(s) Schuler and Pappas and Representative(s)
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0112 Anesthesiologist assistants licensing.
+Storer and Wylie
+AN ACT relating to professions and occupations; providing for the licensing of
+anesthesiologist assistants and specifying scope of practice; creating and
+amending definitions; providing for temporary licenses as specified; providing
+for the imposition of fees; providing for the suspension, restriction,
+revocation or nonrenewal of licenses as specified; providing for license
+reinstatement and reactivation; creating a criminal penalty; providing for a
+hearing; amending the composition of the board of medicine; requiring
+rulemaking; and providing for an effective date.
+1/14/2025 Bill Number Assigned
+1/14/2025 S Received for Introduction
+1/21/2025 S Introduced and Referred to S10 - Labor
+1/28/2025 S10 - Labor:Recommend Amend and Do Pass 3-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crum, Hutchings, Scott
+Nays: Senator(s) Barlow, Steinmetz
+Ayes 3 Nays 2 Excused 0 Absent 0 Conflicts 0
+1/28/2025 :Rerefer to S02 - Appropriations
+1/30/2025 S02 - Appropriations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Gierau, Laursen, Salazar, Smith
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/30/2025 S Placed on General File
+SF0112SS001/ADOPTED
+Page 18-line 18 Delete "(x)" and insert "(xxxvi)".
+Page 18-line 19 Delete "and (xii) through (xxxv)". BARLOW, CHAIRMAN
+SF0112SW001/ADOPTED (CORRECTED COPY)
+Page 1-line 7 After "reinstatement" insert "and reactivation".
+Page 6-line 5 After "assistant" insert ".".
+Page 6-lines 6 through 22 Delete entirely.
+Pages 7 through 10 Delete entirely.
+Page 11-line 8 Delete "33-26-410 and 33-26-601 through".
+Page 15-line 18 Delete "during a shift" and insert "concurrently".
+Page 16-line 23 Delete "duplicates" and insert "reactivation".
+Page 17-line 9 Delete "reinstate" and insert "reactivate".
+Page 17-line 10 Delete "reinstatement" and insert "reactivation".
+Page 17-line 11 Delete "granting of an initial license" and insert
+"reactivation of a license as set by rule of the board".
+Page 17-lines 13 through 20 Delete entirely.
+Page 24-line 8 After "license" insert ", deny the request".
+Page 25-line 21 Strike "five (5)" and insert "six (6)".
+Page 25-line 23 After "osteopathy" strike "and" and insert ",".
+Page 26-line 1 After "medicine" strike "," and insert "and not less
+than one (1) of whom shall be an anesthesiologist. The
+state board shall also consist of".
+Page 26-line 2 Delete "one (1) anesthesiologist,".
+Page 26-line 3 After "members" strike "," and insert ". All members
+shall be" SCHULER
+1/30/2025 S COW:Passed
+SF0112S2001/WITHDRAWN
+1/31/2025 S 2nd Reading:Passed
+SF0112S3001/ADOPTED
+Page 5-line 11 After "anesthesiologist" insert "or certified
+registered nurse anesthetist".
+Page 5-after line 18 Insert and renumber as necessary:
+"(b) A certified registered nurse anesthetist approved by the state board
+of nursing to supervise anesthesiologist assistants may perform all of the
+duties and responsibilities authorized by this article for a supervising
+anesthesiologist, except that certified registered nurse anesthetists may be
+prohibited from supervising anesthesiologist assistants during or on procedures
+where the federal center for Medicare and Medicaid services has lawful authority
+to regulate the payment for the procedure and where the use of anesthesiologist
+assistants supervised by a certified registered nurse anesthetist is not allowed
+or authorized or would result in the reduction or elimination of reimbursement
+amounts.".
+Page 5-line 20 Delete "(b)" and insert "(c)".
+Page 11-line 1 Delete "(c)" and insert "(d)".
+Page 11-line 6 Delete "(d)" and insert "(e)".
+Page 12-line 8 After "assistants" insert ". The board shall consult
+with the state board of nursing before promulgating
+rules under this paragraph".
+Page 15-after line 18 Insert and renumber as necessary:
+"(e) The state board of nursing shall approve an application by a
+certified registered nurse anesthetist to supervise anesthesiologist assistants
+if the board is satisfied that each proposed anesthesiologist assistant is fully
+qualified to assist under the responsible supervision of the applicant certified
+registered nurse anesthetist and that the certified registered nurse anesthetist
+is compatible in specialty scope and qualified to supervise the anesthesiologist
+assistants. The board of nursing shall provide by rule for requirements and
+limitations on the practice by and supervision of anesthesiologist assistants
+including the number of anesthesiologist assistants who may be supervised
+concurrently, and the board of nursing shall not allow a certified registered
+nurse anesthetist to supervise more than two (2) anesthesiologist assistants
+during a shift.". SCOTT
+2/3/2025 S 3rd Reading:Passed 29-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Jones,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss,
+Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Ide, Kolb
+Ayes 29 Nays 2 Excused 0 Absent 0 Conflicts 0
+2/4/2025 H Received for Introduction
+2/19/2025 H Introduced and Referred to H10 - Labor
+2/28/2025 H No report prior to CoW Cutoff
+3/3/2025 H:Died in Committee Returned Bill Pursuant to HR 5-4
+
+
+================================================================================
+
+Raw Text:
+SF0112 Anesthesiologist assistants licensing.
+Sponsored By: Senator(s) Schuler and Pappas and Representative(s)
+Storer and Wylie
+AN ACT relating to professions and occupations; providing for the licensing of
+anesthesiologist assistants and specifying scope of practice; creating and
+amending definitions; providing for temporary licenses as specified; providing
+for the imposition of fees; providing for the suspension, restriction,
+revocation or nonrenewal of licenses as specified; providing for license
+reinstatement and reactivation; creating a criminal penalty; providing for a
+hearing; amending the composition of the board of medicine; requiring
+rulemaking; and providing for an effective date.
+1/14/2025 Bill Number Assigned
+1/14/2025 S Received for Introduction
+1/21/2025 S Introduced and Referred to S10 - Labor
+1/28/2025 S10 - Labor:Recommend Amend and Do Pass 3-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crum, Hutchings, Scott
+Nays: Senator(s) Barlow, Steinmetz
+Ayes 3 Nays 2 Excused 0 Absent 0 Conflicts 0
+1/28/2025 :Rerefer to S02 - Appropriations
+1/30/2025 S02 - Appropriations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Gierau, Laursen, Salazar, Smith
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/30/2025 S Placed on General File
+SF0112SS001/ADOPTED
+Page 18-line 18 Delete "(x)" and insert "(xxxvi)".
+Page 18-line 19 Delete "and (xii) through (xxxv)". BARLOW, CHAIRMAN
+SF0112SW001/ADOPTED (CORRECTED COPY)
+Page 1-line 7 After "reinstatement" insert "and reactivation".
+Page 6-line 5 After "assistant" insert ".".
+Page 6-lines 6 through 22 Delete entirely.
+Pages 7 through 10 Delete entirely.
+Page 11-line 8 Delete "33-26-410 and 33-26-601 through".
+Page 15-line 18 Delete "during a shift" and insert "concurrently".
+Page 16-line 23 Delete "duplicates" and insert "reactivation".
+Page 17-line 9 Delete "reinstate" and insert "reactivate".
+Page 17-line 10 Delete "reinstatement" and insert "reactivation".
+
+Page 17-line 11 Delete "granting of an initial license" and insert
+"reactivation of a license as set by rule of the board".
+Page 17-lines 13 through 20 Delete entirely.
+Page 24-line 8 After "license" insert ", deny the request".
+Page 25-line 21 Strike "five (5)" and insert "six (6)".
+Page 25-line 23 After "osteopathy" strike "and" and insert ",".
+Page 26-line 1 After "medicine" strike "," and insert "and not less
+than one (1) of whom shall be an anesthesiologist. The
+state board shall also consist of".
+Page 26-line 2 Delete "one (1) anesthesiologist,".
+Page 26-line 3 After "members" strike "," and insert ". All members
+shall be" SCHULER
+1/30/2025 S COW:Passed
+SF0112S2001/WITHDRAWN
+1/31/2025 S 2nd Reading:Passed
+SF0112S3001/ADOPTED
+Page 5-line 11 After "anesthesiologist" insert "or certified
+registered nurse anesthetist".
+Page 5-after line 18 Insert and renumber as necessary:
+"(b) A certified registered nurse anesthetist approved by the state board
+of nursing to supervise anesthesiologist assistants may perform all of the
+duties and responsibilities authorized by this article for a supervising
+anesthesiologist, except that certified registered nurse anesthetists may be
+prohibited from supervising anesthesiologist assistants during or on procedures
+where the federal center for Medicare and Medicaid services has lawful authority
+to regulate the payment for the procedure and where the use of anesthesiologist
+assistants supervised by a certified registered nurse anesthetist is not allowed
+or authorized or would result in the reduction or elimination of reimbursement
+amounts.".
+Page 5-line 20 Delete "(b)" and insert "(c)".
+Page 11-line 1 Delete "(c)" and insert "(d)".
+Page 11-line 6 Delete "(d)" and insert "(e)".
+Page 12-line 8 After "assistants" insert ". The board shall consult
+with the state board of nursing before promulgating
+rules under this paragraph".
+Page 15-after line 18 Insert and renumber as necessary:
+"(e) The state board of nursing shall approve an application by a
+certified registered nurse anesthetist to supervise anesthesiologist assistants
+
+if the board is satisfied that each proposed anesthesiologist assistant is fully
+qualified to assist under the responsible supervision of the applicant certified
+registered nurse anesthetist and that the certified registered nurse anesthetist
+is compatible in specialty scope and qualified to supervise the anesthesiologist
+assistants. The board of nursing shall provide by rule for requirements and
+limitations on the practice by and supervision of anesthesiologist assistants
+including the number of anesthesiologist assistants who may be supervised
+concurrently, and the board of nursing shall not allow a certified registered
+nurse anesthetist to supervise more than two (2) anesthesiologist assistants
+during a shift.". SCOTT
+2/3/2025 S 3rd Reading:Passed 29-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Jones,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss,
+Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Ide, Kolb
+Ayes 29 Nays 2 Excused 0 Absent 0 Conflicts 0
+2/4/2025 H Received for Introduction
+2/19/2025 H Introduced and Referred to H10 - Labor
+2/28/2025 H No report prior to CoW Cutoff
+3/3/2025 H:Died in Committee Returned Bill Pursuant to HR 5-4

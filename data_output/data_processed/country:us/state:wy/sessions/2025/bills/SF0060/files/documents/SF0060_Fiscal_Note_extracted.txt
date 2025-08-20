@@ -1,0 +1,65 @@
+Title: GENERAL FUND ($38,600,000) ($39,700,000) ($40,700,000)
+Official Title: GENERAL FUND ($38,600,000) ($39,700,000) ($40,700,000)
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Sales tax distribution rates. 25LSO-0460, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue
+increase/(decrease)
+LOCAL SOURCES FUND $38,600,000 $39,700,000 $40,700,000
+Source of revenue increase(decrease):
+This bill reduces the General Fund share of the 4 percent state sales and use tax
+distribution from 69 percent to 65 percent. This reduction in the General Fund
+share results in a corresponding increase in the state sales and use taxes
+distributed to local governments.
+Assumptions:
+The above estimates are based on the General Fund sales and use taxes projected
+in Table 1 of the October 2024 Consensus Revenue Estimating Group (CREG)
+forecast.
+The above estimates include the change in the distribution of 1) the 4 percent
+state sales and use taxes distributed to the General Fund and to local
+governments and 2) the change in the 1 percent administrative fee deducted from
+the local share and distributed to the General Fund.
+This bill is effective July 1, 2025, impacting the distribution of the 4 percent
+state sales and use tax beginning in FY 2026.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5220)
+SF0060
+
+
+================================================================================
+
+Raw Text:
+Sales tax distribution rates. 25LSO-0460, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue
+increase/(decrease)
+GENERAL FUND ($38,600,000) ($39,700,000) ($40,700,000)
+LOCAL SOURCES FUND $38,600,000 $39,700,000 $40,700,000
+Source of revenue increase(decrease):
+This bill reduces the General Fund share of the 4 percent state sales and use tax
+distribution from 69 percent to 65 percent. This reduction in the General Fund
+share results in a corresponding increase in the state sales and use taxes
+distributed to local governments.
+Assumptions:
+The above estimates are based on the General Fund sales and use taxes projected
+in Table 1 of the October 2024 Consensus Revenue Estimating Group (CREG)
+forecast.
+The above estimates include the change in the distribution of 1) the 4 percent
+state sales and use taxes distributed to the General Fund and to local
+governments and 2) the change in the 1 percent administrative fee deducted from
+the local share and distributed to the General Fund.
+This bill is effective July 1, 2025, impacting the distribution of the 4 percent
+state sales and use tax beginning in FY 2026.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5220)
+SF0060

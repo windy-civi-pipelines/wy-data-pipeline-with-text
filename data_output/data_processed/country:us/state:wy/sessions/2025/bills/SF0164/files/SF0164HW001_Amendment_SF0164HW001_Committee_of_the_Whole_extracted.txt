@@ -1,0 +1,21 @@
+Title: 1 Page 1-above line 1 In the catch title, delete "Pari-mutual"
+Official Title: 1 Page 1-above line 1 In the catch title, delete "Pari-mutual"
+Number of Sections: 1
+Source: versions - Amendment SF0164HW001 (Committee of the Whole)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0164HW001
+2 and insert "Pari-mutuel". BYRON
+1
+
+
+================================================================================
+
+Raw Text:
+SF0164HW001
+1 Page 1-above line 1 In the catch title, delete "Pari-mutual"
+2 and insert "Pari-mutuel". BYRON
+1

@@ -1,0 +1,27 @@
+Title: 1 Page 2-line 5 After "paragraph." insert "No person shall
+Official Title: 1 Page 2-line 5 After "paragraph." insert "No person shall
+Number of Sections: 1
+Source: versions - Amendment HB0169HS001 (Standing Committee) - House Revenue Committee (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0169HS001
+2 receive an exemption under this paragraph if
+3 the person receives an exemption under W.S.
+4 39-11-105(a)(xlv) for the same tax year.".
+5 LOCKE, CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0169HS001
+1 Page 2-line 5 After "paragraph." insert "No person shall
+2 receive an exemption under this paragraph if
+3 the person receives an exemption under W.S.
+4 39-11-105(a)(xlv) for the same tax year.".
+5 LOCKE, CHAIRMAN
+1

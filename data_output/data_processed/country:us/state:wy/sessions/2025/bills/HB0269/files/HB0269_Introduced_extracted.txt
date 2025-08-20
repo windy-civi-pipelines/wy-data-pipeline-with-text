@@ -1,0 +1,974 @@
+Title: HOUSE BILL NO. HB0269
+Official Title: HOUSE BILL NO. HB0269
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0432
+Naturopathic medicine licensure.
+Sponsored by: Representative(s) McCann, Angelos, Brady,
+Guggenmos and Lucas and Senator(s) Cooper
+A BILL
+for
+1 AN ACT relating to professions and occupations; amending
+2 the Wyoming acupuncture practice act to include
+3 naturopathic medicine; amending the powers of the Wyoming
+4 board of acupuncture; regulating the practice of
+5 naturopathic medicine; providing penalties; requiring
+6 rulemaking; and providing for effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 33-49-101, 33-49-102(a)(v), (vi) and
+11 by creating new paragraphs (x) through (xv), 33-49-103(a)
+12 and (b), 33-49-104, 33-49-106(a)(ii) by creating new
+13 subparagraphs (D), (E) and (c), 33-49-107(b)(intro), (i),
+14 (c)(intro), by creating new subsections (d) through (f) and
+15 by amending and renumbering (e) as (g), 33-49-108 by
+1 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 creating new subsections (b) and (c) and by amending and
+2 renumbering (b) and (c) as (d) and (e),
+3 33-49-109(a)(intro), (i), (iii) and by creating new
+4 paragraphs (v) through (ix), 33-49-111(a)(intro), (i),
+5 (iii), (v), (b) and (c) and 33-49-112(b) and (d) are
+6 amended to read:
+7
+8 CHAPTER 49
+9 ACUPUNCTURE PRACTICE AND NATUROPATHIC MEDICINE ACT
+10
+11 33-49-101. Short title.
+12
+13 This chapter shall be known and may be cited as the
+14 "Wyoming Acupuncture Practice and Naturopathic Medicine
+15 Act".
+16
+17 33-49-102. Definitions.
+18
+19 (a) As used in this chapter:
+20
+21 (v) "Board" means the Wyoming board of
+22 acupuncture and naturopathic medicine created under this
+23 chapter;
+2 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1
+2 (vi) "License to practice acupuncture" means a
+3 license to practice acupuncture in this state issued by the
+4 board pursuant to this chapter and consistent with the
+5 scope of practice a person is qualified to perform as a
+6 result of their NCCAOM diplomate status, post graduate
+7 training, NADA certificate of training completion or as
+8 otherwise authorized by the board;
+9
+10 (x) "Approved naturopathic medical program"
+11 means a naturopathic medical education program in the
+12 United States or Canada that provides the degree of doctor
+13 of naturopathy or doctor of naturopathic medicine, that
+14 includes graduate level, full-time, didactic and supervised
+15 clinical training and is either accredited or has achieved
+16 candidacy status for accreditation by the nationally
+17 recognized accrediting body Council on Naturopathic Medical
+18 Education for naturopathic medical programs;
+19
+20 (xi) "CNME" means the Council on Naturopathic
+21 Medical Education or its successor organization that
+22 substantially meets the same educational standards as CNME;
+23
+3 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 (xii) "License to practice naturopathic
+2 medicine" means a license to practice naturopathic medicine
+3 consistent with the scope of practice a person is qualified
+4 to perform as a result of the person's post graduate
+5 education, NABNE exam, experience and continuing competence
+6 or as otherwise authorized by the board;
+7
+8 (xiii) "Licensed naturopathic physician" means a
+9 person authorized and licensed to practice naturopathic
+10 medicine under this chapter;
+11
+12 (xiv) "NABNE" means the North American Board of
+13 Naturopathic Examiners or its successor organization;
+14
+15 (xv) "Naturopathic medicine" means a system of
+16 healthcare for the prevention, diagnosis and treatment of
+17 human health conditions, injury and disease, the promotion
+18 of health and the support and stimulation of a patient's
+19 inherent self-healing processes through patient education
+20 through the use of naturopathic therapies and therapeutic
+21 substances.
+22
+4 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 33-49-103. Board created; members; appointment;
+2 terms; qualification; removal; vacancies.
+3
+4 (a) The Wyoming board of acupuncture and naturopathic
+5 medicine is created to implement and administer the
+6 provisions of this chapter. The board shall consist of five
+7 (5) nine (9) members who are legal residents of Wyoming.
+8 The board shall consist of one (1) member two (2) members
+9 of the public, one (1) member who is two (2) members who
+10 are NCCAOM certified, two (2) members who have one (1)
+11 member who has been engaged in the practice of acupuncture
+12 for a period of not less than five (5) years immediately
+13 preceding appointment to the initial board, three (3)
+14 members who are naturopathic physicians who are graduates
+15 of a CNME accredited program and who have passed a NABNE
+16 naturopathic licensing examination and one (1) member who
+17 is a health care professional licensed pursuant to this
+18 title other than this chapter.
+19
+20 (b) The governor shall appoint the members of the
+21 board. Of the initial members appointed to the board, two
+22 (2) who are not naturopathic physicians, three (3) members
+23 shall be appointed for a term of two (2) years and three
+5 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 (3) members shall be appointed for a term of four (4)
+2 years. Of the initially appointed naturopathic physician
+3 members two (2) shall be appointed for a term of two years
+4 and one (1) shall be appointed for a term of four (4)
+5 years. Thereafter, the terms of office shall be four (4)
+6 years. Each member shall serve until the member's successor
+7 is appointed and qualified. No member shall serve more than
+8 two (2) consecutive full terms.
+9
+10 33-49-104. Board meetings; elections; quorum.
+11
+12 The board shall meet at least once each year and elect a
+13 chairman at the first meeting each year. The board may
+14 convene at the request of the chairman or as determined by
+15 the board for any other meeting as may be deemed necessary
+16 to transact its business. Meetings may be carried out via
+17 telecommunications. Three (3) Five (5) board members shall
+18 constitute a quorum.
+19
+20 33-49-106. Board responsibilities and duties.
+21
+22 (a) The board shall:
+23
+6 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 (ii) Determine the following standards for
+2 licensees:
+3
+4 (D) Scope of practice;
+5
+6 (E) Practice standards.
+7
+8 (c) All fees collected by the board shall be
+9 deposited by the state treasurer to the credit of the
+10 Wyoming board of acupuncture and naturopathic medicine
+11 account. Disbursements from the account shall not exceed
+12 the monies credited to it. The account shall be used by the
+13 board to defray costs incurred in the administration of
+14 this chapter.
+15
+16 33-49-107. Licensure required; components;
+17 exemptions; other licensed health care professionals.
+18
+19 (b) Any license to practice acupuncture or
+20 naturopathic medicine issued under this chapter shall:
+21
+22 (i) Be issued in the name of the licensed
+23 acupuncturist or naturopathic physician;
+7 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1
+2 (c) The following persons are exempt from this
+3 chapter's licensure license to practice acupuncture
+4 requirements:
+5
+6 (d) Beginning January 1, 2026, unless the person is
+7 licensed to practice naturopathic medicine under this
+8 chapter, no person shall:
+9
+10 (i) Practice, attempt or offer to practice
+11 naturopathic medicine without a valid, unexpired, unrevoked
+12 and unsuspended license issued under this chapter;
+13
+14 (ii) Represent oneself as licensed to practice
+15 naturopathic medicine or hold himself out to be a "licensed
+16 Naturopathic Physician," "licensed Physician of
+17 Naturopathic Medicine," "licensed Naturopathic Doctor,"
+18 "Naturopathic Doctor," "Naturopath," or "ND";
+19
+20 (iii) Use any words, abbreviations, figures,
+21 configuration of letters including N.D. or N.M.D., titles,
+22 signs, cards or devices tending to imply that the person is
+8 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 a licensed naturopathic physician unless the person is
+2 licensed.
+3
+4 (e) The following persons are exempt from this
+5 chapter's license to practice naturopathic medicine
+6 requirements:
+7
+8 (i) A naturopathic physician licensed to
+9 practice naturopathic medicine in another jurisdiction
+10 while teaching, demonstrating or providing naturopathic
+11 medicine in connection with teaching or participating in an
+12 educational seminar in Wyoming. Any exemption under this
+13 paragraph shall not exceed sixty (60) days cumulatively in
+14 one (1) calendar year;
+15
+16 (ii) A naturopathic physician licensed in
+17 another jurisdiction who enters this state to provide
+18 naturopathic medicine during a natural disaster or a public
+19 health emergency, as declared by the governor under W.S.
+20 35-4-115(a)(i);
+21
+22 (iii) With board approval, a person in training
+23 may practice naturopathic medicine provided all services
+9 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 are performed under the direct supervision of a licensed
+2 naturopathic physician;
+3
+4 (iv) A student enrolled in an approved
+5 naturopathic medical educational program, provided that the
+6 practice of naturopathic medicine by a student is performed
+7 pursuant to a course of instruction or an assignment from
+8 an instructor and under the supervision of the instructor
+9 who is a licensee or a duly licensed professional in the
+10 instructed field.
+11
+12 (f) Nothing in this chapter shall be construed to
+13 prohibit or restrict:
+14
+15 (i) Any other licensed, certified or registered
+16 health care provider in this state from practicing
+17 naturopathic medicine within the provider's authorized
+18 scope of practice;
+19
+20 (ii) Any person that sells a vitamin or herb
+21 from providing information about the vitamin or herb;
+22
+10 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 (iii) Any person who is licensed to practice
+2 naturopathic medicine in another jurisdiction and who
+3 enters this state to consult with a naturopathic physician
+4 of this state, provided that the consultation is limited to
+5 examination, recommendation or testimony in litigation; or
+6
+7 (iv) Any person who is not licensed as a
+8 naturopathic physician from recommending ayurvedic
+9 medicine, herbal remedies, nutritional advice, homeopathy
+10 or other therapy.
+11
+12 (e)(g) Nothing in this chapter shall be construed to
+13 prohibit or restrict any other licensed health care
+14 provider in this state from practicing acupuncture within
+15 their statutory scope of practice. However, no person may
+16 represent themselves as an acupuncturist in any manner
+17 unless licensed to practice acupuncture in accordance with
+18 this chapter.
+19
+20 33-49-108. Application for license; renewal and
+21 reinstatement; qualifications; fees; reporting.
+22
+11 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 (b) An applicant for licensure to practice
+2 naturopathic medicine under this chapter shall:
+3
+4 (i) Submit a written application verified by
+5 oath in a form the board prescribes;
+6
+7 (ii) Submit proof that the applicant:
+8
+9 (A) Is a graduate of an approved
+10 naturopathic medical program and has successfully passed a
+11 competency based national naturopathic physician licensing
+12 examination administered by the NABNE or other organization
+13 the board approves that is nationally recognized to
+14 administer a naturopathic physician licensing examination
+15 that represents federal standards of education and
+16 training; or
+17
+18 (B) Was previously licensed or certified in
+19 another jurisdiction, provided that when the applicant
+20 secured initial licensure or certification, the
+21 requirements for licensure or certification met standards
+22 that the board determines are substantively comparable to
+23 existing standards and that the license or certificate was
+12 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 not suspended, revoked or otherwise restricted for any
+2 reason.
+3
+4 (iii) Have committed no acts that are grounds
+5 for disciplinary action as set forth in W.S. 33-49-111, or
+6 if an act has been committed, the board has, at its
+7 discretion and after investigation, determined that
+8 sufficient restitution has been made;
+9
+10 (iv) Remit fees as the board specifies;
+11
+12 (v) Meet any additional requirements that the
+13 board may impose by rule.
+14
+15 (c) An applicant for licensure under this act shall
+16 provide the board with fingerprints and other information
+17 necessary for a criminal history background check as
+18 provided under W.S. 7-19-201.
+19
+20 (b)(d) Licenses to practice acupuncture or
+21 naturopathic medicine shall be renewed or reinstated
+22 according to a schedule established by the board pursuant
+23 to this chapter. If a licensee fails to renew a license to
+13 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 practice acupuncture or naturopathic medicine pursuant to
+2 the schedule established by the board, the license shall
+3 expire and the licensee shall not practice acupuncture or
+4 naturopathic medicine in this state.
+5
+6 (c)(e) An applicant for licensure or licensee shall
+7 report any pending or final administrative or disciplinary
+8 actions, or other judgments, as well as the terms of any
+9 settlement or other disposition of an action or judgment,
+10 against the applicant or licensee involving malpractice or
+11 improper practice of acupuncture or naturopathic medicine,
+12 whether occurring in Wyoming or in any other jurisdiction
+13 upon application for licensure, renewal or reinstatement,
+14 or not later than thirty (30) days after the licensee
+15 becomes aware of such actions or judgments.
+16
+17 33-49-109. Licensure by endorsement.
+18
+19 (a) The board may issue a license by endorsement to
+20 practice acupuncture or naturopathic medicine in Wyoming to
+21 an applicant who is licensed to practice acupuncture or
+22 naturopathic medicine in another state subject to the
+23 following:
+14 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1
+2 (i) The other state shall have substantially
+3 equivalent acupuncture or naturopathic physician licensure
+4 requirements as Wyoming, including similar licensure by
+5 endorsement provisions for licensees of this state;
+6
+7 (iii) The applicant shall not have had a license
+8 to practice acupuncture or naturopathic medicine suspended
+9 or revoked in this state or any other; and
+10
+11 (v) The applicant shall complete an application
+12 for licensure by endorsement in a form the board
+13 prescribes;
+14
+15 (vi) The applicant shall remit fees as the board
+16 specifies;
+17
+18 (vii) The applicant shall not have committed any
+19 acts that are grounds for disciplinary action as set forth
+20 in W.S. 33-49-111, or if an act has been committed, the
+21 board may, at its discretion and after investigation,
+22 determine that sufficient restitution has been made;
+23
+15 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 (viii) If required by board rule, the applicant
+2 shall have completed to the satisfaction of a majority of
+3 board members a personal interview consisting of inquiry
+4 and oral response to acupuncture or naturopathic knowledge,
+5 personal and professional history and intentions for
+6 practicing acupuncture or naturopathic medicine in this
+7 state;
+8
+9 (ix) The applicant shall meet any additional
+10 requirements that the board may impose by rule.
+11
+12 33-49-111. Disciplinary action; suspension and
+13 revocation of license; application for reinstatement.
+14
+15 (a) After any hearing conducted pursuant to W.S.
+16 33-49-110, the board may approve, deny, suspend, revoke or
+17 refuse to renew a license to practice acupuncture or
+18 naturopathic medicine or impose probationary conditions on
+19 the license if the licensee or applicant has engaged in
+20 unprofessional conduct. For purposes of this section,
+21 unprofessional conduct includes any of the following:
+22
+16 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 (i) Obtaining a license to practice acupuncture
+2 or naturopathic medicine by means of fraud,
+3 misrepresentation or concealment of material facts;
+4
+5 (iii) Being convicted of a felony that relates
+6 to the practice of acupuncture or naturopathic medicine or
+7 to the ability to practice acupuncture or naturopathic
+8 medicine;
+9
+10 (v) Being negligent in the practice of
+11 acupuncture or naturopathic medicine;
+12
+13 (b) An application for reinstatement may be made to
+14 the board not earlier than one (1) year after the date of
+15 the revocation of the license to practice acupuncture or
+16 naturopathic medicine. The board may accept or reject an
+17 application for reinstatement and may hold a hearing to
+18 consider reinstatement. An applicant for reinstatement
+19 aggrieved by any final action of the board may appeal to
+20 the district court pursuant to the Wyoming Administrative
+21 Procedure Act.
+22
+17 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 (c) Upon receipt from the department of family
+2 services of a certified copy of an order from a court to
+3 withhold, suspend or otherwise restrict a license to
+4 practice acupuncture or naturopathic medicine issued by the
+5 board, the board shall notify the party named in the court
+6 order of the withholding, suspension or restriction of the
+7 license in accordance with the terms of the court order. No
+8 appeal under the Wyoming Administrative Procedure Act shall
+9 be allowed for a license withheld, suspended or restricted
+10 under this subsection.
+11
+12 33-49-112. Violations; penalties; proceedings.
+13
+14 (b) The attorney general, the board, any county or
+15 district attorney or any citizen may obtain an injunction
+16 in the name of the state of Wyoming upon the relation of a
+17 complainant enjoining any person from engaging in the
+18 practice of acupuncture or naturopathic medicine without a
+19 license. The district court of the district in which the
+20 offending person resides or the district court of Laramie
+21 county has original jurisdiction of any such injunction
+22 proceedings. An injunction may be issued without proof of
+23 actual damage sustained and upon proof of one (1) or more
+18 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 acts constituting the practice of acupuncture or
+2 naturopathic medicine without a license. The standard of
+3 proof of any violation of this subsection shall be by a
+4 preponderance of the evidence.
+5
+6 (d) Notwithstanding any other provision of this
+7 chapter, the Wyoming Acupuncture Practice and Naturopathic
+8 Medicine Act shall not apply to persons licensed under
+9 title 33, chapter 25 or chapter 26 of the Wyoming statutes.
+10
+11 Section 2. The Wyoming board of acupuncture and
+12 naturopathic medicine shall promulgate all rules necessary
+13 to implement this act.
+14
+19 HB0269
+2025 STATE OF WYOMING 25LSO-0432
+1 Section 3.
+2
+3 (a) Except as provided in subsection (b) of this
+4 section, this act is effective July 1, 2025.
+5
+6 (b) Sections 2 and 3 of this act are effective
+7 immediately upon completion of all acts necessary for a
+8 bill to become law as provided by Article 4, Section 8 of
+9 the Wyoming Constitution.
+10
+11 (END)
+20 HB0269
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0432
+HOUSE BILL NO. HB0269
+Naturopathic medicine licensure.
+Sponsored by: Representative(s) McCann, Angelos, Brady,
+Guggenmos and Lucas and Senator(s) Cooper
+A BILL
+for
+1 AN ACT relating to professions and occupations; amending
+2 the Wyoming acupuncture practice act to include
+3 naturopathic medicine; amending the powers of the Wyoming
+4 board of acupuncture; regulating the practice of
+5 naturopathic medicine; providing penalties; requiring
+6 rulemaking; and providing for effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 33-49-101, 33-49-102(a)(v), (vi) and
+11 by creating new paragraphs (x) through (xv), 33-49-103(a)
+12 and (b), 33-49-104, 33-49-106(a)(ii) by creating new
+13 subparagraphs (D), (E) and (c), 33-49-107(b)(intro), (i),
+14 (c)(intro), by creating new subsections (d) through (f) and
+15 by amending and renumbering (e) as (g), 33-49-108 by
+1 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 creating new subsections (b) and (c) and by amending and
+2 renumbering (b) and (c) as (d) and (e),
+3 33-49-109(a)(intro), (i), (iii) and by creating new
+4 paragraphs (v) through (ix), 33-49-111(a)(intro), (i),
+5 (iii), (v), (b) and (c) and 33-49-112(b) and (d) are
+6 amended to read:
+7
+8 CHAPTER 49
+9 ACUPUNCTURE PRACTICE AND NATUROPATHIC MEDICINE ACT
+10
+11 33-49-101. Short title.
+12
+13 This chapter shall be known and may be cited as the
+14 "Wyoming Acupuncture Practice and Naturopathic Medicine
+15 Act".
+16
+17 33-49-102. Definitions.
+18
+19 (a) As used in this chapter:
+20
+21 (v) "Board" means the Wyoming board of
+22 acupuncture and naturopathic medicine created under this
+23 chapter;
+2 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1
+2 (vi) "License to practice acupuncture" means a
+3 license to practice acupuncture in this state issued by the
+4 board pursuant to this chapter and consistent with the
+5 scope of practice a person is qualified to perform as a
+6 result of their NCCAOM diplomate status, post graduate
+7 training, NADA certificate of training completion or as
+8 otherwise authorized by the board;
+9
+10 (x) "Approved naturopathic medical program"
+11 means a naturopathic medical education program in the
+12 United States or Canada that provides the degree of doctor
+13 of naturopathy or doctor of naturopathic medicine, that
+14 includes graduate level, full-time, didactic and supervised
+15 clinical training and is either accredited or has achieved
+16 candidacy status for accreditation by the nationally
+17 recognized accrediting body Council on Naturopathic Medical
+18 Education for naturopathic medical programs;
+19
+20 (xi) "CNME" means the Council on Naturopathic
+21 Medical Education or its successor organization that
+22 substantially meets the same educational standards as CNME;
+23
+3 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 (xii) "License to practice naturopathic
+2 medicine" means a license to practice naturopathic medicine
+3 consistent with the scope of practice a person is qualified
+4 to perform as a result of the person's post graduate
+5 education, NABNE exam, experience and continuing competence
+6 or as otherwise authorized by the board;
+7
+8 (xiii) "Licensed naturopathic physician" means a
+9 person authorized and licensed to practice naturopathic
+10 medicine under this chapter;
+11
+12 (xiv) "NABNE" means the North American Board of
+13 Naturopathic Examiners or its successor organization;
+14
+15 (xv) "Naturopathic medicine" means a system of
+16 healthcare for the prevention, diagnosis and treatment of
+17 human health conditions, injury and disease, the promotion
+18 of health and the support and stimulation of a patient's
+19 inherent self-healing processes through patient education
+20 through the use of naturopathic therapies and therapeutic
+21 substances.
+22
+4 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 33-49-103. Board created; members; appointment;
+2 terms; qualification; removal; vacancies.
+3
+4 (a) The Wyoming board of acupuncture and naturopathic
+5 medicine is created to implement and administer the
+6 provisions of this chapter. The board shall consist of five
+7 (5) nine (9) members who are legal residents of Wyoming.
+8 The board shall consist of one (1) member two (2) members
+9 of the public, one (1) member who is two (2) members who
+10 are NCCAOM certified, two (2) members who have one (1)
+11 member who has been engaged in the practice of acupuncture
+12 for a period of not less than five (5) years immediately
+13 preceding appointment to the initial board, three (3)
+14 members who are naturopathic physicians who are graduates
+15 of a CNME accredited program and who have passed a NABNE
+16 naturopathic licensing examination and one (1) member who
+17 is a health care professional licensed pursuant to this
+18 title other than this chapter.
+19
+20 (b) The governor shall appoint the members of the
+21 board. Of the initial members appointed to the board, two
+22 (2) who are not naturopathic physicians, three (3) members
+23 shall be appointed for a term of two (2) years and three
+5 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 (3) members shall be appointed for a term of four (4)
+2 years. Of the initially appointed naturopathic physician
+3 members two (2) shall be appointed for a term of two years
+4 and one (1) shall be appointed for a term of four (4)
+5 years. Thereafter, the terms of office shall be four (4)
+6 years. Each member shall serve until the member's successor
+7 is appointed and qualified. No member shall serve more than
+8 two (2) consecutive full terms.
+9
+10 33-49-104. Board meetings; elections; quorum.
+11
+12 The board shall meet at least once each year and elect a
+13 chairman at the first meeting each year. The board may
+14 convene at the request of the chairman or as determined by
+15 the board for any other meeting as may be deemed necessary
+16 to transact its business. Meetings may be carried out via
+17 telecommunications. Three (3) Five (5) board members shall
+18 constitute a quorum.
+19
+20 33-49-106. Board responsibilities and duties.
+21
+22 (a) The board shall:
+23
+6 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 (ii) Determine the following standards for
+2 licensees:
+3
+4 (D) Scope of practice;
+5
+6 (E) Practice standards.
+7
+8 (c) All fees collected by the board shall be
+9 deposited by the state treasurer to the credit of the
+10 Wyoming board of acupuncture and naturopathic medicine
+11 account. Disbursements from the account shall not exceed
+12 the monies credited to it. The account shall be used by the
+13 board to defray costs incurred in the administration of
+14 this chapter.
+15
+16 33-49-107. Licensure required; components;
+17 exemptions; other licensed health care professionals.
+18
+19 (b) Any license to practice acupuncture or
+20 naturopathic medicine issued under this chapter shall:
+21
+22 (i) Be issued in the name of the licensed
+23 acupuncturist or naturopathic physician;
+7 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1
+2 (c) The following persons are exempt from this
+3 chapter's licensure license to practice acupuncture
+4 requirements:
+5
+6 (d) Beginning January 1, 2026, unless the person is
+7 licensed to practice naturopathic medicine under this
+8 chapter, no person shall:
+9
+10 (i) Practice, attempt or offer to practice
+11 naturopathic medicine without a valid, unexpired, unrevoked
+12 and unsuspended license issued under this chapter;
+13
+14 (ii) Represent oneself as licensed to practice
+15 naturopathic medicine or hold himself out to be a "licensed
+16 Naturopathic Physician," "licensed Physician of
+17 Naturopathic Medicine," "licensed Naturopathic Doctor,"
+18 "Naturopathic Doctor," "Naturopath," or "ND";
+19
+20 (iii) Use any words, abbreviations, figures,
+21 configuration of letters including N.D. or N.M.D., titles,
+22 signs, cards or devices tending to imply that the person is
+8 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 a licensed naturopathic physician unless the person is
+2 licensed.
+3
+4 (e) The following persons are exempt from this
+5 chapter's license to practice naturopathic medicine
+6 requirements:
+7
+8 (i) A naturopathic physician licensed to
+9 practice naturopathic medicine in another jurisdiction
+10 while teaching, demonstrating or providing naturopathic
+11 medicine in connection with teaching or participating in an
+12 educational seminar in Wyoming. Any exemption under this
+13 paragraph shall not exceed sixty (60) days cumulatively in
+14 one (1) calendar year;
+15
+16 (ii) A naturopathic physician licensed in
+17 another jurisdiction who enters this state to provide
+18 naturopathic medicine during a natural disaster or a public
+19 health emergency, as declared by the governor under W.S.
+20 35-4-115(a)(i);
+21
+22 (iii) With board approval, a person in training
+23 may practice naturopathic medicine provided all services
+9 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 are performed under the direct supervision of a licensed
+2 naturopathic physician;
+3
+4 (iv) A student enrolled in an approved
+5 naturopathic medical educational program, provided that the
+6 practice of naturopathic medicine by a student is performed
+7 pursuant to a course of instruction or an assignment from
+8 an instructor and under the supervision of the instructor
+9 who is a licensee or a duly licensed professional in the
+10 instructed field.
+11
+12 (f) Nothing in this chapter shall be construed to
+13 prohibit or restrict:
+14
+15 (i) Any other licensed, certified or registered
+16 health care provider in this state from practicing
+17 naturopathic medicine within the provider's authorized
+18 scope of practice;
+19
+20 (ii) Any person that sells a vitamin or herb
+21 from providing information about the vitamin or herb;
+22
+10 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 (iii) Any person who is licensed to practice
+2 naturopathic medicine in another jurisdiction and who
+3 enters this state to consult with a naturopathic physician
+4 of this state, provided that the consultation is limited to
+5 examination, recommendation or testimony in litigation; or
+6
+7 (iv) Any person who is not licensed as a
+8 naturopathic physician from recommending ayurvedic
+9 medicine, herbal remedies, nutritional advice, homeopathy
+10 or other therapy.
+11
+12 (e)(g) Nothing in this chapter shall be construed to
+13 prohibit or restrict any other licensed health care
+14 provider in this state from practicing acupuncture within
+15 their statutory scope of practice. However, no person may
+16 represent themselves as an acupuncturist in any manner
+17 unless licensed to practice acupuncture in accordance with
+18 this chapter.
+19
+20 33-49-108. Application for license; renewal and
+21 reinstatement; qualifications; fees; reporting.
+22
+11 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 (b) An applicant for licensure to practice
+2 naturopathic medicine under this chapter shall:
+3
+4 (i) Submit a written application verified by
+5 oath in a form the board prescribes;
+6
+7 (ii) Submit proof that the applicant:
+8
+9 (A) Is a graduate of an approved
+10 naturopathic medical program and has successfully passed a
+11 competency based national naturopathic physician licensing
+12 examination administered by the NABNE or other organization
+13 the board approves that is nationally recognized to
+14 administer a naturopathic physician licensing examination
+15 that represents federal standards of education and
+16 training; or
+17
+18 (B) Was previously licensed or certified in
+19 another jurisdiction, provided that when the applicant
+20 secured initial licensure or certification, the
+21 requirements for licensure or certification met standards
+22 that the board determines are substantively comparable to
+23 existing standards and that the license or certificate was
+12 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 not suspended, revoked or otherwise restricted for any
+2 reason.
+3
+4 (iii) Have committed no acts that are grounds
+5 for disciplinary action as set forth in W.S. 33-49-111, or
+6 if an act has been committed, the board has, at its
+7 discretion and after investigation, determined that
+8 sufficient restitution has been made;
+9
+10 (iv) Remit fees as the board specifies;
+11
+12 (v) Meet any additional requirements that the
+13 board may impose by rule.
+14
+15 (c) An applicant for licensure under this act shall
+16 provide the board with fingerprints and other information
+17 necessary for a criminal history background check as
+18 provided under W.S. 7-19-201.
+19
+20 (b)(d) Licenses to practice acupuncture or
+21 naturopathic medicine shall be renewed or reinstated
+22 according to a schedule established by the board pursuant
+23 to this chapter. If a licensee fails to renew a license to
+13 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 practice acupuncture or naturopathic medicine pursuant to
+2 the schedule established by the board, the license shall
+3 expire and the licensee shall not practice acupuncture or
+4 naturopathic medicine in this state.
+5
+6 (c)(e) An applicant for licensure or licensee shall
+7 report any pending or final administrative or disciplinary
+8 actions, or other judgments, as well as the terms of any
+9 settlement or other disposition of an action or judgment,
+10 against the applicant or licensee involving malpractice or
+11 improper practice of acupuncture or naturopathic medicine,
+12 whether occurring in Wyoming or in any other jurisdiction
+13 upon application for licensure, renewal or reinstatement,
+14 or not later than thirty (30) days after the licensee
+15 becomes aware of such actions or judgments.
+16
+17 33-49-109. Licensure by endorsement.
+18
+19 (a) The board may issue a license by endorsement to
+20 practice acupuncture or naturopathic medicine in Wyoming to
+21 an applicant who is licensed to practice acupuncture or
+22 naturopathic medicine in another state subject to the
+23 following:
+14 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1
+2 (i) The other state shall have substantially
+3 equivalent acupuncture or naturopathic physician licensure
+4 requirements as Wyoming, including similar licensure by
+5 endorsement provisions for licensees of this state;
+6
+7 (iii) The applicant shall not have had a license
+8 to practice acupuncture or naturopathic medicine suspended
+9 or revoked in this state or any other; and
+10
+11 (v) The applicant shall complete an application
+12 for licensure by endorsement in a form the board
+13 prescribes;
+14
+15 (vi) The applicant shall remit fees as the board
+16 specifies;
+17
+18 (vii) The applicant shall not have committed any
+19 acts that are grounds for disciplinary action as set forth
+20 in W.S. 33-49-111, or if an act has been committed, the
+21 board may, at its discretion and after investigation,
+22 determine that sufficient restitution has been made;
+23
+15 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 (viii) If required by board rule, the applicant
+2 shall have completed to the satisfaction of a majority of
+3 board members a personal interview consisting of inquiry
+4 and oral response to acupuncture or naturopathic knowledge,
+5 personal and professional history and intentions for
+6 practicing acupuncture or naturopathic medicine in this
+7 state;
+8
+9 (ix) The applicant shall meet any additional
+10 requirements that the board may impose by rule.
+11
+12 33-49-111. Disciplinary action; suspension and
+13 revocation of license; application for reinstatement.
+14
+15 (a) After any hearing conducted pursuant to W.S.
+16 33-49-110, the board may approve, deny, suspend, revoke or
+17 refuse to renew a license to practice acupuncture or
+18 naturopathic medicine or impose probationary conditions on
+19 the license if the licensee or applicant has engaged in
+20 unprofessional conduct. For purposes of this section,
+21 unprofessional conduct includes any of the following:
+22
+16 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 (i) Obtaining a license to practice acupuncture
+2 or naturopathic medicine by means of fraud,
+3 misrepresentation or concealment of material facts;
+4
+5 (iii) Being convicted of a felony that relates
+6 to the practice of acupuncture or naturopathic medicine or
+7 to the ability to practice acupuncture or naturopathic
+8 medicine;
+9
+10 (v) Being negligent in the practice of
+11 acupuncture or naturopathic medicine;
+12
+13 (b) An application for reinstatement may be made to
+14 the board not earlier than one (1) year after the date of
+15 the revocation of the license to practice acupuncture or
+16 naturopathic medicine. The board may accept or reject an
+17 application for reinstatement and may hold a hearing to
+18 consider reinstatement. An applicant for reinstatement
+19 aggrieved by any final action of the board may appeal to
+20 the district court pursuant to the Wyoming Administrative
+21 Procedure Act.
+22
+17 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 (c) Upon receipt from the department of family
+2 services of a certified copy of an order from a court to
+3 withhold, suspend or otherwise restrict a license to
+4 practice acupuncture or naturopathic medicine issued by the
+5 board, the board shall notify the party named in the court
+6 order of the withholding, suspension or restriction of the
+7 license in accordance with the terms of the court order. No
+8 appeal under the Wyoming Administrative Procedure Act shall
+9 be allowed for a license withheld, suspended or restricted
+10 under this subsection.
+11
+12 33-49-112. Violations; penalties; proceedings.
+13
+14 (b) The attorney general, the board, any county or
+15 district attorney or any citizen may obtain an injunction
+16 in the name of the state of Wyoming upon the relation of a
+17 complainant enjoining any person from engaging in the
+18 practice of acupuncture or naturopathic medicine without a
+19 license. The district court of the district in which the
+20 offending person resides or the district court of Laramie
+21 county has original jurisdiction of any such injunction
+22 proceedings. An injunction may be issued without proof of
+23 actual damage sustained and upon proof of one (1) or more
+18 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 acts constituting the practice of acupuncture or
+2 naturopathic medicine without a license. The standard of
+3 proof of any violation of this subsection shall be by a
+4 preponderance of the evidence.
+5
+6 (d) Notwithstanding any other provision of this
+7 chapter, the Wyoming Acupuncture Practice and Naturopathic
+8 Medicine Act shall not apply to persons licensed under
+9 title 33, chapter 25 or chapter 26 of the Wyoming statutes.
+10
+11 Section 2. The Wyoming board of acupuncture and
+12 naturopathic medicine shall promulgate all rules necessary
+13 to implement this act.
+14
+19 HB0269
+
+2025 STATE OF WYOMING 25LSO-0432
+1 Section 3.
+2
+3 (a) Except as provided in subsection (b) of this
+4 section, this act is effective July 1, 2025.
+5
+6 (b) Sections 2 and 3 of this act are effective
+7 immediately upon completion of all acts necessary for a
+8 bill to become law as provided by Article 4, Section 8 of
+9 the Wyoming Constitution.
+10
+11 (END)
+20 HB0269

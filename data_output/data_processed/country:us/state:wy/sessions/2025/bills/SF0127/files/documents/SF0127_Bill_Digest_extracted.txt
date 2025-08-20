@@ -1,0 +1,1056 @@
+Title: Sponsored By: Senator(s) Boner, Crago, Driskill, Hicks, Hutchings,
+Official Title: Sponsored By: Senator(s) Boner, Crago, Driskill, Hicks, Hutchings,
+Number of Sections: 2
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0127 Administrative rules-legislative review.
+Kolb and Steinmetz and Representative(s) Andrew,
+Banks, Davis, Filer, Heiner, Lawley and Neiman
+AN ACT relating to administrative procedure; requiring the completion of
+economic analyses for major administrative rules; amending the process for
+legislative review and notice of rules; making conforming amendments; specifying
+applicability; requiring a study and a report; providing an appropriation;
+authorizing additional positions; and providing for effective dates.
+1/16/2025 Bill Number Assigned
+1/17/2025 S Received for Introduction
+1/21/2025 S Introduced and Referred to S02 - Appropriations
+1/24/2025 :Refer to S05 - Agriculture
+1/28/2025 S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, French, Ide, Mckeown, Taliaferro Pearson
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/28/2025 :Rerefer to S02 - Appropriations
+1/30/2025 S02 - Appropriations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Gierau, Laursen, Salazar, Smith
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/30/2025 S Placed on General File
+SF0127SS001/ADOPTED (CORRECTED COPY)
+Page 4-lines 1 through 11 Delete entirely, renumber as necessary and
+insert:
+"(b) A major agency rule may take effect upon submission of the major
+agency rule to the legislature in accordance with this section, provided that
+the rule shall only remain in effect if the rule is ratified by the legislature
+in accordance with subsection (a) of this section.".
+Page 4-line 13 Delete "(d)" and insert "(c)".
+Page 4-line 14 After "ratify" insert "by the time specified in
+subsection (a) of this section".
+Page 4-lines 17 through 23 Delete entirely.
+Page 5 Delete entirely.
+Page 6-lines 1 through 7 Delete entirely.
+Page 6-line 9 Delete "(g)" and insert "(d)".
+Page 7-lines 5 through 14 Delete entirely.
+Page 11-line 5 Delete "sixty (60)" and insert "fifty (50)".
+Page 11-line 12 Delete "sixty".
+Page 11-line 13 Delete "(60)" and insert "fifty (50)".
+Page 14-line 2 Delete "No major agency".
+Page 14-lines 3 and 4 Delete entirely and insert "A major agency rule shall
+be effective subject to ratification by the legislature
+under W.S. 16-3-103.1.".
+Page 18-line 11 Delete "in accordance with" and insert "subject to
+ratification under". FRENCH, CHAIRMAN
+SF0127SW001/ADOPTED
+Page 4-lines 1 through 11 In the Senate standing committee amendment
+(SF0127SS001/A) to these lines, in subsection (b)
+created by that amendment, delete "A major agency rule
+may take effect" and insert "Unless another effective
+date is specified in the major agency rule, a major
+agency rule shall take effect". BONER, FRENCH
+2/3/2025 S COW:Passed
+2/4/2025 S 2nd Reading:Passed
+2/5/2025 S 3rd Reading:Laid Back
+2/6/2025 S 3rd Reading:Laid Back
+SF0127S3001/ADOPTED
+Delete the Senate standing committee amendment (SF0127SS001/AC) and the Boner,
+et al. committee of the whole amendment (SF0127SW001/A) entirely and further
+amend as follows:
+Page 1-above line 1 In the catch title, delete "and objection".
+Page 1-lines 1 through 7 Delete entirely and insert:
+"AN ACT relating to administrative procedure; requiring the completion of
+economic analyses for administrative rules; amending the process for legislative
+review and notice of rules; making conforming amendments; specifying
+applicability; providing an appropriation; and providing for effective dates.".
+Page 1-line 11 Delete "16-3-103.1 and"; delete "are" and insert "is".
+Pages 2 through 6 Delete entirely.
+Page 7-lines 1 through 14 Delete entirely.
+Page 7-line 16 Delete "Major".
+Page 7-line 20 Delete "to management council for management".
+Page 7-line 21 Delete entirely and insert "in accordance with this
+
+Section 2:
+section.".
+Page 8-line 1 Delete "may be a major agency rule" and insert
+"submitted under this act".
+Page 8-line 6 Delete "major agency".
+Page 8-line 13 Delete "that".
+Page 8-line 14 Delete line through "section".
+Page 10-lines 16 through 23 Delete entirely and insert:
+"(d) Upon completing a regulatory impact analysis, the chief economist
+shall provide the analysis to each member of the legislature and shall make the
+analysis available to the public.".
+Page 11-lines 2 through 14 Delete entirely, renumber as necessary and
+insert:
+"(e) The chief economist shall complete each regulatory analysis not later
+than fifty (50) days after the rule was submitted for review under W.S. 28-9-
+103(b).".
+Page 11-line 18 Delete "or other".
+Page 11-line 19 Delete "proposed rule".
+Page 11-line 22 Delete "major".
+Page 11-line 23 Delete "agency".
+Page 12-lines 5 through 21 Delete entirely.
+Pages 13 through 21 Delete entirely.
+Page 22-lines 1 through 7 Delete entirely and insert:
+"Section 2. W.S. 28-8-103, 28-9-101(a)(iv), 28-9-103(d) and by creating
+a new subsection (e), 28-9-104(a)(intro) and 28-9-107(a) are amended to read:
+28-8-103. Director and staff.
+The management council shall appoint by majority vote a director of the office.
+The director, subject to the prior approval of the management council, may
+appoint assistant directors. The director shall appoint such professional,
+technical and clerical staff as necessary to perform the functions assigned to
+the office. The director shall appoint a chief economist to perform the
+functions assigned under W.S. 28-9-109. The director and staff shall be selected
+without reference to political affiliation and shall serve at the pleasure of
+the appointing authority. They shall be paid salaries and receive necessary
+expenses as determined by the management council.
+28-9-101. Definitions.
+(a) As used in this act:
+(iv) "This act" means W.S. 28-9-101 through 28-9-108 28-9-109.
+28-9-103. Submission of rules for review; notice to legislators.
+(d) Upon receipt of an agency's notice to adopt new rules pursuant to
+W.S. 16-3-103(a)(i), the legislative service office shall give notice to the
+primary sponsor of the legislation, to members of the interim or standing
+committee which sponsored or acted upon the legislation authorizing the new
+rules and to any every other legislator. requesting notification. The notice
+given by the legislative service office shall state a copy of the rules will be
+sent if requested. Notice under this subsection is not required for persons not
+currently serving in the legislature.
+(e) Upon receipt of an agency's notice to adopt rules under W.S. 16-3-
+103(a)(i), the legislative service office shall give notice to each legislator.
+28-9-104. Review procedure; time for review; criteria for review.
+(a) The legislative service office shall review rules submitted under
+W.S. 28-9-103(b) and report its findings to the council. The legislative service
+office shall review new rules and include therein any comments from the primary
+sponsor of the legislation, the chairman of the interim or standing committee
+which sponsored or acted upon the legislation authorizing the new rules and any
+other legislator submitting comments, and shall report their findings to the
+council. The legislative service office shall review all rules in accordance
+with W.S. 28-9-109. The report required under this subsection shall be submitted
+to the council:
+28-9-107. Legislative orders; action required; implementation and
+enforcement of rules.
+(a) If the council determines that a rule submitted for review under
+W.S. 28-9-103(b) does not satisfy one (1) or more of the criteria of W.S. 28-
+9-104(c), or if the council deems it appropriate after reviewing the results of
+the analysis completed under W.S. 28-9-109, the council may introduce
+legislation in the next succeeding legislative session following the review to
+obtain a legislative order to prohibit the implementation or enforcement of the
+rule.". BONER
+2/7/2025 S 3rd Reading:Passed 25-6-0-0-0
+ROLL CALL
+Ayes: Senator(s) Biteman, Boner, Brennan, Cooper, Crago, Crum, Driskill,
+French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen, Mckeown,
+Nethercott, Olsen, Pappas, Pearson, Salazar, Schuler, Smith, Steinmetz
+Nays: Senator(s) Anderson, Barlow, Case, Dockstader, Rothfuss, Scott
+Ayes 25 Nays 6 Excused 0 Absent 0 Conflicts 0
+2/7/2025 H Received for Introduction
+2/10/2025 H Introduced and Referred to H07 - Corporations
+2/18/2025 H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber
+Nays: Representative Yin
+Ayes 8 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/18/2025 :Rerefer to H02 - Appropriations
+2/19/2025 H02 - Appropriations:Recommend Do Pass 7-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft,
+Sherwood, Smith
+Ayes 7 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/19/2025 H Placed on General File
+SF0127HS001/ADOPTED (TO ENGROSSED COPY)
+Page 1-line 2 Before "administrative" insert "major".
+Page 1-line 5 After "applicability;" insert "requiring a study and a
+report;"; after "appropriation;" insert "authorizing
+additional positions;".
+Page 2-line 1 Delete "chief economist of the".
+Page 2-line 2 Before "rule" insert "major".
+Page 2-line 5 After "each" insert "major"; delete "that".
+Page 2-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 2-line 9 Before "rule was" insert "major"; after "provide the"
+insert "major".
+Page 2-line 14 Delete "subsections (c) and (d)" and insert "subsection
+(c)".
+Page 2-line 17 Before "rule" insert "major".
+Page 2-line 20 Before "rule" insert "major".
+Page 2-line 21 Before "rule" insert "major".
+Page 3-line 2 Before "rule" insert "major".
+Page 3-line 5 Before "rule" insert "major".
+Page 3-line 8 Before "rule" insert "major".
+Page 3-line 11 Before "rule" insert "major".
+Page 3-line 17 Before "rule" insert "major".
+Page 3-line 20 Before "rule" insert "major".
+Page 4-line 7 Delete "must" and insert "shall".
+Page 4-line 15 Delete "director or" and insert "legislative service
+office".
+Page 4-line 16 Delete "chief economist".
+Page 4-line 17 Before "rule" insert "major".
+Page 4-line 20 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 1 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 3 Before "rule" insert "major".
+Page 5-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 7 Before "rule" insert "major".
+Page 5-line 9 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 10 Before "rule" insert "major".
+Page 5-line 13 Delete "chief economist" insert "legislative service
+office".
+Page 5-after line 14 Insert:
+"(h) "Major rule" means a rule, including an emergency rule, designated
+by management council under W.S. 28-9-109 that will result in or is likely to
+result in one (1) or more of the following:
+(i) An annual impact on the economy of Wyoming that will result in
+direct or indirect costs of not less than one hundred thousand dollars
+($100,000.00);
+(ii) Significant adverse effects on competition, employment,
+investment, productivity or innovation in the state, including significant
+adverse effects on individual industries or regions within Wyoming;
+(iii) Significant changes in social and cultural relations among
+citizens, including significant impacts on particular religious, ethnic, racial
+or gender populations.".
+Page 5-line 16 Delete "28-8-103,".
+Page 5-line 18 Delete "28-9-107(a)" and insert "28-9-107 by creating
+a new subsection (d)".
+Page 5-lines 20 through 23 Delete entirely.
+Page 6-lines 1 through 10 Delete entirely.
+Page 8-line 4 Before "rules" insert "major".
+Page 8-lines 11 through 18 Delete entirely, renumber as necessary and
+insert:
+"(d) If the council, management audit committee, a joint interim
+committee or any legislator determines that it is appropriate after reviewing
+the results of the analysis completed under W.S. 28-9-109, the council, a joint
+interim committee or any legislator may introduce legislation in the next
+succeeding legislative session following the completion of the analysis to
+obtain a legislative order to prohibit the implementation or enforcement of the
+major rule.".
+Page 8-after line 22 Insert the following and renumber as necessary:
+"Section 4. During the 2025 interim, the management audit committee of
+the Wyoming legislature shall study this act and its relation to existing
+statutory provisions concerning the legislative role in the administrative rule
+review process. The management audit committee shall receive all assistance
+requested from the legislative service office and executive branch agencies
+while conducting the study required by this section. Not later than December 1,
+2025, the management audit committee shall report to the management council on
+the conclusion of the study required by this section. The report shall include,
+but not necessarily be limited to, the appropriate legislative role in
+overseeing administrative rules and the regulatory impact thereof, the
+legislative staff required to assist the legislature in completing this role,
+which legislative body should oversee this role when the legislature is not in
+session and any statutory changes necessary to effectuate the findings in the
+report. The management audit committee or management council may sponsor
+legislation during the 2026 budget session to effectuate the findings of the
+report. Funding for legislative staff necessary to effectuate the findings of
+the report required by this section may be included in the 2025 legislative
+appropriations bill.".
+Page 9-line 1 Delete "Section 4." and insert "Section 5.".
+Page 9-line 17 Delete "Section 5." and insert "Section 6.".
+Page 10-line 1 Delete "4 and 5" and insert "3 through 6". KNAPP,
+CHAIRMAN
+2/21/2025 H COW:Passed
+2/24/2025 H 2nd Reading:Passed
+2/25/2025 H 3rd Reading:Passed 56-5-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Rodriguez-
+Williams, Schmid, Sherwood, Singh, Smith, Strock, Styvar, Tarver, Thayer,
+Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie
+Nays: Representative(s) Chestek, Nicholas, Provenza, Storer, Yin
+Excused: Representative Riggins
+Ayes 56 Nays 5 Excused 1 Absent 0 Conflicts 0
+2/25/2025 S Received for Concurrence
+2/25/2025 S Concur:Failed 0-30-1-0-0
+ROLL CALL
+Nays: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones,
+Kolb, Landen, Laursen, Mckeown, Nethercott, Olsen, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Smith, Steinmetz
+Excused: Senator Pappas
+Ayes 0 Nays 30 Excused 1 Absent 0 Conflicts 0
+2/25/2025 S Appointed JCC01 Members
+Senator(s) Boner, Crago, Rothfuss
+2/26/2025 H Appointed JCC01 Members
+Representative(s) Tarver, Webb, Yin
+2/27/2025 S Adopted SF0127JC001: 26-3-2-0-0
+SF0127JC001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Delete the following House amendments:
+SF0127HS001/A
+Further amend the ENGROSSED COPY as follows:
+Page 1-line 2 Before "administrative" insert "major".
+Page 1-line 5 After "applicability;" insert "requiring a study and a
+report;"; after "appropriation;" insert "authorizing
+additional positions;".
+Page 2-line 1 Delete "chief economist of the".
+Page 2-line 2 Before "rule" insert "major".
+Page 2-line 5 After "each" insert "major"; delete "that".
+Page 2-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 2-line 9 Before "rule was" insert "major"; after "provide the"
+insert "major".
+Page 2-line 14 Delete "subsections (c) and (d)" and insert "subsection
+(c)".
+Page 2-line 17 Before "rule" insert "major".
+Page 2-line 20 Before "rule" insert "major".
+Page 2-line 21 Before "rule" insert "major".
+Page 3-line 2 Before "rule" insert "major".
+Page 3-line 5 Before "rule" insert "major".
+Page 3-line 8 Before "rule" insert "major".
+Page 3-line 11 Before "rule" insert "major".
+Page 3-line 17 Before "rule" insert "major".
+Page 3-line 20 Before "rule" insert "major".
+Page 4-line 7 Delete "must" and insert "shall".
+Page 4-line 15 Delete "director or" and insert "legislative service
+office".
+Page 4-line 16 Delete "chief economist".
+Page 4-line 17 Before "rule" insert "major".
+Page 4-line 20 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 1 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 3 Before "rule" insert "major".
+Page 5-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 7 Before "rule" insert "major".
+Page 5-line 9 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 10 Before "rule" insert "major".
+Page 5-line 13 Delete "chief economist" insert "legislative service
+office".
+Page 5-after line 14 Insert:
+"(h) "Major rule" means a rule, including an emergency rule, designated
+by management council under W.S. 28-9-109 that will result in or is likely to
+result in one (1) or more of the following:
+(i) An annual impact on the economy of Wyoming that will result in
+direct or indirect costs of not less than one million dollars ($1,000,000.00);
+(ii) Significant adverse effects on competition, employment,
+investment, productivity or innovation in the state, including significant
+adverse effects on individual industries or regions within Wyoming.".
+Page 5-line 16 Delete "28-8-103,".
+Page 5-line 18 Delete "28-9-107(a)" and insert "28-9-107 by creating
+a new subsection (d)".
+Page 5-lines 20 through 23 Delete entirely.
+Page 6-lines 1 through 10 Delete entirely.
+Page 8-line 4 Before "rules" insert "major".
+Page 8-lines 11 through 18 Delete entirely, renumber as necessary and
+insert:
+"(d) If the council, management audit committee, a joint interim
+committee or any legislator determines that it is appropriate after reviewing
+the results of the analysis completed under W.S. 28-9-109, the council, a joint
+interim committee or any legislator may introduce legislation in the next
+succeeding legislative session following the completion of the analysis to
+obtain a legislative order to prohibit the implementation or enforcement of the
+major rule.".
+Page 8-after line 22 Insert the following and renumber as necessary:
+"Section 4. During the 2025 interim, the management audit committee of
+the Wyoming legislature shall study this act and its relation to existing
+statutory provisions concerning the legislative role in the administrative rule
+review process. The management audit committee shall receive all assistance
+requested from the legislative service office and executive branch agencies
+while conducting the study required by this section. Not later than December 1,
+2025, the management audit committee shall report to the management council on
+the conclusion of the study required by this section. The report shall include,
+but not necessarily be limited to, the appropriate legislative role in
+overseeing administrative rules and the regulatory impact thereof, the
+legislative staff required to assist the legislature in completing this role,
+which legislative body should oversee this role when the legislature is not in
+session and any statutory changes necessary to effectuate the findings in the
+report. The management audit committee or management council may sponsor
+legislation during the 2026 budget session to effectuate the findings of the
+report. Funding for legislative staff necessary to effectuate the findings of
+the report required by this section may be included in the 2025 legislative
+appropriations bill.".
+Page 9-line 1 Delete "Section 4." and insert "Section 5.".
+Page 9-line 17 Delete "Section 5." and insert "Section 6.".
+Page 10-line 1 Delete "4 and 5" and insert "3 through 6". BONER, CRAGO,
+ROTHFUSS, TARVER, WEBB, YIN
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Case, Cooper, Crago, Crum,
+Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen,
+Mckeown, Nethercott, Olsen, Pappas, Pearson, Salazar, Smith, Steinmetz
+Nays: Senator(s) Rothfuss, Schuler, Scott
+Excused: Senator(s) Barlow, Dockstader
+Ayes 26 Nays 3 Excused 2 Absent 0 Conflicts 0
+2/27/2025 H Adopted SF0127JC001: 54-4-4-0-0
+SF0127JC001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Delete the following House amendments:
+SF0127HS001/A
+Further amend the ENGROSSED COPY as follows:
+Page 1-line 2 Before "administrative" insert "major".
+Page 1-line 5 After "applicability;" insert "requiring a study and a
+report;"; after "appropriation;" insert "authorizing
+additional positions;".
+Page 2-line 1 Delete "chief economist of the".
+Page 2-line 2 Before "rule" insert "major".
+Page 2-line 5 After "each" insert "major"; delete "that".
+Page 2-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 2-line 9 Before "rule was" insert "major"; after "provide the"
+insert "major".
+Page 2-line 14 Delete "subsections (c) and (d)" and insert "subsection
+(c)".
+Page 2-line 17 Before "rule" insert "major".
+Page 2-line 20 Before "rule" insert "major".
+Page 2-line 21 Before "rule" insert "major".
+Page 3-line 2 Before "rule" insert "major".
+Page 3-line 5 Before "rule" insert "major".
+Page 3-line 8 Before "rule" insert "major".
+Page 3-line 11 Before "rule" insert "major".
+Page 3-line 17 Before "rule" insert "major".
+Page 3-line 20 Before "rule" insert "major".
+Page 4-line 7 Delete "must" and insert "shall".
+Page 4-line 15 Delete "director or" and insert "legislative service
+office".
+Page 4-line 16 Delete "chief economist".
+Page 4-line 17 Before "rule" insert "major".
+Page 4-line 20 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 1 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 3 Before "rule" insert "major".
+Page 5-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 7 Before "rule" insert "major".
+Page 5-line 9 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 10 Before "rule" insert "major".
+Page 5-line 13 Delete "chief economist" insert "legislative service
+office".
+Page 5-after line 14 Insert:
+"(h) "Major rule" means a rule, including an emergency rule, designated
+by management council under W.S. 28-9-109 that will result in or is likely to
+result in one (1) or more of the following:
+(i) An annual impact on the economy of Wyoming that will result in
+direct or indirect costs of not less than one million dollars ($1,000,000.00);
+(ii) Significant adverse effects on competition, employment,
+investment, productivity or innovation in the state, including significant
+adverse effects on individual industries or regions within Wyoming.".
+Page 5-line 16 Delete "28-8-103,".
+Page 5-line 18 Delete "28-9-107(a)" and insert "28-9-107 by creating
+a new subsection (d)".
+Page 5-lines 20 through 23 Delete entirely.
+Page 6-lines 1 through 10 Delete entirely.
+Page 8-line 4 Before "rules" insert "major".
+Page 8-lines 11 through 18 Delete entirely, renumber as necessary and
+insert:
+"(d) If the council, management audit committee, a joint interim
+committee or any legislator determines that it is appropriate after reviewing
+the results of the analysis completed under W.S. 28-9-109, the council, a joint
+interim committee or any legislator may introduce legislation in the next
+succeeding legislative session following the completion of the analysis to
+obtain a legislative order to prohibit the implementation or enforcement of the
+major rule.".
+Page 8-after line 22 Insert the following and renumber as necessary:
+"Section 4. During the 2025 interim, the management audit committee of
+the Wyoming legislature shall study this act and its relation to existing
+statutory provisions concerning the legislative role in the administrative rule
+review process. The management audit committee shall receive all assistance
+requested from the legislative service office and executive branch agencies
+while conducting the study required by this section. Not later than December 1,
+2025, the management audit committee shall report to the management council on
+the conclusion of the study required by this section. The report shall include,
+but not necessarily be limited to, the appropriate legislative role in
+overseeing administrative rules and the regulatory impact thereof, the
+legislative staff required to assist the legislature in completing this role,
+which legislative body should oversee this role when the legislature is not in
+session and any statutory changes necessary to effectuate the findings in the
+report. The management audit committee or management council may sponsor
+legislation during the 2026 budget session to effectuate the findings of the
+report. Funding for legislative staff necessary to effectuate the findings of
+the report required by this section may be included in the 2025 legislative
+appropriations bill.".
+Page 9-line 1 Delete "Section 4." and insert "Section 5.".
+Page 9-line 17 Delete "Section 5." and insert "Section 6.".
+Page 10-line 1 Delete "4 and 5" and insert "3 through 6". BONER, CRAGO,
+ROTHFUSS, TARVER, WEBB, YIN
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Guggenmos, Harshman, Heiner, Hoeft,
+Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lien, Locke, Lucas, Mccann,
+Neiman, Nicholas, Ottman, Pendergraft, Posey, Riggins, Rodriguez-Williams,
+Schmid, Sherwood, Singh, Smith, Strock, Styvar, Tarver, Thayer, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Wylie
+Nays: Representative(s) Chestek, Provenza, Storer, Yin
+Excused: Representative(s) Geringer, Haroldson, Lawley, Winter
+Ayes 54 Nays 4 Excused 4 Absent 0 Conflicts 0
+2/27/2025 Assigned Number SEA No. 0059
+2/28/2025 S President Signed SEA No. 0059
+2/28/2025 H Speaker Signed SEA No. 0059
+3/4/2025 Governor Vetoed SEA No. 0059
+SF0127VT001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Override governor's veto to Senate Enrolled Act No. 59, being original Senate
+File 127.
+ROLL CALL
+Ayes: Senator(s) Biteman, Boner, Brennan, Crago, Crum, Dockstader, Driskill,
+French, Hicks, Hutchings, Ide, Jones, Kolb, Laursen, Mckeown, Olsen, Pappas,
+Pearson, Salazar, Smith, Steinmetz
+Nays: Senator(s) Anderson, Barlow, Case, Cooper, Gierau, Landen, Nethercott,
+Rothfuss, Schuler, Scott
+Ayes 21 Nays 10 Excused 0 Absent 0 Conflicts 0
+SF0127VT001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Override governor's veto to Senate Enrolled Act No. 59, being original Senate
+File 127.
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, K, Clouston, Davis, Eklund, Erickson,
+Geringer, Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly, Knapp, Larson,
+Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Riggins,
+Rodriguez-Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver, Thayer,
+Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie
+Nays: Representative(s) Brown, L, Campbell, E, Chestek, Connolly, Harshman,
+Jarvis, Larsen, Nicholas, Posey, Provenza, Sherwood, Storer, Yin
+Excused: Representative Filer
+Ayes 48 Nays 13 Excused 1 Absent 0 Conflicts 0
+3/6/2025 Assigned Chapter Number 128
+Chapter No. 128 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+SF0127 Administrative rules-legislative review.
+Sponsored By: Senator(s) Boner, Crago, Driskill, Hicks, Hutchings,
+Kolb and Steinmetz and Representative(s) Andrew,
+Banks, Davis, Filer, Heiner, Lawley and Neiman
+AN ACT relating to administrative procedure; requiring the completion of
+economic analyses for major administrative rules; amending the process for
+legislative review and notice of rules; making conforming amendments; specifying
+applicability; requiring a study and a report; providing an appropriation;
+authorizing additional positions; and providing for effective dates.
+1/16/2025 Bill Number Assigned
+1/17/2025 S Received for Introduction
+1/21/2025 S Introduced and Referred to S02 - Appropriations
+1/24/2025 :Refer to S05 - Agriculture
+1/28/2025 S05 - Agriculture:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, French, Ide, Mckeown, Taliaferro Pearson
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/28/2025 :Rerefer to S02 - Appropriations
+1/30/2025 S02 - Appropriations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Gierau, Laursen, Salazar, Smith
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/30/2025 S Placed on General File
+SF0127SS001/ADOPTED (CORRECTED COPY)
+Page 4-lines 1 through 11 Delete entirely, renumber as necessary and
+insert:
+"(b) A major agency rule may take effect upon submission of the major
+agency rule to the legislature in accordance with this section, provided that
+the rule shall only remain in effect if the rule is ratified by the legislature
+in accordance with subsection (a) of this section.".
+Page 4-line 13 Delete "(d)" and insert "(c)".
+Page 4-line 14 After "ratify" insert "by the time specified in
+subsection (a) of this section".
+Page 4-lines 17 through 23 Delete entirely.
+Page 5 Delete entirely.
+Page 6-lines 1 through 7 Delete entirely.
+Page 6-line 9 Delete "(g)" and insert "(d)".
+Page 7-lines 5 through 14 Delete entirely.
+Page 11-line 5 Delete "sixty (60)" and insert "fifty (50)".
+
+Page 11-line 12 Delete "sixty".
+Page 11-line 13 Delete "(60)" and insert "fifty (50)".
+Page 14-line 2 Delete "No major agency".
+Page 14-lines 3 and 4 Delete entirely and insert "A major agency rule shall
+be effective subject to ratification by the legislature
+under W.S. 16-3-103.1.".
+Page 18-line 11 Delete "in accordance with" and insert "subject to
+ratification under". FRENCH, CHAIRMAN
+SF0127SW001/ADOPTED
+Page 4-lines 1 through 11 In the Senate standing committee amendment
+(SF0127SS001/A) to these lines, in subsection (b)
+created by that amendment, delete "A major agency rule
+may take effect" and insert "Unless another effective
+date is specified in the major agency rule, a major
+agency rule shall take effect". BONER, FRENCH
+2/3/2025 S COW:Passed
+2/4/2025 S 2nd Reading:Passed
+2/5/2025 S 3rd Reading:Laid Back
+2/6/2025 S 3rd Reading:Laid Back
+SF0127S3001/ADOPTED
+Delete the Senate standing committee amendment (SF0127SS001/AC) and the Boner,
+et al. committee of the whole amendment (SF0127SW001/A) entirely and further
+amend as follows:
+Page 1-above line 1 In the catch title, delete "and objection".
+Page 1-lines 1 through 7 Delete entirely and insert:
+"AN ACT relating to administrative procedure; requiring the completion of
+economic analyses for administrative rules; amending the process for legislative
+review and notice of rules; making conforming amendments; specifying
+applicability; providing an appropriation; and providing for effective dates.".
+Page 1-line 11 Delete "16-3-103.1 and"; delete "are" and insert "is".
+Pages 2 through 6 Delete entirely.
+Page 7-lines 1 through 14 Delete entirely.
+Page 7-line 16 Delete "Major".
+Page 7-line 20 Delete "to management council for management".
+Page 7-line 21 Delete entirely and insert "in accordance with this
+section.".
+Page 8-line 1 Delete "may be a major agency rule" and insert
+"submitted under this act".
+
+Page 8-line 6 Delete "major agency".
+Page 8-line 13 Delete "that".
+Page 8-line 14 Delete line through "section".
+Page 10-lines 16 through 23 Delete entirely and insert:
+"(d) Upon completing a regulatory impact analysis, the chief economist
+shall provide the analysis to each member of the legislature and shall make the
+analysis available to the public.".
+Page 11-lines 2 through 14 Delete entirely, renumber as necessary and
+insert:
+"(e) The chief economist shall complete each regulatory analysis not later
+than fifty (50) days after the rule was submitted for review under W.S. 28-9-
+103(b).".
+Page 11-line 18 Delete "or other".
+Page 11-line 19 Delete "proposed rule".
+Page 11-line 22 Delete "major".
+Page 11-line 23 Delete "agency".
+Page 12-lines 5 through 21 Delete entirely.
+Pages 13 through 21 Delete entirely.
+Page 22-lines 1 through 7 Delete entirely and insert:
+"Section 2. W.S. 28-8-103, 28-9-101(a)(iv), 28-9-103(d) and by creating
+a new subsection (e), 28-9-104(a)(intro) and 28-9-107(a) are amended to read:
+28-8-103. Director and staff.
+The management council shall appoint by majority vote a director of the office.
+The director, subject to the prior approval of the management council, may
+appoint assistant directors. The director shall appoint such professional,
+technical and clerical staff as necessary to perform the functions assigned to
+the office. The director shall appoint a chief economist to perform the
+functions assigned under W.S. 28-9-109. The director and staff shall be selected
+without reference to political affiliation and shall serve at the pleasure of
+the appointing authority. They shall be paid salaries and receive necessary
+expenses as determined by the management council.
+28-9-101. Definitions.
+(a) As used in this act:
+(iv) "This act" means W.S. 28-9-101 through 28-9-108 28-9-109.
+28-9-103. Submission of rules for review; notice to legislators.
+
+(d) Upon receipt of an agency's notice to adopt new rules pursuant to
+W.S. 16-3-103(a)(i), the legislative service office shall give notice to the
+primary sponsor of the legislation, to members of the interim or standing
+committee which sponsored or acted upon the legislation authorizing the new
+rules and to any every other legislator. requesting notification. The notice
+given by the legislative service office shall state a copy of the rules will be
+sent if requested. Notice under this subsection is not required for persons not
+currently serving in the legislature.
+(e) Upon receipt of an agency's notice to adopt rules under W.S. 16-3-
+103(a)(i), the legislative service office shall give notice to each legislator.
+28-9-104. Review procedure; time for review; criteria for review.
+(a) The legislative service office shall review rules submitted under
+W.S. 28-9-103(b) and report its findings to the council. The legislative service
+office shall review new rules and include therein any comments from the primary
+sponsor of the legislation, the chairman of the interim or standing committee
+which sponsored or acted upon the legislation authorizing the new rules and any
+other legislator submitting comments, and shall report their findings to the
+council. The legislative service office shall review all rules in accordance
+with W.S. 28-9-109. The report required under this subsection shall be submitted
+to the council:
+28-9-107. Legislative orders; action required; implementation and
+enforcement of rules.
+(a) If the council determines that a rule submitted for review under
+W.S. 28-9-103(b) does not satisfy one (1) or more of the criteria of W.S. 28-
+9-104(c), or if the council deems it appropriate after reviewing the results of
+the analysis completed under W.S. 28-9-109, the council may introduce
+legislation in the next succeeding legislative session following the review to
+obtain a legislative order to prohibit the implementation or enforcement of the
+rule.". BONER
+2/7/2025 S 3rd Reading:Passed 25-6-0-0-0
+ROLL CALL
+Ayes: Senator(s) Biteman, Boner, Brennan, Cooper, Crago, Crum, Driskill,
+French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen, Mckeown,
+Nethercott, Olsen, Pappas, Pearson, Salazar, Schuler, Smith, Steinmetz
+Nays: Senator(s) Anderson, Barlow, Case, Dockstader, Rothfuss, Scott
+Ayes 25 Nays 6 Excused 0 Absent 0 Conflicts 0
+2/7/2025 H Received for Introduction
+2/10/2025 H Introduced and Referred to H07 - Corporations
+2/18/2025 H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber
+Nays: Representative Yin
+Ayes 8 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/18/2025 :Rerefer to H02 - Appropriations
+2/19/2025 H02 - Appropriations:Recommend Do Pass 7-0-0-0-0
+
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft,
+Sherwood, Smith
+Ayes 7 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/19/2025 H Placed on General File
+SF0127HS001/ADOPTED (TO ENGROSSED COPY)
+Page 1-line 2 Before "administrative" insert "major".
+Page 1-line 5 After "applicability;" insert "requiring a study and a
+report;"; after "appropriation;" insert "authorizing
+additional positions;".
+Page 2-line 1 Delete "chief economist of the".
+Page 2-line 2 Before "rule" insert "major".
+Page 2-line 5 After "each" insert "major"; delete "that".
+Page 2-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 2-line 9 Before "rule was" insert "major"; after "provide the"
+insert "major".
+Page 2-line 14 Delete "subsections (c) and (d)" and insert "subsection
+(c)".
+Page 2-line 17 Before "rule" insert "major".
+Page 2-line 20 Before "rule" insert "major".
+Page 2-line 21 Before "rule" insert "major".
+Page 3-line 2 Before "rule" insert "major".
+Page 3-line 5 Before "rule" insert "major".
+Page 3-line 8 Before "rule" insert "major".
+Page 3-line 11 Before "rule" insert "major".
+Page 3-line 17 Before "rule" insert "major".
+Page 3-line 20 Before "rule" insert "major".
+Page 4-line 7 Delete "must" and insert "shall".
+Page 4-line 15 Delete "director or" and insert "legislative service
+office".
+Page 4-line 16 Delete "chief economist".
+Page 4-line 17 Before "rule" insert "major".
+
+Page 4-line 20 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 1 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 3 Before "rule" insert "major".
+Page 5-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 7 Before "rule" insert "major".
+Page 5-line 9 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 10 Before "rule" insert "major".
+Page 5-line 13 Delete "chief economist" insert "legislative service
+office".
+Page 5-after line 14 Insert:
+"(h) "Major rule" means a rule, including an emergency rule, designated
+by management council under W.S. 28-9-109 that will result in or is likely to
+result in one (1) or more of the following:
+(i) An annual impact on the economy of Wyoming that will result in
+direct or indirect costs of not less than one hundred thousand dollars
+($100,000.00);
+(ii) Significant adverse effects on competition, employment,
+investment, productivity or innovation in the state, including significant
+adverse effects on individual industries or regions within Wyoming;
+(iii) Significant changes in social and cultural relations among
+citizens, including significant impacts on particular religious, ethnic, racial
+or gender populations.".
+Page 5-line 16 Delete "28-8-103,".
+Page 5-line 18 Delete "28-9-107(a)" and insert "28-9-107 by creating
+a new subsection (d)".
+Page 5-lines 20 through 23 Delete entirely.
+Page 6-lines 1 through 10 Delete entirely.
+Page 8-line 4 Before "rules" insert "major".
+Page 8-lines 11 through 18 Delete entirely, renumber as necessary and
+insert:
+"(d) If the council, management audit committee, a joint interim
+committee or any legislator determines that it is appropriate after reviewing
+the results of the analysis completed under W.S. 28-9-109, the council, a joint
+interim committee or any legislator may introduce legislation in the next
+
+succeeding legislative session following the completion of the analysis to
+obtain a legislative order to prohibit the implementation or enforcement of the
+major rule.".
+Page 8-after line 22 Insert the following and renumber as necessary:
+"Section 4. During the 2025 interim, the management audit committee of
+the Wyoming legislature shall study this act and its relation to existing
+statutory provisions concerning the legislative role in the administrative rule
+review process. The management audit committee shall receive all assistance
+requested from the legislative service office and executive branch agencies
+while conducting the study required by this section. Not later than December 1,
+2025, the management audit committee shall report to the management council on
+the conclusion of the study required by this section. The report shall include,
+but not necessarily be limited to, the appropriate legislative role in
+overseeing administrative rules and the regulatory impact thereof, the
+legislative staff required to assist the legislature in completing this role,
+which legislative body should oversee this role when the legislature is not in
+session and any statutory changes necessary to effectuate the findings in the
+report. The management audit committee or management council may sponsor
+legislation during the 2026 budget session to effectuate the findings of the
+report. Funding for legislative staff necessary to effectuate the findings of
+the report required by this section may be included in the 2025 legislative
+appropriations bill.".
+Page 9-line 1 Delete "Section 4." and insert "Section 5.".
+Page 9-line 17 Delete "Section 5." and insert "Section 6.".
+Page 10-line 1 Delete "4 and 5" and insert "3 through 6". KNAPP,
+CHAIRMAN
+2/21/2025 H COW:Passed
+2/24/2025 H 2nd Reading:Passed
+2/25/2025 H 3rd Reading:Passed 56-5-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Rodriguez-
+Williams, Schmid, Sherwood, Singh, Smith, Strock, Styvar, Tarver, Thayer,
+Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie
+Nays: Representative(s) Chestek, Nicholas, Provenza, Storer, Yin
+Excused: Representative Riggins
+Ayes 56 Nays 5 Excused 1 Absent 0 Conflicts 0
+2/25/2025 S Received for Concurrence
+2/25/2025 S Concur:Failed 0-30-1-0-0
+ROLL CALL
+Nays: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones,
+Kolb, Landen, Laursen, Mckeown, Nethercott, Olsen, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Smith, Steinmetz
+Excused: Senator Pappas
+
+Ayes 0 Nays 30 Excused 1 Absent 0 Conflicts 0
+2/25/2025 S Appointed JCC01 Members
+Senator(s) Boner, Crago, Rothfuss
+2/26/2025 H Appointed JCC01 Members
+Representative(s) Tarver, Webb, Yin
+2/27/2025 S Adopted SF0127JC001: 26-3-2-0-0
+SF0127JC001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Delete the following House amendments:
+SF0127HS001/A
+Further amend the ENGROSSED COPY as follows:
+Page 1-line 2 Before "administrative" insert "major".
+Page 1-line 5 After "applicability;" insert "requiring a study and a
+report;"; after "appropriation;" insert "authorizing
+additional positions;".
+Page 2-line 1 Delete "chief economist of the".
+Page 2-line 2 Before "rule" insert "major".
+Page 2-line 5 After "each" insert "major"; delete "that".
+Page 2-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 2-line 9 Before "rule was" insert "major"; after "provide the"
+insert "major".
+Page 2-line 14 Delete "subsections (c) and (d)" and insert "subsection
+(c)".
+Page 2-line 17 Before "rule" insert "major".
+Page 2-line 20 Before "rule" insert "major".
+Page 2-line 21 Before "rule" insert "major".
+Page 3-line 2 Before "rule" insert "major".
+Page 3-line 5 Before "rule" insert "major".
+Page 3-line 8 Before "rule" insert "major".
+Page 3-line 11 Before "rule" insert "major".
+Page 3-line 17 Before "rule" insert "major".
+Page 3-line 20 Before "rule" insert "major".
+Page 4-line 7 Delete "must" and insert "shall".
+Page 4-line 15 Delete "director or" and insert "legislative service
+office".
+
+Page 4-line 16 Delete "chief economist".
+Page 4-line 17 Before "rule" insert "major".
+Page 4-line 20 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 1 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 3 Before "rule" insert "major".
+Page 5-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 7 Before "rule" insert "major".
+Page 5-line 9 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 10 Before "rule" insert "major".
+Page 5-line 13 Delete "chief economist" insert "legislative service
+office".
+Page 5-after line 14 Insert:
+"(h) "Major rule" means a rule, including an emergency rule, designated
+by management council under W.S. 28-9-109 that will result in or is likely to
+result in one (1) or more of the following:
+(i) An annual impact on the economy of Wyoming that will result in
+direct or indirect costs of not less than one million dollars ($1,000,000.00);
+(ii) Significant adverse effects on competition, employment,
+investment, productivity or innovation in the state, including significant
+adverse effects on individual industries or regions within Wyoming.".
+Page 5-line 16 Delete "28-8-103,".
+Page 5-line 18 Delete "28-9-107(a)" and insert "28-9-107 by creating
+a new subsection (d)".
+Page 5-lines 20 through 23 Delete entirely.
+Page 6-lines 1 through 10 Delete entirely.
+Page 8-line 4 Before "rules" insert "major".
+Page 8-lines 11 through 18 Delete entirely, renumber as necessary and
+insert:
+"(d) If the council, management audit committee, a joint interim
+committee or any legislator determines that it is appropriate after reviewing
+the results of the analysis completed under W.S. 28-9-109, the council, a joint
+interim committee or any legislator may introduce legislation in the next
+
+succeeding legislative session following the completion of the analysis to
+obtain a legislative order to prohibit the implementation or enforcement of the
+major rule.".
+Page 8-after line 22 Insert the following and renumber as necessary:
+"Section 4. During the 2025 interim, the management audit committee of
+the Wyoming legislature shall study this act and its relation to existing
+statutory provisions concerning the legislative role in the administrative rule
+review process. The management audit committee shall receive all assistance
+requested from the legislative service office and executive branch agencies
+while conducting the study required by this section. Not later than December 1,
+2025, the management audit committee shall report to the management council on
+the conclusion of the study required by this section. The report shall include,
+but not necessarily be limited to, the appropriate legislative role in
+overseeing administrative rules and the regulatory impact thereof, the
+legislative staff required to assist the legislature in completing this role,
+which legislative body should oversee this role when the legislature is not in
+session and any statutory changes necessary to effectuate the findings in the
+report. The management audit committee or management council may sponsor
+legislation during the 2026 budget session to effectuate the findings of the
+report. Funding for legislative staff necessary to effectuate the findings of
+the report required by this section may be included in the 2025 legislative
+appropriations bill.".
+Page 9-line 1 Delete "Section 4." and insert "Section 5.".
+Page 9-line 17 Delete "Section 5." and insert "Section 6.".
+Page 10-line 1 Delete "4 and 5" and insert "3 through 6". BONER, CRAGO,
+ROTHFUSS, TARVER, WEBB, YIN
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Case, Cooper, Crago, Crum,
+Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen,
+Mckeown, Nethercott, Olsen, Pappas, Pearson, Salazar, Smith, Steinmetz
+Nays: Senator(s) Rothfuss, Schuler, Scott
+Excused: Senator(s) Barlow, Dockstader
+Ayes 26 Nays 3 Excused 2 Absent 0 Conflicts 0
+2/27/2025 H Adopted SF0127JC001: 54-4-4-0-0
+SF0127JC001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Delete the following House amendments:
+SF0127HS001/A
+Further amend the ENGROSSED COPY as follows:
+Page 1-line 2 Before "administrative" insert "major".
+Page 1-line 5 After "applicability;" insert "requiring a study and a
+report;"; after "appropriation;" insert "authorizing
+additional positions;".
+Page 2-line 1 Delete "chief economist of the".
+
+Page 2-line 2 Before "rule" insert "major".
+Page 2-line 5 After "each" insert "major"; delete "that".
+Page 2-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 2-line 9 Before "rule was" insert "major"; after "provide the"
+insert "major".
+Page 2-line 14 Delete "subsections (c) and (d)" and insert "subsection
+(c)".
+Page 2-line 17 Before "rule" insert "major".
+Page 2-line 20 Before "rule" insert "major".
+Page 2-line 21 Before "rule" insert "major".
+Page 3-line 2 Before "rule" insert "major".
+Page 3-line 5 Before "rule" insert "major".
+Page 3-line 8 Before "rule" insert "major".
+Page 3-line 11 Before "rule" insert "major".
+Page 3-line 17 Before "rule" insert "major".
+Page 3-line 20 Before "rule" insert "major".
+Page 4-line 7 Delete "must" and insert "shall".
+Page 4-line 15 Delete "director or" and insert "legislative service
+office".
+Page 4-line 16 Delete "chief economist".
+Page 4-line 17 Before "rule" insert "major".
+Page 4-line 20 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 1 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 3 Before "rule" insert "major".
+Page 5-line 6 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 7 Before "rule" insert "major".
+Page 5-line 9 Delete "chief economist" and insert "legislative
+service office".
+Page 5-line 10 Before "rule" insert "major".
+
+Page 5-line 13 Delete "chief economist" insert "legislative service
+office".
+Page 5-after line 14 Insert:
+"(h) "Major rule" means a rule, including an emergency rule, designated
+by management council under W.S. 28-9-109 that will result in or is likely to
+result in one (1) or more of the following:
+(i) An annual impact on the economy of Wyoming that will result in
+direct or indirect costs of not less than one million dollars ($1,000,000.00);
+(ii) Significant adverse effects on competition, employment,
+investment, productivity or innovation in the state, including significant
+adverse effects on individual industries or regions within Wyoming.".
+Page 5-line 16 Delete "28-8-103,".
+Page 5-line 18 Delete "28-9-107(a)" and insert "28-9-107 by creating
+a new subsection (d)".
+Page 5-lines 20 through 23 Delete entirely.
+Page 6-lines 1 through 10 Delete entirely.
+Page 8-line 4 Before "rules" insert "major".
+Page 8-lines 11 through 18 Delete entirely, renumber as necessary and
+insert:
+"(d) If the council, management audit committee, a joint interim
+committee or any legislator determines that it is appropriate after reviewing
+the results of the analysis completed under W.S. 28-9-109, the council, a joint
+interim committee or any legislator may introduce legislation in the next
+succeeding legislative session following the completion of the analysis to
+obtain a legislative order to prohibit the implementation or enforcement of the
+major rule.".
+Page 8-after line 22 Insert the following and renumber as necessary:
+"Section 4. During the 2025 interim, the management audit committee of
+the Wyoming legislature shall study this act and its relation to existing
+statutory provisions concerning the legislative role in the administrative rule
+review process. The management audit committee shall receive all assistance
+requested from the legislative service office and executive branch agencies
+while conducting the study required by this section. Not later than December 1,
+2025, the management audit committee shall report to the management council on
+the conclusion of the study required by this section. The report shall include,
+but not necessarily be limited to, the appropriate legislative role in
+overseeing administrative rules and the regulatory impact thereof, the
+legislative staff required to assist the legislature in completing this role,
+which legislative body should oversee this role when the legislature is not in
+session and any statutory changes necessary to effectuate the findings in the
+report. The management audit committee or management council may sponsor
+legislation during the 2026 budget session to effectuate the findings of the
+report. Funding for legislative staff necessary to effectuate the findings of
+
+the report required by this section may be included in the 2025 legislative
+appropriations bill.".
+Page 9-line 1 Delete "Section 4." and insert "Section 5.".
+Page 9-line 17 Delete "Section 5." and insert "Section 6.".
+Page 10-line 1 Delete "4 and 5" and insert "3 through 6". BONER, CRAGO,
+ROTHFUSS, TARVER, WEBB, YIN
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Guggenmos, Harshman, Heiner, Hoeft,
+Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lien, Locke, Lucas, Mccann,
+Neiman, Nicholas, Ottman, Pendergraft, Posey, Riggins, Rodriguez-Williams,
+Schmid, Sherwood, Singh, Smith, Strock, Styvar, Tarver, Thayer, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Wylie
+Nays: Representative(s) Chestek, Provenza, Storer, Yin
+Excused: Representative(s) Geringer, Haroldson, Lawley, Winter
+Ayes 54 Nays 4 Excused 4 Absent 0 Conflicts 0
+2/27/2025 Assigned Number SEA No. 0059
+2/28/2025 S President Signed SEA No. 0059
+2/28/2025 H Speaker Signed SEA No. 0059
+3/4/2025 Governor Vetoed SEA No. 0059
+SF0127VT001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Override governor's veto to Senate Enrolled Act No. 59, being original Senate
+File 127.
+ROLL CALL
+Ayes: Senator(s) Biteman, Boner, Brennan, Crago, Crum, Dockstader, Driskill,
+French, Hicks, Hutchings, Ide, Jones, Kolb, Laursen, Mckeown, Olsen, Pappas,
+Pearson, Salazar, Smith, Steinmetz
+Nays: Senator(s) Anderson, Barlow, Case, Cooper, Gierau, Landen, Nethercott,
+Rothfuss, Schuler, Scott
+Ayes 21 Nays 10 Excused 0 Absent 0 Conflicts 0
+SF0127VT001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Override governor's veto to Senate Enrolled Act No. 59, being original Senate
+File 127.
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, K, Clouston, Davis, Eklund, Erickson,
+Geringer, Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly, Knapp, Larson,
+Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Riggins,
+Rodriguez-Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver, Thayer,
+Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie
+Nays: Representative(s) Brown, L, Campbell, E, Chestek, Connolly, Harshman,
+Jarvis, Larsen, Nicholas, Posey, Provenza, Sherwood, Storer, Yin
+Excused: Representative Filer
+Ayes 48 Nays 13 Excused 1 Absent 0 Conflicts 0
+
+3/6/2025 Assigned Chapter Number 128
+Chapter No. 128 Session Laws of Wyoming 2025

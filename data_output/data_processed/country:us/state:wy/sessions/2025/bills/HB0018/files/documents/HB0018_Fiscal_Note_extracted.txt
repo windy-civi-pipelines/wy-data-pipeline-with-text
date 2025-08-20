@@ -1,0 +1,138 @@
+Title: Career technical education funding. 25LSO-0096, 1.0
+Official Title: Career technical education funding. 25LSO-0096, 1.0
+Number of Sections: 2
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+FISCAL NOTE
+This bill contains an appropriation of $350,000 from the PUBLIC SCHOOL FOUNDATION
+PROGRAM ACCOUNT (SFP) to the Department of Education - School Finance.
+DETAIL OF APPROPRIATION
+Agency #: 205 Agency Name: Department of Education - School Finance
+Unit: 4101 (Foundation Basic)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $0 $284,400 $0
+Total Expenditure Per Year: $0 $284,400 $0
+Grand Total Expenditure: $284,400
+Total Appropriated to Agency: $350,000
+Total Appropriated by Fund:
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $350,000
+Description of appropriation:
+The appropriation will be expended to offset the K-12 education resource block
+grant model’s (K-12 funding model) anticipated entitlement expenditure increase and
+corresponding recapture revenue decrease that will take place in FY 2026.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $0 ($9,900) ($9,900)
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $0 $274,500 $274,500
+Source of revenue decrease and expenditure increase:
+Under current law, the K-12 funding model allocates additional equipment and
+supplies resources for career and technical education (CTE) programs based on the
+number of grade 9-12 CTE teacher full-time equivalent (FTE) positions in approved
+CTE courses. The formula allocates a per dollar amount for each reported CTE teacher
+FTE. For school year (SY) 2024-25, each CTE teacher FTE generates an additional
+$14,184.68 for CTE equipment and supplies.
+This bill increases the funding allocated under the K-12 funding model’s CTE
+equipment and supplies component to ensure that each school reporting CTE teacher
+FTE positions in approved CTE courses receives at least $28,369.35 as part of the
+school district’s foundation program guarantee amount. The minimum CTE equipment
+and supplies funding level reflects 2011, Wyoming Session Laws, Chapter 185,
+ATTACHMENT “A”(b)(xxv), as amended by 2017 Wyoming Session Laws, Chapter 205,
+
+Section 2:
+Section 3, as further modified by external cost adjustments enacted by the
+Legislature through the 2024 Budget Session.
+HB0018
+Career technical education funding. 25LSO-0096, 1.0
+The estimated absolute impact to the K-12 funding model’s foundation program
+guarantee is an increase of $284,400 in FY 2026, $284,400 in FY 2027, and $284,400
+in FY 2028. An increase to the K-12 funding model’s foundation program guarantee
+amount will have a corresponding expenditure increase from the SFP in the form of
+school district entitlement payments and a corresponding revenue decrease to the
+SFP in the form of school district recapture payments. The entitlement expenditure
+increase and recapture revenue decrease anticipated in FY 2026 will be funded by
+the appropriation in the bill.
+Assumptions:
+The above estimates were determined through the use of forecast K-12 funding models
+utilized by the Legislative Service Office and are based on the most recent available
+data. The forecast K-12 funding models assume 24 schools among 21 school districts
+will receive additional funding based on CTE teacher FTE positions reported by
+school districts from SY 2023-24.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Trent Carroll, Department of Education – School Finance,
+307-777-7720)
+HB0018
+
+
+================================================================================
+
+Raw Text:
+Career technical education funding. 25LSO-0096, 1.0
+FISCAL NOTE
+This bill contains an appropriation of $350,000 from the PUBLIC SCHOOL FOUNDATION
+PROGRAM ACCOUNT (SFP) to the Department of Education - School Finance.
+DETAIL OF APPROPRIATION
+Agency #: 205 Agency Name: Department of Education - School Finance
+Unit: 4101 (Foundation Basic)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $0 $284,400 $0
+Total Expenditure Per Year: $0 $284,400 $0
+Grand Total Expenditure: $284,400
+Total Appropriated to Agency: $350,000
+Total Appropriated by Fund:
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $350,000
+Description of appropriation:
+The appropriation will be expended to offset the K-12 education resource block
+grant model’s (K-12 funding model) anticipated entitlement expenditure increase and
+corresponding recapture revenue decrease that will take place in FY 2026.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $0 ($9,900) ($9,900)
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $0 $274,500 $274,500
+Source of revenue decrease and expenditure increase:
+Under current law, the K-12 funding model allocates additional equipment and
+supplies resources for career and technical education (CTE) programs based on the
+number of grade 9-12 CTE teacher full-time equivalent (FTE) positions in approved
+CTE courses. The formula allocates a per dollar amount for each reported CTE teacher
+FTE. For school year (SY) 2024-25, each CTE teacher FTE generates an additional
+$14,184.68 for CTE equipment and supplies.
+This bill increases the funding allocated under the K-12 funding model’s CTE
+equipment and supplies component to ensure that each school reporting CTE teacher
+FTE positions in approved CTE courses receives at least $28,369.35 as part of the
+school district’s foundation program guarantee amount. The minimum CTE equipment
+and supplies funding level reflects 2011, Wyoming Session Laws, Chapter 185,
+ATTACHMENT “A”(b)(xxv), as amended by 2017 Wyoming Session Laws, Chapter 205,
+Section 3, as further modified by external cost adjustments enacted by the
+Legislature through the 2024 Budget Session.
+HB0018
+
+Career technical education funding. 25LSO-0096, 1.0
+The estimated absolute impact to the K-12 funding model’s foundation program
+guarantee is an increase of $284,400 in FY 2026, $284,400 in FY 2027, and $284,400
+in FY 2028. An increase to the K-12 funding model’s foundation program guarantee
+amount will have a corresponding expenditure increase from the SFP in the form of
+school district entitlement payments and a corresponding revenue decrease to the
+SFP in the form of school district recapture payments. The entitlement expenditure
+increase and recapture revenue decrease anticipated in FY 2026 will be funded by
+the appropriation in the bill.
+Assumptions:
+The above estimates were determined through the use of forecast K-12 funding models
+utilized by the Legislative Service Office and are based on the most recent available
+data. The forecast K-12 funding models assume 24 schools among 21 school districts
+will receive additional funding based on CTE teacher FTE positions reported by
+school districts from SY 2023-24.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Trent Carroll, Department of Education – School Finance,
+307-777-7720)
+HB0018

@@ -1,0 +1,175 @@
+Title: Sponsored By: Senator(s) Driskill, Anderson, Brennan, Dockstader
+Official Title: Sponsored By: Senator(s) Driskill, Anderson, Brennan, Dockstader
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0155 International physician licensing.
+and Schuler
+AN ACT relating to physicians and surgeons; authorizing the state board of
+medicine to provide provisional medical licenses to international physicians as
+specified; providing definitions; making conforming amendments; requiring
+rulemaking; and providing for effective dates.
+1/22/2025 Bill Number Assigned
+1/23/2025 S Received for Introduction
+1/28/2025 S Introduced and Referred to S10 - Labor
+2/3/2025 S10 - Labor:Recommend Amend and Do Pass 3-0-2-0-0
+ROLL CALL
+Ayes: Senator(s) Barlow, Hutchings, Scott
+Excused: Senator(s) Crum, Steinmetz
+Ayes 3 Nays 0 Excused 2 Absent 0 Conflicts 0
+2/3/2025 :Rerefer to S02 - Appropriations
+2/4/2025 S Returned to General File due to re-referral error
+2/4/2025 S Placed on General File
+SF0155SS001/ADOPTED
+Page 2-line 12 After "(ii)" insert "In this article,".
+Page 3-line 5 After "been" insert "licensed".
+Page 4-line 7 After "(iv)" insert "In this article,".
+Page 4-line 23 After "investigation" insert ", if practicably
+available,".
+Page 5-line 15 Delete "revoke" and insert "suspend".
+Page 5-line 18 After "period." insert "If the international physician
+loses employment with the health care provider, the
+license shall be suspended until the international
+physician obtains employment with another Wyoming
+health care provider. If the international physician
+cannot obtain required employment within six (6)
+months, the license shall be revoked.".
+Page 6-line 4 Delete "shall automatically be".
+Page 6-line 5 Delete "converted" and insert "shall be eligible to
+apply to convert".
+Page 6-line 7 After "not" insert "been".
+Page 6-line 13 Delete "annually".
+Page 6-line 14 Delete entirely and insert "comply with the".
+Page 6-line 15 Delete "required by".
+Page 6-line 16 Delete "the board in the manner".
+Page 7-line 12 After "provider" insert "." and delete balance of line.
+Page 7-line 13 Delete entirely. BARLOW, CHAIRMAN
+SF0155SW001/ADOPTED
+Page 2-line 7 Delete "act" and insert "article".
+Page 2-line 12 Delete the Senate standing committee amendment
+(SF0155SS001/A)to this line.
+Page 4-line 7 Delete the Senate standing committee amendment
+(SF0155SS001/A)to this line.
+Page 4-lines 11 and 12 Delete entirely. BARLOW
+SF0155SW002/ADOPTED
+Page 3-line 22 After "this paragraph;" insert "and".
+Page 4-lines 1 and 2 Delete entirely and renumber as necessary.
+Page 4-line 4 Delete "(F)" and insert "(E)".
+Page 5-lines 10 through 13 Delete entirely and renumber as necessary.
+Page 5-line 15 Delete "(iii)" and insert "(ii)". DRISKILL
+2/6/2025 S COW:Passed
+2/7/2025 S 2nd Reading:Passed
+SF0155S3001/FAILED
+Delete the Driskill committee of the whole amendment (SF0155SW002/A) entirely.
+HUTCHINGS
+2/10/2025 S 3rd Reading:Passed 29-1-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Smith, Steinmetz
+Nays: Senator Hutchings
+Excused: Senator Pappas
+Ayes 29 Nays 1 Excused 1 Absent 0 Conflicts 0
+2/10/2025 H Received for Introduction
+2/18/2025 H Introduced and Referred to H07 - Corporations
+2/24/2025 :Rerefer to H10 - Labor
+2/26/2025 H10 - Labor:Recommend Amend and Do Pass 8-0-1-0-0
+ROLL CALL
+Ayes: Representative(s) Clouston, Guggenmos, Hoeft, Mccann, Ottman, Rodriguez-
+Williams, Wasserburger, Yin
+Excused: Representative Styvar
+Ayes 8 Nays 0 Excused 1 Absent 0 Conflicts 0
+2/26/2025 H Placed on General File
+2/28/2025 H COW:H Did not consider for COW
+
+
+================================================================================
+
+Raw Text:
+SF0155 International physician licensing.
+Sponsored By: Senator(s) Driskill, Anderson, Brennan, Dockstader
+and Schuler
+AN ACT relating to physicians and surgeons; authorizing the state board of
+medicine to provide provisional medical licenses to international physicians as
+specified; providing definitions; making conforming amendments; requiring
+rulemaking; and providing for effective dates.
+1/22/2025 Bill Number Assigned
+1/23/2025 S Received for Introduction
+1/28/2025 S Introduced and Referred to S10 - Labor
+2/3/2025 S10 - Labor:Recommend Amend and Do Pass 3-0-2-0-0
+ROLL CALL
+Ayes: Senator(s) Barlow, Hutchings, Scott
+Excused: Senator(s) Crum, Steinmetz
+Ayes 3 Nays 0 Excused 2 Absent 0 Conflicts 0
+2/3/2025 :Rerefer to S02 - Appropriations
+2/4/2025 S Returned to General File due to re-referral error
+2/4/2025 S Placed on General File
+SF0155SS001/ADOPTED
+Page 2-line 12 After "(ii)" insert "In this article,".
+Page 3-line 5 After "been" insert "licensed".
+Page 4-line 7 After "(iv)" insert "In this article,".
+Page 4-line 23 After "investigation" insert ", if practicably
+available,".
+Page 5-line 15 Delete "revoke" and insert "suspend".
+Page 5-line 18 After "period." insert "If the international physician
+loses employment with the health care provider, the
+license shall be suspended until the international
+physician obtains employment with another Wyoming
+health care provider. If the international physician
+cannot obtain required employment within six (6)
+months, the license shall be revoked.".
+Page 6-line 4 Delete "shall automatically be".
+Page 6-line 5 Delete "converted" and insert "shall be eligible to
+apply to convert".
+Page 6-line 7 After "not" insert "been".
+Page 6-line 13 Delete "annually".
+Page 6-line 14 Delete entirely and insert "comply with the".
+Page 6-line 15 Delete "required by".
+
+Page 6-line 16 Delete "the board in the manner".
+Page 7-line 12 After "provider" insert "." and delete balance of line.
+Page 7-line 13 Delete entirely. BARLOW, CHAIRMAN
+SF0155SW001/ADOPTED
+Page 2-line 7 Delete "act" and insert "article".
+Page 2-line 12 Delete the Senate standing committee amendment
+(SF0155SS001/A)to this line.
+Page 4-line 7 Delete the Senate standing committee amendment
+(SF0155SS001/A)to this line.
+Page 4-lines 11 and 12 Delete entirely. BARLOW
+SF0155SW002/ADOPTED
+Page 3-line 22 After "this paragraph;" insert "and".
+Page 4-lines 1 and 2 Delete entirely and renumber as necessary.
+Page 4-line 4 Delete "(F)" and insert "(E)".
+Page 5-lines 10 through 13 Delete entirely and renumber as necessary.
+Page 5-line 15 Delete "(iii)" and insert "(ii)". DRISKILL
+2/6/2025 S COW:Passed
+2/7/2025 S 2nd Reading:Passed
+SF0155S3001/FAILED
+Delete the Driskill committee of the whole amendment (SF0155SW002/A) entirely.
+HUTCHINGS
+2/10/2025 S 3rd Reading:Passed 29-1-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Smith, Steinmetz
+Nays: Senator Hutchings
+Excused: Senator Pappas
+Ayes 29 Nays 1 Excused 1 Absent 0 Conflicts 0
+2/10/2025 H Received for Introduction
+2/18/2025 H Introduced and Referred to H07 - Corporations
+2/24/2025 :Rerefer to H10 - Labor
+2/26/2025 H10 - Labor:Recommend Amend and Do Pass 8-0-1-0-0
+ROLL CALL
+Ayes: Representative(s) Clouston, Guggenmos, Hoeft, Mccann, Ottman, Rodriguez-
+Williams, Wasserburger, Yin
+Excused: Representative Styvar
+Ayes 8 Nays 0 Excused 1 Absent 0 Conflicts 0
+
+2/26/2025 H Placed on General File
+2/28/2025 H COW:H Did not consider for COW

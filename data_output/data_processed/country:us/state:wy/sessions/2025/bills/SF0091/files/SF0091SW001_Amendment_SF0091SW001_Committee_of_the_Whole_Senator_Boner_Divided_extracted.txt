@@ -1,0 +1,37 @@
+Title: 3 Page 2-line 14 After "pictographs" insert "documented in the
+Official Title: 3 Page 2-line 14 After "pictographs" insert "documented in the
+Number of Sections: 1
+Source: versions - Amendment SF0091SW001 (Committee of the Whole) - Senator Boner (Divided)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0091SW001
+1 Page 2-line 13 After "all" delete "known".
+2
+4 Wyoming cultural records office's
+5 archaeological site database and located".
+6
+7 Page 2-line 15 After "Wyoming." insert "No survey conducted
+8 pursuant to this section shall access private
+9 lands without the consent of the landowner."
+10 BONER
+1
+
+
+================================================================================
+
+Raw Text:
+SF0091SW001
+1 Page 2-line 13 After "all" delete "known".
+2
+3 Page 2-line 14 After "pictographs" insert "documented in the
+4 Wyoming cultural records office's
+5 archaeological site database and located".
+6
+7 Page 2-line 15 After "Wyoming." insert "No survey conducted
+8 pursuant to this section shall access private
+9 lands without the consent of the landowner."
+10 BONER
+1

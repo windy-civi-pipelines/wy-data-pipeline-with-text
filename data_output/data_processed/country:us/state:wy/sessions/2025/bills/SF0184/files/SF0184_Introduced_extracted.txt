@@ -1,0 +1,2004 @@
+Title: Sponsored by: Senator(s) Smith, D, Ide and Laursen, D and
+Official Title: Sponsored by: Senator(s) Smith, D, Ide and Laursen, D and
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0737
+SENATE FILE NO. SF0184
+Prohibition on electronic voting equipment-2.
+Representative(s) Lucas and Smith, S
+A BILL
+for
+1 AN ACT relating to elections; requiring the use of paper
+2 ballots for elections; requiring hand counting of paper
+3 ballots; specifying procedures for hand counting of paper
+4 ballots; repealing provisions related to electronic voting
+5 machines and electronic pollbooks; revising procedures for
+6 the post-election ballot audit; providing for testing of
+7 hand counting, tabulating and reporting systems; providing
+8 for election observers; providing penalties; making
+9 conforming amendments; providing for rulemaking; and
+10 providing for an effective date.
+11
+12 Be It Enacted by the Legislature of the State of Wyoming:
+13
+14 Section 1. W.S. 22-1-102(a)(i), (iii), (xi), (xiv),
+15 (xxii), (xlii), (xliii), (xlix) and by creating new
+1 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 paragraphs (lv) and (lvi), 22-3-111 by creating a new
+2 subsection (c), 22-6-115, 22-6-121(a)(intro), 22-6-122,
+3 22-6-130(a), 22-8-102, 22-8-107, 22-8-108(a), (b) and (c),
+4 22-8-115(a), by creating a new subsection (b) and by
+5 amending and renumbering (b) as (c), 22-9-109(a),
+6 22-9-125(d)(intro), 22-11-101.1(a), 22-11-102,
+7 22-11-103(a)(iii), (vii), (viii) and (c), 22-11-104(a),
+8 (b)(intro), (ii)(intro), (A), (iii) and (v), 22-11-105,
+9 22-11-106, 22-12-101 by creating a new subsection (c),
+10 22-12-103, 22-12-107(a)(v) and (vi), 22-12-112, 22-12-114,
+11 22-12-115, 22-13-103(b), 22-13-107, 22-13-110, 22-14-102,
+12 22-14-104, 22-14-110, 22-14-111(a)(viii), 22-14-113,
+13 22-14-114(a), 22-15-105(a), 22-15-109, 22-16-103(c)(i) and
+14 by creating a new subsection (e), 22-16-118, 22-21-109,
+15 22-22-203(b), 22-26-101(a)(ii), (iv) and (vi), 22-26-103,
+16 22-26-105 and 22-26-107(a)(intro) and by creating a new
+17 paragraph (v) are amended to read:
+18
+19 22-1-102. Definitions.
+20
+21 (a) The definitions contained in this chapter apply
+22 to words and phrases used in this Election Code and govern
+23 the construction of those words and phrases unless they are
+2 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 specifically modified by the context in which they appear.
+2 As used in this Election Code:
+3
+4 (i) "Automatic Tabulating equipment" means
+5 apparatus that automatically examines and counts votes
+6 recorded on any equipment used by a person in the hand
+7 counting process to examine paper ballots or ballot cards
+8 and tabulates tabulate the results. "Tabulating equipment"
+9 shall not include any equipment that can be connected to
+10 the internet in any manner or that has any type of
+11 communication ability;
+12
+13 (iii) "Ballot card box" means a ballot that can
+14 be counted using automatic tabulating equipment secure
+15 container in which paper ballots are placed for hand
+16 counting by qualified election judges;
+17
+18 (xi) "Counting center" is the location or
+19 locations designated by the county clerk for the automatic
+20 manual tabulating and counting of ballots;
+21
+22 (xiv) "Electronic Hand count voting system" is a
+23 system employing an electronic voting device in conjunction
+3 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 with for the hand counting of paper ballots or ballot
+2 cards, or other system of secret voting and automatic
+3 tabulating equipment for the recording, tabulating and
+4 counting of votes in an election;
+5
+6 (xxii) "Pollbook" means a book, or hardware,
+7 software or any combination thereof commonly referred to as
+8 an electronic pollbook, used in a polling place on election
+9 day containing information specified by law. "Pollbook"
+10 shall not include any hardware or software that can be
+11 connected to the internet in any manner;
+12
+13 (xlii) "Recount" is the processing of ballots
+14 through the hand tabulation system for an additional time
+15 or times, conducted for the specific purpose of counting
+16 votes again in any specific race, based upon the criteria
+17 of W.S. 22-16-109 or 22-16-111;
+18
+19 (xliii) "Retabulation" is the process of running
+20 tabulating ballots back through the hand tabulation system
+21 for an additional time or times for the express purpose of
+22 reconciling the count;
+23
+4 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 (xlix) "Vote center" means a polling place at
+2 which any registered elector in the political subdivision
+3 holding the election may vote, regardless of the precinct
+4 in which he resides, connected through secure internet
+5 connections to provide voting information to and receive
+6 voting information from the electronic pollbook maintained
+7 by the county clerk and used as an option to traditional
+8 polling places at the discretion of the county clerk;
+9
+10 (lv) "Canvassing board" means the persons
+11 appointed to certify the results of an election after the
+12 counting board has counted ballots;
+13
+14 (lvi) "Counting board" means the persons
+15 appointed to count the ballots after the polls close, or in
+16 a mail ballot election, to count the ballots after the
+17 deadline passes.
+18
+19 22-3-111. Preparation and contents of pollbooks.
+20
+21 (c) No electronic pollbook shall be used by any
+22 qualified election judge for an election. Nothing in this
+23 subsection shall prohibit a county clerk from using an
+5 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 electronic system for the purpose of preparing pollbooks
+2 for use in elections.
+3
+4 22-6-115. Specifications for paper ballots.
+5
+6 (a) Official paper ballots shall be uniform in size,
+7 printed in black ink on good quality paper through which
+8 printing cannot be read. Ballots shall be white except as
+9 otherwise provided. On a voting machine Each column or row
+10 containing the titles of offices and candidates for office
+11 shall be arranged to indicate clearly the office for which
+12 a candidate is running. Ballots shall be formatted to
+13 facilitate hand tabulation.
+14
+15 (b) Blank ballots specifically designed for an
+16 accessible voting machine in accordance with the Help
+17 America Vote Act shall be obtained from the vendor of
+18 accessible voting machine. The voting machine shall produce
+19 ballots that can be read by human election workers.
+20 Unreadable bar codes or quick response codes that cannot be
+21 deciphered by human election workers shall not be printed
+22 on the ballot.
+23
+6 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 22-6-121. Political party ballot position on general
+2 election ballot; order of candidates' names.
+3
+4 (a) Political party position shall be determined on
+5 the general election ballot according to the number of
+6 votes received by each party within the county for the
+7 office of representative in congress at the last preceding
+8 general election. The party receiving the highest number
+9 of votes shall appear first following the names of the
+10 offices to be voted for and other parties shall follow in
+11 the order of their respective numbers of such votes. The
+12 order of any provisional parties will be drawn by the
+13 secretary of state. Any independent candidates shall
+14 appear following the last party and shall be listed in
+15 alphabetical order, subject to rotation. When more than
+16 one (1) candidate is to be elected to a particular office,
+17 the names of candidates shall be printed in alphabetical
+18 order, subject to rotation, on all ballots. for electronic
+19 and machine voting systems as defined by W.S. 22-1-102.
+20
+21 22-6-122. Rotation of candidates' names; equal lines
+22 on voting machines.
+23
+7 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 The names of candidates for each office shall be rotated on
+2 all ballots by precinct for all elections. In each county
+3 the name of each candidate shall appear substantially an
+4 equal number of times at the top, at the bottom, and in
+5 each intermediate place. In a voting machine polling place,
+6 if candidates for the same office occupy more than one (1)
+7 line on the voting machine, the number of names appearing
+8 on each line shall be as nearly equal as possible.
+9
+10 22-6-130. Post-election ballot audit.
+11
+12 (a) Each county clerk shall complete an audit of the
+13 county's unofficial election results by identifying and
+14 reviewing the smallest observable percentage between the
+15 statewide candidates who received the most votes and the
+16 statewide candidates who received the second highest votes
+17 for each contest within the county not later than the first
+18 Thursday following a primary, special or general election.
+19 Not later than five (5) days before the audit the county
+20 clerk shall notify the county chairman of each political
+21 party with a candidate on the ballot of the audit, and any
+22 independent candidate on the ballot, stating the time and
+23 place of the audit under this subsection. Representatives
+8 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 of each political party, and representatives of any
+2 independent candidate, may be present for the audit.
+3 Additional contests may be added to the audit at the
+4 discretion of the county clerk. Using a formula developed
+5 by the University of Wyoming, each county clerk shall use
+6 the smallest observable percentage to determine a
+7 statistically significant sample size of the ballots to be
+8 audited under this section. To ensure the timely completion
+9 of this procedure under this subsection, The number of
+10 ballots audited shall not exceed be not less than five
+11 percent (5%) of the total number of ballots cast.
+12
+13 22-8-102. Qualifications.
+14
+15 Except as otherwise provided by this section, judges of
+16 election and members of counting boards shall be registered
+17 electors and shall be physically, morally and mentally
+18 competent to perform their duties. The county clerk may
+19 appoint persons who are at least sixteen (16) years of age
+20 to serve as judges of election or members of counting
+21 boards if such persons meet all other requirements for
+22 qualification of an elector. A judge of election shall not
+9 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 be a member of a counting board at the same election except
+2 as provided by W.S. 22-8-108(d).
+3
+4 22-8-107. Absentee ballot counting boards.
+5
+6 If the alternate procedure for counting absentee ballots
+7 described in W.S. 22-9-125 is used, at least three (3) four
+8 (4) judges shall be appointed as an absentee ballot
+9 counting board in the same manner as other election judges
+10 are appointed and shall hand count ballots using the same
+11 counting method as provided in W.S. 22-14-104(b). These
+12 judges shall determine legality of absentee ballots and
+13 count absentee ballots or in the case of electronic voting
+14 systems, the ballots shall be counted at the designated
+15 counting center.
+16
+17 22-8-108. Appointment, composition and authority of
+18 counting boards; when judges to count.
+19
+20 (a) The county clerk shall appoint a counting board
+21 for each paper ballot polling place casting more than three
+22 hundred (300) votes at the last general election, and may
+23 appoint a counting board in such a polling place in which
+10 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 one hundred fifty (150) or more such votes were cast at
+2 such election. A counting board shall have three (3) four
+3 (4) members or more to facilitate the counting of votes and
+4 shall hand count ballots using the same counting method as
+5 provided in W.S. 22-14-104(b). No more than one (1) person
+6 under the age of eighteen (18) may be appointed as to each
+7 counting board.
+8
+9 (b) A counting board shall be appointed for each
+10 designated counting center. in each county using an
+11 electronic voting system. The Additional counting boards
+12 may be appointed by the county clerk depending on the
+13 number of ballots to be counted. Each board shall consist
+14 of at least seven (7) five (5) members who shall be the
+15 county clerk or his designated deputy designee, and three
+16 (3) two (2) members of each major political party having a
+17 candidate on the ballot appointed by the county clerk from
+18 a list of registered electors pursuant to W.S. 22-8-101(b).
+19 Additional members may be appointed by the county clerk if
+20 deemed necessary by the county clerk but equal major party
+21 membership shall be assured. No more than one (1) person
+22 under the age of eighteen (18) may be appointed as to each
+23 counting board. The counting board shall hand count ballots
+11 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 using the same counting method as provided in W.S.
+2 22-14-104(b).
+3
+4 (c) The counting board in a paper ballot polling
+5 place has no authority to act until polls are declared
+6 closed as provided in W.S. 22-13-117, except as provided in
+7 W.S. 22-9-125(d). A counting board in an electronic voting
+8 system counting center may commence preparing absentee
+9 ballots for counting at any time on election day, or before
+10 election day as provided in W.S. 22-9-125(d).
+11
+12 22-8-115. Oath for election officials.
+13
+14 (a) An Each election official and election judge
+15 shall subscribe to this oath verbally and in writing before
+16 entering upon his duties at each election:
+17
+18 "I do solemnly swear (or affirm) that I will impartially
+19 and to the best of my knowledge and ability perform
+20 discharge the duties of my office an election
+21 official/election judge according to the law, and that I
+22 will not disclose how any elector has voted unless I am
+23 required to do so as a witness in a proper judicial
+12 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 proceeding. I will make no statement nor provide any
+2 information that in any way would reveal the actual or
+3 estimated vote count prior to the close of the polls on
+4 election day. I will studiously endeavor to prevent all
+5 frauds, deceit and abuse in the application of the election
+6 laws of this state."
+7
+8 (b) Each election observer shall subscribe to this
+9 oath verbally and in writing before entering upon his
+10 duties at each election:
+11
+12 "I do solemnly swear (or affirm) that I will make no
+13 statement nor provide any information that in any way would
+14 reveal the actual or estimated vote count prior to the
+15 close of the polls on election day."
+16
+17 (b)(c) The oath oaths under this section shall be
+18 taken before the county clerk, his deputy or a previously
+19 sworn judge of election.
+20
+21 22-9-109. Form of absentee ballot.
+22
+13 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 (a) The absentee ballot shall be in the same form
+2 prescribed by law for the official ballot or, for the
+3 transmission of Uniformed and Overseas Citizens Absentee
+4 Voting Act ballots only, a reasonable printed reproduction
+5 of the prescribed form for electronic ballots.
+6
+7 22-9-125. Alternate procedures for collecting and
+8 counting absentee ballots.
+9
+10 (d) Notwithstanding subsection (b) of this section
+11 and any other mandatory procedures for counting absentee
+12 ballots under this chapter, the county clerk may choose to
+13 prepare and process absentee ballots the Thursday or Friday
+14 immediately preceding election day, provided:
+15
+16 CHAPTER 11
+17 HAND COUNT VOTING SYSTEMS
+18
+19 22-11-101.1. Definitions.
+20
+21 (a) As used in this chapter, "Vendor" means a person
+22 engaged in selling, leasing, marketing, designing, building
+23 or maintaining electronic voting systems "Hand count voting
+14 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 system" is a system for casting, tabulating, recording and
+2 reporting election results to the state or counties using
+3 manual hand counting of paper ballots and ensuring a proper
+4 chain of custody of paper ballots.
+5
+6 22-11-102. Use authorized; purchase or lease.
+7
+8 The board of county commissioners of each county may adopt
+9 for use, either experimentally or permanently, in any
+10 election in any or all polling places within the county,
+11 any electronic hand count voting system authorized by law.
+12
+13 22-11-103. Capabilities required.
+14
+15 (a) Every electronic hand count voting system adopted
+16 for use in Wyoming shall:
+17
+18 (iii) Permit voting either by paper ballot, by
+19 ballot card or by other mechanical, magnetic or electrical
+20 means by which a vote may be recorded; voting on an
+21 accessible voting machine for voters with disabilities,
+22 subject to the following:
+23
+15 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 (A) Each polling place shall have at least
+2 one (1) accessible voting machine in accordance with the
+3 Help America Vote Act;
+4
+5 (B) An accessible voting machine under this
+6 paragraph shall:
+7
+8 (I) Be limited to a machine that can
+9 assist a voter with marking a paper ballot and shall not be
+10 used to tabulate votes;
+11
+12 (II) Not be connected to the internet
+13 or able to be connected to the internet in any manner or
+14 have any other type of communication ability;
+15
+16 (III) Comply with rules adopted by the
+17 secretary of state specifying requirements for accessible
+18 voting machines and shall be tested before each election.
+19 Before testing the accessible voting machines under this
+20 subdivision, the county clerk shall notify the county
+21 chairman of each political party having a candidate on the
+22 ballot, stating the time and place of the test. The
+23 political party representatives and representatives of
+16 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 independent candidates may be present for the test, which
+2 shall be held at least two (2) weeks before the election.
+3 The test shall ascertain that the accessible voting
+4 machines will accurately record the votes cast for all
+5 offices and all measures. The test shall be conducted by
+6 processing a pre-audited group of paper ballots on which
+7 are recorded a predetermined number of valid votes for each
+8 candidate and on each measure. During the test a different
+9 number of votes shall be assigned to each candidate for
+10 each office, and for and against each measure. If any error
+11 is detected, the cause of it shall be ascertained and
+12 corrected and an errorless count shall be secured and
+13 certified by the county clerk before the test can be
+14 certified. Additionally, accessibility functions, such as
+15 the audio and keypad shall be tested and verified to be in
+16 working order. On completion of the count, the programs,
+17 test materials and ballots shall be sealed and retained as
+18 provided for paper ballots. Rules adopted by the secretary
+19 of state under this subdivision shall ensure accessible
+20 voting machines comply with the Help America Vote Act and
+21 any other applicable requirements under law.
+22
+17 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 (vii) Provide automatic tabulating equipment
+2 which shall Reject choices recorded on a ballot exceeding
+3 the number allowed, and at a primary election, reject
+4 choices for candidates from a party other than the party
+5 for which a preference is expressed;
+6
+7 (viii) Be suitably designed to function safely,
+8 efficiently and accurately, when properly operated, Provide
+9 assistance in the accurate hand recording, tabulating and
+10 counting of every vote cast;
+11
+12 (c) The secretary of state may from time to time as
+13 necessary promulgate rules and regulations consistent with
+14 subsection (a) of this section and with all other
+15 requirements of this Election Code to govern the
+16 characteristics of electronic hand counting voting systems
+17 that may be used in Wyoming. The rules shall ensure the
+18 fairness and accuracy of elections. The rules may govern
+19 both the characteristics of the systems and the procedures
+20 to be followed in using the systems. The rules shall allow
+21 the county clerks to follow appropriate recommendations of
+22 the vendors of the systems for maintenance and management
+23 of the systems to the extent these recommendations adopt
+18 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 hand counting voting procedures that are not inconsistent
+2 with this Election Code and with the rules. The rules
+3 shall be adopted following consultation with the county
+4 clerks.
+5
+6 22-11-104. Conduct of elections in which hand count
+7 voting systems utilized.
+8
+9 (a) All provisions of the Election Code governing the
+10 conduct of elections shall apply to elections in which
+11 electronic hand count voting systems are used, except that
+12 the county clerk of any county in which an electronic a
+13 hand count voting system is used may make such
+14 modifications in ballot form as are necessary to facilitate
+15 the use of the electronic hand count voting system and yet
+16 maintain the integrity of the election and the intent of
+17 the law.
+18
+19 (b) The county clerk of each county using an
+20 electronic a hand count voting system shall:
+21
+19 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 (ii) Before the day of election deliver to each
+2 polling place using an electronic a hand count voting
+3 system:
+4
+5 (A) A sufficient number of voting devices
+6 hand count tabulation and recording forms and ballots;
+7
+8 (iii) Before testing an electronic voting system
+9 for an each election, notify the county chairman of each
+10 political party having a candidate on the ballot, stating
+11 the time and place of the a test of the hand counting,
+12 tabulating and reporting procedure that will be used in the
+13 county. The political party representatives and
+14 representatives of independent candidates may be present
+15 for the test, which shall be held at least two (2) weeks
+16 before the election. The test shall ascertain that the
+17 automatic tabulating equipment paper ballots and the hand
+18 counting, tabulating and reporting procedure that will be
+19 used in the county will accurately count the votes cast for
+20 all offices and all measures. The test shall also
+21 demonstrate the chain of custody of paper ballots including
+22 the use of ballot boxes, tally sheets, tally summary sheets
+23 and ballot box keys. The test shall be conducted by
+20 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 processing a preaudited group of paper ballots. or ballot
+2 cards on which are recorded a predetermined number of valid
+3 votes for each candidate and on each measure and shall
+4 include for each office one (1) or more ballots which have
+5 votes in excess of the number allowed by law in order to
+6 test the ability of the automatic tabulating equipment to
+7 reject such votes. During the test a different number of
+8 valid votes shall be assigned to each candidate for an
+9 office, and for and against each measure. If any error is
+10 detected, the cause of it shall be ascertained and
+11 corrected and an errorless count shall be secured and
+12 certified to by the county clerk. On completion of the
+13 count, the programs test, all test materials and ballots
+14 shall be sealed and retained as provided for paper ballots;
+15
+16 (v) Provide adequate security for the delivery
+17 of all ballots to the a designated counting center, if
+18 applicable;
+19
+20 22-11-105. Spoiled ballots.
+21
+22 Any voter who spoils his paper ballot or ballot card may
+23 return it and secure a replacement. The word "Spoiled"
+21 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 shall be written across the face of the voided ballot, and
+2 it shall be placed in an envelope for spoiled ballots.
+3 Spoiled ballots shall be delivered with the returns to the
+4 county clerk.
+5
+6 22-11-106. Procedure after voter marks paper ballot.
+7
+8 After marking the paper ballot, the voter shall place the
+9 ballot in the voting machine. If the votes are being
+10 counted at a central counting center as authorized by W.S.
+11 22-14-114(b), the voter shall instead place the paper
+12 ballot in the ballot box.
+13
+14 22-12-101. Designation and notice of polling places;
+15 external location; change in location.
+16
+17 (c) The county clerk shall establish a private area
+18 in each polling place for the hand counting of ballots.
+19
+20 22-12-103. Furnishing of booths.
+21
+22 The county clerk in all elections shall furnish each
+23 polling place with sufficient booths, paper ballots or
+22 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 voting machines and supplies to permit convenient and
+2 secret marking of ballots.
+3
+4 22-12-107. Materials for judges.
+5
+6 (a) Before election day the county clerk shall cause
+7 to be delivered to one (1) of the judges of election in
+8 each polling place the following materials:
+9
+10 (v) Accessible voting machines, where to the
+11 extent required by W.S. 22-11-103(a)(iii);
+12
+13 (vi) The number of ballots required by law and
+14 any related hand tabulation equipment or supplies;
+15
+16 22-12-112. Procedure for preparing ballots and ballot
+17 boxes for use.
+18
+19 Before the polls open the judges shall compare ballots on
+20 the voting machines with the sample ballots and return
+21 sheets to see that they are correct., place the voting
+22 machine in a proper position free from obstruction and
+23 assure that the face of the machine may be viewed clearly
+23 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 by the voter casting the ballot but not by others.
+2 Envelopes containing keys shall not be opened if the
+3 numbers and records on them do not correspond to the
+4 numbers and records on the machine ballot box. If the
+5 numbers do not agree, the machine ballot box shall be
+6 reexamined and certified by the county clerk. before it may
+7 be used.
+8
+9 22-12-114. Certification of ballots and ballot box
+10 keys.
+11
+12 The judges shall certify that ballot box keys are
+13 delivered, that numbers on registering counters and seals
+14 correspond with those on key envelopes, that counters are
+15 set at zero (00000) or counts certified, that ballots are
+16 proper. and that the machines are ready for voting.
+17
+18 22-12-115. Examination of ballot box.
+19
+20 Before the polls are open, the judges of election shall
+21 open and examine the ballot box to determine that it is
+22 empty and relock it. The ballot box shall not again be
+23 opened until the polls are closed, except when necessitated
+24 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 by operation of the voting equipment at the direction of
+2 the county clerk required by law and only in the presence
+3 of two (2) or more election judges with different political
+4 party affiliations. It The ballot box shall not be removed
+5 from the presence of the judges of election or counting
+6 board until all ballots are counted and recorded.
+7
+8 22-13-103. Preservation of order; privacy of voting
+9 booths and machines.
+10
+11 (b) To protect the privacy of the voter, voting
+12 booths and voting machines shall be kept clear of all
+13 persons except voters marking ballots and election
+14 officials discharging their duties.
+15
+16 22-13-107. Spoiled or rejected ballots.
+17
+18 (a) An elector spoiling a paper ballot by mistake or
+19 accident may receive another ballot by returning the
+20 rejected ballot to a judge of election. Spoiled ballots
+21 shall immediately be cancelled by a judge of election, the
+22 word "spoiled" shall be written across the face of the
+25 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 ballot and the ballot shall be delivered with the returns
+2 to the county clerk or official conducting the election.
+3
+4 (b) A ballot may be rejected as provided in this
+5 subsection. For any rejected ballot, the word "rejected"
+6 shall be written across the face of the voided ballot and
+7 the ballot shall be placed in an envelope for rejected
+8 ballots. Rejected ballots shall be delivered with the
+9 returns to the county clerk. Ballots shall be rejected and
+10 not counted if any of the following apply:
+11
+12 (i) The initials of proper election judges are
+13 missing from the ballot;
+14
+15 (ii) The number of votes on the ballot for all
+16 offices and all questions exceed the number authorized by
+17 law;
+18
+19 (iii) The ballot is an absentee ballot without
+20 completed and signed affidavit;
+21
+22 (iv) The ballot was voted with unlawful
+23 assistance as provided by law.
+26 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1
+2 22-13-110. Write-in votes.
+3
+4 Write-in votes may be entered on a voting machine in the
+5 manner indicated by instructions posted on the voting booth
+6 or indicated on the voting machine on paper ballots shall
+7 be verified and tallied at a polling place or counting
+8 center as provided in W.S. 22-14-110 and 22-14-114(b).
+9
+10 22-14-102. Who may be present after all votes are
+11 cast and polls close; making pollbooks agree; counting
+12 votes.
+13
+14 (a) After all the votes are cast and the polls are
+15 officially declared closed, only election judges and
+16 election observers under oath shall be permitted in a
+17 polling place.
+18
+19 (b) When all ballots are cast, the machine shall be
+20 locked against further voting and sealed as prescribed by
+21 law. Except as otherwise provided by Subject to W.S.
+22 22-14-114(b), election judges shall commence to count at
+23 the polling place shall begin hand counting and recording
+27 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 of votes one (1) hour before the closing of the polls and
+2 shall continue without adjournment until counting is
+3 completed.
+4
+5 22-14-104. Entry of paper ballot votes.
+6
+7 (a) Paper ballots shall be opened by the counting
+8 board and every vote for a candidate or ballot proposition
+9 shall be entered on a list hand counted as provided in this
+10 section. A vote which is not clearly marked shall not be
+11 tallied for that office or question but votes clearly
+12 marked on the remainder of the ballot shall be tallied.
+13
+14 (b) Paper ballots shall be counted and recorded
+15 subject to the following:
+16
+17 (i) Counting shall be conducted by two (2)
+18 counting teams consisting of two (2) election judges each.
+19 Each member of each counting team shall be from a different
+20 political party;
+21
+22 (ii) One (1) counting team shall designate one
+23 (1) judge to read each vote and the second judge shall
+28 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 observe to verify that the vote was read correctly. Any
+2 write-in candidate shall be read by calling out the
+3 applicable office and then the name written in on the
+4 ballot for that office;
+5
+6 (iii) Each member of the second counting team
+7 shall record each vote as it is read on separate tally
+8 sheets, including any write-in votes;
+9
+10 (iv) When all votes are counted in the precinct,
+11 the four (4) election judges shall transfer the totals of
+12 all tally sheets, including any write-in votes, onto a
+13 summary tally sheet. The results on the summary tally sheet
+14 shall be provided to the county clerk.
+15
+16 (c) The secretary of state may adopt rules for the
+17 hand counting of paper ballots in accordance with this
+18 section and this Election Code.
+19
+20 22-14-110. Sealing paper ballots and voting machine
+21 records.
+22
+29 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 Paper ballots shall be sealed by the election judges in an
+2 envelope after being counted and tallied, unless the
+3 ballots are being counted at a central counting center as
+4 authorized by W.S. 22-14-114(b). One (1) copy of each
+5 voting machine record shall be sealed in a separate
+6 envelope showing the district, precinct and machine number
+7 and endorsed by the election judges. These envelopes shall
+8 then be sealed in a single large container. The district
+9 and precinct number shall be written on each container.
+10
+11 22-14-111. Returning records and returns to clerk.
+12
+13 (a) Unless the votes are being counted at a central
+14 counting center as authorized by W.S. 22-14-114(b), an
+15 election judge or peace officer as defined under W.S.
+16 7-2-101(a)(iv)(A) or (B) and acting under the authority of
+17 the county clerk shall, as soon as possible after the
+18 tabulation of votes is complete, return to the clerk who
+19 prepared the ballots for the election the following records
+20 and returns in a sealed and locked container with a
+21 numbered seal that includes a number or other identifier
+22 that is unique to that seal:
+23
+30 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 (viii) Oaths of judges of election judges and
+2 election observers;
+3
+4 22-14-113. Return of voting supplies.
+5
+6 (a) Keys to voting machines ballot boxes shall be
+7 returned to the county clerk in an envelope sealed and
+8 signed by an election judge and endorsed by an election
+9 judge of a different political party affiliation. On this
+10 envelope shall be recorded the number of the seal with
+11 which the machine was closed.
+12
+13 (b) All voting supplies, ballot boxes and accessible
+14 voting machines shall be returned to the county clerk as
+15 soon as possible after the vote has been returned.
+16
+17 22-14-114. Counting of write-in votes; transporting
+18 of ballots.
+19
+20 (a) For ballots designed to be counted by machine,
+21 each individual vote shall be determined by the voting
+22 equipment and shall not be determined subjectively by human
+23 tabulation except when the intent of the voter is
+31 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 unmistakable but the ballot was received in such damaged,
+2 soiled, or other condition that it is rejected by the
+3 machine. The secretary of state may promulgate rules
+4 establishing standards for counting such ballots. For
+5 ballots not designed to be counted by machine, only votes
+6 clearly marked, as provided by W.S. 22-14-104 and rules
+7 promulgated pursuant to this code, shall be tallied. For
+8 write-in votes, names which that are misspelled or
+9 abbreviated or the use of nicknames of candidates shall be
+10 counted for the candidate if the vote is obvious to the
+11 counting board or election judges. The secretary of state
+12 may by rule specify standards for counting write-in votes
+13 under this subsection.
+14
+15 22-15-105. Challenged person may vote; generally.
+16
+17 (a) If a person offering to vote is challenged, and
+18 the challenge is not resolved in accordance with W.S.
+19 22-15-106, an election judge shall offer the voter a ballot
+20 clearly marked "provisional." and which cannot be
+21 automatically tabulated Provisional ballots shall be
+22 securely stored separately from other ballots and shall
+32 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 only be counted as provided in subsection (d) of this
+2 section.
+3
+4 22-15-109. Election observers; certification;
+5 qualification; authority; removal.
+6
+7 (a) The county chairman of each political party may
+8 certify poll watchers election observers prior to the day
+9 of the election to serve in each polling place. Not more
+10 than one (1) poll watcher election observer from each
+11 political party may serve simultaneously unless the chief
+12 judge determines that one (1) additional poll watcher
+13 election observer from each political party may be
+14 accommodated in the polling place without disrupting the
+15 polling process.
+16
+17 (b) A poll watcher An election observer shall belong
+18 to the political party he represents, and shall be a
+19 registered elector residing in the county. A poll watcher
+20 and shall subscribe to an oath as provided in W.S.
+21 22-8-115(b). An election observer shall serve only at the
+22 polling place designated on the certificate. A poll watcher
+23 An election observer is authorized to observe voter turn
+33 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 out, and voter registration and hand tabulation procedures
+2 and may make written memoranda but shall not challenge
+3 voters or election judges, conduct electioneering
+4 activities or disrupt the polling or counting process.
+5
+6 (c) The chief judge may remove a poll watcher an
+7 election observer from the polling place for disturbing the
+8 polling place, or for any other violation of the Election
+9 Code.
+10
+11 22-16-103. County canvass procedures.
+12
+13 (c) The county canvassing board shall:
+14
+15 (i) Meet as soon as all returns have been
+16 received and abstracted, but if any provisional ballots
+17 have been cast in the county, not before the time has
+18 passed for provisional voters to document their eligibility
+19 to register or to vote. The board shall meet at a time and
+20 place designated by the county clerk, but no earlier than
+21 the second Friday following the election and no later than
+22 the first fourth Friday following the election;
+23
+34 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 (e) The county canvassing board shall not certify the
+2 election if there are any outstanding irregularities in any
+3 precinct.
+4
+5 22-16-118. Meeting of state canvassing board.
+6
+7 The state canvassing board shall meet no later than the
+8 second Wednesday following the election certification of
+9 all county elections. The secretary of state shall send a
+10 messenger to obtain official county abstracts not filed in
+11 a reasonable length of time. The canvassing board shall
+12 meet at the time and place set by the secretary of state.
+13 The board shall review the state abstracts prepared by the
+14 secretary of state, compare them with the tabulation and
+15 materials prepared by the secretary of state, resolve any
+16 tie votes, and certify the abstract as the official state
+17 canvass. The state canvassing board shall not certify the
+18 election if there are any outstanding irregularities in any
+19 county.
+20
+21 22-21-109. Supplies; regulations; costs.
+22
+35 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 The county clerk may utilize voting machines or electronic
+2 voting systems shall use hand counted paper ballots at any
+3 bond election and may prescribe the form of the ballot, the
+4 duties of election officials, and other reasonable
+5 regulations pertaining thereto. The political subdivision
+6 holding the bond election shall pay the actual costs of the
+7 election or an equitably proportioned share of a concurrent
+8 election, as determined by the county clerk.
+9
+10 22-22-203. Determining validity of application;
+11 placement on ballot; procedure for multi-county districts.
+12
+13 (b) Each county clerk in each election involving a
+14 school or community college district which crosses county
+15 boundaries shall determine whether voting machines,
+16 electronic voting system, use paper ballots, or a
+17 combination thereof, shall be used and hand count results
+18 to insure ensure that each qualified elector votes only for
+19 the candidate or candidates from the school district and
+20 trustee residence area, if any, and from the community
+21 college district and subdistrict, if any, for which he is
+22 entitled to vote.
+23
+36 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 22-26-101. Felony offenses generally.
+2
+3 (a) The following acts in connection with or related
+4 to the election process or an election, if knowingly and
+5 willfully committed, are felony offenses punishable by not
+6 more than five (5) years' imprisonment in the state
+7 penitentiary or a fine of not more than ten thousand
+8 dollars ($10,000.00), or both:
+9
+10 (ii) Unlawful opening of interference with a
+11 ballot box as provided in W.S. 22-26-103;
+12
+13 (iv) Unlawful possession of a ballot box key as
+14 provided in W.S. 22-26-105;
+15
+16 (vi) Falsifying election documents or results;
+17
+18 22-26-103. Unlawful interference with ballot box.
+19
+20 (a) Unlawful opening of interference with a ballot
+21 box consists of any of the following:
+22
+37 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 (i) Opening a ballot box or inspecting or
+2 removing the contents thereof without lawful authority;, or
+3
+4 (ii) An election judge knowingly causing or
+5 permitting any ballot to be in the ballot box at the
+6 opening for the polls and before voting commences;
+7
+8 (iii) An election judge knowingly placing or
+9 permitting any ballot, or paper having the semblance of a
+10 ballot, to be placed in a ballot box at any election unless
+11 the ballot is offered by a qualified elector as provided by
+12 law;
+13
+14 (iv) Knowingly removing any legal ballot from a
+15 ballot box for the purpose of changing the true and lawful
+16 count of any election or in any other manner knowingly
+17 changing the true and lawful count of any election;
+18
+19 (v) Knowingly placing or attempting to place or
+20 causing to be placed any false or fraudulent ballot in a
+21 ballot box at any election;
+22
+38 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1 (vi) On the day of an election, willfully
+2 concealing, breaking or destroying any ballot box used or
+3 intended to be used at an election or willfully concealing
+4 or removing any ballot box from the custody of the election
+5 judges;
+6
+7 (vii) Conspiring with others so to open
+8 interfere with a ballot box under this section.
+9
+10 22-26-105. Unlawful possession of key.
+11
+12 Unlawful possession of a key consists of the possession at
+13 any time of a key to a voting machine or ballot box, or
+14 making a duplicate thereof, unless authorized by law.
+15
+16 22-26-107. Falsifying election documents or results.
+17
+18 (a) Falsifying election documents or results consists
+19 of performing any of the following acts with the intent to
+20 deceive or mislead an elector or an election official:
+21
+22 (v) Falsifying hand tabulation results or tally
+23 sheets.
+39 SF0184
+2025 STATE OF WYOMING 25LSO-0737
+1
+2 Section 2. W.S. 22-1-102(a)(xxxiv) and (liv),
+3 22-3-113(b), 22-6-113, 22-9-121(c)(ii), 22-9-125(b),
+4 22-10-101 through 22-10-111, 22-11-103(a)(iv), (vi), (xi)
+5 and (d) through (g), 22-11-104(b)(i), (iv), (vi), (vii) and
+6 (c), 22-11-107 through 22-11-109, 22-12-110, 22-12-113,
+7 22-13-109, 22-13-112, 22-14-105, 22-14-111(a)(i),
+8 22-26-101(a)(iii) and 22-26-104 are repealed.
+9
+10 Section 3. This act is effective July 1, 2025.
+11
+12 (END)
+40 SF0184
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0737
+SENATE FILE NO. SF0184
+Prohibition on electronic voting equipment-2.
+Sponsored by: Senator(s) Smith, D, Ide and Laursen, D and
+Representative(s) Lucas and Smith, S
+A BILL
+for
+1 AN ACT relating to elections; requiring the use of paper
+2 ballots for elections; requiring hand counting of paper
+3 ballots; specifying procedures for hand counting of paper
+4 ballots; repealing provisions related to electronic voting
+5 machines and electronic pollbooks; revising procedures for
+6 the post-election ballot audit; providing for testing of
+7 hand counting, tabulating and reporting systems; providing
+8 for election observers; providing penalties; making
+9 conforming amendments; providing for rulemaking; and
+10 providing for an effective date.
+11
+12 Be It Enacted by the Legislature of the State of Wyoming:
+13
+14 Section 1. W.S. 22-1-102(a)(i), (iii), (xi), (xiv),
+15 (xxii), (xlii), (xliii), (xlix) and by creating new
+1 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 paragraphs (lv) and (lvi), 22-3-111 by creating a new
+2 subsection (c), 22-6-115, 22-6-121(a)(intro), 22-6-122,
+3 22-6-130(a), 22-8-102, 22-8-107, 22-8-108(a), (b) and (c),
+4 22-8-115(a), by creating a new subsection (b) and by
+5 amending and renumbering (b) as (c), 22-9-109(a),
+6 22-9-125(d)(intro), 22-11-101.1(a), 22-11-102,
+7 22-11-103(a)(iii), (vii), (viii) and (c), 22-11-104(a),
+8 (b)(intro), (ii)(intro), (A), (iii) and (v), 22-11-105,
+9 22-11-106, 22-12-101 by creating a new subsection (c),
+10 22-12-103, 22-12-107(a)(v) and (vi), 22-12-112, 22-12-114,
+11 22-12-115, 22-13-103(b), 22-13-107, 22-13-110, 22-14-102,
+12 22-14-104, 22-14-110, 22-14-111(a)(viii), 22-14-113,
+13 22-14-114(a), 22-15-105(a), 22-15-109, 22-16-103(c)(i) and
+14 by creating a new subsection (e), 22-16-118, 22-21-109,
+15 22-22-203(b), 22-26-101(a)(ii), (iv) and (vi), 22-26-103,
+16 22-26-105 and 22-26-107(a)(intro) and by creating a new
+17 paragraph (v) are amended to read:
+18
+19 22-1-102. Definitions.
+20
+21 (a) The definitions contained in this chapter apply
+22 to words and phrases used in this Election Code and govern
+23 the construction of those words and phrases unless they are
+2 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 specifically modified by the context in which they appear.
+2 As used in this Election Code:
+3
+4 (i) "Automatic Tabulating equipment" means
+5 apparatus that automatically examines and counts votes
+6 recorded on any equipment used by a person in the hand
+7 counting process to examine paper ballots or ballot cards
+8 and tabulates tabulate the results. "Tabulating equipment"
+9 shall not include any equipment that can be connected to
+10 the internet in any manner or that has any type of
+11 communication ability;
+12
+13 (iii) "Ballot card box" means a ballot that can
+14 be counted using automatic tabulating equipment secure
+15 container in which paper ballots are placed for hand
+16 counting by qualified election judges;
+17
+18 (xi) "Counting center" is the location or
+19 locations designated by the county clerk for the automatic
+20 manual tabulating and counting of ballots;
+21
+22 (xiv) "Electronic Hand count voting system" is a
+23 system employing an electronic voting device in conjunction
+3 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 with for the hand counting of paper ballots or ballot
+2 cards, or other system of secret voting and automatic
+3 tabulating equipment for the recording, tabulating and
+4 counting of votes in an election;
+5
+6 (xxii) "Pollbook" means a book, or hardware,
+7 software or any combination thereof commonly referred to as
+8 an electronic pollbook, used in a polling place on election
+9 day containing information specified by law. "Pollbook"
+10 shall not include any hardware or software that can be
+11 connected to the internet in any manner;
+12
+13 (xlii) "Recount" is the processing of ballots
+14 through the hand tabulation system for an additional time
+15 or times, conducted for the specific purpose of counting
+16 votes again in any specific race, based upon the criteria
+17 of W.S. 22-16-109 or 22-16-111;
+18
+19 (xliii) "Retabulation" is the process of running
+20 tabulating ballots back through the hand tabulation system
+21 for an additional time or times for the express purpose of
+22 reconciling the count;
+23
+4 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 (xlix) "Vote center" means a polling place at
+2 which any registered elector in the political subdivision
+3 holding the election may vote, regardless of the precinct
+4 in which he resides, connected through secure internet
+5 connections to provide voting information to and receive
+6 voting information from the electronic pollbook maintained
+7 by the county clerk and used as an option to traditional
+8 polling places at the discretion of the county clerk;
+9
+10 (lv) "Canvassing board" means the persons
+11 appointed to certify the results of an election after the
+12 counting board has counted ballots;
+13
+14 (lvi) "Counting board" means the persons
+15 appointed to count the ballots after the polls close, or in
+16 a mail ballot election, to count the ballots after the
+17 deadline passes.
+18
+19 22-3-111. Preparation and contents of pollbooks.
+20
+21 (c) No electronic pollbook shall be used by any
+22 qualified election judge for an election. Nothing in this
+23 subsection shall prohibit a county clerk from using an
+5 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 electronic system for the purpose of preparing pollbooks
+2 for use in elections.
+3
+4 22-6-115. Specifications for paper ballots.
+5
+6 (a) Official paper ballots shall be uniform in size,
+7 printed in black ink on good quality paper through which
+8 printing cannot be read. Ballots shall be white except as
+9 otherwise provided. On a voting machine Each column or row
+10 containing the titles of offices and candidates for office
+11 shall be arranged to indicate clearly the office for which
+12 a candidate is running. Ballots shall be formatted to
+13 facilitate hand tabulation.
+14
+15 (b) Blank ballots specifically designed for an
+16 accessible voting machine in accordance with the Help
+17 America Vote Act shall be obtained from the vendor of
+18 accessible voting machine. The voting machine shall produce
+19 ballots that can be read by human election workers.
+20 Unreadable bar codes or quick response codes that cannot be
+21 deciphered by human election workers shall not be printed
+22 on the ballot.
+23
+6 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 22-6-121. Political party ballot position on general
+2 election ballot; order of candidates' names.
+3
+4 (a) Political party position shall be determined on
+5 the general election ballot according to the number of
+6 votes received by each party within the county for the
+7 office of representative in congress at the last preceding
+8 general election. The party receiving the highest number
+9 of votes shall appear first following the names of the
+10 offices to be voted for and other parties shall follow in
+11 the order of their respective numbers of such votes. The
+12 order of any provisional parties will be drawn by the
+13 secretary of state. Any independent candidates shall
+14 appear following the last party and shall be listed in
+15 alphabetical order, subject to rotation. When more than
+16 one (1) candidate is to be elected to a particular office,
+17 the names of candidates shall be printed in alphabetical
+18 order, subject to rotation, on all ballots. for electronic
+19 and machine voting systems as defined by W.S. 22-1-102.
+20
+21 22-6-122. Rotation of candidates' names; equal lines
+22 on voting machines.
+23
+7 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 The names of candidates for each office shall be rotated on
+2 all ballots by precinct for all elections. In each county
+3 the name of each candidate shall appear substantially an
+4 equal number of times at the top, at the bottom, and in
+5 each intermediate place. In a voting machine polling place,
+6 if candidates for the same office occupy more than one (1)
+7 line on the voting machine, the number of names appearing
+8 on each line shall be as nearly equal as possible.
+9
+10 22-6-130. Post-election ballot audit.
+11
+12 (a) Each county clerk shall complete an audit of the
+13 county's unofficial election results by identifying and
+14 reviewing the smallest observable percentage between the
+15 statewide candidates who received the most votes and the
+16 statewide candidates who received the second highest votes
+17 for each contest within the county not later than the first
+18 Thursday following a primary, special or general election.
+19 Not later than five (5) days before the audit the county
+20 clerk shall notify the county chairman of each political
+21 party with a candidate on the ballot of the audit, and any
+22 independent candidate on the ballot, stating the time and
+23 place of the audit under this subsection. Representatives
+8 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 of each political party, and representatives of any
+2 independent candidate, may be present for the audit.
+3 Additional contests may be added to the audit at the
+4 discretion of the county clerk. Using a formula developed
+5 by the University of Wyoming, each county clerk shall use
+6 the smallest observable percentage to determine a
+7 statistically significant sample size of the ballots to be
+8 audited under this section. To ensure the timely completion
+9 of this procedure under this subsection, The number of
+10 ballots audited shall not exceed be not less than five
+11 percent (5%) of the total number of ballots cast.
+12
+13 22-8-102. Qualifications.
+14
+15 Except as otherwise provided by this section, judges of
+16 election and members of counting boards shall be registered
+17 electors and shall be physically, morally and mentally
+18 competent to perform their duties. The county clerk may
+19 appoint persons who are at least sixteen (16) years of age
+20 to serve as judges of election or members of counting
+21 boards if such persons meet all other requirements for
+22 qualification of an elector. A judge of election shall not
+9 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 be a member of a counting board at the same election except
+2 as provided by W.S. 22-8-108(d).
+3
+4 22-8-107. Absentee ballot counting boards.
+5
+6 If the alternate procedure for counting absentee ballots
+7 described in W.S. 22-9-125 is used, at least three (3) four
+8 (4) judges shall be appointed as an absentee ballot
+9 counting board in the same manner as other election judges
+10 are appointed and shall hand count ballots using the same
+11 counting method as provided in W.S. 22-14-104(b). These
+12 judges shall determine legality of absentee ballots and
+13 count absentee ballots or in the case of electronic voting
+14 systems, the ballots shall be counted at the designated
+15 counting center.
+16
+17 22-8-108. Appointment, composition and authority of
+18 counting boards; when judges to count.
+19
+20 (a) The county clerk shall appoint a counting board
+21 for each paper ballot polling place casting more than three
+22 hundred (300) votes at the last general election, and may
+23 appoint a counting board in such a polling place in which
+10 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 one hundred fifty (150) or more such votes were cast at
+2 such election. A counting board shall have three (3) four
+3 (4) members or more to facilitate the counting of votes and
+4 shall hand count ballots using the same counting method as
+5 provided in W.S. 22-14-104(b). No more than one (1) person
+6 under the age of eighteen (18) may be appointed as to each
+7 counting board.
+8
+9 (b) A counting board shall be appointed for each
+10 designated counting center. in each county using an
+11 electronic voting system. The Additional counting boards
+12 may be appointed by the county clerk depending on the
+13 number of ballots to be counted. Each board shall consist
+14 of at least seven (7) five (5) members who shall be the
+15 county clerk or his designated deputy designee, and three
+16 (3) two (2) members of each major political party having a
+17 candidate on the ballot appointed by the county clerk from
+18 a list of registered electors pursuant to W.S. 22-8-101(b).
+19 Additional members may be appointed by the county clerk if
+20 deemed necessary by the county clerk but equal major party
+21 membership shall be assured. No more than one (1) person
+22 under the age of eighteen (18) may be appointed as to each
+23 counting board. The counting board shall hand count ballots
+11 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 using the same counting method as provided in W.S.
+2 22-14-104(b).
+3
+4 (c) The counting board in a paper ballot polling
+5 place has no authority to act until polls are declared
+6 closed as provided in W.S. 22-13-117, except as provided in
+7 W.S. 22-9-125(d). A counting board in an electronic voting
+8 system counting center may commence preparing absentee
+9 ballots for counting at any time on election day, or before
+10 election day as provided in W.S. 22-9-125(d).
+11
+12 22-8-115. Oath for election officials.
+13
+14 (a) An Each election official and election judge
+15 shall subscribe to this oath verbally and in writing before
+16 entering upon his duties at each election:
+17
+18 "I do solemnly swear (or affirm) that I will impartially
+19 and to the best of my knowledge and ability perform
+20 discharge the duties of my office an election
+21 official/election judge according to the law, and that I
+22 will not disclose how any elector has voted unless I am
+23 required to do so as a witness in a proper judicial
+12 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 proceeding. I will make no statement nor provide any
+2 information that in any way would reveal the actual or
+3 estimated vote count prior to the close of the polls on
+4 election day. I will studiously endeavor to prevent all
+5 frauds, deceit and abuse in the application of the election
+6 laws of this state."
+7
+8 (b) Each election observer shall subscribe to this
+9 oath verbally and in writing before entering upon his
+10 duties at each election:
+11
+12 "I do solemnly swear (or affirm) that I will make no
+13 statement nor provide any information that in any way would
+14 reveal the actual or estimated vote count prior to the
+15 close of the polls on election day."
+16
+17 (b)(c) The oath oaths under this section shall be
+18 taken before the county clerk, his deputy or a previously
+19 sworn judge of election.
+20
+21 22-9-109. Form of absentee ballot.
+22
+13 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 (a) The absentee ballot shall be in the same form
+2 prescribed by law for the official ballot or, for the
+3 transmission of Uniformed and Overseas Citizens Absentee
+4 Voting Act ballots only, a reasonable printed reproduction
+5 of the prescribed form for electronic ballots.
+6
+7 22-9-125. Alternate procedures for collecting and
+8 counting absentee ballots.
+9
+10 (d) Notwithstanding subsection (b) of this section
+11 and any other mandatory procedures for counting absentee
+12 ballots under this chapter, the county clerk may choose to
+13 prepare and process absentee ballots the Thursday or Friday
+14 immediately preceding election day, provided:
+15
+16 CHAPTER 11
+17 HAND COUNT VOTING SYSTEMS
+18
+19 22-11-101.1. Definitions.
+20
+21 (a) As used in this chapter, "Vendor" means a person
+22 engaged in selling, leasing, marketing, designing, building
+23 or maintaining electronic voting systems "Hand count voting
+14 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 system" is a system for casting, tabulating, recording and
+2 reporting election results to the state or counties using
+3 manual hand counting of paper ballots and ensuring a proper
+4 chain of custody of paper ballots.
+5
+6 22-11-102. Use authorized; purchase or lease.
+7
+8 The board of county commissioners of each county may adopt
+9 for use, either experimentally or permanently, in any
+10 election in any or all polling places within the county,
+11 any electronic hand count voting system authorized by law.
+12
+13 22-11-103. Capabilities required.
+14
+15 (a) Every electronic hand count voting system adopted
+16 for use in Wyoming shall:
+17
+18 (iii) Permit voting either by paper ballot, by
+19 ballot card or by other mechanical, magnetic or electrical
+20 means by which a vote may be recorded; voting on an
+21 accessible voting machine for voters with disabilities,
+22 subject to the following:
+23
+15 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 (A) Each polling place shall have at least
+2 one (1) accessible voting machine in accordance with the
+3 Help America Vote Act;
+4
+5 (B) An accessible voting machine under this
+6 paragraph shall:
+7
+8 (I) Be limited to a machine that can
+9 assist a voter with marking a paper ballot and shall not be
+10 used to tabulate votes;
+11
+12 (II) Not be connected to the internet
+13 or able to be connected to the internet in any manner or
+14 have any other type of communication ability;
+15
+16 (III) Comply with rules adopted by the
+17 secretary of state specifying requirements for accessible
+18 voting machines and shall be tested before each election.
+19 Before testing the accessible voting machines under this
+20 subdivision, the county clerk shall notify the county
+21 chairman of each political party having a candidate on the
+22 ballot, stating the time and place of the test. The
+23 political party representatives and representatives of
+16 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 independent candidates may be present for the test, which
+2 shall be held at least two (2) weeks before the election.
+3 The test shall ascertain that the accessible voting
+4 machines will accurately record the votes cast for all
+5 offices and all measures. The test shall be conducted by
+6 processing a pre-audited group of paper ballots on which
+7 are recorded a predetermined number of valid votes for each
+8 candidate and on each measure. During the test a different
+9 number of votes shall be assigned to each candidate for
+10 each office, and for and against each measure. If any error
+11 is detected, the cause of it shall be ascertained and
+12 corrected and an errorless count shall be secured and
+13 certified by the county clerk before the test can be
+14 certified. Additionally, accessibility functions, such as
+15 the audio and keypad shall be tested and verified to be in
+16 working order. On completion of the count, the programs,
+17 test materials and ballots shall be sealed and retained as
+18 provided for paper ballots. Rules adopted by the secretary
+19 of state under this subdivision shall ensure accessible
+20 voting machines comply with the Help America Vote Act and
+21 any other applicable requirements under law.
+22
+17 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 (vii) Provide automatic tabulating equipment
+2 which shall Reject choices recorded on a ballot exceeding
+3 the number allowed, and at a primary election, reject
+4 choices for candidates from a party other than the party
+5 for which a preference is expressed;
+6
+7 (viii) Be suitably designed to function safely,
+8 efficiently and accurately, when properly operated, Provide
+9 assistance in the accurate hand recording, tabulating and
+10 counting of every vote cast;
+11
+12 (c) The secretary of state may from time to time as
+13 necessary promulgate rules and regulations consistent with
+14 subsection (a) of this section and with all other
+15 requirements of this Election Code to govern the
+16 characteristics of electronic hand counting voting systems
+17 that may be used in Wyoming. The rules shall ensure the
+18 fairness and accuracy of elections. The rules may govern
+19 both the characteristics of the systems and the procedures
+20 to be followed in using the systems. The rules shall allow
+21 the county clerks to follow appropriate recommendations of
+22 the vendors of the systems for maintenance and management
+23 of the systems to the extent these recommendations adopt
+18 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 hand counting voting procedures that are not inconsistent
+2 with this Election Code and with the rules. The rules
+3 shall be adopted following consultation with the county
+4 clerks.
+5
+6 22-11-104. Conduct of elections in which hand count
+7 voting systems utilized.
+8
+9 (a) All provisions of the Election Code governing the
+10 conduct of elections shall apply to elections in which
+11 electronic hand count voting systems are used, except that
+12 the county clerk of any county in which an electronic a
+13 hand count voting system is used may make such
+14 modifications in ballot form as are necessary to facilitate
+15 the use of the electronic hand count voting system and yet
+16 maintain the integrity of the election and the intent of
+17 the law.
+18
+19 (b) The county clerk of each county using an
+20 electronic a hand count voting system shall:
+21
+19 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 (ii) Before the day of election deliver to each
+2 polling place using an electronic a hand count voting
+3 system:
+4
+5 (A) A sufficient number of voting devices
+6 hand count tabulation and recording forms and ballots;
+7
+8 (iii) Before testing an electronic voting system
+9 for an each election, notify the county chairman of each
+10 political party having a candidate on the ballot, stating
+11 the time and place of the a test of the hand counting,
+12 tabulating and reporting procedure that will be used in the
+13 county. The political party representatives and
+14 representatives of independent candidates may be present
+15 for the test, which shall be held at least two (2) weeks
+16 before the election. The test shall ascertain that the
+17 automatic tabulating equipment paper ballots and the hand
+18 counting, tabulating and reporting procedure that will be
+19 used in the county will accurately count the votes cast for
+20 all offices and all measures. The test shall also
+21 demonstrate the chain of custody of paper ballots including
+22 the use of ballot boxes, tally sheets, tally summary sheets
+23 and ballot box keys. The test shall be conducted by
+20 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 processing a preaudited group of paper ballots. or ballot
+2 cards on which are recorded a predetermined number of valid
+3 votes for each candidate and on each measure and shall
+4 include for each office one (1) or more ballots which have
+5 votes in excess of the number allowed by law in order to
+6 test the ability of the automatic tabulating equipment to
+7 reject such votes. During the test a different number of
+8 valid votes shall be assigned to each candidate for an
+9 office, and for and against each measure. If any error is
+10 detected, the cause of it shall be ascertained and
+11 corrected and an errorless count shall be secured and
+12 certified to by the county clerk. On completion of the
+13 count, the programs test, all test materials and ballots
+14 shall be sealed and retained as provided for paper ballots;
+15
+16 (v) Provide adequate security for the delivery
+17 of all ballots to the a designated counting center, if
+18 applicable;
+19
+20 22-11-105. Spoiled ballots.
+21
+22 Any voter who spoils his paper ballot or ballot card may
+23 return it and secure a replacement. The word "Spoiled"
+21 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 shall be written across the face of the voided ballot, and
+2 it shall be placed in an envelope for spoiled ballots.
+3 Spoiled ballots shall be delivered with the returns to the
+4 county clerk.
+5
+6 22-11-106. Procedure after voter marks paper ballot.
+7
+8 After marking the paper ballot, the voter shall place the
+9 ballot in the voting machine. If the votes are being
+10 counted at a central counting center as authorized by W.S.
+11 22-14-114(b), the voter shall instead place the paper
+12 ballot in the ballot box.
+13
+14 22-12-101. Designation and notice of polling places;
+15 external location; change in location.
+16
+17 (c) The county clerk shall establish a private area
+18 in each polling place for the hand counting of ballots.
+19
+20 22-12-103. Furnishing of booths.
+21
+22 The county clerk in all elections shall furnish each
+23 polling place with sufficient booths, paper ballots or
+22 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 voting machines and supplies to permit convenient and
+2 secret marking of ballots.
+3
+4 22-12-107. Materials for judges.
+5
+6 (a) Before election day the county clerk shall cause
+7 to be delivered to one (1) of the judges of election in
+8 each polling place the following materials:
+9
+10 (v) Accessible voting machines, where to the
+11 extent required by W.S. 22-11-103(a)(iii);
+12
+13 (vi) The number of ballots required by law and
+14 any related hand tabulation equipment or supplies;
+15
+16 22-12-112. Procedure for preparing ballots and ballot
+17 boxes for use.
+18
+19 Before the polls open the judges shall compare ballots on
+20 the voting machines with the sample ballots and return
+21 sheets to see that they are correct., place the voting
+22 machine in a proper position free from obstruction and
+23 assure that the face of the machine may be viewed clearly
+23 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 by the voter casting the ballot but not by others.
+2 Envelopes containing keys shall not be opened if the
+3 numbers and records on them do not correspond to the
+4 numbers and records on the machine ballot box. If the
+5 numbers do not agree, the machine ballot box shall be
+6 reexamined and certified by the county clerk. before it may
+7 be used.
+8
+9 22-12-114. Certification of ballots and ballot box
+10 keys.
+11
+12 The judges shall certify that ballot box keys are
+13 delivered, that numbers on registering counters and seals
+14 correspond with those on key envelopes, that counters are
+15 set at zero (00000) or counts certified, that ballots are
+16 proper. and that the machines are ready for voting.
+17
+18 22-12-115. Examination of ballot box.
+19
+20 Before the polls are open, the judges of election shall
+21 open and examine the ballot box to determine that it is
+22 empty and relock it. The ballot box shall not again be
+23 opened until the polls are closed, except when necessitated
+24 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 by operation of the voting equipment at the direction of
+2 the county clerk required by law and only in the presence
+3 of two (2) or more election judges with different political
+4 party affiliations. It The ballot box shall not be removed
+5 from the presence of the judges of election or counting
+6 board until all ballots are counted and recorded.
+7
+8 22-13-103. Preservation of order; privacy of voting
+9 booths and machines.
+10
+11 (b) To protect the privacy of the voter, voting
+12 booths and voting machines shall be kept clear of all
+13 persons except voters marking ballots and election
+14 officials discharging their duties.
+15
+16 22-13-107. Spoiled or rejected ballots.
+17
+18 (a) An elector spoiling a paper ballot by mistake or
+19 accident may receive another ballot by returning the
+20 rejected ballot to a judge of election. Spoiled ballots
+21 shall immediately be cancelled by a judge of election, the
+22 word "spoiled" shall be written across the face of the
+25 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 ballot and the ballot shall be delivered with the returns
+2 to the county clerk or official conducting the election.
+3
+4 (b) A ballot may be rejected as provided in this
+5 subsection. For any rejected ballot, the word "rejected"
+6 shall be written across the face of the voided ballot and
+7 the ballot shall be placed in an envelope for rejected
+8 ballots. Rejected ballots shall be delivered with the
+9 returns to the county clerk. Ballots shall be rejected and
+10 not counted if any of the following apply:
+11
+12 (i) The initials of proper election judges are
+13 missing from the ballot;
+14
+15 (ii) The number of votes on the ballot for all
+16 offices and all questions exceed the number authorized by
+17 law;
+18
+19 (iii) The ballot is an absentee ballot without
+20 completed and signed affidavit;
+21
+22 (iv) The ballot was voted with unlawful
+23 assistance as provided by law.
+26 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1
+2 22-13-110. Write-in votes.
+3
+4 Write-in votes may be entered on a voting machine in the
+5 manner indicated by instructions posted on the voting booth
+6 or indicated on the voting machine on paper ballots shall
+7 be verified and tallied at a polling place or counting
+8 center as provided in W.S. 22-14-110 and 22-14-114(b).
+9
+10 22-14-102. Who may be present after all votes are
+11 cast and polls close; making pollbooks agree; counting
+12 votes.
+13
+14 (a) After all the votes are cast and the polls are
+15 officially declared closed, only election judges and
+16 election observers under oath shall be permitted in a
+17 polling place.
+18
+19 (b) When all ballots are cast, the machine shall be
+20 locked against further voting and sealed as prescribed by
+21 law. Except as otherwise provided by Subject to W.S.
+22 22-14-114(b), election judges shall commence to count at
+23 the polling place shall begin hand counting and recording
+27 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 of votes one (1) hour before the closing of the polls and
+2 shall continue without adjournment until counting is
+3 completed.
+4
+5 22-14-104. Entry of paper ballot votes.
+6
+7 (a) Paper ballots shall be opened by the counting
+8 board and every vote for a candidate or ballot proposition
+9 shall be entered on a list hand counted as provided in this
+10 section. A vote which is not clearly marked shall not be
+11 tallied for that office or question but votes clearly
+12 marked on the remainder of the ballot shall be tallied.
+13
+14 (b) Paper ballots shall be counted and recorded
+15 subject to the following:
+16
+17 (i) Counting shall be conducted by two (2)
+18 counting teams consisting of two (2) election judges each.
+19 Each member of each counting team shall be from a different
+20 political party;
+21
+22 (ii) One (1) counting team shall designate one
+23 (1) judge to read each vote and the second judge shall
+28 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 observe to verify that the vote was read correctly. Any
+2 write-in candidate shall be read by calling out the
+3 applicable office and then the name written in on the
+4 ballot for that office;
+5
+6 (iii) Each member of the second counting team
+7 shall record each vote as it is read on separate tally
+8 sheets, including any write-in votes;
+9
+10 (iv) When all votes are counted in the precinct,
+11 the four (4) election judges shall transfer the totals of
+12 all tally sheets, including any write-in votes, onto a
+13 summary tally sheet. The results on the summary tally sheet
+14 shall be provided to the county clerk.
+15
+16 (c) The secretary of state may adopt rules for the
+17 hand counting of paper ballots in accordance with this
+18 section and this Election Code.
+19
+20 22-14-110. Sealing paper ballots and voting machine
+21 records.
+22
+29 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 Paper ballots shall be sealed by the election judges in an
+2 envelope after being counted and tallied, unless the
+3 ballots are being counted at a central counting center as
+4 authorized by W.S. 22-14-114(b). One (1) copy of each
+5 voting machine record shall be sealed in a separate
+6 envelope showing the district, precinct and machine number
+7 and endorsed by the election judges. These envelopes shall
+8 then be sealed in a single large container. The district
+9 and precinct number shall be written on each container.
+10
+11 22-14-111. Returning records and returns to clerk.
+12
+13 (a) Unless the votes are being counted at a central
+14 counting center as authorized by W.S. 22-14-114(b), an
+15 election judge or peace officer as defined under W.S.
+16 7-2-101(a)(iv)(A) or (B) and acting under the authority of
+17 the county clerk shall, as soon as possible after the
+18 tabulation of votes is complete, return to the clerk who
+19 prepared the ballots for the election the following records
+20 and returns in a sealed and locked container with a
+21 numbered seal that includes a number or other identifier
+22 that is unique to that seal:
+23
+30 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 (viii) Oaths of judges of election judges and
+2 election observers;
+3
+4 22-14-113. Return of voting supplies.
+5
+6 (a) Keys to voting machines ballot boxes shall be
+7 returned to the county clerk in an envelope sealed and
+8 signed by an election judge and endorsed by an election
+9 judge of a different political party affiliation. On this
+10 envelope shall be recorded the number of the seal with
+11 which the machine was closed.
+12
+13 (b) All voting supplies, ballot boxes and accessible
+14 voting machines shall be returned to the county clerk as
+15 soon as possible after the vote has been returned.
+16
+17 22-14-114. Counting of write-in votes; transporting
+18 of ballots.
+19
+20 (a) For ballots designed to be counted by machine,
+21 each individual vote shall be determined by the voting
+22 equipment and shall not be determined subjectively by human
+23 tabulation except when the intent of the voter is
+31 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 unmistakable but the ballot was received in such damaged,
+2 soiled, or other condition that it is rejected by the
+3 machine. The secretary of state may promulgate rules
+4 establishing standards for counting such ballots. For
+5 ballots not designed to be counted by machine, only votes
+6 clearly marked, as provided by W.S. 22-14-104 and rules
+7 promulgated pursuant to this code, shall be tallied. For
+8 write-in votes, names which that are misspelled or
+9 abbreviated or the use of nicknames of candidates shall be
+10 counted for the candidate if the vote is obvious to the
+11 counting board or election judges. The secretary of state
+12 may by rule specify standards for counting write-in votes
+13 under this subsection.
+14
+15 22-15-105. Challenged person may vote; generally.
+16
+17 (a) If a person offering to vote is challenged, and
+18 the challenge is not resolved in accordance with W.S.
+19 22-15-106, an election judge shall offer the voter a ballot
+20 clearly marked "provisional." and which cannot be
+21 automatically tabulated Provisional ballots shall be
+22 securely stored separately from other ballots and shall
+32 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 only be counted as provided in subsection (d) of this
+2 section.
+3
+4 22-15-109. Election observers; certification;
+5 qualification; authority; removal.
+6
+7 (a) The county chairman of each political party may
+8 certify poll watchers election observers prior to the day
+9 of the election to serve in each polling place. Not more
+10 than one (1) poll watcher election observer from each
+11 political party may serve simultaneously unless the chief
+12 judge determines that one (1) additional poll watcher
+13 election observer from each political party may be
+14 accommodated in the polling place without disrupting the
+15 polling process.
+16
+17 (b) A poll watcher An election observer shall belong
+18 to the political party he represents, and shall be a
+19 registered elector residing in the county. A poll watcher
+20 and shall subscribe to an oath as provided in W.S.
+21 22-8-115(b). An election observer shall serve only at the
+22 polling place designated on the certificate. A poll watcher
+23 An election observer is authorized to observe voter turn
+33 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 out, and voter registration and hand tabulation procedures
+2 and may make written memoranda but shall not challenge
+3 voters or election judges, conduct electioneering
+4 activities or disrupt the polling or counting process.
+5
+6 (c) The chief judge may remove a poll watcher an
+7 election observer from the polling place for disturbing the
+8 polling place, or for any other violation of the Election
+9 Code.
+10
+11 22-16-103. County canvass procedures.
+12
+13 (c) The county canvassing board shall:
+14
+15 (i) Meet as soon as all returns have been
+16 received and abstracted, but if any provisional ballots
+17 have been cast in the county, not before the time has
+18 passed for provisional voters to document their eligibility
+19 to register or to vote. The board shall meet at a time and
+20 place designated by the county clerk, but no earlier than
+21 the second Friday following the election and no later than
+22 the first fourth Friday following the election;
+23
+34 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 (e) The county canvassing board shall not certify the
+2 election if there are any outstanding irregularities in any
+3 precinct.
+4
+5 22-16-118. Meeting of state canvassing board.
+6
+7 The state canvassing board shall meet no later than the
+8 second Wednesday following the election certification of
+9 all county elections. The secretary of state shall send a
+10 messenger to obtain official county abstracts not filed in
+11 a reasonable length of time. The canvassing board shall
+12 meet at the time and place set by the secretary of state.
+13 The board shall review the state abstracts prepared by the
+14 secretary of state, compare them with the tabulation and
+15 materials prepared by the secretary of state, resolve any
+16 tie votes, and certify the abstract as the official state
+17 canvass. The state canvassing board shall not certify the
+18 election if there are any outstanding irregularities in any
+19 county.
+20
+21 22-21-109. Supplies; regulations; costs.
+22
+35 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 The county clerk may utilize voting machines or electronic
+2 voting systems shall use hand counted paper ballots at any
+3 bond election and may prescribe the form of the ballot, the
+4 duties of election officials, and other reasonable
+5 regulations pertaining thereto. The political subdivision
+6 holding the bond election shall pay the actual costs of the
+7 election or an equitably proportioned share of a concurrent
+8 election, as determined by the county clerk.
+9
+10 22-22-203. Determining validity of application;
+11 placement on ballot; procedure for multi-county districts.
+12
+13 (b) Each county clerk in each election involving a
+14 school or community college district which crosses county
+15 boundaries shall determine whether voting machines,
+16 electronic voting system, use paper ballots, or a
+17 combination thereof, shall be used and hand count results
+18 to insure ensure that each qualified elector votes only for
+19 the candidate or candidates from the school district and
+20 trustee residence area, if any, and from the community
+21 college district and subdistrict, if any, for which he is
+22 entitled to vote.
+23
+36 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 22-26-101. Felony offenses generally.
+2
+3 (a) The following acts in connection with or related
+4 to the election process or an election, if knowingly and
+5 willfully committed, are felony offenses punishable by not
+6 more than five (5) years' imprisonment in the state
+7 penitentiary or a fine of not more than ten thousand
+8 dollars ($10,000.00), or both:
+9
+10 (ii) Unlawful opening of interference with a
+11 ballot box as provided in W.S. 22-26-103;
+12
+13 (iv) Unlawful possession of a ballot box key as
+14 provided in W.S. 22-26-105;
+15
+16 (vi) Falsifying election documents or results;
+17
+18 22-26-103. Unlawful interference with ballot box.
+19
+20 (a) Unlawful opening of interference with a ballot
+21 box consists of any of the following:
+22
+37 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 (i) Opening a ballot box or inspecting or
+2 removing the contents thereof without lawful authority;, or
+3
+4 (ii) An election judge knowingly causing or
+5 permitting any ballot to be in the ballot box at the
+6 opening for the polls and before voting commences;
+7
+8 (iii) An election judge knowingly placing or
+9 permitting any ballot, or paper having the semblance of a
+10 ballot, to be placed in a ballot box at any election unless
+11 the ballot is offered by a qualified elector as provided by
+12 law;
+13
+14 (iv) Knowingly removing any legal ballot from a
+15 ballot box for the purpose of changing the true and lawful
+16 count of any election or in any other manner knowingly
+17 changing the true and lawful count of any election;
+18
+19 (v) Knowingly placing or attempting to place or
+20 causing to be placed any false or fraudulent ballot in a
+21 ballot box at any election;
+22
+38 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1 (vi) On the day of an election, willfully
+2 concealing, breaking or destroying any ballot box used or
+3 intended to be used at an election or willfully concealing
+4 or removing any ballot box from the custody of the election
+5 judges;
+6
+7 (vii) Conspiring with others so to open
+8 interfere with a ballot box under this section.
+9
+10 22-26-105. Unlawful possession of key.
+11
+12 Unlawful possession of a key consists of the possession at
+13 any time of a key to a voting machine or ballot box, or
+14 making a duplicate thereof, unless authorized by law.
+15
+16 22-26-107. Falsifying election documents or results.
+17
+18 (a) Falsifying election documents or results consists
+19 of performing any of the following acts with the intent to
+20 deceive or mislead an elector or an election official:
+21
+22 (v) Falsifying hand tabulation results or tally
+23 sheets.
+39 SF0184
+
+2025 STATE OF WYOMING 25LSO-0737
+1
+2 Section 2. W.S. 22-1-102(a)(xxxiv) and (liv),
+3 22-3-113(b), 22-6-113, 22-9-121(c)(ii), 22-9-125(b),
+4 22-10-101 through 22-10-111, 22-11-103(a)(iv), (vi), (xi)
+5 and (d) through (g), 22-11-104(b)(i), (iv), (vi), (vii) and
+6 (c), 22-11-107 through 22-11-109, 22-12-110, 22-12-113,
+7 22-13-109, 22-13-112, 22-14-105, 22-14-111(a)(i),
+8 22-26-101(a)(iii) and 22-26-104 are repealed.
+9
+10 Section 3. This act is effective July 1, 2025.
+11
+12 (END)
+40 SF0184

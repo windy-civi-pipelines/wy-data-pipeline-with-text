@@ -1,0 +1,863 @@
+Title: Sponsored by: Joint Corporations, Elections & Political
+Official Title: Sponsored by: Joint Corporations, Elections & Political
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0007
+SENATE FILE NO. SF0050
+Insurance holding company regulations-amendments.
+Subdivisions Interim Committee
+A BILL
+for
+1 AN ACT relating to the insurance holding company system
+2 regulatory act; specifying requirements regarding group
+3 capital calculations, group capital ratios, liquidity
+4 stress tests, liquidity stress test results, and related
+5 information; amending confidentiality provisions; providing
+6 definitions; requiring rulemaking; and providing for
+7 effective dates.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 26-44-120 is created to read:
+12
+13 26-44-120. Authorized use of and prohibited
+14 statements regarding group capital calculations, liquidity
+15 stress tests and related information.
+1 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1
+2 (a) The group capital calculation, including the
+3 group capital ratio produced within the calculation, that
+4 is required to be reported under W.S. 26-44-104(p) and the
+5 liquidity stress test along with its results and supporting
+6 disclosures required under W.S. 26-44-104(q) may be used as
+7 regulatory tools for assessing group risks and capital
+8 adequacy and group liquidity risks, respectively, but shall
+9 not be used to rank insurers or insurance holding company
+10 systems generally.
+11
+12 (b) Except as authorized in subsection (d) of this
+13 section or as otherwise required in this act, a person
+14 shall not:
+15
+16 (i) Engage in the making, publishing,
+17 disseminating, circulating or placing before the public, or
+18 causing directly or indirectly to be made, published,
+19 disseminated, circulated or placed before the public;
+20
+21 (ii) In a newspaper, magazine or other
+22 publication, or in the form of a notice, circular,
+23 pamphlet, letter or poster, or over any radio or television
+2 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1 station or any electronic means of communication available
+2 to the public, or in any other way;
+3
+4 (iii) An advertisement, announcement or
+5 statement containing a representation or statement with
+6 regard to the group capital calculation, group capital
+7 ratio, liquidity stress test results, or supporting
+8 disclosures for the liquidity stress test of any insurer or
+9 any insurer group, or any component derived in the
+10 calculation by any insurer, broker or other person engaged
+11 in any manner in the insurance business.
+12
+13 (c) Any action prohibited under subsection (b) of
+14 this section shall be deemed by the commissioner to be
+15 misleading.
+16
+17 (d) If any materially false statement with respect to
+18 the group capital calculation, group capital ratio,
+19 liquidity stress test result or supporting disclosures for
+20 the liquidity stress test or an inappropriate comparison of
+21 any amount to an insurer's or insurance group's group
+22 capital calculation, group capital ratio, liquidity stress
+23 test result or supporting disclosures is published in any
+3 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1 written publication and the insurer is able to demonstrate
+2 to the commissioner with substantial proof the falsity of
+3 the statement or the inappropriateness of the comparison,
+4 then the insurer may publish announcements in a written
+5 publication if the sole purpose of the announcement is to
+6 rebut the materially false statement or inappropriate
+7 comparison.
+8
+9 Section 2. W.S. 26-44-101(a) by creating new
+10 paragraphs (xiv) through (xvii) and amending and
+11 renumbering (xiv) as (xviii), 26-44-104(e) and by creating
+12 new subsections (p) and (q) and 26-44-110(a), (d)(i)
+13 through (iv), by creating new paragraphs (v) and (vi) and
+14 (g) are amended to read:
+15
+16 26-44-101. Definitions.
+17
+18 (a) As used in this act:
+19
+20 (xiv) "Group capital calculation instructions"
+21 means the group capital calculation instructions as adopted
+22 by the NAIC and as amended by the NAIC from time to time in
+23 accordance with the procedures adopted by the NAIC;
+4 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1
+2 (xv) "NAIC liquidity stress test framework"
+3 means a separate NAIC publication which includes a history
+4 of the NAIC's development of regulatory liquidity stress
+5 testing, the scope criteria applicable for a specific data
+6 year, and the liquidity stress test instructions and
+7 reporting templates for a specific data year, such scope
+8 criteria, instructions and reporting template being as
+9 adopted by the NAIC and as amended by the NAIC from time to
+10 time in accordance with the procedures adopted by the NAIC;
+11
+12 (xvi) "Scope criteria," as detailed in the NAIC
+13 liquidity stress test framework, means the designated
+14 exposure bases along with minimum magnitudes thereof for
+15 the specified data year, used to establish a preliminary
+16 list of insurers considered scoped into the NAIC liquidity
+17 stress test framework for that data year;
+18
+19 (xvii) "Third-party consultant designated by the
+20 commissioner" means any independent or consulting
+21 actuarial, rating or other technical service provider with
+22 whom the commissioner contracts pursuant to W.S.
+23 26-2-106(d);
+5 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1
+2 (xiv)(xviii) "This act" means W.S. 26-44-101
+3 through 26-44-119 26-44-120.
+4
+5 26-44-104. Registration of insurers; group capital
+6 calculations; liquidity stress test results.
+7
+8 (e) Information need not be disclosed on the
+9 registration statement filed pursuant to subsection (b) of
+10 this section if the information is not material for the
+11 purposes of this section. Unless the commissioner by rule,
+12 regulation or order provides otherwise, sales, purchases,
+13 exchanges, loans or extensions of credit, investments or
+14 guarantees involving one-half of one percent (.5%) or less
+15 of an insurer's admitted assets as of December 31, of the
+16 year immediately preceding are not material for purposes of
+17 this section. As used in this subsection, "material" shall
+18 not apply for purposes of the group capital calculation or
+19 the NAIC liquidity stress test framework.
+20
+21 (p) Except as otherwise provided in this subsection,
+22 the ultimate controlling person of every insurer subject to
+23 registration under this section shall concurrently file
+6 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1 with the registration an annual group capital calculation,
+2 including the group capital ratio produced within the
+3 calculation, as directed by the lead state commissioner.
+4 The report shall be completed in accordance with the NAIC
+5 group capital calculation instructions, which may permit
+6 the lead state commissioner to allow a controlling person
+7 that is not the ultimate controlling person to file the
+8 group capital calculation. The report shall be filed with
+9 the lead state commissioner of the insurance holding
+10 company system as determined by the commissioner in
+11 accordance with the procedures within the financial
+12 analysis handbook adopted by the NAIC. The following
+13 insurance holding company systems are exempt from filing
+14 the group capital calculation:
+15
+16 (i) An insurance holding company system that has
+17 only one (1) insurer within its holding company structure,
+18 that only writes business and is only licensed in its
+19 domestic state, and that assumes no business from any other
+20 insurer;
+21
+22 (ii) An insurance holding company system that is
+23 required to perform a group capital calculation specified
+7 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1 by the United States federal reserve board. The lead state
+2 commissioner shall request the calculation from the United
+3 States federal reserve board under the terms of information
+4 sharing agreements in effect. If the United States federal
+5 reserve board cannot share the calculation with the lead
+6 state commissioner, the insurance holding company system is
+7 not exempt from the group capital calculation filing;
+8
+9 (iii) An insurance holding company system whose
+10 non-United States group wide supervisor is located within a
+11 reciprocal jurisdiction as described in W.S.
+12 26-5-112(j)(ii) that recognizes the United States state
+13 regulatory approach to group supervision and group capital;
+14
+15 (iv) An insurance holding company system:
+16
+17 (A) That provides information to the lead
+18 state that meets the requirements for accreditation under
+19 the NAIC financial standards and accreditation program,
+20 either directly or indirectly through the group wide
+21 supervisor, who has determined such information is
+22 satisfactory to allow the lead state to comply with the
+8 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1 NAIC group supervision approach, as detailed in the NAIC
+2 financial analysis handbook; and
+3
+4 (B) Whose non-United States group wide
+5 supervisor who is not in a reciprocal jurisdiction
+6 recognizes and accepts, as specified by the commissioner in
+7 regulation, the group capital calculation as the world wide
+8 group capital assessment for United States insurance groups
+9 who operate in that jurisdiction.
+10
+11 (v) Notwithstanding paragraphs (iii) and (iv) of
+12 this subsection, a lead state commissioner shall require
+13 the group capital calculation for United States operations
+14 of any non-United States based insurance holding company
+15 system where, after any necessary consultation with other
+16 supervisors or officials, it is deemed appropriate by the
+17 lead state commissioner for prudential oversight and
+18 solvency monitoring purposes or for ensuring the
+19 competitiveness of the insurance marketplace;
+20
+21 (vi) Notwithstanding the exemptions from filing
+22 the group capital calculation stated in paragraphs (i)
+23 through (iv) of this subsection, the lead state
+9 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1 commissioner has the discretion to exempt the ultimate
+2 controlling person from filing the annual group capital
+3 calculation or to accept a limited group capital filing or
+4 report in accordance with criteria as specified by the
+5 commissioner in regulation;
+6
+7 (vii) If the commissioner determines that an
+8 insurance holding company system no longer meets one (1) or
+9 more of the requirements for an exemption from filing the
+10 group capital calculation under this subsection, the
+11 insurance holding company system shall file the group
+12 capital calculation at the next annual filing date unless
+13 given an extension by the lead state commissioner based on
+14 reasonable grounds shown.
+15
+16 (q) The ultimate controlling person of every insurer
+17 subject to registration and also scoped into the NAIC
+18 liquidity stress test framework shall file the results of a
+19 specific year's liquidity stress test. The filing shall be
+20 made to the lead state insurance commissioner of the
+21 insurance holding company system as determined by the
+22 procedures within the financial analysis handbook adopted
+23 by the NAIC, subject to the following:
+10 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1
+2 (i) The NAIC liquidity stress test framework
+3 shall include scope criteria applicable to a specific data
+4 year. These scope criteria shall be reviewed at least
+5 annually by the financial stability task force or its
+6 successor. Any change to the NAIC liquidity stress test
+7 framework or to the data year for which the scope
+8 criteria are to be measured shall be effective on January 1
+9 of the year following the calendar year when the changes
+10 are adopted. Insurers meeting at least one (1) threshold of
+11 the scope criteria are considered scoped into the NAIC
+12 liquidity stress test framework for the specified data year
+13 unless the lead state insurance commissioner, in
+14 consultation with the NAIC financial stability task force
+15 or its successor, determines the insurer should not be
+16 scoped into the framework for that data year. Similarly,
+17 insurers that do not trigger at least one (1) threshold of
+18 the scope criteria shall be considered scoped out of the
+19 NAIC liquidity stress test framework for the specified data
+20 year, unless the lead state insurance commissioner, in
+21 consultation with the NAIC financial stability task force
+22 or its successor, determines the insurer should be scoped
+23 into the framework for that data year;
+11 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1
+2 (ii) The performance of, and filing of the
+3 results from, a specific year's liquidity stress test shall
+4 comply with the NAIC liquidity stress test framework's
+5 instructions and reporting templates for that year and any
+6 lead state insurance commissioner determinations, in
+7 conjunction with the financial stability task force or its
+8 successor, provided within the framework.
+9
+10 26-44-110. Confidential treatment.
+11
+12 (a) All information, documents and copies of the
+13 documents and information obtained by or disclosed to the
+14 commissioner or any other person in the course of an
+15 examination made pursuant to W.S. 26-44-109 and all
+16 information reported pursuant to W.S. 26-44-103(b)(xii) and
+17 (xiii), 26-44-104 through 26-44-108 and 26-44-119 shall be
+18 confidential, shall not be subject to subpoena and shall
+19 not be disclosed by the commissioner, the National
+20 Association of Insurance Commissioners, or any person,
+21 except as authorized by and in accordance with the
+22 provisions of W.S. 26-2-113(d), without the prior written
+23 consent of the insurer to which the information pertains.
+12 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1 The commissioner, after giving the insurer and its
+2 affiliates notice and opportunity to be heard, may
+3 determine that the interest of policyholders, shareholders
+4 or the public will be served by the publication of the
+5 information, in which event he may publish all or any part
+6 of the information as he deems appropriate, except as
+7 provided in this paragraph. The following shall apply to
+8 information reported and provided to the department of
+9 insurance pursuant to W.S. 26-44-104(p) and (q):
+10
+11 (i) For purposes of the information reported and
+12 provided to the department of insurance pursuant to W.S.
+13 26-44-104(p), the commissioner shall maintain the
+14 confidentiality of the group capital calculation and group
+15 capital ratio produced within the calculation and any group
+16 capital information received from an insurance holding
+17 company supervised by the United States federal reserve
+18 board or any United States group wide supervisor;
+19
+20 (ii) For purposes of the information reported and
+21 provided to the department of insurance pursuant to W.S.
+22 26-44-104(q), the commissioner shall maintain the
+23 confidentiality of the liquidity stress test results and
+13 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1 supporting disclosures and any liquidity stress test
+2 information received from an insurance holding company
+3 supervised by the United States federal reserve board and
+4 non-United States group wide supervisors.
+5
+6 (d) In addition to any other authorities provided by
+7 law, the commissioner shall enter into written agreements
+8 with the NAIC governing sharing and use of information
+9 provided pursuant to this act consistent with this
+10 subsection which shall:
+11
+12 (i) Specify procedures and protocols regarding
+13 the confidentiality and security of information shared with
+14 the NAIC and its affiliates and subsidiaries or a
+15 third-party consultant designated by the commissioner
+16 pursuant to this act, including procedures and protocols
+17 for sharing by the NAIC with other state, federal or
+18 international regulators. The agreement shall provide that
+19 the recipient agrees in writing to maintain the
+20 confidentiality and privileged status of the documents,
+21 materials or other information and has verified in writing
+22 the legal authority to maintain such confidentiality;
+23
+14 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1 (ii) Specify that ownership of information
+2 shared with the NAIC and its affiliates and subsidiaries or
+3 a third-party consultant designated by the commissioner
+4 pursuant to this act remains with the commissioner and the
+5 NAIC's or a third-party consultant as designated by the
+6 commissioner's use of the information is subject to the
+7 direction of the commissioner;
+8
+9 (iii) Require prompt notice to be given to an
+10 insurer whose confidential information in the possession of
+11 the NAIC or a third-party consultant designated by the
+12 commissioner pursuant to this act is subject to a request
+13 or subpoena to the NAIC or a third-party consultant
+14 designated by the commissioner for disclosure or
+15 production; and
+16
+17 (iv) Require the NAIC and its affiliates and
+18 subsidiaries or a third-party consultant designated by the
+19 commissioner to consent to intervention by an insurer in
+20 any judicial or administrative action in which the NAIC and
+21 its affiliates and subsidiaries or a third-party consultant
+22 designated by the commissioner may be required to disclose
+23 confidential information about the insurer shared with the
+15 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1 NAIC and its affiliates and subsidiaries or a third-party
+2 consultant designated by the commissioner pursuant to this
+3 chapter;.
+4
+5 (v) Excluding documents, material or information
+6 reported pursuant to W.S. 26-44-104(q), prohibit the NAIC
+7 or third-party consultant designated by the commissioner
+8 from storing the information shared pursuant to this act in
+9 a permanent database after the underlying analysis is
+10 completed;
+11
+12 (vi) For documents, material or information
+13 reported pursuant to W.S. 26-44-104(q), in the case of an
+14 agreement involving a third-party consultant designated by
+15 the commissioner, provide for notification of the identity
+16 of the third-party consultant designated by the
+17 commissioner to the applicable insurers.
+18
+19 (g) Documents, materials or other information in the
+20 possession or control of the NAIC or a third-party
+21 consultant designated by the commissioner pursuant to this
+22 chapter shall be confidential by law and privileged, shall
+23 not be a public record under W.S. 16-4-201 through
+16 SF0050
+2025 STATE OF WYOMING 25LSO-0007
+1 16-4-205, shall not be subject to subpoena and shall not be
+2 subject to discovery or admissible in evidence in any
+3 private civil action.
+4
+5 Section 3. The department of insurance shall
+6 promulgate all rules necessary to implement this act.
+7
+8 Section 4.
+9
+10 (a) Except as otherwise provided by subsection (b) of
+11 this section, this act is effective July 1, 2025.
+12
+13 (b) Sections 3 and 4 of this act are effective
+14 immediately upon completion of all acts necessary for a
+15 bill to become law as provided by Article 4, Section 8 of
+16 the Wyoming Constitution.
+17
+18 (END)
+17 SF0050
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0007
+SENATE FILE NO. SF0050
+Insurance holding company regulations-amendments.
+Sponsored by: Joint Corporations, Elections & Political
+Subdivisions Interim Committee
+A BILL
+for
+1 AN ACT relating to the insurance holding company system
+2 regulatory act; specifying requirements regarding group
+3 capital calculations, group capital ratios, liquidity
+4 stress tests, liquidity stress test results, and related
+5 information; amending confidentiality provisions; providing
+6 definitions; requiring rulemaking; and providing for
+7 effective dates.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 26-44-120 is created to read:
+12
+13 26-44-120. Authorized use of and prohibited
+14 statements regarding group capital calculations, liquidity
+15 stress tests and related information.
+1 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1
+2 (a) The group capital calculation, including the
+3 group capital ratio produced within the calculation, that
+4 is required to be reported under W.S. 26-44-104(p) and the
+5 liquidity stress test along with its results and supporting
+6 disclosures required under W.S. 26-44-104(q) may be used as
+7 regulatory tools for assessing group risks and capital
+8 adequacy and group liquidity risks, respectively, but shall
+9 not be used to rank insurers or insurance holding company
+10 systems generally.
+11
+12 (b) Except as authorized in subsection (d) of this
+13 section or as otherwise required in this act, a person
+14 shall not:
+15
+16 (i) Engage in the making, publishing,
+17 disseminating, circulating or placing before the public, or
+18 causing directly or indirectly to be made, published,
+19 disseminated, circulated or placed before the public;
+20
+21 (ii) In a newspaper, magazine or other
+22 publication, or in the form of a notice, circular,
+23 pamphlet, letter or poster, or over any radio or television
+2 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1 station or any electronic means of communication available
+2 to the public, or in any other way;
+3
+4 (iii) An advertisement, announcement or
+5 statement containing a representation or statement with
+6 regard to the group capital calculation, group capital
+7 ratio, liquidity stress test results, or supporting
+8 disclosures for the liquidity stress test of any insurer or
+9 any insurer group, or any component derived in the
+10 calculation by any insurer, broker or other person engaged
+11 in any manner in the insurance business.
+12
+13 (c) Any action prohibited under subsection (b) of
+14 this section shall be deemed by the commissioner to be
+15 misleading.
+16
+17 (d) If any materially false statement with respect to
+18 the group capital calculation, group capital ratio,
+19 liquidity stress test result or supporting disclosures for
+20 the liquidity stress test or an inappropriate comparison of
+21 any amount to an insurer's or insurance group's group
+22 capital calculation, group capital ratio, liquidity stress
+23 test result or supporting disclosures is published in any
+3 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1 written publication and the insurer is able to demonstrate
+2 to the commissioner with substantial proof the falsity of
+3 the statement or the inappropriateness of the comparison,
+4 then the insurer may publish announcements in a written
+5 publication if the sole purpose of the announcement is to
+6 rebut the materially false statement or inappropriate
+7 comparison.
+8
+9 Section 2. W.S. 26-44-101(a) by creating new
+10 paragraphs (xiv) through (xvii) and amending and
+11 renumbering (xiv) as (xviii), 26-44-104(e) and by creating
+12 new subsections (p) and (q) and 26-44-110(a), (d)(i)
+13 through (iv), by creating new paragraphs (v) and (vi) and
+14 (g) are amended to read:
+15
+16 26-44-101. Definitions.
+17
+18 (a) As used in this act:
+19
+20 (xiv) "Group capital calculation instructions"
+21 means the group capital calculation instructions as adopted
+22 by the NAIC and as amended by the NAIC from time to time in
+23 accordance with the procedures adopted by the NAIC;
+4 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1
+2 (xv) "NAIC liquidity stress test framework"
+3 means a separate NAIC publication which includes a history
+4 of the NAIC's development of regulatory liquidity stress
+5 testing, the scope criteria applicable for a specific data
+6 year, and the liquidity stress test instructions and
+7 reporting templates for a specific data year, such scope
+8 criteria, instructions and reporting template being as
+9 adopted by the NAIC and as amended by the NAIC from time to
+10 time in accordance with the procedures adopted by the NAIC;
+11
+12 (xvi) "Scope criteria," as detailed in the NAIC
+13 liquidity stress test framework, means the designated
+14 exposure bases along with minimum magnitudes thereof for
+15 the specified data year, used to establish a preliminary
+16 list of insurers considered scoped into the NAIC liquidity
+17 stress test framework for that data year;
+18
+19 (xvii) "Third-party consultant designated by the
+20 commissioner" means any independent or consulting
+21 actuarial, rating or other technical service provider with
+22 whom the commissioner contracts pursuant to W.S.
+23 26-2-106(d);
+5 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1
+2 (xiv)(xviii) "This act" means W.S. 26-44-101
+3 through 26-44-119 26-44-120.
+4
+5 26-44-104. Registration of insurers; group capital
+6 calculations; liquidity stress test results.
+7
+8 (e) Information need not be disclosed on the
+9 registration statement filed pursuant to subsection (b) of
+10 this section if the information is not material for the
+11 purposes of this section. Unless the commissioner by rule,
+12 regulation or order provides otherwise, sales, purchases,
+13 exchanges, loans or extensions of credit, investments or
+14 guarantees involving one-half of one percent (.5%) or less
+15 of an insurer's admitted assets as of December 31, of the
+16 year immediately preceding are not material for purposes of
+17 this section. As used in this subsection, "material" shall
+18 not apply for purposes of the group capital calculation or
+19 the NAIC liquidity stress test framework.
+20
+21 (p) Except as otherwise provided in this subsection,
+22 the ultimate controlling person of every insurer subject to
+23 registration under this section shall concurrently file
+6 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1 with the registration an annual group capital calculation,
+2 including the group capital ratio produced within the
+3 calculation, as directed by the lead state commissioner.
+4 The report shall be completed in accordance with the NAIC
+5 group capital calculation instructions, which may permit
+6 the lead state commissioner to allow a controlling person
+7 that is not the ultimate controlling person to file the
+8 group capital calculation. The report shall be filed with
+9 the lead state commissioner of the insurance holding
+10 company system as determined by the commissioner in
+11 accordance with the procedures within the financial
+12 analysis handbook adopted by the NAIC. The following
+13 insurance holding company systems are exempt from filing
+14 the group capital calculation:
+15
+16 (i) An insurance holding company system that has
+17 only one (1) insurer within its holding company structure,
+18 that only writes business and is only licensed in its
+19 domestic state, and that assumes no business from any other
+20 insurer;
+21
+22 (ii) An insurance holding company system that is
+23 required to perform a group capital calculation specified
+7 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1 by the United States federal reserve board. The lead state
+2 commissioner shall request the calculation from the United
+3 States federal reserve board under the terms of information
+4 sharing agreements in effect. If the United States federal
+5 reserve board cannot share the calculation with the lead
+6 state commissioner, the insurance holding company system is
+7 not exempt from the group capital calculation filing;
+8
+9 (iii) An insurance holding company system whose
+10 non-United States group wide supervisor is located within a
+11 reciprocal jurisdiction as described in W.S.
+12 26-5-112(j)(ii) that recognizes the United States state
+13 regulatory approach to group supervision and group capital;
+14
+15 (iv) An insurance holding company system:
+16
+17 (A) That provides information to the lead
+18 state that meets the requirements for accreditation under
+19 the NAIC financial standards and accreditation program,
+20 either directly or indirectly through the group wide
+21 supervisor, who has determined such information is
+22 satisfactory to allow the lead state to comply with the
+8 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1 NAIC group supervision approach, as detailed in the NAIC
+2 financial analysis handbook; and
+3
+4 (B) Whose non-United States group wide
+5 supervisor who is not in a reciprocal jurisdiction
+6 recognizes and accepts, as specified by the commissioner in
+7 regulation, the group capital calculation as the world wide
+8 group capital assessment for United States insurance groups
+9 who operate in that jurisdiction.
+10
+11 (v) Notwithstanding paragraphs (iii) and (iv) of
+12 this subsection, a lead state commissioner shall require
+13 the group capital calculation for United States operations
+14 of any non-United States based insurance holding company
+15 system where, after any necessary consultation with other
+16 supervisors or officials, it is deemed appropriate by the
+17 lead state commissioner for prudential oversight and
+18 solvency monitoring purposes or for ensuring the
+19 competitiveness of the insurance marketplace;
+20
+21 (vi) Notwithstanding the exemptions from filing
+22 the group capital calculation stated in paragraphs (i)
+23 through (iv) of this subsection, the lead state
+9 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1 commissioner has the discretion to exempt the ultimate
+2 controlling person from filing the annual group capital
+3 calculation or to accept a limited group capital filing or
+4 report in accordance with criteria as specified by the
+5 commissioner in regulation;
+6
+7 (vii) If the commissioner determines that an
+8 insurance holding company system no longer meets one (1) or
+9 more of the requirements for an exemption from filing the
+10 group capital calculation under this subsection, the
+11 insurance holding company system shall file the group
+12 capital calculation at the next annual filing date unless
+13 given an extension by the lead state commissioner based on
+14 reasonable grounds shown.
+15
+16 (q) The ultimate controlling person of every insurer
+17 subject to registration and also scoped into the NAIC
+18 liquidity stress test framework shall file the results of a
+19 specific year's liquidity stress test. The filing shall be
+20 made to the lead state insurance commissioner of the
+21 insurance holding company system as determined by the
+22 procedures within the financial analysis handbook adopted
+23 by the NAIC, subject to the following:
+10 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1
+2 (i) The NAIC liquidity stress test framework
+3 shall include scope criteria applicable to a specific data
+4 year. These scope criteria shall be reviewed at least
+5 annually by the financial stability task force or its
+6 successor. Any change to the NAIC liquidity stress test
+7 framework or to the data year for which the scope
+8 criteria are to be measured shall be effective on January 1
+9 of the year following the calendar year when the changes
+10 are adopted. Insurers meeting at least one (1) threshold of
+11 the scope criteria are considered scoped into the NAIC
+12 liquidity stress test framework for the specified data year
+13 unless the lead state insurance commissioner, in
+14 consultation with the NAIC financial stability task force
+15 or its successor, determines the insurer should not be
+16 scoped into the framework for that data year. Similarly,
+17 insurers that do not trigger at least one (1) threshold of
+18 the scope criteria shall be considered scoped out of the
+19 NAIC liquidity stress test framework for the specified data
+20 year, unless the lead state insurance commissioner, in
+21 consultation with the NAIC financial stability task force
+22 or its successor, determines the insurer should be scoped
+23 into the framework for that data year;
+11 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1
+2 (ii) The performance of, and filing of the
+3 results from, a specific year's liquidity stress test shall
+4 comply with the NAIC liquidity stress test framework's
+5 instructions and reporting templates for that year and any
+6 lead state insurance commissioner determinations, in
+7 conjunction with the financial stability task force or its
+8 successor, provided within the framework.
+9
+10 26-44-110. Confidential treatment.
+11
+12 (a) All information, documents and copies of the
+13 documents and information obtained by or disclosed to the
+14 commissioner or any other person in the course of an
+15 examination made pursuant to W.S. 26-44-109 and all
+16 information reported pursuant to W.S. 26-44-103(b)(xii) and
+17 (xiii), 26-44-104 through 26-44-108 and 26-44-119 shall be
+18 confidential, shall not be subject to subpoena and shall
+19 not be disclosed by the commissioner, the National
+20 Association of Insurance Commissioners, or any person,
+21 except as authorized by and in accordance with the
+22 provisions of W.S. 26-2-113(d), without the prior written
+23 consent of the insurer to which the information pertains.
+12 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1 The commissioner, after giving the insurer and its
+2 affiliates notice and opportunity to be heard, may
+3 determine that the interest of policyholders, shareholders
+4 or the public will be served by the publication of the
+5 information, in which event he may publish all or any part
+6 of the information as he deems appropriate, except as
+7 provided in this paragraph. The following shall apply to
+8 information reported and provided to the department of
+9 insurance pursuant to W.S. 26-44-104(p) and (q):
+10
+11 (i) For purposes of the information reported and
+12 provided to the department of insurance pursuant to W.S.
+13 26-44-104(p), the commissioner shall maintain the
+14 confidentiality of the group capital calculation and group
+15 capital ratio produced within the calculation and any group
+16 capital information received from an insurance holding
+17 company supervised by the United States federal reserve
+18 board or any United States group wide supervisor;
+19
+20 (ii) For purposes of the information reported and
+21 provided to the department of insurance pursuant to W.S.
+22 26-44-104(q), the commissioner shall maintain the
+23 confidentiality of the liquidity stress test results and
+13 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1 supporting disclosures and any liquidity stress test
+2 information received from an insurance holding company
+3 supervised by the United States federal reserve board and
+4 non-United States group wide supervisors.
+5
+6 (d) In addition to any other authorities provided by
+7 law, the commissioner shall enter into written agreements
+8 with the NAIC governing sharing and use of information
+9 provided pursuant to this act consistent with this
+10 subsection which shall:
+11
+12 (i) Specify procedures and protocols regarding
+13 the confidentiality and security of information shared with
+14 the NAIC and its affiliates and subsidiaries or a
+15 third-party consultant designated by the commissioner
+16 pursuant to this act, including procedures and protocols
+17 for sharing by the NAIC with other state, federal or
+18 international regulators. The agreement shall provide that
+19 the recipient agrees in writing to maintain the
+20 confidentiality and privileged status of the documents,
+21 materials or other information and has verified in writing
+22 the legal authority to maintain such confidentiality;
+23
+14 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1 (ii) Specify that ownership of information
+2 shared with the NAIC and its affiliates and subsidiaries or
+3 a third-party consultant designated by the commissioner
+4 pursuant to this act remains with the commissioner and the
+5 NAIC's or a third-party consultant as designated by the
+6 commissioner's use of the information is subject to the
+7 direction of the commissioner;
+8
+9 (iii) Require prompt notice to be given to an
+10 insurer whose confidential information in the possession of
+11 the NAIC or a third-party consultant designated by the
+12 commissioner pursuant to this act is subject to a request
+13 or subpoena to the NAIC or a third-party consultant
+14 designated by the commissioner for disclosure or
+15 production; and
+16
+17 (iv) Require the NAIC and its affiliates and
+18 subsidiaries or a third-party consultant designated by the
+19 commissioner to consent to intervention by an insurer in
+20 any judicial or administrative action in which the NAIC and
+21 its affiliates and subsidiaries or a third-party consultant
+22 designated by the commissioner may be required to disclose
+23 confidential information about the insurer shared with the
+15 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1 NAIC and its affiliates and subsidiaries or a third-party
+2 consultant designated by the commissioner pursuant to this
+3 chapter;.
+4
+5 (v) Excluding documents, material or information
+6 reported pursuant to W.S. 26-44-104(q), prohibit the NAIC
+7 or third-party consultant designated by the commissioner
+8 from storing the information shared pursuant to this act in
+9 a permanent database after the underlying analysis is
+10 completed;
+11
+12 (vi) For documents, material or information
+13 reported pursuant to W.S. 26-44-104(q), in the case of an
+14 agreement involving a third-party consultant designated by
+15 the commissioner, provide for notification of the identity
+16 of the third-party consultant designated by the
+17 commissioner to the applicable insurers.
+18
+19 (g) Documents, materials or other information in the
+20 possession or control of the NAIC or a third-party
+21 consultant designated by the commissioner pursuant to this
+22 chapter shall be confidential by law and privileged, shall
+23 not be a public record under W.S. 16-4-201 through
+16 SF0050
+
+2025 STATE OF WYOMING 25LSO-0007
+1 16-4-205, shall not be subject to subpoena and shall not be
+2 subject to discovery or admissible in evidence in any
+3 private civil action.
+4
+5 Section 3. The department of insurance shall
+6 promulgate all rules necessary to implement this act.
+7
+8 Section 4.
+9
+10 (a) Except as otherwise provided by subsection (b) of
+11 this section, this act is effective July 1, 2025.
+12
+13 (b) Sections 3 and 4 of this act are effective
+14 immediately upon completion of all acts necessary for a
+15 bill to become law as provided by Article 4, Section 8 of
+16 the Wyoming Constitution.
+17
+18 (END)
+17 SF0050

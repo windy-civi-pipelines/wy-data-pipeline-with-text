@@ -1,0 +1,774 @@
+Title: HOUSE BILL NO. HB0016
+Official Title: HOUSE BILL NO. HB0016
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0253
+Used nuclear fuel storage-amendments.
+Sponsored by: Joint Minerals, Business & Economic
+Development Interim Committee
+A BILL
+for
+1 AN ACT relating to environmental quality; establishing
+2 requirements and standards for the storage of used nuclear
+3 fuel; amending siting requirements for used nuclear fuel
+4 storage facilities; providing definitions; making
+5 conforming amendments; repealing obsolete provisions;
+6 requiring rulemaking; and providing for effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 35-11-2201 and 35-11-2202 are created
+11 to read:
+12
+13 ARTICLE 22
+14 USED NUCLEAR FUEL STORAGE
+15
+1 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 35-11-2201. Definitions.
+2
+3 (a) As used in this article:
+4
+5 (i) "Consolidated interim storage facility"
+6 means a facility that stores used nuclear fuel that is
+7 reviewed for and receives any required specific licenses
+8 from the United States nuclear regulatory commission under
+9 title 10 of the Code of Federal Regulations, part 72;
+10
+11 (ii) "Dry cask storage" means the storage of
+12 used nuclear fuel that has been cooled utilizing
+13 containers, including any components and systems associated
+14 with the containers, that use a realistic security, seismic
+15 and flooding design basis for the storage of used nuclear
+16 fuel;
+17
+18 (iii) "Independent used fuel storage
+19 installation" means an independent spent fuel storage
+20 installation as defined by title 10 of the Code of Federal
+21 Regulations, part 72, section 3;
+22
+2 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 (iv) "Installation" means an independent used
+2 fuel storage installation and a consolidated interim
+3 storage facility;
+4
+5 (v) "Used nuclear fuel" means fuel that has been
+6 withdrawn from a nuclear reactor following irradiation, the
+7 constituent elements of which have not been separated by
+8 reprocessing. "Used nuclear fuel" includes the special
+9 nuclear material, byproduct material, source material and
+10 other radioactive materials associated with fuel
+11 assemblies.
+12
+13 35-11-2202. Used nuclear fuel storage installation;
+14 application; siting requirements; funds.
+15
+16 (a) Any person undertaking the siting of an
+17 installation shall do so in accordance with this article.
+18
+19 (b) Any person undertaking the siting of any
+20 installation governed by this article shall submit an
+21 application to the department before commencing
+22 construction of the installation. The application shall
+23 include:
+3 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1
+2 (i) A copy of any application and other
+3 materials submitted to the United States nuclear regulatory
+4 commission;
+5
+6 (ii) A copy of any license granted to the
+7 applicant for the installation from the United States
+8 nuclear regulatory commission;
+9
+10 (iii) An acknowledgment in writing that the
+11 installation will be temporary and will use dry cask
+12 storage for the storage of only used nuclear fuel that
+13 originates from a nuclear facility in the United States;
+14
+15 (iv) To the extent that the following
+16 information is not submitted to the department under
+17 paragraphs (i) or (ii) of this subsection, the following
+18 information:
+19
+20 (A) The criteria upon which the proposed
+21 installation site was chosen, and information showing how
+22 the site meets the criteria of the nuclear regulatory
+23 commission and the department;
+4 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1
+2 (B) The technical feasibility of the
+3 proposed storage equipment and technology;
+4
+5 (C) The environmental, social and economic
+6 impact of the installation in the area of study;
+7
+8 (D) Conformance with the federal guidelines
+9 for an installation.
+10
+11 (c) Upon receiving an application and the information
+12 required under subsection (b) of this section, the
+13 department, through the director, shall approve the
+14 application for an installation:
+15
+16 (i) Upon satisfactory proof to the department
+17 that the applicant has obtained a license for an
+18 installation from the United States nuclear regulatory
+19 commission and is otherwise in compliance with this
+20 article;
+21
+22 (ii) That uses dry cask storage; and
+23
+5 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 (iii) That is temporary. The department shall
+2 receive substantial assurances from the applicant that the
+3 installation is temporary, including a license that is
+4 time-limited from the United States nuclear regulatory
+5 commission or other substantial assurances options
+6 including a time frame for the movement of the used nuclear
+7 fuel to be stored from the installation to a permanent
+8 repository, delivery of the used nuclear fuel for
+9 reprocessing or to a purchaser of used nuclear fuel for
+10 reprocessing.
+11
+12 (d) Installations approved under this article are
+13 exempt from the jurisdiction of the Industrial Development
+14 Information and Siting Act.
+15
+16 (e) Not less than thirty (30) days before a person
+17 commences construction on an installation, the person shall
+18 submit a report to the department that includes:
+19
+20 (i) The number of jobs that will be created in
+21 the planning, licensing, site analysis, preparation,
+22 purchasing, construction, transportation, operation and
+6 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 decommissioning of the installation and what number of
+2 those jobs would be filled by Wyoming residents;
+3
+4 (ii) Local and state taxes that are estimated to
+5 be generated by all aspects of the construction, operation
+6 and decommissioning of the installation;
+7
+8 (iii) All benefits and impacts that will accrue
+9 to the state and local community where the installation
+10 will be located, including benefits from job training,
+11 education, communications systems, monitoring and security
+12 systems.
+13
+14 (f) The operator of each installation shall send to
+15 the department copies of all publicly available reports,
+16 notifications and violations sent to or from the United
+17 States nuclear regulatory commission or the operator of the
+18 installation as soon as practicable but not later than five
+19 (5) days after the operator sends or receives the report.
+20 The operator shall also transmit all information required
+21 under this subsection to emergency management departments
+22 of the local governments where the installation is located
+7 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 and shall make the information available on a public
+2 website.
+3
+4 (g) Upon receipt of an application under this
+5 article, the director shall, as soon as possible, apply for
+6 any funds that may be available to the state from the
+7 federal interim storage fund, the federal nuclear waste
+8 fund and any other funds that are or may become available
+9 to the state under any federal or state program. Nothing in
+10 this subsection shall be construed to authorize the siting,
+11 construction or operation of any installation not otherwise
+12 authorized under this article.
+13
+14 (h) Any used nuclear fuel in storage at an
+15 installation shall remain the property of the generator of
+16 the used nuclear fuel or the civilian nuclear power reactor
+17 owner, until the used nuclear fuel is transferred to
+18 permanent storage or until the United States or a federal
+19 agency takes title to the used nuclear fuel under the
+20 federal Nuclear Waste Policy Act or other applicable
+21 federal law.
+22
+8 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 (j) This article shall be construed to avoid
+2 duplication and to avoid interference with any of the
+3 requirements of the United States nuclear regulatory
+4 commission. Nothing in this article shall be deemed to
+5 affect the authority of the United States nuclear
+6 regulatory commission.
+7
+8 Section 2. W.S. 35-11-103(a)(xiii), 35-11-1501(a)(i)
+9 through (iii), 35-11-1506(c)(intro), (iv), (x) through
+10 (xii) and (e)(i)(A) and 35-11-2101(b) and (d)(iv) are
+11 amended to read:
+12
+13 35-11-103. Definitions.
+14
+15 (a) For the purpose of this act, unless the context
+16 otherwise requires:
+17
+18 (xiii) "This act" means W.S. 35-11-101 through
+19 35-11-403, 35-11-405, 35-11-406, 35-11-408 through
+20 35-11-1106, 35-11-1414 through 35-11-1432, 35-11-1601
+21 through 35-11-1613, 35-11-1701, 35-11-1801 through
+22 35-11-1803, 35-11-2001 through 35-11-2004, and 35-11-2101,
+23 35-11-2201 and 35-11-2202.
+9 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1
+2 35-11-1501. Definitions.
+3
+4 (a) As used in this article:
+5
+6 (i) "High-level radioactive waste" means as
+7 defined in the "Nuclear Waste Policy Act of 1982" as
+8 amended, 42 U.S.C. 10101 et seq. "High-level radioactive
+9 waste" does not include used nuclear fuel as defined by
+10 W.S. 35-11-2201(a)(v);
+11
+12 (ii) "High-level radioactive waste storage"
+13 means the emplacement of high-level radioactive waste, or
+14 spent nuclear fuel regardless of the intent to recover that
+15 waste or fuel for subsequent use, processing or disposal;
+16
+17 (iii) "High-level radioactive waste storage
+18 facility" includes any facility for high-level radioactive
+19 waste storage, other than a permanent repository operated
+20 by a federal agency pursuant to the Nuclear Waste Policy
+21 Act of 1982, as amended. "High-level radioactive waste
+22 storage facility" includes an independent spent fuel
+10 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 storage installation as defined in title 10 of the Code of
+2 Federal Regulations part 72 section 3;
+3
+4 35-11-1506. Legislative approval of the siting of
+5 high-level radioactive waste storage facilities;
+6 conditions.
+7
+8 (c) With permission of the governor and the
+9 management council, an applicant for either a monitored
+10 retrievable storage facility or an independent spent fuel
+11 storage installation may enter into a preliminary but
+12 nonbinding feasibility agreement and study with the
+13 director which shall be submitted to and reviewed by the
+14 director, governor and the management council. The public
+15 shall be afforded a thirty (30) day public comment
+16 opportunity to review the feasibility agreement prior to
+17 its submission to the governor and the management council.
+18 The purposes of this feasibility agreement and study are to
+19 allow the state to make a preliminary determination,
+20 whether, on the basis of the feasibility agreement and
+21 study, the proposed benefits substantially outweigh any
+22 adverse effects and to allow an applicant based on the
+23 state's preliminary review of any proposed benefit to
+11 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 determine whether or not a prudent investor, planner,
+2 builder and operator would decide to proceed with an
+3 application. Upon entering into a feasibility agreement,
+4 the applicant shall pay to the state a fee of eighty
+5 thousand dollars ($80,000.00). Effective July 1, 2018, and
+6 annually thereafter, the fee shall be adjusted for
+7 inflation by the department using the consumer price index
+8 or its successor index of the United States department of
+9 labor, bureau of labor statistics, for the calendar year
+10 immediately preceding the date of adjustment. The fee shall
+11 be used by the department for costs attendant to the
+12 preliminary agreement. Excess funds collected may be used
+13 by the department to review an application submitted under
+14 W.S. 35-11-1502. Appropriate time shall be afforded the
+15 director, the governor, the management council and the
+16 applicant to prepare and to evaluate the preliminary
+17 agreement and study, but neither the state nor the
+18 applicant shall unnecessarily delay the feasibility
+19 agreement and study. The preliminary feasibility agreement
+20 and study shall not supersede nor replace other
+21 requirements under this act. This agreement and study shall
+22 set forth the following:
+23
+12 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 (iv) The preliminary design plan and technical
+2 feasibility of the planned temporary fuel rod high-level
+3 radioactive waste storage facility;
+4
+5 (x) Substantial assurances that the facility is
+6 temporary, including options for that assurance including a
+7 time frame for the movement of the temporarily stored fuel
+8 rods high-level radioactive waste to a permanent
+9 repository, delivery of the stored rods high-level
+10 radioactive waste to reprocessing centers or to a
+11 purchaser, domestic or foreign, buying the rods waste for
+12 future reprocessing;
+13
+14 (xi) A range of benefits the nearby communities
+15 and the state might expect in return for temporarily
+16 storing the fuel rods high-level radioactive waste, and a
+17 best estimate of when the benefits might begin to be
+18 received by the nearby communities and state;
+19
+20 (xii) A mutual review, by the state and
+21 applicant, of a range of taxes the state might reasonably
+22 impose on the facility and the fuel rods high-level
+23 radioactive waste while they are in temporary storage
+13 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 including the annual acceptance taxes to be levied, on fuel
+2 rods, based upon the weight, in kilograms, of fuel rods the
+3 high-level radioactive waste stored at the Wyoming
+4 facility;
+5
+6 (e) The legislature hereby authorizes the siting of
+7 temporary high-level radioactive waste storage facilities
+8 within this state subject to the following:
+9
+10 (i) A facility is authorized if:
+11
+12 (A) It is operated on the site of and to
+13 store the high-level radioactive waste or spent nuclear
+14 fuel produced by a nuclear power generation facility
+15 operating within the state;
+16
+17 35-11-2101. Advanced nuclear reactors; requirements.
+18
+19 (b) Any person operating an advanced nuclear reactor
+20 in the state of Wyoming in accordance with this section
+21 shall not store spent used nuclear fuel or high-level
+22 radioactive waste from the advanced nuclear reactor on the
+23 site of the advanced nuclear reactor without first meeting
+14 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 all of the requirements of the United States Nuclear
+2 Regulatory Commission.
+3
+4 (d) As used in this section:
+5
+6 (iv) "Spent Used nuclear fuel" means as defined
+7 in W.S. 35-11-1501(a)(iv) 35-11-2201(a)(v).
+8
+9 Section 3. W.S. 35-11-1501(a)(iv) is repealed.
+10
+11 Section 4. The environmental quality council, upon
+12 recommendation from the department of environmental
+13 quality, shall promulgate all rules necessary to implement
+14 this act.
+15
+15 HB0016
+2025 STATE OF WYOMING 25LSO-0253
+1 Section 5.
+2
+3 (a) Except as provided in subsection (b) of this
+4 section, this act is effective July 1, 2025.
+5
+6 (b) Sections 4 and 5 of this act are effective
+7 immediately upon completion of all acts necessary for a
+8 bill to become law as provided by Article 4, Section 8 of
+9 the Wyoming Constitution.
+10
+11 (END)
+16 HB0016
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0253
+HOUSE BILL NO. HB0016
+Used nuclear fuel storage-amendments.
+Sponsored by: Joint Minerals, Business & Economic
+Development Interim Committee
+A BILL
+for
+1 AN ACT relating to environmental quality; establishing
+2 requirements and standards for the storage of used nuclear
+3 fuel; amending siting requirements for used nuclear fuel
+4 storage facilities; providing definitions; making
+5 conforming amendments; repealing obsolete provisions;
+6 requiring rulemaking; and providing for effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 35-11-2201 and 35-11-2202 are created
+11 to read:
+12
+13 ARTICLE 22
+14 USED NUCLEAR FUEL STORAGE
+15
+1 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 35-11-2201. Definitions.
+2
+3 (a) As used in this article:
+4
+5 (i) "Consolidated interim storage facility"
+6 means a facility that stores used nuclear fuel that is
+7 reviewed for and receives any required specific licenses
+8 from the United States nuclear regulatory commission under
+9 title 10 of the Code of Federal Regulations, part 72;
+10
+11 (ii) "Dry cask storage" means the storage of
+12 used nuclear fuel that has been cooled utilizing
+13 containers, including any components and systems associated
+14 with the containers, that use a realistic security, seismic
+15 and flooding design basis for the storage of used nuclear
+16 fuel;
+17
+18 (iii) "Independent used fuel storage
+19 installation" means an independent spent fuel storage
+20 installation as defined by title 10 of the Code of Federal
+21 Regulations, part 72, section 3;
+22
+2 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 (iv) "Installation" means an independent used
+2 fuel storage installation and a consolidated interim
+3 storage facility;
+4
+5 (v) "Used nuclear fuel" means fuel that has been
+6 withdrawn from a nuclear reactor following irradiation, the
+7 constituent elements of which have not been separated by
+8 reprocessing. "Used nuclear fuel" includes the special
+9 nuclear material, byproduct material, source material and
+10 other radioactive materials associated with fuel
+11 assemblies.
+12
+13 35-11-2202. Used nuclear fuel storage installation;
+14 application; siting requirements; funds.
+15
+16 (a) Any person undertaking the siting of an
+17 installation shall do so in accordance with this article.
+18
+19 (b) Any person undertaking the siting of any
+20 installation governed by this article shall submit an
+21 application to the department before commencing
+22 construction of the installation. The application shall
+23 include:
+3 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1
+2 (i) A copy of any application and other
+3 materials submitted to the United States nuclear regulatory
+4 commission;
+5
+6 (ii) A copy of any license granted to the
+7 applicant for the installation from the United States
+8 nuclear regulatory commission;
+9
+10 (iii) An acknowledgment in writing that the
+11 installation will be temporary and will use dry cask
+12 storage for the storage of only used nuclear fuel that
+13 originates from a nuclear facility in the United States;
+14
+15 (iv) To the extent that the following
+16 information is not submitted to the department under
+17 paragraphs (i) or (ii) of this subsection, the following
+18 information:
+19
+20 (A) The criteria upon which the proposed
+21 installation site was chosen, and information showing how
+22 the site meets the criteria of the nuclear regulatory
+23 commission and the department;
+4 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1
+2 (B) The technical feasibility of the
+3 proposed storage equipment and technology;
+4
+5 (C) The environmental, social and economic
+6 impact of the installation in the area of study;
+7
+8 (D) Conformance with the federal guidelines
+9 for an installation.
+10
+11 (c) Upon receiving an application and the information
+12 required under subsection (b) of this section, the
+13 department, through the director, shall approve the
+14 application for an installation:
+15
+16 (i) Upon satisfactory proof to the department
+17 that the applicant has obtained a license for an
+18 installation from the United States nuclear regulatory
+19 commission and is otherwise in compliance with this
+20 article;
+21
+22 (ii) That uses dry cask storage; and
+23
+5 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 (iii) That is temporary. The department shall
+2 receive substantial assurances from the applicant that the
+3 installation is temporary, including a license that is
+4 time-limited from the United States nuclear regulatory
+5 commission or other substantial assurances options
+6 including a time frame for the movement of the used nuclear
+7 fuel to be stored from the installation to a permanent
+8 repository, delivery of the used nuclear fuel for
+9 reprocessing or to a purchaser of used nuclear fuel for
+10 reprocessing.
+11
+12 (d) Installations approved under this article are
+13 exempt from the jurisdiction of the Industrial Development
+14 Information and Siting Act.
+15
+16 (e) Not less than thirty (30) days before a person
+17 commences construction on an installation, the person shall
+18 submit a report to the department that includes:
+19
+20 (i) The number of jobs that will be created in
+21 the planning, licensing, site analysis, preparation,
+22 purchasing, construction, transportation, operation and
+6 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 decommissioning of the installation and what number of
+2 those jobs would be filled by Wyoming residents;
+3
+4 (ii) Local and state taxes that are estimated to
+5 be generated by all aspects of the construction, operation
+6 and decommissioning of the installation;
+7
+8 (iii) All benefits and impacts that will accrue
+9 to the state and local community where the installation
+10 will be located, including benefits from job training,
+11 education, communications systems, monitoring and security
+12 systems.
+13
+14 (f) The operator of each installation shall send to
+15 the department copies of all publicly available reports,
+16 notifications and violations sent to or from the United
+17 States nuclear regulatory commission or the operator of the
+18 installation as soon as practicable but not later than five
+19 (5) days after the operator sends or receives the report.
+20 The operator shall also transmit all information required
+21 under this subsection to emergency management departments
+22 of the local governments where the installation is located
+7 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 and shall make the information available on a public
+2 website.
+3
+4 (g) Upon receipt of an application under this
+5 article, the director shall, as soon as possible, apply for
+6 any funds that may be available to the state from the
+7 federal interim storage fund, the federal nuclear waste
+8 fund and any other funds that are or may become available
+9 to the state under any federal or state program. Nothing in
+10 this subsection shall be construed to authorize the siting,
+11 construction or operation of any installation not otherwise
+12 authorized under this article.
+13
+14 (h) Any used nuclear fuel in storage at an
+15 installation shall remain the property of the generator of
+16 the used nuclear fuel or the civilian nuclear power reactor
+17 owner, until the used nuclear fuel is transferred to
+18 permanent storage or until the United States or a federal
+19 agency takes title to the used nuclear fuel under the
+20 federal Nuclear Waste Policy Act or other applicable
+21 federal law.
+22
+8 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 (j) This article shall be construed to avoid
+2 duplication and to avoid interference with any of the
+3 requirements of the United States nuclear regulatory
+4 commission. Nothing in this article shall be deemed to
+5 affect the authority of the United States nuclear
+6 regulatory commission.
+7
+8 Section 2. W.S. 35-11-103(a)(xiii), 35-11-1501(a)(i)
+9 through (iii), 35-11-1506(c)(intro), (iv), (x) through
+10 (xii) and (e)(i)(A) and 35-11-2101(b) and (d)(iv) are
+11 amended to read:
+12
+13 35-11-103. Definitions.
+14
+15 (a) For the purpose of this act, unless the context
+16 otherwise requires:
+17
+18 (xiii) "This act" means W.S. 35-11-101 through
+19 35-11-403, 35-11-405, 35-11-406, 35-11-408 through
+20 35-11-1106, 35-11-1414 through 35-11-1432, 35-11-1601
+21 through 35-11-1613, 35-11-1701, 35-11-1801 through
+22 35-11-1803, 35-11-2001 through 35-11-2004, and 35-11-2101,
+23 35-11-2201 and 35-11-2202.
+9 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1
+2 35-11-1501. Definitions.
+3
+4 (a) As used in this article:
+5
+6 (i) "High-level radioactive waste" means as
+7 defined in the "Nuclear Waste Policy Act of 1982" as
+8 amended, 42 U.S.C. 10101 et seq. "High-level radioactive
+9 waste" does not include used nuclear fuel as defined by
+10 W.S. 35-11-2201(a)(v);
+11
+12 (ii) "High-level radioactive waste storage"
+13 means the emplacement of high-level radioactive waste, or
+14 spent nuclear fuel regardless of the intent to recover that
+15 waste or fuel for subsequent use, processing or disposal;
+16
+17 (iii) "High-level radioactive waste storage
+18 facility" includes any facility for high-level radioactive
+19 waste storage, other than a permanent repository operated
+20 by a federal agency pursuant to the Nuclear Waste Policy
+21 Act of 1982, as amended. "High-level radioactive waste
+22 storage facility" includes an independent spent fuel
+10 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 storage installation as defined in title 10 of the Code of
+2 Federal Regulations part 72 section 3;
+3
+4 35-11-1506. Legislative approval of the siting of
+5 high-level radioactive waste storage facilities;
+6 conditions.
+7
+8 (c) With permission of the governor and the
+9 management council, an applicant for either a monitored
+10 retrievable storage facility or an independent spent fuel
+11 storage installation may enter into a preliminary but
+12 nonbinding feasibility agreement and study with the
+13 director which shall be submitted to and reviewed by the
+14 director, governor and the management council. The public
+15 shall be afforded a thirty (30) day public comment
+16 opportunity to review the feasibility agreement prior to
+17 its submission to the governor and the management council.
+18 The purposes of this feasibility agreement and study are to
+19 allow the state to make a preliminary determination,
+20 whether, on the basis of the feasibility agreement and
+21 study, the proposed benefits substantially outweigh any
+22 adverse effects and to allow an applicant based on the
+23 state's preliminary review of any proposed benefit to
+11 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 determine whether or not a prudent investor, planner,
+2 builder and operator would decide to proceed with an
+3 application. Upon entering into a feasibility agreement,
+4 the applicant shall pay to the state a fee of eighty
+5 thousand dollars ($80,000.00). Effective July 1, 2018, and
+6 annually thereafter, the fee shall be adjusted for
+7 inflation by the department using the consumer price index
+8 or its successor index of the United States department of
+9 labor, bureau of labor statistics, for the calendar year
+10 immediately preceding the date of adjustment. The fee shall
+11 be used by the department for costs attendant to the
+12 preliminary agreement. Excess funds collected may be used
+13 by the department to review an application submitted under
+14 W.S. 35-11-1502. Appropriate time shall be afforded the
+15 director, the governor, the management council and the
+16 applicant to prepare and to evaluate the preliminary
+17 agreement and study, but neither the state nor the
+18 applicant shall unnecessarily delay the feasibility
+19 agreement and study. The preliminary feasibility agreement
+20 and study shall not supersede nor replace other
+21 requirements under this act. This agreement and study shall
+22 set forth the following:
+23
+12 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 (iv) The preliminary design plan and technical
+2 feasibility of the planned temporary fuel rod high-level
+3 radioactive waste storage facility;
+4
+5 (x) Substantial assurances that the facility is
+6 temporary, including options for that assurance including a
+7 time frame for the movement of the temporarily stored fuel
+8 rods high-level radioactive waste to a permanent
+9 repository, delivery of the stored rods high-level
+10 radioactive waste to reprocessing centers or to a
+11 purchaser, domestic or foreign, buying the rods waste for
+12 future reprocessing;
+13
+14 (xi) A range of benefits the nearby communities
+15 and the state might expect in return for temporarily
+16 storing the fuel rods high-level radioactive waste, and a
+17 best estimate of when the benefits might begin to be
+18 received by the nearby communities and state;
+19
+20 (xii) A mutual review, by the state and
+21 applicant, of a range of taxes the state might reasonably
+22 impose on the facility and the fuel rods high-level
+23 radioactive waste while they are in temporary storage
+13 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 including the annual acceptance taxes to be levied, on fuel
+2 rods, based upon the weight, in kilograms, of fuel rods the
+3 high-level radioactive waste stored at the Wyoming
+4 facility;
+5
+6 (e) The legislature hereby authorizes the siting of
+7 temporary high-level radioactive waste storage facilities
+8 within this state subject to the following:
+9
+10 (i) A facility is authorized if:
+11
+12 (A) It is operated on the site of and to
+13 store the high-level radioactive waste or spent nuclear
+14 fuel produced by a nuclear power generation facility
+15 operating within the state;
+16
+17 35-11-2101. Advanced nuclear reactors; requirements.
+18
+19 (b) Any person operating an advanced nuclear reactor
+20 in the state of Wyoming in accordance with this section
+21 shall not store spent used nuclear fuel or high-level
+22 radioactive waste from the advanced nuclear reactor on the
+23 site of the advanced nuclear reactor without first meeting
+14 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 all of the requirements of the United States Nuclear
+2 Regulatory Commission.
+3
+4 (d) As used in this section:
+5
+6 (iv) "Spent Used nuclear fuel" means as defined
+7 in W.S. 35-11-1501(a)(iv) 35-11-2201(a)(v).
+8
+9 Section 3. W.S. 35-11-1501(a)(iv) is repealed.
+10
+11 Section 4. The environmental quality council, upon
+12 recommendation from the department of environmental
+13 quality, shall promulgate all rules necessary to implement
+14 this act.
+15
+15 HB0016
+
+2025 STATE OF WYOMING 25LSO-0253
+1 Section 5.
+2
+3 (a) Except as provided in subsection (b) of this
+4 section, this act is effective July 1, 2025.
+5
+6 (b) Sections 4 and 5 of this act are effective
+7 immediately upon completion of all acts necessary for a
+8 bill to become law as provided by Article 4, Section 8 of
+9 the Wyoming Constitution.
+10
+11 (END)
+16 HB0016

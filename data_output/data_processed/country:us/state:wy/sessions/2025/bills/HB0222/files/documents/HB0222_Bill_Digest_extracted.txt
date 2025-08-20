@@ -1,0 +1,107 @@
+Title: Sponsored By: Representative(s) Ottman and Singh and Senator(s)
+Official Title: Sponsored By: Representative(s) Ottman and Singh and Senator(s)
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0222 Medical Ethics Defense Act-2.
+Hutchings, Pearson and Steinmetz
+AN ACT relating to public health and safety; allowing health care professionals,
+health care institutions and health care payers the right not to participate in
+or pay for health care services as specified; authorizing religious-based health
+care organizations to make decisions consistent with religious beliefs;
+prohibiting discrimination for making health care decisions based on conscience;
+prohibiting adverse licensing actions based on protected expressive activity;
+specifying liability and damages for notice requirements; providing immunity;
+providing definitions; specifying applicability; requiring rulemaking; and
+providing for effective dates.
+1/16/2025 Bill Number Assigned
+1/17/2025 H Received for Introduction
+1/27/2025 H Introduced and Referred to H10 - Labor
+2/3/2025 H10 - Labor:Recommend Do Pass 7-1-0-1-0
+ROLL CALL
+Ayes: Representative(s) Clouston, Guggenmos, Hoeft, Mccann, Ottman, Rodriguez-
+Williams, Wasserburger
+Nays: Representative Yin
+Absent: Representative Styvar
+Ayes 7 Nays 1 Excused 0 Absent 1 Conflicts 0
+2/3/2025 H Placed on General File
+2/10/2025 H COW:Passed
+2/11/2025 H 2nd Reading:Passed
+2/12/2025 H 3rd Reading:Passed 51-9-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, K, Clouston, Connolly, Davis, Eklund,
+Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Hoeft,
+Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann,
+Neiman, Ottman, Pendergraft, Posey, Rodriguez-Williams, Schmid, Singh, Strock,
+Styvar, Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams,
+Winter, Wylie
+Nays: Representative(s) Brown, L, Campbell, E, Chestek, Jarvis, Nicholas,
+Provenza, Sherwood, Storer, Yin
+Excused: Representative(s) Riggins, Smith
+Ayes 51 Nays 9 Excused 2 Absent 0 Conflicts 0
+2/12/2025 S Received for Introduction
+2/18/2025 S Introduced and Referred to S10 - Labor
+2/27/2025 S10 - Labor:Do Pass Failed 2-3-0-0-0
+ROLL CALL
+Ayes: Senator(s) Hutchings, Steinmetz
+Nays: Senator(s) Barlow, Crum, Scott
+Ayes 2 Nays 3 Excused 0 Absent 0 Conflicts 0
+2/28/2025 S No report prior to CoW Cutoff
+3/3/2025 S:Died in Committee Returned Bill Pursuant to SR 5-4
+
+
+================================================================================
+
+Raw Text:
+HB0222 Medical Ethics Defense Act-2.
+Sponsored By: Representative(s) Ottman and Singh and Senator(s)
+Hutchings, Pearson and Steinmetz
+AN ACT relating to public health and safety; allowing health care professionals,
+health care institutions and health care payers the right not to participate in
+or pay for health care services as specified; authorizing religious-based health
+care organizations to make decisions consistent with religious beliefs;
+prohibiting discrimination for making health care decisions based on conscience;
+prohibiting adverse licensing actions based on protected expressive activity;
+specifying liability and damages for notice requirements; providing immunity;
+providing definitions; specifying applicability; requiring rulemaking; and
+providing for effective dates.
+1/16/2025 Bill Number Assigned
+1/17/2025 H Received for Introduction
+1/27/2025 H Introduced and Referred to H10 - Labor
+2/3/2025 H10 - Labor:Recommend Do Pass 7-1-0-1-0
+ROLL CALL
+Ayes: Representative(s) Clouston, Guggenmos, Hoeft, Mccann, Ottman, Rodriguez-
+Williams, Wasserburger
+Nays: Representative Yin
+Absent: Representative Styvar
+Ayes 7 Nays 1 Excused 0 Absent 1 Conflicts 0
+2/3/2025 H Placed on General File
+2/10/2025 H COW:Passed
+2/11/2025 H 2nd Reading:Passed
+2/12/2025 H 3rd Reading:Passed 51-9-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, K, Clouston, Connolly, Davis, Eklund,
+Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Hoeft,
+Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann,
+Neiman, Ottman, Pendergraft, Posey, Rodriguez-Williams, Schmid, Singh, Strock,
+Styvar, Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams,
+Winter, Wylie
+Nays: Representative(s) Brown, L, Campbell, E, Chestek, Jarvis, Nicholas,
+Provenza, Sherwood, Storer, Yin
+Excused: Representative(s) Riggins, Smith
+Ayes 51 Nays 9 Excused 2 Absent 0 Conflicts 0
+2/12/2025 S Received for Introduction
+2/18/2025 S Introduced and Referred to S10 - Labor
+2/27/2025 S10 - Labor:Do Pass Failed 2-3-0-0-0
+ROLL CALL
+Ayes: Senator(s) Hutchings, Steinmetz
+Nays: Senator(s) Barlow, Crum, Scott
+Ayes 2 Nays 3 Excused 0 Absent 0 Conflicts 0
+2/28/2025 S No report prior to CoW Cutoff
+3/3/2025 S:Died in Committee Returned Bill Pursuant to SR 5-4

@@ -1,0 +1,170 @@
+Title: Uniform commercial code-investment securities amendments.
+Official Title: Uniform commercial code-investment securities amendments.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0784
+SENATE FILE NO. SF0189
+Sponsored by: Senator(s) Biteman
+A BILL
+for
+1 AN ACT relating to the uniform commercial code; clarifying
+2 rules for the applicability of the code for investment
+3 securities; amending priority rules for securities
+4 intermediaries; making conforming amendments; repealing
+5 priority rules and applicability rules related to
+6 securities intermediaries; and providing for an effective
+7 date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 34.1-8-110(b)(intro), 34.1-8-503(a),
+12 34.1-8-511(a) and 34.1-9-305(a)(iii) are amended to
+13 read:
+14
+15 34.1-8-110. Applicability; choice of law.
+16
+1 SF0189
+2025 STATE OF WYOMING 25LSO-0784
+1 (b) The local law of the securities intermediary's
+2 jurisdiction, as specified in subsection (e) of this
+3 section, state governs:
+4
+5 34.1-8-503. Property interest of entitlement holder
+6 in financial asset held by securities intermediary.
+7
+8 (a) To the extent necessary for a securities
+9 intermediary to satisfy all security entitlements with
+10 respect to a particular financial asset, all interests in
+11 that financial asset held by the securities intermediary
+12 are held by the securities intermediary for the entitlement
+13 holders, are not property of the securities intermediary,
+14 and are not subject to claims of creditors of the
+15 securities intermediary., except as otherwise provided in
+16 W.S. 34.1-8-511.
+17
+18 34.1-8-511. Priority among security interests and
+19 entitlement holders.
+20
+21 (a) Except as otherwise provided in subsections (b)
+22 and (c) of this section, If a securities intermediary does
+23 not have sufficient interests in a particular financial
+2 SF0189
+2025 STATE OF WYOMING 25LSO-0784
+1 asset to satisfy both its obligations to entitlement
+2 holders who have security entitlements to that financial
+3 asset and its obligation to a creditor of the securities
+4 intermediary who has a security interest in that financial
+5 asset, the claims of entitlement holders, other than the
+6 creditor, have priority over the claim of the creditor.
+7
+8 34.1-9-305. Law governing perfection and priority of
+9 security interests in investment property.
+10
+11 (a) Except as otherwise provided in subsection (c),
+12 the following rules apply:
+13
+14 (iii) The local law of the securities
+15 intermediary's jurisdiction as specified in section
+16 34.1-8-110(e) this state governs perfection, the effect of
+17 perfection or nonperfection and the priority of a security
+18 interest in a security entitlement or securities account;
+19
+20 Section 2. W.S. 34.1-8-110(e) and (f) and
+21 34.1-8-511(b) and (c) are repealed.
+22
+3 SF0189
+2025 STATE OF WYOMING 25LSO-0784
+1 Section 3. This act is effective July 1, 2025.
+2
+3 (END)
+4 SF0189
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0784
+SENATE FILE NO. SF0189
+Uniform commercial code-investment securities amendments.
+Sponsored by: Senator(s) Biteman
+A BILL
+for
+1 AN ACT relating to the uniform commercial code; clarifying
+2 rules for the applicability of the code for investment
+3 securities; amending priority rules for securities
+4 intermediaries; making conforming amendments; repealing
+5 priority rules and applicability rules related to
+6 securities intermediaries; and providing for an effective
+7 date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 34.1-8-110(b)(intro), 34.1-8-503(a),
+12 34.1-8-511(a) and 34.1-9-305(a)(iii) are amended to
+13 read:
+14
+15 34.1-8-110. Applicability; choice of law.
+16
+1 SF0189
+
+2025 STATE OF WYOMING 25LSO-0784
+1 (b) The local law of the securities intermediary's
+2 jurisdiction, as specified in subsection (e) of this
+3 section, state governs:
+4
+5 34.1-8-503. Property interest of entitlement holder
+6 in financial asset held by securities intermediary.
+7
+8 (a) To the extent necessary for a securities
+9 intermediary to satisfy all security entitlements with
+10 respect to a particular financial asset, all interests in
+11 that financial asset held by the securities intermediary
+12 are held by the securities intermediary for the entitlement
+13 holders, are not property of the securities intermediary,
+14 and are not subject to claims of creditors of the
+15 securities intermediary., except as otherwise provided in
+16 W.S. 34.1-8-511.
+17
+18 34.1-8-511. Priority among security interests and
+19 entitlement holders.
+20
+21 (a) Except as otherwise provided in subsections (b)
+22 and (c) of this section, If a securities intermediary does
+23 not have sufficient interests in a particular financial
+2 SF0189
+
+2025 STATE OF WYOMING 25LSO-0784
+1 asset to satisfy both its obligations to entitlement
+2 holders who have security entitlements to that financial
+3 asset and its obligation to a creditor of the securities
+4 intermediary who has a security interest in that financial
+5 asset, the claims of entitlement holders, other than the
+6 creditor, have priority over the claim of the creditor.
+7
+8 34.1-9-305. Law governing perfection and priority of
+9 security interests in investment property.
+10
+11 (a) Except as otherwise provided in subsection (c),
+12 the following rules apply:
+13
+14 (iii) The local law of the securities
+15 intermediary's jurisdiction as specified in section
+16 34.1-8-110(e) this state governs perfection, the effect of
+17 perfection or nonperfection and the priority of a security
+18 interest in a security entitlement or securities account;
+19
+20 Section 2. W.S. 34.1-8-110(e) and (f) and
+21 34.1-8-511(b) and (c) are repealed.
+22
+3 SF0189
+
+2025 STATE OF WYOMING 25LSO-0784
+1 Section 3. This act is effective July 1, 2025.
+2
+3 (END)
+4 SF0189

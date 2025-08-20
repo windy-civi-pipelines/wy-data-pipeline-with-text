@@ -1,0 +1,114 @@
+Title: 1 Page 1-line 4 After "penalty;" insert "creating a criminal
+Official Title: 1 Page 1-line 4 After "penalty;" insert "creating a criminal
+Number of Sections: 1
+Source: versions - Amendment SF0196HS001 (Standing Committee) - House Appropriations Committee (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0196HS001 (TO ENGROSSED COPY)
+2 penalty; providing for severability of
+3 provisions;".
+4
+5 Page 1-line 11 After "1-39-124" delete "is" and insert "and
+6 9-14-204 are".
+7
+8 Page 2-after line 3 Insert and renumber as necessary:
+9
+10 "9-14-204. Severability of provisions.
+11
+12 If any provision of this act or its application to a person or
+13 circumstance is held invalid, the invalidity shall not affect other
+14 provisions or applications of this act which can be given effect
+15 without the invalid provision or application, and to this end the
+16 provisions of this act are severable.".
+17
+18 Page 2-lines 16 through 23 Delete entirely.
+19
+20 Page 3-lines 1 through 6 Delete entirely and insert:
+21
+22 "1-39-104. Granting immunity from tort liability; liability
+23 on contracts; exceptions.
+24
+25 (a) A governmental entity and its public employees while
+26 acting within the scope of duties are granted immunity from
+27 liability for any tort except as provided by W.S. 1-39-105 through
+28 1-39-112, and 1-39-122 and through 1-39-123 1-39-124. Any immunity
+29 in actions based on a contract entered into by a governmental
+30 entity is waived except to the extent provided by the contract if
+31 the contract was within the powers granted to the entity and was
+32 properly executed and except as provided in W.S. 1-39-120(b). The
+33 claims procedures of W.S. 1-39-113 apply to contractual claims
+34 against governmental entities.".
+35
+36 Page 3-line 17 Before "to enforce" insert "solely".
+37
+38 Page 4-line 6 After "6-5-101(a)(v)," insert "or a peace
+39 officer, as defined by W.S. 7-2-101(a)(iv),".
+40
+41 Page 4-line 15 Delete "employes" and insert "employs".
+42
+43 Page 7-line 22 After "6-5-101(a)(v)," insert "or a peace
+44 officer, as defined by W.S. 7-2-101(a)(iv),".
+1
+1
+2 Page 9-line 4 Delete "including" and insert "include". BEAR,
+3 CHAIRMAN
+2
+
+
+================================================================================
+
+Raw Text:
+SF0196HS001 (TO ENGROSSED COPY)
+1 Page 1-line 4 After "penalty;" insert "creating a criminal
+2 penalty; providing for severability of
+3 provisions;".
+4
+5 Page 1-line 11 After "1-39-124" delete "is" and insert "and
+6 9-14-204 are".
+7
+8 Page 2-after line 3 Insert and renumber as necessary:
+9
+10 "9-14-204. Severability of provisions.
+11
+12 If any provision of this act or its application to a person or
+13 circumstance is held invalid, the invalidity shall not affect other
+14 provisions or applications of this act which can be given effect
+15 without the invalid provision or application, and to this end the
+16 provisions of this act are severable.".
+17
+18 Page 2-lines 16 through 23 Delete entirely.
+19
+20 Page 3-lines 1 through 6 Delete entirely and insert:
+21
+22 "1-39-104. Granting immunity from tort liability; liability
+23 on contracts; exceptions.
+24
+25 (a) A governmental entity and its public employees while
+26 acting within the scope of duties are granted immunity from
+27 liability for any tort except as provided by W.S. 1-39-105 through
+28 1-39-112, and 1-39-122 and through 1-39-123 1-39-124. Any immunity
+29 in actions based on a contract entered into by a governmental
+30 entity is waived except to the extent provided by the contract if
+31 the contract was within the powers granted to the entity and was
+32 properly executed and except as provided in W.S. 1-39-120(b). The
+33 claims procedures of W.S. 1-39-113 apply to contractual claims
+34 against governmental entities.".
+35
+36 Page 3-line 17 Before "to enforce" insert "solely".
+37
+38 Page 4-line 6 After "6-5-101(a)(v)," insert "or a peace
+39 officer, as defined by W.S. 7-2-101(a)(iv),".
+40
+41 Page 4-line 15 Delete "employes" and insert "employs".
+42
+43 Page 7-line 22 After "6-5-101(a)(v)," insert "or a peace
+44 officer, as defined by W.S. 7-2-101(a)(iv),".
+1
+
+1
+2 Page 9-line 4 Delete "including" and insert "include". BEAR,
+3 CHAIRMAN
+2

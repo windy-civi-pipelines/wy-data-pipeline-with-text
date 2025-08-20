@@ -1,0 +1,87 @@
+Title: Repealing the school foundation program 25LSO-0710, 1.0
+Official Title: Repealing the school foundation program 25LSO-0710, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+reserve account.
+FISCAL NOTE
+This bill repeals the School Foundation Program Reserve Account (SFP Reserve
+Account) effective immediately.
+This bill transfers the balance from the SFP Reserve Account to the Common School
+Permanent Fund Reserve Account on the effective date of the bill. The estimated
+balance transferred to the Common School Permanent Fund Reserve Account is
+$88,742,176. Any funds directed by law to revert to or otherwise be deposited in
+the SFP Reserve account are to be reverted and deposited to the Common School
+Permanent Fund Reserve Account.
+This bill also repeals the secondary distribution caps for severance taxes in the
+2024 Budget Bill (2024 Wyoming Session Laws, Chapter 118, Section 314) for the
+fiscal year (FY) 2025-2026 biennium, effective immediately. The table below depicts
+the estimated revenue increase and decrease associated with this section repealed,
+by fund.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase/(decrease)
+BUDGET RESERVE ACCOUNT – Severance Taxes $1,300,000 $0 $0
+SFP RESERVE ACCOUNT – Severance Taxes ($1,300,000) $0 $0
+Source of revenue increase and (decrease):
+Under Section 314 of the 2024 Budget Bill, when severance tax distributions under
+W.S. 39-14-801(d)(ii) equal $164,800,000 in FY 2025 and $154,500,000 in FY 2026,
+the distribution of further severance taxes is modified from one-third to the
+General Fund and two-thirds to the Budget Reserve Account (BRA) to one-third to the
+General Fund, BRA, and the SFP Reserve Account. The repeal of Section 314 restores
+the traditional distribution and results in an estimated revenue decrease of
+$1,300,000 in FY 2026 to the SFP Reserve Account and a corresponding revenue
+increase to the BRA.
+Assumptions:
+The estimated severance tax distribution impacts and balance of the SFP Reserve
+Account are based on the January 13, 2025 LSO fiscal profile, inclusive of the
+Governor’s FY 2025-2026 biennium supplemental budget recommendations, and the
+January 2025 Consensus Revenue Estimating Group forecast.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+HB0293
+
+
+================================================================================
+
+Raw Text:
+Repealing the school foundation program 25LSO-0710, 1.0
+reserve account.
+FISCAL NOTE
+This bill repeals the School Foundation Program Reserve Account (SFP Reserve
+Account) effective immediately.
+This bill transfers the balance from the SFP Reserve Account to the Common School
+Permanent Fund Reserve Account on the effective date of the bill. The estimated
+balance transferred to the Common School Permanent Fund Reserve Account is
+$88,742,176. Any funds directed by law to revert to or otherwise be deposited in
+the SFP Reserve account are to be reverted and deposited to the Common School
+Permanent Fund Reserve Account.
+This bill also repeals the secondary distribution caps for severance taxes in the
+2024 Budget Bill (2024 Wyoming Session Laws, Chapter 118, Section 314) for the
+fiscal year (FY) 2025-2026 biennium, effective immediately. The table below depicts
+the estimated revenue increase and decrease associated with this section repealed,
+by fund.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase/(decrease)
+BUDGET RESERVE ACCOUNT – Severance Taxes $1,300,000 $0 $0
+SFP RESERVE ACCOUNT – Severance Taxes ($1,300,000) $0 $0
+Source of revenue increase and (decrease):
+Under Section 314 of the 2024 Budget Bill, when severance tax distributions under
+W.S. 39-14-801(d)(ii) equal $164,800,000 in FY 2025 and $154,500,000 in FY 2026,
+the distribution of further severance taxes is modified from one-third to the
+General Fund and two-thirds to the Budget Reserve Account (BRA) to one-third to the
+General Fund, BRA, and the SFP Reserve Account. The repeal of Section 314 restores
+the traditional distribution and results in an estimated revenue decrease of
+$1,300,000 in FY 2026 to the SFP Reserve Account and a corresponding revenue
+increase to the BRA.
+Assumptions:
+The estimated severance tax distribution impacts and balance of the SFP Reserve
+Account are based on the January 13, 2025 LSO fiscal profile, inclusive of the
+Governor’s FY 2025-2026 biennium supplemental budget recommendations, and the
+January 2025 Consensus Revenue Estimating Group forecast.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+HB0293

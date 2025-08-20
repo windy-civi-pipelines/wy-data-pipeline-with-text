@@ -1,0 +1,1147 @@
+Title: Administrative rules-legislative review and objection.
+Official Title: Administrative rules-legislative review and objection.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0526
+SENATE FILE NO. SF0127
+Sponsored by: Senator(s) Boner, Crago, Driskill, Hicks,
+Hutchings and Kolb and Representative(s)
+Andrew, Banks, Davis, Filer, Heiner, Lawley
+and Neiman
+A BILL
+for
+1 AN ACT relating to administrative procedure; requiring
+2 legislative approval of major rules as specified;
+3 specifying the process by which major rules may be
+4 approved; amending the process for the enactment of
+5 emergency rules and administrative rules; making conforming
+6 amendments; specifying applicability; providing an
+7 appropriation; and providing for effective dates.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 16-3-103.1 and 28-9-109 are created
+12 to read:
+13
+1 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 16-3-103.1. Adoption and ratification of major agency
+2 rules; procedure; effective date.
+3
+4 (a) Major agency rules shall be reviewed and
+5 considered for ratification in accordance with all of the
+6 following:
+7
+8 (i) After management council has determined that
+9 a rule is a major agency rule, management council shall,
+10 upon making its recommendation under W.S. 28-9-106(c),
+11 provide a report to each member of the legislature that
+12 includes:
+13
+14 (A) A copy of the major agency rule;
+15
+16 (B) A copy of the administrative rule
+17 review accompanying the major agency rule;
+18
+19 (C) An explanation of why the rule was
+20 determined to be a major agency rule;
+21
+2 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 (D) A list of any other related regulatory
+2 actions associated with the same regulatory objective in
+3 the major agency rule;
+4
+5 (E) The regulatory impact analysis prepared
+6 for the major agency rule.
+7
+8 (ii) Upon receiving a major agency rule under
+9 paragraph (i) of this subsection, the legislature shall
+10 review the major agency rule within the time specified in
+11 paragraph (iii) of this subsection and either ratify the
+12 rule or reject the rule;
+13
+14 (iii) The legislature shall ratify or reject a
+15 major agency rule by a vote of a majority of all the
+16 members elected to each house voting separately during the
+17 next regular or special legislative session after the rule
+18 is received. For purposes of this paragraph, a rule
+19 received in the last fifteen (15) days of a regular or
+20 special legislative session may be considered for
+21 ratification or rejection in the next regular or special
+22 legislative session.
+23
+3 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 (b) Except as provided in subsection (h) of this
+2 section, no major agency rule shall be effective until the
+3 rule has been ratified by the legislature in accordance
+4 with subsection (a) of this section or the governor has
+5 declared that the major agency rule is an emergency rule in
+6 accordance with subsection (e) of this section.
+7
+8 (c) Major agency rules ratified by the legislature
+9 under this section shall be effective on the date of
+10 ratification or, if a later effective date is specified in
+11 the rule, the date specified in the rule.
+12
+13 (d) A major agency rule that the legislature fails to
+14 ratify or for which a ratification vote has failed shall
+15 not be effective and shall be void.
+16
+17 (e) If the governor finds that an emergency requires
+18 a major agency rule to take effect before ratification
+19 under this section, the governor may designate a major
+20 agency rule as an emergency major agency rule. The governor
+21 shall report to management council and the legislature on
+22 the emergency major agency rule in accordance with
+23 subsection (f) of this section. Emergency major agency
+4 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 rules shall be effective upon the date that the governor
+2 approves the rule under W.S. 16-3-103(d). Emergency major
+3 agency rules approved under W.S. 16-3-103(d) shall:
+4
+5 (i) Continue to be in effect if the legislature
+6 ratifies the emergency major agency rule in accordance with
+7 this section;
+8
+9 (ii) Be void and no longer effective if the
+10 legislature fails to ratify the rule at the next regularly
+11 scheduled or special legislative session or if a vote to
+12 ratify the rule has failed through a vote under subsection
+13 (a) of this section;
+14
+15 (iii) In no event be effective for more than one
+16 hundred twenty (120) days if the legislature has not
+17 convened for session or otherwise not taken a vote on the
+18 ratification of the rule, notwithstanding W.S. 16-3-103(b).
+19
+20 (f) Not later than five (5) days after declaring that
+21 a major agency rule is an emergency major agency rule, the
+22 governor shall submit a report that provides:
+23
+5 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 (i) Why an emergency exists that requires the
+2 major agency rule to take effect before ratification, or
+3 why a federal requirement or federal funding requires the
+4 rule to be effective before ratification;
+5
+6 (ii) How the major agency rule otherwise
+7 complies with statutory authority and legislative intent.
+8
+9 (g) Nothing in this section shall be construed to:
+10
+11 (i) Prohibit an agency from promulgating a rule
+12 in response to the failure to ratify a major agency rule
+13 under this section;
+14
+15 (ii) Limit the legislature from prohibiting the
+16 implementation or enforcement of a rule under W.S.
+17 28-9-107;
+18
+19 (iii) Expand or extend the governor's or any
+20 agency's powers to promulgate rules in accordance with law;
+21
+6 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 (iv) Authorize the effectiveness or validity of
+2 major agency rules beyond the times specified in this
+3 section;
+4
+5 (v) Limit the legislature from convening a
+6 special session for the purpose of reviewing, considering
+7 and ratifying an emergency major agency rule.
+8
+9 (h) For rules that are new rules under W.S.
+10 16-3-103(a)(i)(D) promulgated in response to enacted
+11 legislation, the major agency rule may take effect without
+12 ratification under this section until the next regular or
+13 special legislative session, at which time the legislature
+14 shall consider the rule as required by this section.
+15
+16 28-9-109. Major agency rules; analysis and review.
+17
+18 (a) The chief economist of the legislative service
+19 office shall review each rule submitted under this act and
+20 report the review to management council for management
+21 council to determine whether the rule is a major rule.
+22
+7 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 (b) For each rule that may be a major agency rule,
+2 the chief economist shall:
+3
+4 (i) Not later than fifteen (15) days after the
+5 rule was submitted under W.S. 28-9-103(b), provide the
+6 major agency rule to each member of the legislature;
+7
+8 (ii) Not later than the time specified in
+9 subsection (e) of this section, complete a regulatory
+10 impact analysis in accordance with subsections (c) and (d)
+11 of this section.
+12
+13 (c) Each regulatory impact analysis of a rule that
+14 may be a major agency rule under this section shall
+15 include:
+16
+17 (i) A statement of need for the rule, provided
+18 by the agency promulgating the rule;
+19
+20 (ii) The statutory authority for the
+21 promulgation of the rule;
+22
+8 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 (iii) An examination of alternatives to the
+2 enactment of the rule;
+3
+4 (iv) An evaluation of the costs and benefits for
+5 the rule, including:
+6
+7 (A) Estimated primary or direct benefits
+8 accruing as a result of the rule;
+9
+10 (B) Estimated cost savings or financial
+11 benefits to the state and its residents and businesses;
+12
+13 (C) Estimated compliance costs for
+14 regulated entities subject to the rule;
+15
+16 (D) Estimated secondary or indirect costs
+17 associated with the rule;
+18
+19 (E) Estimated effect on state revenue;
+20
+21 (F) Estimated effect on state expenditures,
+22 including estimated administrative expenses;
+23
+9 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 (G) Estimated opportunity costs. For
+2 purposes of this subparagraph, the cost of compliance in
+3 terms of any resulting removal of private capital from the
+4 market must be included in the analysis;
+5
+6 (H) The sources consulted to complete the
+7 analysis;
+8
+9 (J) Key assumptions made and sources of
+10 uncertainty with the analysis;
+11
+12 (K) Any other information the director or
+13 chief economist determines would be beneficial for
+14 legislative consideration of the rule.
+15
+16 (d) Upon completing a regulatory impact analysis, the
+17 chief economist shall provide the analysis to the
+18 management council and shall make the analysis available to
+19 each member of the legislature and to the public. Not later
+20 than fifteen (15) days after receipt of the analysis, the
+21 management council shall determine by majority vote of all
+22 members of the management council whether the rule is a
+23 major agency rule.
+10 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1
+2 (e) The chief economist shall complete each
+3 regulatory impact analysis:
+4
+5 (i) Not later than sixty (60) days after the
+6 rule was submitted for review under W.S. 28-9-103(b), if
+7 the rule is submitted at a time other than a time specified
+8 in paragraph (ii) of this subsection;
+9
+10 (ii) As soon as reasonably practicable to ensure
+11 consideration of the rule during the next legislative
+12 session, if the rule was submitted for review within sixty
+13 (60) days of the next legislative session or during a
+14 legislative session.
+15
+16 (f) To the extent resources are available, the
+17 council may direct the chief economist to perform a
+18 regulatory impact analysis for any existing rule or other
+19 proposed rule.
+20
+21 (g) The chief economist may request any information,
+22 expertise or assistance from an agency promulgating a major
+23 agency rule. Upon receiving a request under this
+11 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 subsection, the agency shall provide all information and
+2 assistance necessary for the chief economist to complete
+3 the regulatory impact analysis required under this section.
+4
+5 Section 2. W.S. 16-3-101(b) by creating a new
+6 paragraph (xiii) and by renumbering (xiii) as (xiv),
+7 16-3-102(b), 16-3-103(a)(i) by creating a new subparagraph
+8 (M), (b), (c) and (d)(intro), 16-3-104(b) by creating a new
+9 paragraph (iii), 28-8-103, 28-9-101(a) by creating a new
+10 paragraph (iv) and by amending and renumbering (iv) as (v),
+11 28-9-104(a), (c)(ii) and by creating a new paragraph (iv)
+12 and 28-9-106 are amended to read:
+13
+14 16-3-101. Short title; definitions.
+15
+16 (b) As used in this act:
+17
+18 (xiii) "Major agency rule" means a rule,
+19 including an emergency rule, designated by management
+20 council under W.S. 28-9-109 that will result in or is
+21 likely to result in one (1) or more of the following:
+22
+12 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 (A) An annual impact on the economy of
+2 Wyoming that will result in direct or indirect costs of not
+3 less than one hundred thousand dollars ($100,000.00);
+4
+5 (B) Significant adverse effects on
+6 competition, employment, investment, productivity or
+7 innovation in the state, including significant adverse
+8 effects on individual industries or regions within Wyoming;
+9
+10 (C) Significant changes in social and
+11 cultural relations among citizens, including significant
+12 impacts on particular religious, ethnic, racial or gender
+13 populations.
+14
+15 (xiii)(xiv) "This act" means W.S. 16-3-101
+16 through 16-3-115.
+17
+18 16-3-102. General rulemaking requirements; assistance
+19 and authority of attorney general.
+20
+21 (b) No agency rule, order or decision is valid or
+22 effective against any person or party, nor may it be
+23 invoked by the agency for any purpose, until it has been
+13 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 filed with the registrar of rules and made available for
+2 public inspection as required by this act. No major agency
+3 rule shall be valid until the rule has been ratified or is
+4 otherwise authorized to take effect under W.S. 16-3-103.1.
+5 This subsection does not apply to orders or decisions in
+6 favor of any person or party with actual knowledge of the
+7 rule, order or decision.
+8
+9 16-3-103. Adoption, amendment and repeal of rules;
+10 notice; hearing; emergency rules; proceedings to contest;
+11 review and approval by governor.
+12
+13 (a) Prior to an agency's adoption, amendment or
+14 repeal of all rules other than interpretative rules or
+15 statements of general policy, the agency shall:
+16
+17 (i) Give at least forty-five (45) days notice of
+18 its intended action. Notice shall be mailed to all persons
+19 making timely requests of the agency for advanced notice of
+20 its rulemaking proceedings and to the attorney general, the
+21 secretary of state's office as registrar of rules, and the
+22 legislative service office if a state agency. The agency
+23 shall submit a copy of the proposed rules, in a format
+14 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 conforming to any requirements prescribed pursuant to
+2 subsection (f) of this section, with the notice given to
+3 the legislative service office. The notice shall include:
+4
+5 (M) If the rule is or could be a major
+6 agency rule, a statement that the rule is or may be a major
+7 agency rule and any information necessary for the
+8 completion of the regulatory impact analysis required under
+9 W.S. 28-9-109.
+10
+11 (b) When an agency finds that an emergency requires
+12 the agency to proceed without notice or opportunity for
+13 hearing required by subsection (a) of this section, it may
+14 adopt emergency rules. Subject to W.S. 16-3-103.1, an
+15 emergency rule is effective when filed. A state agency
+16 emergency rule shall bear the endorsement of the governor's
+17 concurrence on the finding of emergency before the
+18 registrar of rules accepts the rule for filing. The rule so
+19 adopted shall be effective for no longer than one hundred
+20 twenty (120) days but the adoption of an identical rule
+21 under W.S. 16-3-103(a) or of an emergency rule under this
+22 subsection is not precluded. In no case shall identical or
+23 substantially similar emergency rules be effective for a
+15 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 total period of more than two hundred forty (240) days. A
+2 local agency may proceed with the emergency rule when
+3 notice of the emergency is filed with the local registrar
+4 of rules.
+5
+6 (c) No rule is valid unless submitted, filed and
+7 adopted in substantial compliance with this section and, if
+8 the rule is or could be a major agency rule, W.S.
+9 16-3-103.1. A proceeding to contest any rule on the ground
+10 of noncompliance with the procedural requirements of this
+11 section must or the requirements of W.S. 16-3-103.1 shall
+12 be commenced within two (2) years from the effective date
+13 of the rule.
+14
+15 (d) No state agency rule or any amendment, repeal,
+16 modification or revision of the rule may be filed with the
+17 registrar of rules unless the rule has been submitted to
+18 the governor for review and the governor has approved and
+19 signed the rule. Except in the case of emergency rules and
+20 rules adopted by the game and fish commission fixing
+21 general hunting or fishing regulations, season or bag
+22 limits or establishing hunting areas, the governor shall
+23 not approve any rule until the date of receipt of the
+16 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 legislative management council's recommendation under W.S.
+2 28-9-106(a) or until forty (40) days after the rule is
+3 filed with the legislative service office pursuant to W.S.
+4 28-9-103(b), whichever is sooner. During the process of
+5 approving rules, the governor may disapprove any portion of
+6 a rule not conforming to paragraphs (d)(i), (ii) or (iii)
+7 of this section by clearly indicating the portion of the
+8 rule disapproved and the basis for the disapproval. Major
+9 agency rules approved by the governor under this subsection
+10 shall be subject to ratification under W.S. 16-3-103.1.
+11 Only those portions of a rule approved by the governor
+12 shall be filed with the registrar of rules as provided by
+13 W.S. 16-3-104(a). Any portion of a rule disapproved by the
+14 governor shall be returned to the agency and shall be null
+15 and void and shall not be filed, implemented or enforced.
+16 The governor shall report his disapproval of any rule or
+17 portion thereof to the management council within fifteen
+18 (15) days. The governor shall not approve any rule or any
+19 amendment, repeal, modification or revision of the rule
+20 unless it:
+21
+17 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 16-3-104. Filing of copies of rules; permanent
+2 register; effective dates; manner of preparation; advice
+3 and assistance of attorney general.
+4
+5 (b) Each rule and any amendment or repeal adopted
+6 after June 1, 1982 is effective after filing in accordance
+7 with subsection (a) of this section and W.S. 28-9-108
+8 except:
+9
+10 (iii) Major agency rules, whether a regular rule
+11 or an emergency rule, shall be effective in accordance with
+12 W.S. 16-3-103.1.
+13
+14 28-8-103. Director and staff.
+15
+16 The management council shall appoint by majority vote a
+17 director of the office. The director, subject to the prior
+18 approval of the management council, may appoint assistant
+19 directors. The director shall appoint such professional,
+20 technical and clerical staff as necessary to perform the
+21 functions assigned to the office. The director shall
+22 appoint a chief economist to perform the functions assigned
+23 under W.S. 28-8-109. The director and staff shall be
+18 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 selected without reference to political affiliation and
+2 shall serve at the pleasure of the appointing authority.
+3 They shall be paid salaries and receive necessary expenses
+4 as determined by the management council.
+5
+6 28-9-101. Definitions.
+7
+8 (a) As used in this act:
+9
+10 (iv) "Major agency rule" means as defined by
+11 W.S. 16-3-101(b)(xiii);
+12
+13 (iv)(v) "This act" means W.S. 28-9-101 through
+14 28-9-108 28-9-109.
+15
+16 28-9-104. Review procedure; time for review; criteria
+17 for review.
+18
+19 (a) The legislative service office shall review rules
+20 submitted under W.S. 28-9-103(b) and report its findings to
+21 the council. The legislative service office shall review
+22 new rules and include therein any comments from the primary
+23 sponsor of the legislation, the chairman of the interim or
+19 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 standing committee which sponsored or acted upon the
+2 legislation authorizing the new rules and any other
+3 legislator submitting comments, and shall report their
+4 findings to the council. The legislative service office
+5 shall review rules that may be major agency rules in
+6 accordance with W.S. 28-9-109. The report required under
+7 this subsection shall be submitted to the council:
+8
+9 (i) Within fifteen (15) days after the rules
+10 were submitted under W.S. 28-9-103(b); or
+11
+12 (ii) Except as provided in paragraph (iii) of
+13 this subsection, if the legislature is in session at the
+14 time the report would otherwise be due under paragraph (i)
+15 of this subsection, then within ten (10) days after the
+16 adjournment of the session;.
+17
+18 (iii) Rules that may be major agency rules for
+19 which the report would be due while the legislature is in
+20 session shall be submitted to the council by the deadline
+21 specified in paragraph (i) of this subsection.
+22
+20 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 (c) When reviewing a rule of an agency, the council
+2 shall determine whether the rule:
+3
+4 (ii) Has been adopted in accordance with all
+5 applicable and statutory requirements of law; and
+6
+7 (iv) Is or appears to be a major agency rule. If
+8 the rule is determined by the council to be a major agency
+9 rule, the council shall make a recommendation on the
+10 enactment of the rule for consideration by the legislature
+11 in accordance with W.S. 16-3-103.1.
+12
+13 28-9-106. Council recommendations to the agency and
+14 the legislature; time.
+15
+16 (a) Subject to subsection (c) of this section, the
+17 council shall submit its approval or its recommendations
+18 for amendment or rescission to the governor and to the
+19 agency which submitted the rule.
+20
+21 (b) The governor, within fifteen (15) days after
+22 receiving any council recommendation, shall either order
+23 that the rule be amended or rescinded in accordance with
+21 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1 the council's recommendation or file with the council in
+2 writing his objections to the recommendation. This
+3 subsection shall not apply to major agency rules.
+4
+5 (c) For major agency rules, the council shall submit
+6 its recommendations for approval, amendment or rescission
+7 to the legislature for ratification under W.S. 16-3-103.1.
+8
+9 Section 3. This act shall apply to all rules for
+10 which notice is given under W.S. 16-3-103(a)(i) on and
+11 after July 1, 2026.
+12
+13 Section 4.
+14
+15 (a) There is appropriated four hundred thousand
+16 dollars ($400,000.00) from the general fund to the
+17 legislative service office for the purposes of hiring not
+18 more than two (2) full time equivalent employees to perform
+19 the functions specified in this act. Notwithstanding W.S.
+20 9-2-1008, 9-2-1012(e) and 9-4-207, this appropriation shall
+21 remain in effect and shall not lapse or revert at the end
+22 of the fiscal biennium except upon further legislative
+23 action.
+22 SF0127
+2025 STATE OF WYOMING 25LSO-0526
+1
+2 (b) The legislative service office may take any
+3 action necessary to implement this act before July 1, 2026,
+4 including the hiring of positions to implement this act.
+5
+6 Section 5.
+7
+8 (a) Except as provided in subsection (b) of this
+9 section, this act is effective July 1, 2026.
+10
+11 (b) Sections 4 and 5 of this act are effective
+12 immediately upon completion of all acts necessary for a
+13 bill to become law as provided by Article 4, Section 8 of
+14 the Wyoming Constitution.
+15
+16 (END)
+23 SF0127
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0526
+SENATE FILE NO. SF0127
+Administrative rules-legislative review and objection.
+Sponsored by: Senator(s) Boner, Crago, Driskill, Hicks,
+Hutchings and Kolb and Representative(s)
+Andrew, Banks, Davis, Filer, Heiner, Lawley
+and Neiman
+A BILL
+for
+1 AN ACT relating to administrative procedure; requiring
+2 legislative approval of major rules as specified;
+3 specifying the process by which major rules may be
+4 approved; amending the process for the enactment of
+5 emergency rules and administrative rules; making conforming
+6 amendments; specifying applicability; providing an
+7 appropriation; and providing for effective dates.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 16-3-103.1 and 28-9-109 are created
+12 to read:
+13
+1 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 16-3-103.1. Adoption and ratification of major agency
+2 rules; procedure; effective date.
+3
+4 (a) Major agency rules shall be reviewed and
+5 considered for ratification in accordance with all of the
+6 following:
+7
+8 (i) After management council has determined that
+9 a rule is a major agency rule, management council shall,
+10 upon making its recommendation under W.S. 28-9-106(c),
+11 provide a report to each member of the legislature that
+12 includes:
+13
+14 (A) A copy of the major agency rule;
+15
+16 (B) A copy of the administrative rule
+17 review accompanying the major agency rule;
+18
+19 (C) An explanation of why the rule was
+20 determined to be a major agency rule;
+21
+2 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 (D) A list of any other related regulatory
+2 actions associated with the same regulatory objective in
+3 the major agency rule;
+4
+5 (E) The regulatory impact analysis prepared
+6 for the major agency rule.
+7
+8 (ii) Upon receiving a major agency rule under
+9 paragraph (i) of this subsection, the legislature shall
+10 review the major agency rule within the time specified in
+11 paragraph (iii) of this subsection and either ratify the
+12 rule or reject the rule;
+13
+14 (iii) The legislature shall ratify or reject a
+15 major agency rule by a vote of a majority of all the
+16 members elected to each house voting separately during the
+17 next regular or special legislative session after the rule
+18 is received. For purposes of this paragraph, a rule
+19 received in the last fifteen (15) days of a regular or
+20 special legislative session may be considered for
+21 ratification or rejection in the next regular or special
+22 legislative session.
+23
+3 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 (b) Except as provided in subsection (h) of this
+2 section, no major agency rule shall be effective until the
+3 rule has been ratified by the legislature in accordance
+4 with subsection (a) of this section or the governor has
+5 declared that the major agency rule is an emergency rule in
+6 accordance with subsection (e) of this section.
+7
+8 (c) Major agency rules ratified by the legislature
+9 under this section shall be effective on the date of
+10 ratification or, if a later effective date is specified in
+11 the rule, the date specified in the rule.
+12
+13 (d) A major agency rule that the legislature fails to
+14 ratify or for which a ratification vote has failed shall
+15 not be effective and shall be void.
+16
+17 (e) If the governor finds that an emergency requires
+18 a major agency rule to take effect before ratification
+19 under this section, the governor may designate a major
+20 agency rule as an emergency major agency rule. The governor
+21 shall report to management council and the legislature on
+22 the emergency major agency rule in accordance with
+23 subsection (f) of this section. Emergency major agency
+4 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 rules shall be effective upon the date that the governor
+2 approves the rule under W.S. 16-3-103(d). Emergency major
+3 agency rules approved under W.S. 16-3-103(d) shall:
+4
+5 (i) Continue to be in effect if the legislature
+6 ratifies the emergency major agency rule in accordance with
+7 this section;
+8
+9 (ii) Be void and no longer effective if the
+10 legislature fails to ratify the rule at the next regularly
+11 scheduled or special legislative session or if a vote to
+12 ratify the rule has failed through a vote under subsection
+13 (a) of this section;
+14
+15 (iii) In no event be effective for more than one
+16 hundred twenty (120) days if the legislature has not
+17 convened for session or otherwise not taken a vote on the
+18 ratification of the rule, notwithstanding W.S. 16-3-103(b).
+19
+20 (f) Not later than five (5) days after declaring that
+21 a major agency rule is an emergency major agency rule, the
+22 governor shall submit a report that provides:
+23
+5 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 (i) Why an emergency exists that requires the
+2 major agency rule to take effect before ratification, or
+3 why a federal requirement or federal funding requires the
+4 rule to be effective before ratification;
+5
+6 (ii) How the major agency rule otherwise
+7 complies with statutory authority and legislative intent.
+8
+9 (g) Nothing in this section shall be construed to:
+10
+11 (i) Prohibit an agency from promulgating a rule
+12 in response to the failure to ratify a major agency rule
+13 under this section;
+14
+15 (ii) Limit the legislature from prohibiting the
+16 implementation or enforcement of a rule under W.S.
+17 28-9-107;
+18
+19 (iii) Expand or extend the governor's or any
+20 agency's powers to promulgate rules in accordance with law;
+21
+6 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 (iv) Authorize the effectiveness or validity of
+2 major agency rules beyond the times specified in this
+3 section;
+4
+5 (v) Limit the legislature from convening a
+6 special session for the purpose of reviewing, considering
+7 and ratifying an emergency major agency rule.
+8
+9 (h) For rules that are new rules under W.S.
+10 16-3-103(a)(i)(D) promulgated in response to enacted
+11 legislation, the major agency rule may take effect without
+12 ratification under this section until the next regular or
+13 special legislative session, at which time the legislature
+14 shall consider the rule as required by this section.
+15
+16 28-9-109. Major agency rules; analysis and review.
+17
+18 (a) The chief economist of the legislative service
+19 office shall review each rule submitted under this act and
+20 report the review to management council for management
+21 council to determine whether the rule is a major rule.
+22
+7 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 (b) For each rule that may be a major agency rule,
+2 the chief economist shall:
+3
+4 (i) Not later than fifteen (15) days after the
+5 rule was submitted under W.S. 28-9-103(b), provide the
+6 major agency rule to each member of the legislature;
+7
+8 (ii) Not later than the time specified in
+9 subsection (e) of this section, complete a regulatory
+10 impact analysis in accordance with subsections (c) and (d)
+11 of this section.
+12
+13 (c) Each regulatory impact analysis of a rule that
+14 may be a major agency rule under this section shall
+15 include:
+16
+17 (i) A statement of need for the rule, provided
+18 by the agency promulgating the rule;
+19
+20 (ii) The statutory authority for the
+21 promulgation of the rule;
+22
+8 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 (iii) An examination of alternatives to the
+2 enactment of the rule;
+3
+4 (iv) An evaluation of the costs and benefits for
+5 the rule, including:
+6
+7 (A) Estimated primary or direct benefits
+8 accruing as a result of the rule;
+9
+10 (B) Estimated cost savings or financial
+11 benefits to the state and its residents and businesses;
+12
+13 (C) Estimated compliance costs for
+14 regulated entities subject to the rule;
+15
+16 (D) Estimated secondary or indirect costs
+17 associated with the rule;
+18
+19 (E) Estimated effect on state revenue;
+20
+21 (F) Estimated effect on state expenditures,
+22 including estimated administrative expenses;
+23
+9 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 (G) Estimated opportunity costs. For
+2 purposes of this subparagraph, the cost of compliance in
+3 terms of any resulting removal of private capital from the
+4 market must be included in the analysis;
+5
+6 (H) The sources consulted to complete the
+7 analysis;
+8
+9 (J) Key assumptions made and sources of
+10 uncertainty with the analysis;
+11
+12 (K) Any other information the director or
+13 chief economist determines would be beneficial for
+14 legislative consideration of the rule.
+15
+16 (d) Upon completing a regulatory impact analysis, the
+17 chief economist shall provide the analysis to the
+18 management council and shall make the analysis available to
+19 each member of the legislature and to the public. Not later
+20 than fifteen (15) days after receipt of the analysis, the
+21 management council shall determine by majority vote of all
+22 members of the management council whether the rule is a
+23 major agency rule.
+10 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1
+2 (e) The chief economist shall complete each
+3 regulatory impact analysis:
+4
+5 (i) Not later than sixty (60) days after the
+6 rule was submitted for review under W.S. 28-9-103(b), if
+7 the rule is submitted at a time other than a time specified
+8 in paragraph (ii) of this subsection;
+9
+10 (ii) As soon as reasonably practicable to ensure
+11 consideration of the rule during the next legislative
+12 session, if the rule was submitted for review within sixty
+13 (60) days of the next legislative session or during a
+14 legislative session.
+15
+16 (f) To the extent resources are available, the
+17 council may direct the chief economist to perform a
+18 regulatory impact analysis for any existing rule or other
+19 proposed rule.
+20
+21 (g) The chief economist may request any information,
+22 expertise or assistance from an agency promulgating a major
+23 agency rule. Upon receiving a request under this
+11 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 subsection, the agency shall provide all information and
+2 assistance necessary for the chief economist to complete
+3 the regulatory impact analysis required under this section.
+4
+5 Section 2. W.S. 16-3-101(b) by creating a new
+6 paragraph (xiii) and by renumbering (xiii) as (xiv),
+7 16-3-102(b), 16-3-103(a)(i) by creating a new subparagraph
+8 (M), (b), (c) and (d)(intro), 16-3-104(b) by creating a new
+9 paragraph (iii), 28-8-103, 28-9-101(a) by creating a new
+10 paragraph (iv) and by amending and renumbering (iv) as (v),
+11 28-9-104(a), (c)(ii) and by creating a new paragraph (iv)
+12 and 28-9-106 are amended to read:
+13
+14 16-3-101. Short title; definitions.
+15
+16 (b) As used in this act:
+17
+18 (xiii) "Major agency rule" means a rule,
+19 including an emergency rule, designated by management
+20 council under W.S. 28-9-109 that will result in or is
+21 likely to result in one (1) or more of the following:
+22
+12 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 (A) An annual impact on the economy of
+2 Wyoming that will result in direct or indirect costs of not
+3 less than one hundred thousand dollars ($100,000.00);
+4
+5 (B) Significant adverse effects on
+6 competition, employment, investment, productivity or
+7 innovation in the state, including significant adverse
+8 effects on individual industries or regions within Wyoming;
+9
+10 (C) Significant changes in social and
+11 cultural relations among citizens, including significant
+12 impacts on particular religious, ethnic, racial or gender
+13 populations.
+14
+15 (xiii)(xiv) "This act" means W.S. 16-3-101
+16 through 16-3-115.
+17
+18 16-3-102. General rulemaking requirements; assistance
+19 and authority of attorney general.
+20
+21 (b) No agency rule, order or decision is valid or
+22 effective against any person or party, nor may it be
+23 invoked by the agency for any purpose, until it has been
+13 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 filed with the registrar of rules and made available for
+2 public inspection as required by this act. No major agency
+3 rule shall be valid until the rule has been ratified or is
+4 otherwise authorized to take effect under W.S. 16-3-103.1.
+5 This subsection does not apply to orders or decisions in
+6 favor of any person or party with actual knowledge of the
+7 rule, order or decision.
+8
+9 16-3-103. Adoption, amendment and repeal of rules;
+10 notice; hearing; emergency rules; proceedings to contest;
+11 review and approval by governor.
+12
+13 (a) Prior to an agency's adoption, amendment or
+14 repeal of all rules other than interpretative rules or
+15 statements of general policy, the agency shall:
+16
+17 (i) Give at least forty-five (45) days notice of
+18 its intended action. Notice shall be mailed to all persons
+19 making timely requests of the agency for advanced notice of
+20 its rulemaking proceedings and to the attorney general, the
+21 secretary of state's office as registrar of rules, and the
+22 legislative service office if a state agency. The agency
+23 shall submit a copy of the proposed rules, in a format
+14 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 conforming to any requirements prescribed pursuant to
+2 subsection (f) of this section, with the notice given to
+3 the legislative service office. The notice shall include:
+4
+5 (M) If the rule is or could be a major
+6 agency rule, a statement that the rule is or may be a major
+7 agency rule and any information necessary for the
+8 completion of the regulatory impact analysis required under
+9 W.S. 28-9-109.
+10
+11 (b) When an agency finds that an emergency requires
+12 the agency to proceed without notice or opportunity for
+13 hearing required by subsection (a) of this section, it may
+14 adopt emergency rules. Subject to W.S. 16-3-103.1, an
+15 emergency rule is effective when filed. A state agency
+16 emergency rule shall bear the endorsement of the governor's
+17 concurrence on the finding of emergency before the
+18 registrar of rules accepts the rule for filing. The rule so
+19 adopted shall be effective for no longer than one hundred
+20 twenty (120) days but the adoption of an identical rule
+21 under W.S. 16-3-103(a) or of an emergency rule under this
+22 subsection is not precluded. In no case shall identical or
+23 substantially similar emergency rules be effective for a
+15 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 total period of more than two hundred forty (240) days. A
+2 local agency may proceed with the emergency rule when
+3 notice of the emergency is filed with the local registrar
+4 of rules.
+5
+6 (c) No rule is valid unless submitted, filed and
+7 adopted in substantial compliance with this section and, if
+8 the rule is or could be a major agency rule, W.S.
+9 16-3-103.1. A proceeding to contest any rule on the ground
+10 of noncompliance with the procedural requirements of this
+11 section must or the requirements of W.S. 16-3-103.1 shall
+12 be commenced within two (2) years from the effective date
+13 of the rule.
+14
+15 (d) No state agency rule or any amendment, repeal,
+16 modification or revision of the rule may be filed with the
+17 registrar of rules unless the rule has been submitted to
+18 the governor for review and the governor has approved and
+19 signed the rule. Except in the case of emergency rules and
+20 rules adopted by the game and fish commission fixing
+21 general hunting or fishing regulations, season or bag
+22 limits or establishing hunting areas, the governor shall
+23 not approve any rule until the date of receipt of the
+16 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 legislative management council's recommendation under W.S.
+2 28-9-106(a) or until forty (40) days after the rule is
+3 filed with the legislative service office pursuant to W.S.
+4 28-9-103(b), whichever is sooner. During the process of
+5 approving rules, the governor may disapprove any portion of
+6 a rule not conforming to paragraphs (d)(i), (ii) or (iii)
+7 of this section by clearly indicating the portion of the
+8 rule disapproved and the basis for the disapproval. Major
+9 agency rules approved by the governor under this subsection
+10 shall be subject to ratification under W.S. 16-3-103.1.
+11 Only those portions of a rule approved by the governor
+12 shall be filed with the registrar of rules as provided by
+13 W.S. 16-3-104(a). Any portion of a rule disapproved by the
+14 governor shall be returned to the agency and shall be null
+15 and void and shall not be filed, implemented or enforced.
+16 The governor shall report his disapproval of any rule or
+17 portion thereof to the management council within fifteen
+18 (15) days. The governor shall not approve any rule or any
+19 amendment, repeal, modification or revision of the rule
+20 unless it:
+21
+17 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 16-3-104. Filing of copies of rules; permanent
+2 register; effective dates; manner of preparation; advice
+3 and assistance of attorney general.
+4
+5 (b) Each rule and any amendment or repeal adopted
+6 after June 1, 1982 is effective after filing in accordance
+7 with subsection (a) of this section and W.S. 28-9-108
+8 except:
+9
+10 (iii) Major agency rules, whether a regular rule
+11 or an emergency rule, shall be effective in accordance with
+12 W.S. 16-3-103.1.
+13
+14 28-8-103. Director and staff.
+15
+16 The management council shall appoint by majority vote a
+17 director of the office. The director, subject to the prior
+18 approval of the management council, may appoint assistant
+19 directors. The director shall appoint such professional,
+20 technical and clerical staff as necessary to perform the
+21 functions assigned to the office. The director shall
+22 appoint a chief economist to perform the functions assigned
+23 under W.S. 28-8-109. The director and staff shall be
+18 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 selected without reference to political affiliation and
+2 shall serve at the pleasure of the appointing authority.
+3 They shall be paid salaries and receive necessary expenses
+4 as determined by the management council.
+5
+6 28-9-101. Definitions.
+7
+8 (a) As used in this act:
+9
+10 (iv) "Major agency rule" means as defined by
+11 W.S. 16-3-101(b)(xiii);
+12
+13 (iv)(v) "This act" means W.S. 28-9-101 through
+14 28-9-108 28-9-109.
+15
+16 28-9-104. Review procedure; time for review; criteria
+17 for review.
+18
+19 (a) The legislative service office shall review rules
+20 submitted under W.S. 28-9-103(b) and report its findings to
+21 the council. The legislative service office shall review
+22 new rules and include therein any comments from the primary
+23 sponsor of the legislation, the chairman of the interim or
+19 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 standing committee which sponsored or acted upon the
+2 legislation authorizing the new rules and any other
+3 legislator submitting comments, and shall report their
+4 findings to the council. The legislative service office
+5 shall review rules that may be major agency rules in
+6 accordance with W.S. 28-9-109. The report required under
+7 this subsection shall be submitted to the council:
+8
+9 (i) Within fifteen (15) days after the rules
+10 were submitted under W.S. 28-9-103(b); or
+11
+12 (ii) Except as provided in paragraph (iii) of
+13 this subsection, if the legislature is in session at the
+14 time the report would otherwise be due under paragraph (i)
+15 of this subsection, then within ten (10) days after the
+16 adjournment of the session;.
+17
+18 (iii) Rules that may be major agency rules for
+19 which the report would be due while the legislature is in
+20 session shall be submitted to the council by the deadline
+21 specified in paragraph (i) of this subsection.
+22
+20 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 (c) When reviewing a rule of an agency, the council
+2 shall determine whether the rule:
+3
+4 (ii) Has been adopted in accordance with all
+5 applicable and statutory requirements of law; and
+6
+7 (iv) Is or appears to be a major agency rule. If
+8 the rule is determined by the council to be a major agency
+9 rule, the council shall make a recommendation on the
+10 enactment of the rule for consideration by the legislature
+11 in accordance with W.S. 16-3-103.1.
+12
+13 28-9-106. Council recommendations to the agency and
+14 the legislature; time.
+15
+16 (a) Subject to subsection (c) of this section, the
+17 council shall submit its approval or its recommendations
+18 for amendment or rescission to the governor and to the
+19 agency which submitted the rule.
+20
+21 (b) The governor, within fifteen (15) days after
+22 receiving any council recommendation, shall either order
+23 that the rule be amended or rescinded in accordance with
+21 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1 the council's recommendation or file with the council in
+2 writing his objections to the recommendation. This
+3 subsection shall not apply to major agency rules.
+4
+5 (c) For major agency rules, the council shall submit
+6 its recommendations for approval, amendment or rescission
+7 to the legislature for ratification under W.S. 16-3-103.1.
+8
+9 Section 3. This act shall apply to all rules for
+10 which notice is given under W.S. 16-3-103(a)(i) on and
+11 after July 1, 2026.
+12
+13 Section 4.
+14
+15 (a) There is appropriated four hundred thousand
+16 dollars ($400,000.00) from the general fund to the
+17 legislative service office for the purposes of hiring not
+18 more than two (2) full time equivalent employees to perform
+19 the functions specified in this act. Notwithstanding W.S.
+20 9-2-1008, 9-2-1012(e) and 9-4-207, this appropriation shall
+21 remain in effect and shall not lapse or revert at the end
+22 of the fiscal biennium except upon further legislative
+23 action.
+22 SF0127
+
+2025 STATE OF WYOMING 25LSO-0526
+1
+2 (b) The legislative service office may take any
+3 action necessary to implement this act before July 1, 2026,
+4 including the hiring of positions to implement this act.
+5
+6 Section 5.
+7
+8 (a) Except as provided in subsection (b) of this
+9 section, this act is effective July 1, 2026.
+10
+11 (b) Sections 4 and 5 of this act are effective
+12 immediately upon completion of all acts necessary for a
+13 bill to become law as provided by Article 4, Section 8 of
+14 the Wyoming Constitution.
+15
+16 (END)
+23 SF0127

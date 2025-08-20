@@ -1,0 +1,59 @@
+Title: 1 Page 1-line 5 After "education;" insert "providing a
+Official Title: 1 Page 1-line 5 After "education;" insert "providing a
+Number of Sections: 1
+Source: versions - Amendment HB0341HS001 (Standing Committee) - House Transportation, Highways and Military Affair (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0341HS001
+2 sunset;".
+3
+4 Page 3-after line 13 Insert and renumber as necessary:
+5
+6 "(d) The department shall only administer this program to
+7 eligible households who meet the qualifications established under
+8 7 U.S.C. § 2014 for the regular supplemental nutrition assistance
+9 program. Any benefits awarded under this section shall not be used
+10 to purchase soft drinks, as defined by section 271.2 of title 7,
+11 Code of Federal Regulations.".
+12
+13 Page 3-line 15 Delete "(d)" and insert "(e)".
+14
+15 Page 3-after line 16 Insert and renumber as necessary:
+16
+17 "(f) The summer EBT program shall terminate if the federal
+18 payment of benefits established under 42 U.S.C. § 1762 are reduced
+19 below levels established in the year 2024 or at any time the state
+20 is required to pay any benefits under this program solely out of
+21 any state funds.". BROWN, L, CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0341HS001
+1 Page 1-line 5 After "education;" insert "providing a
+2 sunset;".
+3
+4 Page 3-after line 13 Insert and renumber as necessary:
+5
+6 "(d) The department shall only administer this program to
+7 eligible households who meet the qualifications established under
+8 7 U.S.C. § 2014 for the regular supplemental nutrition assistance
+9 program. Any benefits awarded under this section shall not be used
+10 to purchase soft drinks, as defined by section 271.2 of title 7,
+11 Code of Federal Regulations.".
+12
+13 Page 3-line 15 Delete "(d)" and insert "(e)".
+14
+15 Page 3-after line 16 Insert and renumber as necessary:
+16
+17 "(f) The summer EBT program shall terminate if the federal
+18 payment of benefits established under 42 U.S.C. § 1762 are reduced
+19 below levels established in the year 2024 or at any time the state
+20 is required to pay any benefits under this program solely out of
+21 any state funds.". BROWN, L, CHAIRMAN
+1

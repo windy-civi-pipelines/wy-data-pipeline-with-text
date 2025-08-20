@@ -1,0 +1,33 @@
+Title: 1 Page 2-line 11 Delete "acquisition value" and insert
+Official Title: 1 Page 2-line 11 Delete "acquisition value" and insert
+Number of Sections: 1
+Source: versions - Amendment SF0049S2001 (2nd reading) - Senator Pappas (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0049S2001
+2 "reported installed cost"; after "property"
+3 insert ". As used in this paragraph, "tangible
+4 personal property" excludes any property that
+5 is valued under W.S. 39-13-102(m) and mobile
+6 homes required to be titled under W.S. 31-2-
+7 501 through 31-2-508". PAPPAS
+8
+1
+
+
+================================================================================
+
+Raw Text:
+SF0049S2001
+1 Page 2-line 11 Delete "acquisition value" and insert
+2 "reported installed cost"; after "property"
+3 insert ". As used in this paragraph, "tangible
+4 personal property" excludes any property that
+5 is valued under W.S. 39-13-102(m) and mobile
+6 homes required to be titled under W.S. 31-2-
+7 501 through 31-2-508". PAPPAS
+8
+1

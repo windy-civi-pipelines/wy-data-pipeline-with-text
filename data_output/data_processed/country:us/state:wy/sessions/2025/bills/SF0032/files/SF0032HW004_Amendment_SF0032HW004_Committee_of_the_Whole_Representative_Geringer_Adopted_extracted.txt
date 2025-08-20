@@ -1,0 +1,178 @@
+Title: 3 Page 1-line 10 Delete "subsection" and insert "subsections";
+Official Title: 3 Page 1-line 10 Delete "subsection" and insert "subsections";
+Number of Sections: 1
+Source: versions - Amendment SF0032HW004 (Committee of the Whole) - Representative Geringer (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0032HW004
+1 Page 1-line 9 Delete "a".
+2
+4 after "(f)" insert "and (g)".
+5
+6 Page 2-lines 15 through 19 Delete entirely, including the
+7 House standing committee amendment
+8 (SF0032HS001/AE) and the Allemand committee of
+9 the whole amendment (SF0032HW003/AE) to these
+10 lines, and insert the following and renumber
+11 as necessary:
+12
+13 "(f) A local authority, by resolution or ordinance at a
+14 regular meeting, may decrease a maximum speed limit specified in
+15 W.S. 31-5-301(b)(iv) to forty-five (45) miles per hour for an
+16 unpaved roadway within its jurisdiction without first conducting
+17 a speed study, subject to the following conditions:
+18
+19 (i) Before implementing a speed reduction under this
+20 subsection, the local authority shall consult with:
+21
+22 (A) The local authority’s engineer or road and
+23 bridge superintendent; and
+24
+25 (B) The law enforcement agency with jurisdiction
+26 over the roadway.
+27
+28 (ii) The local authority shall post the decreased speed
+29 limit upon appropriate fixed or variable signs.
+30
+31 (g) Notwithstanding subsection (f) of this section, a local
+32 authority, by resolution or ordinance at a regular meeting, may
+33 temporarily establish a maximum speed limit lower than the limit
+34 specified in section 31-5-301(b)(iv) for an unpaved roadway within
+35 its jurisdiction without first conducting a speed study, subject
+36 to the following conditions:
+37
+38 (i) Before implementing a temporary speed reduction,
+39 the local authority shall consult with:
+40
+41 (A) The local authority’s engineer or road and
+42 bridge superintendent; and
+43
+1
+1 (B) The law enforcement agency with jurisdiction
+2 over the roadway.
+3
+4 (ii) The local authority shall post the decreased speed
+5 limit upon appropriate fixed or variable signs;
+6
+7 (iii) In conjunction with establishing a temporary
+8 speed limit, the local authority shall:
+9
+10 (A) Initiate a speed study to evaluate the
+11 appropriate long-term speed limit; and
+12
+13 (B) Conduct traffic speed data collection before
+14 implementing the temporary change to maintain data accuracy.
+15
+16 (iv) A temporary speed limit reduction under this
+17 subsection shall not exceed thirty (30) days past completion of a
+18 speed study required by paragraph (iii) of this subsection,
+19 provided that:
+20
+21 (A) The length of a speed study conducted by the
+22 local authority's engineer or a private contractor shall not exceed
+23 ninety (90) days;
+24
+25 (B) A speed study conducted by the University of
+26 Wyoming technology transfer center shall not exceed twelve (12)
+27 months.
+28
+29 (v) After the speed study required by paragraph (iii)
+30 of this subsection is completed, the local authority shall take
+31 action to establish a long-term speed limit;
+32
+33 (vi) This subsection shall not grant power to a local
+34 authority to declare countywide maximum speed limits but shall
+35 grant power to declare maximum speed limits for the public safety
+36 in localized geographic areas.". GERINGER
+2
+
+
+================================================================================
+
+Raw Text:
+SF0032HW004
+1 Page 1-line 9 Delete "a".
+2
+3 Page 1-line 10 Delete "subsection" and insert "subsections";
+4 after "(f)" insert "and (g)".
+5
+6 Page 2-lines 15 through 19 Delete entirely, including the
+7 House standing committee amendment
+8 (SF0032HS001/AE) and the Allemand committee of
+9 the whole amendment (SF0032HW003/AE) to these
+10 lines, and insert the following and renumber
+11 as necessary:
+12
+13 "(f) A local authority, by resolution or ordinance at a
+14 regular meeting, may decrease a maximum speed limit specified in
+15 W.S. 31-5-301(b)(iv) to forty-five (45) miles per hour for an
+16 unpaved roadway within its jurisdiction without first conducting
+17 a speed study, subject to the following conditions:
+18
+19 (i) Before implementing a speed reduction under this
+20 subsection, the local authority shall consult with:
+21
+22 (A) The local authority’s engineer or road and
+23 bridge superintendent; and
+24
+25 (B) The law enforcement agency with jurisdiction
+26 over the roadway.
+27
+28 (ii) The local authority shall post the decreased speed
+29 limit upon appropriate fixed or variable signs.
+30
+31 (g) Notwithstanding subsection (f) of this section, a local
+32 authority, by resolution or ordinance at a regular meeting, may
+33 temporarily establish a maximum speed limit lower than the limit
+34 specified in section 31-5-301(b)(iv) for an unpaved roadway within
+35 its jurisdiction without first conducting a speed study, subject
+36 to the following conditions:
+37
+38 (i) Before implementing a temporary speed reduction,
+39 the local authority shall consult with:
+40
+41 (A) The local authority’s engineer or road and
+42 bridge superintendent; and
+43
+1
+
+1 (B) The law enforcement agency with jurisdiction
+2 over the roadway.
+3
+4 (ii) The local authority shall post the decreased speed
+5 limit upon appropriate fixed or variable signs;
+6
+7 (iii) In conjunction with establishing a temporary
+8 speed limit, the local authority shall:
+9
+10 (A) Initiate a speed study to evaluate the
+11 appropriate long-term speed limit; and
+12
+13 (B) Conduct traffic speed data collection before
+14 implementing the temporary change to maintain data accuracy.
+15
+16 (iv) A temporary speed limit reduction under this
+17 subsection shall not exceed thirty (30) days past completion of a
+18 speed study required by paragraph (iii) of this subsection,
+19 provided that:
+20
+21 (A) The length of a speed study conducted by the
+22 local authority's engineer or a private contractor shall not exceed
+23 ninety (90) days;
+24
+25 (B) A speed study conducted by the University of
+26 Wyoming technology transfer center shall not exceed twelve (12)
+27 months.
+28
+29 (v) After the speed study required by paragraph (iii)
+30 of this subsection is completed, the local authority shall take
+31 action to establish a long-term speed limit;
+32
+33 (vi) This subsection shall not grant power to a local
+34 authority to declare countywide maximum speed limits but shall
+35 grant power to declare maximum speed limits for the public safety
+36 in localized geographic areas.". GERINGER
+2

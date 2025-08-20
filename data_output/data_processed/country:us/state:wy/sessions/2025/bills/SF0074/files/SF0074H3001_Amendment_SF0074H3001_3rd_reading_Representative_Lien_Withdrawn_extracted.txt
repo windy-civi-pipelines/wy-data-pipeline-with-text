@@ -1,0 +1,225 @@
+Title: 1 Page 1-line 5 After "specified;" insert "providing immunity
+Official Title: 1 Page 1-line 5 After "specified;" insert "providing immunity
+Number of Sections: 1
+Source: versions - Amendment SF0074H3001 (3rd reading) - Representative Lien (Withdrawn)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0074H3001 (TO ENGROSSED COPY)
+2 from prosecution of possession or consumption
+3 of alcohol by persons under the age of twenty-
+4 one (21) to persons under the age of twenty-
+5 one (21) who report or experience an emergency
+6 alcohol overdose event as specified;".
+7
+8 Page 1-line 12 After "Drug" insert "or alcohol".
+9
+10 Page 3-after line 20 Insert and renumber as necessary:
+11
+12 "(d) A person under the age of twenty-one (21) years who, in
+13 good faith seeks medical assistance for himself or another person
+14 under the age of twenty-one (21) years is immune from criminal
+15 prosecution for an offense listed in subsection (f) of this section
+16 if:
+17
+18 (i) The person under the age of twenty-one (21) years
+19 reasonably believes he or another person under the age of twenty-
+20 one (21) years is experiencing an alcohol overdose event;
+21
+22 (ii) The person under the age of twenty-one (21) years
+23 provides a description of the actual location of the alcohol
+24 overdose event;
+25
+26 (iii) The person under the age of twenty-one (21) years
+27 remains at the scene of the alcohol overdose event until a
+28 responding law enforcement officer or emergency medical service
+29 provider arrives, or the person under the age of twenty-one (21)
+30 years remains at the medical care facility where the person under
+31 the age of twenty-one (21) years experiencing the alcohol overdose
+32 event is located until a responding law enforcement officer
+33 arrives;
+34
+35 (iv) The person under the age of twenty-one (21) years
+36 cooperates with a responding law enforcement officer, emergency
+37 medical service provider or medical care provider, including by
+38 providing information about the person under the age of twenty-
+39 one (21) years experiencing the alcohol overdose event and the
+40 type of alcohol that may have caused the alcohol overdose event;
+41 and
+42
+1
+1 (v) The offense listed in subsection (f) of this
+2 section arises from the same course of events as the alcohol
+3 overdose event.
+4
+5 (e) The immunity from prosecution under subsection (d) of
+6 this section shall extend to the person under the age of twenty-
+7 one (21) years experiencing the alcohol overdose event if all the
+8 conditions specified in subsection (d) of this section are
+9 satisfied.
+10
+11 (f) The immunity from prosecution under subsection (d) of
+12 this section shall apply to the following offenses:
+13
+14 (i) Possession of any alcoholic liquor or malt beverage
+15 under W.S. 12-6-101(c)(iii);
+16
+17 (ii) Consumption of any ethyl alcohol under W.S. 12-6-
+18 101(c)(iv);
+19
+20 (iii) Having measurable blood, breath or urine alcohol
+21 concentration under W.S. 12-6-101(c)(v).".
+22
+23 Page 4-line 16 In the House standing committee amendment
+24 (SF0074HS001/AE) to this line, delete "(d)"
+25 and insert "(g)".
+26
+27 Page 4-after line 16 Insert and renumber as necessary:
+28
+29 "(i) "Alcohol overdose event" means a condition
+30 including extreme physical illness, a decreased level of
+31 consciousness or respiratory depression that a reasonable person
+32 would believe requires medical assistance to address and correct
+33 resulting from the consumption of alcohol;".
+34
+35 Page 4-line 18 Delete "(i)" and insert "(ii)".
+36
+37 Page 5-line 4 Delete "(ii)" and insert "(iii)".
+38
+39 Page 5-line 10 In the House standing committee amendment
+40 (SF0074HS001/AE) to this line, delete "(e)"
+41 and insert "(h)".
+42
+43 Page 5-line 14 Delete "subsection (c)" and insert
+44 "subsections (c) or (f)".
+45
+46 Page 5-line 21 Delete "subsection (c)" and insert
+47 "subsections (c) or (f)".
+2
+1
+2 Page 6-line 1 After "W.S." insert "12-6-101(c)(intro),".
+3
+4 Page 6-after line 2 Insert:
+5
+6 "12-6-101. Sale or possession prohibited; when possession
+7 unlawful; public drunkenness; falsification of identification;
+8 penalty; prima facie identification as defense.
+9
+10 (c) Except as otherwise provided in this title and W.S. 35-7-
+11 1064, no person under the age of twenty-one (21) years shall:".
+12 LIEN
+3
+
+
+================================================================================
+
+Raw Text:
+SF0074H3001 (TO ENGROSSED COPY)
+1 Page 1-line 5 After "specified;" insert "providing immunity
+2 from prosecution of possession or consumption
+3 of alcohol by persons under the age of twenty-
+4 one (21) to persons under the age of twenty-
+5 one (21) who report or experience an emergency
+6 alcohol overdose event as specified;".
+7
+8 Page 1-line 12 After "Drug" insert "or alcohol".
+9
+10 Page 3-after line 20 Insert and renumber as necessary:
+11
+12 "(d) A person under the age of twenty-one (21) years who, in
+13 good faith seeks medical assistance for himself or another person
+14 under the age of twenty-one (21) years is immune from criminal
+15 prosecution for an offense listed in subsection (f) of this section
+16 if:
+17
+18 (i) The person under the age of twenty-one (21) years
+19 reasonably believes he or another person under the age of twenty-
+20 one (21) years is experiencing an alcohol overdose event;
+21
+22 (ii) The person under the age of twenty-one (21) years
+23 provides a description of the actual location of the alcohol
+24 overdose event;
+25
+26 (iii) The person under the age of twenty-one (21) years
+27 remains at the scene of the alcohol overdose event until a
+28 responding law enforcement officer or emergency medical service
+29 provider arrives, or the person under the age of twenty-one (21)
+30 years remains at the medical care facility where the person under
+31 the age of twenty-one (21) years experiencing the alcohol overdose
+32 event is located until a responding law enforcement officer
+33 arrives;
+34
+35 (iv) The person under the age of twenty-one (21) years
+36 cooperates with a responding law enforcement officer, emergency
+37 medical service provider or medical care provider, including by
+38 providing information about the person under the age of twenty-
+39 one (21) years experiencing the alcohol overdose event and the
+40 type of alcohol that may have caused the alcohol overdose event;
+41 and
+42
+1
+
+1 (v) The offense listed in subsection (f) of this
+2 section arises from the same course of events as the alcohol
+3 overdose event.
+4
+5 (e) The immunity from prosecution under subsection (d) of
+6 this section shall extend to the person under the age of twenty-
+7 one (21) years experiencing the alcohol overdose event if all the
+8 conditions specified in subsection (d) of this section are
+9 satisfied.
+10
+11 (f) The immunity from prosecution under subsection (d) of
+12 this section shall apply to the following offenses:
+13
+14 (i) Possession of any alcoholic liquor or malt beverage
+15 under W.S. 12-6-101(c)(iii);
+16
+17 (ii) Consumption of any ethyl alcohol under W.S. 12-6-
+18 101(c)(iv);
+19
+20 (iii) Having measurable blood, breath or urine alcohol
+21 concentration under W.S. 12-6-101(c)(v).".
+22
+23 Page 4-line 16 In the House standing committee amendment
+24 (SF0074HS001/AE) to this line, delete "(d)"
+25 and insert "(g)".
+26
+27 Page 4-after line 16 Insert and renumber as necessary:
+28
+29 "(i) "Alcohol overdose event" means a condition
+30 including extreme physical illness, a decreased level of
+31 consciousness or respiratory depression that a reasonable person
+32 would believe requires medical assistance to address and correct
+33 resulting from the consumption of alcohol;".
+34
+35 Page 4-line 18 Delete "(i)" and insert "(ii)".
+36
+37 Page 5-line 4 Delete "(ii)" and insert "(iii)".
+38
+39 Page 5-line 10 In the House standing committee amendment
+40 (SF0074HS001/AE) to this line, delete "(e)"
+41 and insert "(h)".
+42
+43 Page 5-line 14 Delete "subsection (c)" and insert
+44 "subsections (c) or (f)".
+45
+46 Page 5-line 21 Delete "subsection (c)" and insert
+47 "subsections (c) or (f)".
+2
+
+1
+2 Page 6-line 1 After "W.S." insert "12-6-101(c)(intro),".
+3
+4 Page 6-after line 2 Insert:
+5
+6 "12-6-101. Sale or possession prohibited; when possession
+7 unlawful; public drunkenness; falsification of identification;
+8 penalty; prima facie identification as defense.
+9
+10 (c) Except as otherwise provided in this title and W.S. 35-7-
+11 1064, no person under the age of twenty-one (21) years shall:".
+12 LIEN
+3

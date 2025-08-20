@@ -1,0 +1,40 @@
+Title: PDF Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Amendment HB0246JC001 (Conference Committee)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0246JC001 (TO ENGROSSED COPY)
+Delete the following Senate amendments:
+HB0246S2001/A
+HB0246S2003/A
+HB0246S3001/A
+Further amend the ENGROSSED COPY as follows:
+Page 1-line 13 Delete "every".
+Page 1-line 14 Before the first "Wednesday" insert
+"the second"; before "shall" insert "of
+every month".
+Page 2-line 1 Delete "on".
+Page 2-line 2 Delete "Wednesdays". LOCKE, STYVAR,
+WEBBER, SMITH, D, BONER, IDE
+
+
+================================================================================
+
+Raw Text:
+HB0246JC001 (TO ENGROSSED COPY)
+Delete the following Senate amendments:
+HB0246S2001/A
+HB0246S2003/A
+HB0246S3001/A
+Further amend the ENGROSSED COPY as follows:
+Page 1-line 13 Delete "every".
+Page 1-line 14 Before the first "Wednesday" insert
+"the second"; before "shall" insert "of
+every month".
+Page 2-line 1 Delete "on".
+Page 2-line 2 Delete "Wednesdays". LOCKE, STYVAR,
+WEBBER, SMITH, D, BONER, IDE

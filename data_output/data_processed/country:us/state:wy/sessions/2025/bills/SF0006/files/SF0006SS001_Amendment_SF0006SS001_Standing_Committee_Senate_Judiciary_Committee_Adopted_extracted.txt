@@ -1,0 +1,83 @@
+Title: 3 Page 4-lines 21 and 22 Delete entirely and renumber as
+Official Title: 3 Page 4-lines 21 and 22 Delete entirely and renumber as
+Number of Sections: 1
+Source: versions - Amendment SF0006SS001 (Standing Committee) - Senate Judiciary Committee (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0006SS001
+1 Page 1-line 5 Delete "authorizing fees;".
+2
+4 necessary.
+5
+6 Page 5-line 1 Delete "(iii)" and insert "(ii)".
+7
+8 Page 5-line 5 Delete "(iv)" and insert "(iii)".
+9
+10 Page 5-line 10 Delete "(v)" and insert "(iv)".
+11
+12 Page 5-line 14 Delete "(vi)" and insert "(v)".
+13
+14 Page 5-line 19 Delete "(vii)" and insert "(vi)".
+15
+16 Page 5-line 22 Delete "(viii)" and insert "(vii)".
+17
+18 Page 6-line 7 Delete "(ix)" and insert "(viii)".
+19
+20 Page 6-line 11 Delete "(x)" and insert "(ix)".
+21
+22 Page 6-line 16 Delete "(xi)" and insert "(x)".
+23
+24 Page 8-line 1 Delete "Fees;".
+25
+26 Page 8-line 8 Delete "occupant" and insert "person".
+27
+28 Page 8-line 9 Delete "When a".
+29
+30 Page 8-lines 10 through 12 Delete entirely.
+31
+32 Page 8-line 15 Delete "occupant" and insert "person". OLSEN,
+33 CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+SF0006SS001
+1 Page 1-line 5 Delete "authorizing fees;".
+2
+3 Page 4-lines 21 and 22 Delete entirely and renumber as
+4 necessary.
+5
+6 Page 5-line 1 Delete "(iii)" and insert "(ii)".
+7
+8 Page 5-line 5 Delete "(iv)" and insert "(iii)".
+9
+10 Page 5-line 10 Delete "(v)" and insert "(iv)".
+11
+12 Page 5-line 14 Delete "(vi)" and insert "(v)".
+13
+14 Page 5-line 19 Delete "(vii)" and insert "(vi)".
+15
+16 Page 5-line 22 Delete "(viii)" and insert "(vii)".
+17
+18 Page 6-line 7 Delete "(ix)" and insert "(viii)".
+19
+20 Page 6-line 11 Delete "(x)" and insert "(ix)".
+21
+22 Page 6-line 16 Delete "(xi)" and insert "(x)".
+23
+24 Page 8-line 1 Delete "Fees;".
+25
+26 Page 8-line 8 Delete "occupant" and insert "person".
+27
+28 Page 8-line 9 Delete "When a".
+29
+30 Page 8-lines 10 through 12 Delete entirely.
+31
+32 Page 8-line 15 Delete "occupant" and insert "person". OLSEN,
+33 CHAIRMAN
+1

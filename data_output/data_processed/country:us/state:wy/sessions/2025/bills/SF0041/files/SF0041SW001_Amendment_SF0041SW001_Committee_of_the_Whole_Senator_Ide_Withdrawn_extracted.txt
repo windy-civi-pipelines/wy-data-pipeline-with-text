@@ -1,0 +1,23 @@
+Title: 1 Page 4-line 6 Delete "seventy-five million dollars
+Official Title: 1 Page 4-line 6 Delete "seventy-five million dollars
+Number of Sections: 1
+Source: versions - Amendment SF0041SW001 (Committee of the Whole) - Senator Ide (Withdrawn)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0041SW001
+2 ($75,000,000.00)" and insert "ten million
+3 dollars ($10,000,000.00)". IDE, STEINMETZ
+1
+
+
+================================================================================
+
+Raw Text:
+SF0041SW001
+1 Page 4-line 6 Delete "seventy-five million dollars
+2 ($75,000,000.00)" and insert "ten million
+3 dollars ($10,000,000.00)". IDE, STEINMETZ
+1

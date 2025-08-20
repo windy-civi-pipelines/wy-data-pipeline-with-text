@@ -1,0 +1,847 @@
+Title: HOUSE BILL NO. HB0149
+Official Title: HOUSE BILL NO. HB0149
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0545
+Adoption discrimination-keep kids first act.
+Sponsored by: Representative(s) Rodriguez-Williams,
+Angelos, Haroldson, Hoeft, Neiman,
+Pendergraft and Singh and Senator(s)
+Brennan, Hutchings, Ide, Olsen and Salazar
+A BILL
+for
+1 AN ACT relating to children; providing legislative
+2 findings; specifying protections for specified adoption and
+3 foster care providers and parents; prohibiting
+4 discriminatory actions associated with adoption and foster
+5 care; specifying remedies and causes of action; making
+6 conforming amendments; providing definitions; and providing
+7 for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1.
+12
+13 (a) The legislature finds that:
+14
+1 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 (i) The state seeks to place children in a safe,
+2 loving and supportive home when the state is required to
+3 place a child with an adoptive or foster family;
+4
+5 (ii) There are several adoption and foster care
+6 agencies in this state that assist families with adoption
+7 and foster parent placements of children;
+8
+9 (iii) The adoption and foster care agencies in
+10 Wyoming represent diverse organizations and groups, some of
+11 which are faith-based and some of which are not
+12 faith-based;
+13
+14 (iv) Children in need of adoption and foster
+15 care placement services benefit from having as many
+16 adoption and foster parent agencies available as possible,
+17 because the more agencies that participate in these
+18 services, the greater the likelihood that children will
+19 find permanent placements;
+20
+21 (v) The United States Supreme Court has
+22 recognized the benefits of having more, not fewer, adoption
+23 and foster care providers. "Maximizing the number of foster
+2 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 families and minimizing liability are important goals, but
+2 the City fails to show that granting [Catholic Social
+3 Services] an exception will put those goals at risk. If
+4 anything, including [Catholic Social Services] in the
+5 program seems likely to increase, not reduce, the number of
+6 available foster parents." Fulton v. City of Philadelphia,
+7 141 S. Ct. 1868, 1881–82 (2021);
+8
+9 (vi) Children and families benefit greatly from
+10 the adoption and foster care services provided by
+11 faith-based and nonfaith-based child placement agencies;
+12
+13 (vii) Faith-based organizations and groups have
+14 a lengthy and distinguished history of providing adoption
+15 and foster care services in Wyoming;
+16
+17 (viii) Private child placement agencies and
+18 persons, including faith-based child placement agencies and
+19 persons, have the right to free exercise of religion under
+20 both the United States and Wyoming Constitutions. Under
+21 well-settled principles of constitutional law, this right
+22 includes the freedom to abstain from conduct that conflicts
+23 with an agency's sincerely held religious beliefs;
+3 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1
+2 (ix) Ensuring that faith-based child placement
+3 agencies can continue to provide adoption and foster care
+4 services will benefit the children and families who receive
+5 those services;
+6
+7 (x) The United States Constitution allows all
+8 adoption and foster care providers to operate according to
+9 their beliefs without fear of unjust government punishment;
+10
+11 (xi) In a unanimous decision, the United States
+12 Supreme Court made clear that state governments violate the
+13 requirements of religious neutrality when they undermine
+14 religious beliefs or practices, stating that government
+15 "fails to act neutrally when it proceeds in a manner
+16 intolerant of religious beliefs or restricts practices
+17 because of their religious nature." Fulton v. City of
+18 Philadelphia, 141 S. Ct. 1868, 1877 (2021);
+19
+20 (xii) "The Constitution forbids laws that
+21 prohibit the free exercise of religion. That guarantee
+22 protects not just the right to be a religious person,
+23 holding beliefs inwardly and secretly; it also protects the
+4 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 right to act on those beliefs outwardly and publicly."
+2 Espinoza v. Mont. Dep't of Revenue, 591 U.S. 464, 510
+3 (2020) (Gorsuch, J., concurring) (emphases in original);
+4
+5 (xiii) The United States Supreme Court has "long
+6 recognized the importance of protecting religious actions,
+7 not just religious status." Espinoza, 591 U.S. at 511
+8 (Gorsuch, J., concurring). The "First Amendment protects
+9 the 'freedom to act' as well as the 'freedom to believe.'"
+10 Espinoza, 591 U.S. at 511 (Gorsuch, J., concurring)
+11 (quoting Cantwell v. Connecticut, 310 U.S. 296, 303
+12 (1940));
+13
+14 (xiv) The government violates the Free Exercise
+15 Clause whenever it "conditions receipt of an important
+16 benefit upon conduct proscribed by a religious faith, or
+17 where it denies such a benefit because of conduct mandated
+18 by religious belief, thereby putting substantial pressure
+19 on an adherent to modify his behavior to violate his
+20 beliefs." Thomas v. Review Bd. of Ind. Employment Sec.
+21 Div., 450 U.S. 707, 717–18 (1981).
+22
+5 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 Section 2. W.S. 1-39-124 and 14-1-301 through
+2 14-1-304 are created to read:
+3
+4 1-39-124. Liability; discrimination against adoption
+5 and foster care providers and parents.
+6
+7 A governmental entity is liable for damages resulting from
+8 a violation of W.S. 14-1-301 through 14-1-304 pursuant to
+9 W.S. 14-1-303.
+10
+11 ARTICLE 3
+12 ADOPTION AND FOSTER CARE PROTECTION
+13
+14 14-1-301. Definitions.
+15
+16 (a) As used in this article:
+17
+18 (i) "Adoption or foster care" means any social
+19 service provided to or on behalf of children for adoption
+20 or foster care, including:
+21
+22 (A) Promoting foster parenting;
+23
+6 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 (B) Providing foster homes, residential
+2 care, group homes or temporary group shelters for children;
+3
+4 (C) Recruiting foster parents;
+5
+6 (D) Placing children in foster homes;
+7
+8 (E) Licensing or certifying foster homes;
+9
+10 (F) Promoting adoption or recruiting
+11 adoptive parents;
+12
+13 (G) Assisting adoptions or supporting
+14 adoptive families;
+15
+16 (H) Performing or assisting home studies;
+17
+18 (J) Assisting kinship guardianships or
+19 kinship caregivers;
+20
+21 (K) Providing family preservation services;
+22
+23 (M) Providing family support services;
+7 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1
+2 (N) Providing temporary family
+3 reunification services.
+4
+5 (ii) "Governmental entity" means the state and
+6 its agencies and political subdivisions, the University of
+7 Wyoming, cities, towns and counties and their agencies,
+8 instrumentalities and institutions;
+9
+10 (iii) "Religious organization" means one (1) or
+11 more of the following:
+12
+13 (A) A house of worship, including churches,
+14 synagogues, shrines, mosques and temples;
+15
+16 (B) A religious group, corporation,
+17 association, school, educational institution, ministry,
+18 order, society or other entity, regardless of whether the
+19 entity is integrated or affiliated with a church or other
+20 house of worship;
+21
+8 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 (C) An officer, owner, employee, manager,
+2 religious leader, clergy or minister of an entity or
+3 organization described in this paragraph.
+4
+5 (iv) "State benefit program" means any program
+6 administered, controlled or funded by the state or any
+7 other governmental entity that provides cash, payments,
+8 grants, contracts, loans or other in-kind assistance.
+9
+10 14-1-302. Protections for adoption agencies and
+11 foster care providers and adoptive and foster parents;
+12 discrimination prohibited.
+13
+14 (a) No governmental entity shall take any
+15 discriminatory action against a person:
+16
+17 (i) That advertises, provides or facilitates
+18 adoption or foster care, wholly or partially on the basis
+19 that the person has provided or declined to provide any
+20 adoption or foster care service or related service based on
+21 or in a manner consistent with a sincerely held religious
+22 belief;
+23
+9 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 (ii) To whom the governmental entity grants
+2 custody of a foster or adoptive child, or who seeks the
+3 custody of a foster or adoptive child, wholly or partially
+4 on the basis that the person guides, instructs or raises a
+5 child, or intends to guide, instruct or raise a child,
+6 based on or in a manner consistent with a sincerely held
+7 religious belief. For purposes of this paragraph, a
+8 governmental entity may consider whether a person shares
+9 the same religion or faith tradition as a foster or
+10 adoptive child when considering placement of the child in
+11 order to prioritize placement with a person of the same
+12 religion or faith tradition.
+13
+14 (b) No governmental entity shall take any of the
+15 following discriminatory actions against any person
+16 protected under subsection (a) of this section because of a
+17 sincerely held religious belief:
+18
+19 (i) Alter in any way the tax treatment of, or
+20 cause any additional tax, penalty or payment to be assessed
+21 against, or deny, delay, revoke or otherwise make
+22 unavailable an exemption from taxation;
+23
+10 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 (ii) Disallow, deny or otherwise make
+2 unavailable a deduction for state taxation purposes of any
+3 charitable contribution made to or by a person protected
+4 under subsection (a) of this section;
+5
+6 (iii) Withhold, reduce, exclude, terminate,
+7 materially alter the terms and conditions of or otherwise
+8 make unavailable or deny any state grant, contract,
+9 subcontract, cooperative agreement, guarantee, loan,
+10 scholarship or other similar benefit;
+11
+12 (iv) Withhold, reduce, exclude, terminate,
+13 adversely alter the terms or conditions of or otherwise
+14 make unavailable or deny any entitlement or benefit under a
+15 state benefit program;
+16
+17 (v) Impose, levy or assess a monetary fine, fee,
+18 penalty, damages award or injunction, unless otherwise
+19 expressly provided by law;
+20
+21 (vi) Withhold, reduce, exclude, terminate,
+22 materially alter the terms or conditions of or otherwise
+23 make unavailable or deny any license, certification,
+11 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 accreditation, custody award, agreement, diploma, grade,
+2 recognition or other similar benefit, position or status,
+3 unless otherwise expressly provided by law;
+4
+5 (vii) Refuse to hire or promote, force to
+6 resign, fire, demote, sanction, discipline, adversely alter
+7 the terms or conditions of employment or retaliate or take
+8 any other adverse employment action, if the person is
+9 employed or is seeking employment with a governmental
+10 entity.
+11
+12 (c) Except as otherwise provided by state and federal
+13 law, each governmental entity shall consider a person
+14 protected under subsection (a) of this section to be
+15 accredited, licensed or certified as an adoptive parent or
+16 foster care parent if the person would otherwise be
+17 accredited, licensed or certified as an adoptive parent or
+18 foster care parent under state law but for a determination
+19 against the person wholly or partially on the basis that
+20 the person believes, maintains policies and procedures or
+21 acts in accordance with a sincerely held religious belief.
+22
+12 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 (d) Each governmental entity shall consider any
+2 person for a contract, grant or agreement related to
+3 adoption or foster care if the person otherwise would be
+4 considered but for a determination against the person
+5 wholly or partially on the basis that the person believes,
+6 maintains policies and procedures or acts in accordance
+7 with a sincerely held religious belief.
+8
+9 14-1-303. Remedies; claims; defenses; immunity
+10 waived.
+11
+12 (a) Any person may assert a violation of this article
+13 as a claim against a governmental entity in any judicial or
+14 administrative proceeding, or as a defense in any judicial
+15 or administrative proceeding.
+16
+17 (b) Notwithstanding any other provision of law, an
+18 action arising from this article may be commenced, and
+19 relief may be granted, without regard to whether the person
+20 commencing the action has sought or exhausted remedies
+21 available under the Wyoming Administrative Procedure Act.
+22
+13 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 (c) Any person who successfully asserts a claim or
+2 defense under this article may recover:
+3
+4 (i) Declaratory relief;
+5
+6 (ii) Injunctive relief;
+7
+8 (iii) Compensatory damages;
+9
+10 (iv) Reasonable attorney fees and costs;
+11
+12 (v) Any other appropriate relief.
+13
+14 (d) For purposes of subsection (c) of this section,
+15 declaratory relief and injunctive relief shall only be
+16 available upon a successful assertion of a defense under
+17 this article.
+18
+19 (e) Any action commenced under this section shall be
+20 brought not later than two (2) years after the date the
+21 person knew or reasonably should have known that a
+22 discriminatory action was taken against a person in
+23 violation of this article.
+14 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1
+2 14-1-304. Applicability.
+3
+4 (a) This article shall be construed in favor of a
+5 broad protection of free exercise of religious beliefs, to
+6 the maximum extent permitted by the constitutions of the
+7 United States and Wyoming.
+8
+9 (b) The protection of free exercise of religious
+10 beliefs afforded by this article are in addition to the
+11 protections provided under federal law, state law and the
+12 constitutions of the United States and Wyoming. Nothing in
+13 this article shall be construed to:
+14
+15 (i) Preempt or repeal any state or local law
+16 that is equally or more protective of the free exercise of
+17 religious beliefs;
+18
+19 (ii) Narrow the meaning or application of any
+20 state or local law protecting the free exercise of
+21 religious beliefs;
+22
+15 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 (iii) Prevent the state or a governmental entity
+2 from providing, either directly or through a person not
+3 seeking protection under this article, any benefit or
+4 service authorized under state law.
+5
+6 (c) This act shall apply to, and in cases of conflict
+7 shall supersede, any other statute, rule or regulation that
+8 infringes upon the free exercise of religious beliefs and
+9 moral convictions protected by this article, unless a
+10 conflicting statute is expressly made exempt from the
+11 application of this article. This act shall apply to and
+12 supersede any ordinance, rule, regulation, order, opinion,
+13 decision, practice or other exercise of the state's and
+14 each governmental entity's authority that infringes on the
+15 free exercise of religious beliefs protected by this
+16 article.
+17
+18 Section 3. W.S. 1-39-104(a) is amended to read:
+19
+20 1-39-104. Granting immunity from tort liability;
+21 liability on contracts; exceptions.
+22
+16 HB0149
+2025 STATE OF WYOMING 25LSO-0545
+1 (a) A governmental entity and its public employees
+2 while acting within the scope of duties are granted
+3 immunity from liability for any tort except as provided by
+4 W.S. 1-39-105 through 1-39-112, and 1-39-122 and 1-39-123
+5 through 1-39-124. Any immunity in actions based on a
+6 contract entered into by a governmental entity is waived
+7 except to the extent provided by the contract if the
+8 contract was within the powers granted to the entity and
+9 was properly executed and except as provided in W.S.
+10 1-39-120(b). The claims procedures of W.S. 1-39-113 apply
+11 to contractual claims against governmental entities.
+12
+13 Section 4. This act is effective July 1, 2025.
+14
+15 (END)
+17 HB0149
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0545
+HOUSE BILL NO. HB0149
+Adoption discrimination-keep kids first act.
+Sponsored by: Representative(s) Rodriguez-Williams,
+Angelos, Haroldson, Hoeft, Neiman,
+Pendergraft and Singh and Senator(s)
+Brennan, Hutchings, Ide, Olsen and Salazar
+A BILL
+for
+1 AN ACT relating to children; providing legislative
+2 findings; specifying protections for specified adoption and
+3 foster care providers and parents; prohibiting
+4 discriminatory actions associated with adoption and foster
+5 care; specifying remedies and causes of action; making
+6 conforming amendments; providing definitions; and providing
+7 for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1.
+12
+13 (a) The legislature finds that:
+14
+1 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 (i) The state seeks to place children in a safe,
+2 loving and supportive home when the state is required to
+3 place a child with an adoptive or foster family;
+4
+5 (ii) There are several adoption and foster care
+6 agencies in this state that assist families with adoption
+7 and foster parent placements of children;
+8
+9 (iii) The adoption and foster care agencies in
+10 Wyoming represent diverse organizations and groups, some of
+11 which are faith-based and some of which are not
+12 faith-based;
+13
+14 (iv) Children in need of adoption and foster
+15 care placement services benefit from having as many
+16 adoption and foster parent agencies available as possible,
+17 because the more agencies that participate in these
+18 services, the greater the likelihood that children will
+19 find permanent placements;
+20
+21 (v) The United States Supreme Court has
+22 recognized the benefits of having more, not fewer, adoption
+23 and foster care providers. "Maximizing the number of foster
+2 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 families and minimizing liability are important goals, but
+2 the City fails to show that granting [Catholic Social
+3 Services] an exception will put those goals at risk. If
+4 anything, including [Catholic Social Services] in the
+5 program seems likely to increase, not reduce, the number of
+6 available foster parents." Fulton v. City of Philadelphia,
+7 141 S. Ct. 1868, 1881–82 (2021);
+8
+9 (vi) Children and families benefit greatly from
+10 the adoption and foster care services provided by
+11 faith-based and nonfaith-based child placement agencies;
+12
+13 (vii) Faith-based organizations and groups have
+14 a lengthy and distinguished history of providing adoption
+15 and foster care services in Wyoming;
+16
+17 (viii) Private child placement agencies and
+18 persons, including faith-based child placement agencies and
+19 persons, have the right to free exercise of religion under
+20 both the United States and Wyoming Constitutions. Under
+21 well-settled principles of constitutional law, this right
+22 includes the freedom to abstain from conduct that conflicts
+23 with an agency's sincerely held religious beliefs;
+3 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1
+2 (ix) Ensuring that faith-based child placement
+3 agencies can continue to provide adoption and foster care
+4 services will benefit the children and families who receive
+5 those services;
+6
+7 (x) The United States Constitution allows all
+8 adoption and foster care providers to operate according to
+9 their beliefs without fear of unjust government punishment;
+10
+11 (xi) In a unanimous decision, the United States
+12 Supreme Court made clear that state governments violate the
+13 requirements of religious neutrality when they undermine
+14 religious beliefs or practices, stating that government
+15 "fails to act neutrally when it proceeds in a manner
+16 intolerant of religious beliefs or restricts practices
+17 because of their religious nature." Fulton v. City of
+18 Philadelphia, 141 S. Ct. 1868, 1877 (2021);
+19
+20 (xii) "The Constitution forbids laws that
+21 prohibit the free exercise of religion. That guarantee
+22 protects not just the right to be a religious person,
+23 holding beliefs inwardly and secretly; it also protects the
+4 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 right to act on those beliefs outwardly and publicly."
+2 Espinoza v. Mont. Dep't of Revenue, 591 U.S. 464, 510
+3 (2020) (Gorsuch, J., concurring) (emphases in original);
+4
+5 (xiii) The United States Supreme Court has "long
+6 recognized the importance of protecting religious actions,
+7 not just religious status." Espinoza, 591 U.S. at 511
+8 (Gorsuch, J., concurring). The "First Amendment protects
+9 the 'freedom to act' as well as the 'freedom to believe.'"
+10 Espinoza, 591 U.S. at 511 (Gorsuch, J., concurring)
+11 (quoting Cantwell v. Connecticut, 310 U.S. 296, 303
+12 (1940));
+13
+14 (xiv) The government violates the Free Exercise
+15 Clause whenever it "conditions receipt of an important
+16 benefit upon conduct proscribed by a religious faith, or
+17 where it denies such a benefit because of conduct mandated
+18 by religious belief, thereby putting substantial pressure
+19 on an adherent to modify his behavior to violate his
+20 beliefs." Thomas v. Review Bd. of Ind. Employment Sec.
+21 Div., 450 U.S. 707, 717–18 (1981).
+22
+5 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 Section 2. W.S. 1-39-124 and 14-1-301 through
+2 14-1-304 are created to read:
+3
+4 1-39-124. Liability; discrimination against adoption
+5 and foster care providers and parents.
+6
+7 A governmental entity is liable for damages resulting from
+8 a violation of W.S. 14-1-301 through 14-1-304 pursuant to
+9 W.S. 14-1-303.
+10
+11 ARTICLE 3
+12 ADOPTION AND FOSTER CARE PROTECTION
+13
+14 14-1-301. Definitions.
+15
+16 (a) As used in this article:
+17
+18 (i) "Adoption or foster care" means any social
+19 service provided to or on behalf of children for adoption
+20 or foster care, including:
+21
+22 (A) Promoting foster parenting;
+23
+6 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 (B) Providing foster homes, residential
+2 care, group homes or temporary group shelters for children;
+3
+4 (C) Recruiting foster parents;
+5
+6 (D) Placing children in foster homes;
+7
+8 (E) Licensing or certifying foster homes;
+9
+10 (F) Promoting adoption or recruiting
+11 adoptive parents;
+12
+13 (G) Assisting adoptions or supporting
+14 adoptive families;
+15
+16 (H) Performing or assisting home studies;
+17
+18 (J) Assisting kinship guardianships or
+19 kinship caregivers;
+20
+21 (K) Providing family preservation services;
+22
+23 (M) Providing family support services;
+7 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1
+2 (N) Providing temporary family
+3 reunification services.
+4
+5 (ii) "Governmental entity" means the state and
+6 its agencies and political subdivisions, the University of
+7 Wyoming, cities, towns and counties and their agencies,
+8 instrumentalities and institutions;
+9
+10 (iii) "Religious organization" means one (1) or
+11 more of the following:
+12
+13 (A) A house of worship, including churches,
+14 synagogues, shrines, mosques and temples;
+15
+16 (B) A religious group, corporation,
+17 association, school, educational institution, ministry,
+18 order, society or other entity, regardless of whether the
+19 entity is integrated or affiliated with a church or other
+20 house of worship;
+21
+8 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 (C) An officer, owner, employee, manager,
+2 religious leader, clergy or minister of an entity or
+3 organization described in this paragraph.
+4
+5 (iv) "State benefit program" means any program
+6 administered, controlled or funded by the state or any
+7 other governmental entity that provides cash, payments,
+8 grants, contracts, loans or other in-kind assistance.
+9
+10 14-1-302. Protections for adoption agencies and
+11 foster care providers and adoptive and foster parents;
+12 discrimination prohibited.
+13
+14 (a) No governmental entity shall take any
+15 discriminatory action against a person:
+16
+17 (i) That advertises, provides or facilitates
+18 adoption or foster care, wholly or partially on the basis
+19 that the person has provided or declined to provide any
+20 adoption or foster care service or related service based on
+21 or in a manner consistent with a sincerely held religious
+22 belief;
+23
+9 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 (ii) To whom the governmental entity grants
+2 custody of a foster or adoptive child, or who seeks the
+3 custody of a foster or adoptive child, wholly or partially
+4 on the basis that the person guides, instructs or raises a
+5 child, or intends to guide, instruct or raise a child,
+6 based on or in a manner consistent with a sincerely held
+7 religious belief. For purposes of this paragraph, a
+8 governmental entity may consider whether a person shares
+9 the same religion or faith tradition as a foster or
+10 adoptive child when considering placement of the child in
+11 order to prioritize placement with a person of the same
+12 religion or faith tradition.
+13
+14 (b) No governmental entity shall take any of the
+15 following discriminatory actions against any person
+16 protected under subsection (a) of this section because of a
+17 sincerely held religious belief:
+18
+19 (i) Alter in any way the tax treatment of, or
+20 cause any additional tax, penalty or payment to be assessed
+21 against, or deny, delay, revoke or otherwise make
+22 unavailable an exemption from taxation;
+23
+10 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 (ii) Disallow, deny or otherwise make
+2 unavailable a deduction for state taxation purposes of any
+3 charitable contribution made to or by a person protected
+4 under subsection (a) of this section;
+5
+6 (iii) Withhold, reduce, exclude, terminate,
+7 materially alter the terms and conditions of or otherwise
+8 make unavailable or deny any state grant, contract,
+9 subcontract, cooperative agreement, guarantee, loan,
+10 scholarship or other similar benefit;
+11
+12 (iv) Withhold, reduce, exclude, terminate,
+13 adversely alter the terms or conditions of or otherwise
+14 make unavailable or deny any entitlement or benefit under a
+15 state benefit program;
+16
+17 (v) Impose, levy or assess a monetary fine, fee,
+18 penalty, damages award or injunction, unless otherwise
+19 expressly provided by law;
+20
+21 (vi) Withhold, reduce, exclude, terminate,
+22 materially alter the terms or conditions of or otherwise
+23 make unavailable or deny any license, certification,
+11 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 accreditation, custody award, agreement, diploma, grade,
+2 recognition or other similar benefit, position or status,
+3 unless otherwise expressly provided by law;
+4
+5 (vii) Refuse to hire or promote, force to
+6 resign, fire, demote, sanction, discipline, adversely alter
+7 the terms or conditions of employment or retaliate or take
+8 any other adverse employment action, if the person is
+9 employed or is seeking employment with a governmental
+10 entity.
+11
+12 (c) Except as otherwise provided by state and federal
+13 law, each governmental entity shall consider a person
+14 protected under subsection (a) of this section to be
+15 accredited, licensed or certified as an adoptive parent or
+16 foster care parent if the person would otherwise be
+17 accredited, licensed or certified as an adoptive parent or
+18 foster care parent under state law but for a determination
+19 against the person wholly or partially on the basis that
+20 the person believes, maintains policies and procedures or
+21 acts in accordance with a sincerely held religious belief.
+22
+12 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 (d) Each governmental entity shall consider any
+2 person for a contract, grant or agreement related to
+3 adoption or foster care if the person otherwise would be
+4 considered but for a determination against the person
+5 wholly or partially on the basis that the person believes,
+6 maintains policies and procedures or acts in accordance
+7 with a sincerely held religious belief.
+8
+9 14-1-303. Remedies; claims; defenses; immunity
+10 waived.
+11
+12 (a) Any person may assert a violation of this article
+13 as a claim against a governmental entity in any judicial or
+14 administrative proceeding, or as a defense in any judicial
+15 or administrative proceeding.
+16
+17 (b) Notwithstanding any other provision of law, an
+18 action arising from this article may be commenced, and
+19 relief may be granted, without regard to whether the person
+20 commencing the action has sought or exhausted remedies
+21 available under the Wyoming Administrative Procedure Act.
+22
+13 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 (c) Any person who successfully asserts a claim or
+2 defense under this article may recover:
+3
+4 (i) Declaratory relief;
+5
+6 (ii) Injunctive relief;
+7
+8 (iii) Compensatory damages;
+9
+10 (iv) Reasonable attorney fees and costs;
+11
+12 (v) Any other appropriate relief.
+13
+14 (d) For purposes of subsection (c) of this section,
+15 declaratory relief and injunctive relief shall only be
+16 available upon a successful assertion of a defense under
+17 this article.
+18
+19 (e) Any action commenced under this section shall be
+20 brought not later than two (2) years after the date the
+21 person knew or reasonably should have known that a
+22 discriminatory action was taken against a person in
+23 violation of this article.
+14 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1
+2 14-1-304. Applicability.
+3
+4 (a) This article shall be construed in favor of a
+5 broad protection of free exercise of religious beliefs, to
+6 the maximum extent permitted by the constitutions of the
+7 United States and Wyoming.
+8
+9 (b) The protection of free exercise of religious
+10 beliefs afforded by this article are in addition to the
+11 protections provided under federal law, state law and the
+12 constitutions of the United States and Wyoming. Nothing in
+13 this article shall be construed to:
+14
+15 (i) Preempt or repeal any state or local law
+16 that is equally or more protective of the free exercise of
+17 religious beliefs;
+18
+19 (ii) Narrow the meaning or application of any
+20 state or local law protecting the free exercise of
+21 religious beliefs;
+22
+15 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 (iii) Prevent the state or a governmental entity
+2 from providing, either directly or through a person not
+3 seeking protection under this article, any benefit or
+4 service authorized under state law.
+5
+6 (c) This act shall apply to, and in cases of conflict
+7 shall supersede, any other statute, rule or regulation that
+8 infringes upon the free exercise of religious beliefs and
+9 moral convictions protected by this article, unless a
+10 conflicting statute is expressly made exempt from the
+11 application of this article. This act shall apply to and
+12 supersede any ordinance, rule, regulation, order, opinion,
+13 decision, practice or other exercise of the state's and
+14 each governmental entity's authority that infringes on the
+15 free exercise of religious beliefs protected by this
+16 article.
+17
+18 Section 3. W.S. 1-39-104(a) is amended to read:
+19
+20 1-39-104. Granting immunity from tort liability;
+21 liability on contracts; exceptions.
+22
+16 HB0149
+
+2025 STATE OF WYOMING 25LSO-0545
+1 (a) A governmental entity and its public employees
+2 while acting within the scope of duties are granted
+3 immunity from liability for any tort except as provided by
+4 W.S. 1-39-105 through 1-39-112, and 1-39-122 and 1-39-123
+5 through 1-39-124. Any immunity in actions based on a
+6 contract entered into by a governmental entity is waived
+7 except to the extent provided by the contract if the
+8 contract was within the powers granted to the entity and
+9 was properly executed and except as provided in W.S.
+10 1-39-120(b). The claims procedures of W.S. 1-39-113 apply
+11 to contractual claims against governmental entities.
+12
+13 Section 4. This act is effective July 1, 2025.
+14
+15 (END)
+17 HB0149

@@ -1,0 +1,75 @@
+Title: 1 Delete the Senate standing committee amendment (SF0125SS001/A) and
+Official Title: 1 Delete the Senate standing committee amendment (SF0125SS001/A) and
+Number of Sections: 1
+Source: versions - Amendment SF0125S3001 (3rd reading) - Senator Boner (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0125S3001
+2 the Steinmetz second reading amendment (SF0125S2001/A) entirely
+3 and further amend as follows:
+4
+5 Page 1-line 4 Delete entirely and insert "providing for
+6 contingent effective dates;".
+7
+8 Page 2 Delete entirely.
+9
+10 Page 3-lines 1 through 5 Delete entirely and insert:
+11
+12 "For purposes of interpretation and construction under the Wyoming
+13 constitution and all statutes of this state, abortion, as defined
+14 in W.S. 35-6-122(a)(i), is not health care. For purposes of this
+15 section, actions specified in W.S. 35-6-124 shall be construed as
+16 health care.
+17
+18 Section 2.
+19
+20 (a) This act is effective on the earlier of:
+21
+22 (i) March 12, 2026; or
+23
+24 (ii) The date on which the Wyoming supreme court renders
+25 a decision on the constitutionality of the Life is a Human Right
+26 Act, W.S. 35-6-120 through 35-6-138. On the date on which the
+27 Wyoming supreme court renders a decision in the matter specified
+28 in this paragraph, the attorney general shall certify this date to
+29 the secretary of state.". BONER, STEINMETZ
+1
+
+
+================================================================================
+
+Raw Text:
+SF0125S3001
+1 Delete the Senate standing committee amendment (SF0125SS001/A) and
+2 the Steinmetz second reading amendment (SF0125S2001/A) entirely
+3 and further amend as follows:
+4
+5 Page 1-line 4 Delete entirely and insert "providing for
+6 contingent effective dates;".
+7
+8 Page 2 Delete entirely.
+9
+10 Page 3-lines 1 through 5 Delete entirely and insert:
+11
+12 "For purposes of interpretation and construction under the Wyoming
+13 constitution and all statutes of this state, abortion, as defined
+14 in W.S. 35-6-122(a)(i), is not health care. For purposes of this
+15 section, actions specified in W.S. 35-6-124 shall be construed as
+16 health care.
+17
+18 Section 2.
+19
+20 (a) This act is effective on the earlier of:
+21
+22 (i) March 12, 2026; or
+23
+24 (ii) The date on which the Wyoming supreme court renders
+25 a decision on the constitutionality of the Life is a Human Right
+26 Act, W.S. 35-6-120 through 35-6-138. On the date on which the
+27 Wyoming supreme court renders a decision in the matter specified
+28 in this paragraph, the attorney general shall certify this date to
+29 the secretary of state.". BONER, STEINMETZ
+1

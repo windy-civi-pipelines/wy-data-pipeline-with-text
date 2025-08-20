@@ -1,0 +1,146 @@
+Title: Sponsored By: Representative(s) Filer, Andrew, Geringer, Lucas,
+Official Title: Sponsored By: Representative(s) Filer, Andrew, Geringer, Lucas,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0202 Fast Track Permits Act.
+Singh, Wasserburger and Wylie and Senator(s) Pappas
+and Smith, D
+AN ACT relating to city, county, state and local powers; requiring local
+government entities to comply with deadlines for reviewing land use requests
+within the subject property's permitted zoning use; providing exceptions;
+requiring local government entities to provide notice as specified; providing
+definitions; providing penalties; specifying applicability; and providing for
+an effective date.
+1/15/2025 Bill Number Assigned
+1/16/2025 H Received for Introduction
+1/24/2025 H Introduced and Referred to H04 - Education
+1/27/2025 H04 - Education:Recommend Do Pass 6-3-0-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Bratten, Erickson, Guggenmos, Singh, Strock
+Nays: Representative(s) Kelly, Lawley, Williams
+Ayes 6 Nays 3 Excused 0 Absent 0 Conflicts 0
+1/27/2025 H Placed on General File
+HB0202HW001/ADOPTED (CORRECTED COPY)
+Page 2-line 21 After "permit" delete "," and insert "or"; after "use"
+insert "."; delete "or".
+Page 2-line 22 Delete "variance.".
+Page 3-line 2 After "plats" insert ", variances". FILER
+2/4/2025 H COW:Passed
+2/5/2025 H 2nd Reading:Laid Back
+HB0202H2001/FAILED
+Page 4-line 9 Delete "or".
+Page 4-line 15 Delete "ten (10) days" and insert "thirty (30) days".
+Page 4-line 16 Delete "." and insert "; or".
+Page 4-after line 16 Insert:
+"(iii) The delay is the result of an action or inaction on the
+part of the applicant.".
+Page 5-line 9 After "unless" insert "the missed requirements are the
+result of unanticipated issues discovered during
+demolition or construction or".
+Page 5-lines 13 through 16 Delete entirely.
+Page 5-line 17 Delete "submitted." and insert "(g)". CAMPBELL, E
+HB0202H2002.01/ADOPTED [DIVIDED AMENDMENT]
+(CORRECTED COPY)
+Page 2-line 18 After "use" insert "by right".
+Page 3-line 18 After "use" insert "by right". BEAR
+HB0202H2002.02/FAILED [DIVIDED AMENDMENT]
+(CORRECTED COPY)
+Delete the Filer committee of the whole amendment (HB0202HW001/A) entirely and
+further amend as follows:
+Page 2-line 21 Before "building" insert "residential"; delete ",
+change of permitted zoning use". BEAR
+2/6/2025 H 2nd Reading:Passed
+HB0202H3001/WITHDRAWN
+2/7/2025 H 3rd Reading:Passed 40-20-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Banks, Bear, Brady, Bratten, Brown, G, Brown,
+L, Byron, Campbell, K, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Larson, Lien, Locke, Lucas, Mccann,
+Neiman, Ottman, Pendergraft, Rodriguez-Williams, Singh, Smith, Strock, Styvar,
+Tarver, Washut, Wasserburger, Webber, Wharff, Winter, Wylie
+Nays: Representative(s) Angelos, Campbell, E, Chestek, Clouston, Connolly,
+Davis, Kelly, Knapp, Larsen, Lawley, Nicholas, Posey, Provenza, Schmid,
+Sherwood, Storer, Thayer, Webb, Williams, Yin
+Excused: Representative(s) Andrew, Riggins
+Ayes 40 Nays 20 Excused 2 Absent 0 Conflicts 0
+2/7/2025 S Received for Introduction
+2/13/2025 S Introduced and Referred to S09 - Minerals
+2/28/2025 S No report prior to CoW Cutoff
+3/3/2025 S:Died in Committee Returned Bill Pursuant to SR 5-4
+
+
+================================================================================
+
+Raw Text:
+HB0202 Fast Track Permits Act.
+Sponsored By: Representative(s) Filer, Andrew, Geringer, Lucas,
+Singh, Wasserburger and Wylie and Senator(s) Pappas
+and Smith, D
+AN ACT relating to city, county, state and local powers; requiring local
+government entities to comply with deadlines for reviewing land use requests
+within the subject property's permitted zoning use; providing exceptions;
+requiring local government entities to provide notice as specified; providing
+definitions; providing penalties; specifying applicability; and providing for
+an effective date.
+1/15/2025 Bill Number Assigned
+1/16/2025 H Received for Introduction
+1/24/2025 H Introduced and Referred to H04 - Education
+1/27/2025 H04 - Education:Recommend Do Pass 6-3-0-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Bratten, Erickson, Guggenmos, Singh, Strock
+Nays: Representative(s) Kelly, Lawley, Williams
+Ayes 6 Nays 3 Excused 0 Absent 0 Conflicts 0
+1/27/2025 H Placed on General File
+HB0202HW001/ADOPTED (CORRECTED COPY)
+Page 2-line 21 After "permit" delete "," and insert "or"; after "use"
+insert "."; delete "or".
+Page 2-line 22 Delete "variance.".
+Page 3-line 2 After "plats" insert ", variances". FILER
+2/4/2025 H COW:Passed
+2/5/2025 H 2nd Reading:Laid Back
+HB0202H2001/FAILED
+Page 4-line 9 Delete "or".
+Page 4-line 15 Delete "ten (10) days" and insert "thirty (30) days".
+Page 4-line 16 Delete "." and insert "; or".
+Page 4-after line 16 Insert:
+"(iii) The delay is the result of an action or inaction on the
+part of the applicant.".
+Page 5-line 9 After "unless" insert "the missed requirements are the
+result of unanticipated issues discovered during
+demolition or construction or".
+Page 5-lines 13 through 16 Delete entirely.
+Page 5-line 17 Delete "submitted." and insert "(g)". CAMPBELL, E
+
+HB0202H2002.01/ADOPTED [DIVIDED AMENDMENT]
+(CORRECTED COPY)
+Page 2-line 18 After "use" insert "by right".
+Page 3-line 18 After "use" insert "by right". BEAR
+HB0202H2002.02/FAILED [DIVIDED AMENDMENT]
+(CORRECTED COPY)
+Delete the Filer committee of the whole amendment (HB0202HW001/A) entirely and
+further amend as follows:
+Page 2-line 21 Before "building" insert "residential"; delete ",
+change of permitted zoning use". BEAR
+2/6/2025 H 2nd Reading:Passed
+HB0202H3001/WITHDRAWN
+2/7/2025 H 3rd Reading:Passed 40-20-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Banks, Bear, Brady, Bratten, Brown, G, Brown,
+L, Byron, Campbell, K, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Larson, Lien, Locke, Lucas, Mccann,
+Neiman, Ottman, Pendergraft, Rodriguez-Williams, Singh, Smith, Strock, Styvar,
+Tarver, Washut, Wasserburger, Webber, Wharff, Winter, Wylie
+Nays: Representative(s) Angelos, Campbell, E, Chestek, Clouston, Connolly,
+Davis, Kelly, Knapp, Larsen, Lawley, Nicholas, Posey, Provenza, Schmid,
+Sherwood, Storer, Thayer, Webb, Williams, Yin
+Excused: Representative(s) Andrew, Riggins
+Ayes 40 Nays 20 Excused 2 Absent 0 Conflicts 0
+2/7/2025 S Received for Introduction
+2/13/2025 S Introduced and Referred to S09 - Minerals
+2/28/2025 S No report prior to CoW Cutoff
+3/3/2025 S:Died in Committee Returned Bill Pursuant to SR 5-4

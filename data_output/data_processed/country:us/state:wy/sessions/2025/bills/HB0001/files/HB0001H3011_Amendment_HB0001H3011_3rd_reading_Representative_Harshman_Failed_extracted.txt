@@ -1,0 +1,180 @@
+Title: 3 Page 22-line 10 After "6." insert ", 8., 9."; under OTHER
+Official Title: 3 Page 22-line 10 After "6." insert ", 8., 9."; under OTHER
+Number of Sections: 4
+Source: versions - Amendment HB0001H3011 (3rd reading) - Representative Harshman (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0001H3011
+[BUDGET(s) AFFECTED]
+
+Section 2:
+Section Under Consideration:
+
+Section 3:
+Section 024. STATE PARKS & CULTURAL RESOURCES
+(Cultural Resources)
+Other Budget(s) Affected:
+
+Section 4:
+Section 066. WYOMING TOURISM BOARD
+(Wyoming Tourism Board)
+* * * * * * * * * *
+1 Page 4-line 21 After "060," insert "066,".
+2
+4 FUNDS increase amount by "250,000 S0".
+5
+6 Page 25-after line 8 Insert and renumber as necessary:
+7
+8 "8. Of this general fund appropriation, fifty thousand dollars
+9 ($50,000.00)S0 is from the Wyoming tourism reserve and projects
+10 account for preservation of the historic 32 Salt Lake-Omaha
+11 Intermediate Field Historic District commonly known as the
+12 Medicine Bow intermediate field located on state land near Medicine
+13 Bow. This appropriation shall not be transferred or expended for
+14 any other purpose. It is the intent of the legislature that this
+15 appropriation not be included in the department of state parks and
+16 cultural resources' standard budget for the immediately succeeding
+17 fiscal biennium.
+18
+19 9. Of this general fund appropriation, two hundred thousand dollars
+20 ($200,000.00)S0 is from the Wyoming tourism reserve and projects
+21 account for archeological testing and validation on the Wiggins
+22 Fork bison jumps complex. This appropriation shall not be
+23 transferred or expended for any other purpose. It is the intent of
+24 the legislature that this appropriation not be included in the
+25 department of state parks and cultural resources' standard budget
+26 for the immediately succeeding fiscal biennium.".
+27
+28 Page 44-after line 2 Insert:
+29
+30 "Section 066. WYOMING TOURISM BOARD
+1
+1 PROGRAM
+2 Wyoming Tourism Board 1., 2. 41,539,082 S14
+3 2,500,000 S0
+4 23,600 SR 44,062,682
+5 TOTALS 0 0 44,062,682 44,062,682
+6 41,562,682 41,562,682
+7
+8 AUTHORIZED EMPLOYEES
+9 Full Time 0
+10 Part Time 0
+11 TOTAL 0
+12
+13 1. Of this other funds appropriation, two million dollars
+14 ($2,000,000.00)S14 is for purposes of planning and providing
+15 grants for initiatives recognizing the two hundred fiftieth
+16 anniversary of the declaration of independence. This appropriation
+17 shall not be transferred or expended for any other purpose. It is
+18 the intent of the legislature that this appropriation not be
+19 included in the Wyoming tourism board's standard budget for the
+20 immediately succeeding fiscal biennium.
+21
+22 2. Of this other funds appropriation, two million five hundred
+23 thousand dollars ($2,500,000.00)S0 is appropriated from the
+24 Wyoming tourism reserve and projects account. In the event any
+25 public Wyoming airport is selected as the site of the national
+26 championship air races, the Wyoming tourism board shall distribute
+27 this appropriation to the public entity operating the selected
+28 airport for purposes of economic development and community
+29 assistance conditioned only upon the public entity's good-faith
+30 effort to secure matching funds in the ratio of one dollar ($1.00)
+31 of appropriated other funds to not less than one dollar ($1.00) of
+32 matching funds from any nonstate sources to the greatest extent
+33 possible. This appropriation shall not be transferred or expended
+34 for any other purpose. It is the intent of the legislature that
+35 this appropriation not be included in the Wyoming tourism board's
+36 standard budget for the immediately succeeding fiscal biennium.".
+37
+38 To the extent required by this amendment: adjust totals; and
+39 renumber as necessary. HARSHMAN, LARSEN, L, WINTER
+2
+
+
+================================================================================
+
+Raw Text:
+HB0001H3011
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 024. STATE PARKS & CULTURAL RESOURCES
+(Cultural Resources)
+Other Budget(s) Affected:
+Section 066. WYOMING TOURISM BOARD
+(Wyoming Tourism Board)
+* * * * * * * * * *
+1 Page 4-line 21 After "060," insert "066,".
+2
+3 Page 22-line 10 After "6." insert ", 8., 9."; under OTHER
+4 FUNDS increase amount by "250,000 S0".
+5
+6 Page 25-after line 8 Insert and renumber as necessary:
+7
+8 "8. Of this general fund appropriation, fifty thousand dollars
+9 ($50,000.00)S0 is from the Wyoming tourism reserve and projects
+10 account for preservation of the historic 32 Salt Lake-Omaha
+11 Intermediate Field Historic District commonly known as the
+12 Medicine Bow intermediate field located on state land near Medicine
+13 Bow. This appropriation shall not be transferred or expended for
+14 any other purpose. It is the intent of the legislature that this
+15 appropriation not be included in the department of state parks and
+16 cultural resources' standard budget for the immediately succeeding
+17 fiscal biennium.
+18
+19 9. Of this general fund appropriation, two hundred thousand dollars
+20 ($200,000.00)S0 is from the Wyoming tourism reserve and projects
+21 account for archeological testing and validation on the Wiggins
+22 Fork bison jumps complex. This appropriation shall not be
+23 transferred or expended for any other purpose. It is the intent of
+24 the legislature that this appropriation not be included in the
+25 department of state parks and cultural resources' standard budget
+26 for the immediately succeeding fiscal biennium.".
+27
+28 Page 44-after line 2 Insert:
+29
+30 "Section 066. WYOMING TOURISM BOARD
+1
+
+1 PROGRAM
+2 Wyoming Tourism Board 1., 2. 41,539,082 S14
+3 2,500,000 S0
+4 23,600 SR 44,062,682
+5 TOTALS 0 0 44,062,682 44,062,682
+6 41,562,682 41,562,682
+7
+8 AUTHORIZED EMPLOYEES
+9 Full Time 0
+10 Part Time 0
+11 TOTAL 0
+12
+13 1. Of this other funds appropriation, two million dollars
+14 ($2,000,000.00)S14 is for purposes of planning and providing
+15 grants for initiatives recognizing the two hundred fiftieth
+16 anniversary of the declaration of independence. This appropriation
+17 shall not be transferred or expended for any other purpose. It is
+18 the intent of the legislature that this appropriation not be
+19 included in the Wyoming tourism board's standard budget for the
+20 immediately succeeding fiscal biennium.
+21
+22 2. Of this other funds appropriation, two million five hundred
+23 thousand dollars ($2,500,000.00)S0 is appropriated from the
+24 Wyoming tourism reserve and projects account. In the event any
+25 public Wyoming airport is selected as the site of the national
+26 championship air races, the Wyoming tourism board shall distribute
+27 this appropriation to the public entity operating the selected
+28 airport for purposes of economic development and community
+29 assistance conditioned only upon the public entity's good-faith
+30 effort to secure matching funds in the ratio of one dollar ($1.00)
+31 of appropriated other funds to not less than one dollar ($1.00) of
+32 matching funds from any nonstate sources to the greatest extent
+33 possible. This appropriation shall not be transferred or expended
+34 for any other purpose. It is the intent of the legislature that
+35 this appropriation not be included in the Wyoming tourism board's
+36 standard budget for the immediately succeeding fiscal biennium.".
+37
+38 To the extent required by this amendment: adjust totals; and
+39 renumber as necessary. HARSHMAN, LARSEN, L, WINTER
+2

@@ -1,0 +1,29 @@
+Title: 3 Page 11-line 17 Delete "(14)" and insert "twenty-one (21)".
+Official Title: 3 Page 11-line 17 Delete "(14)" and insert "twenty-one (21)".
+Number of Sections: 1
+Source: versions - Amendment SF0190S2001 (2nd reading) - Senator Boner (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0190S2001
+1 Page 11-line 16 Delete "fourteen".
+2
+4
+5 Page 12-line 2 Delete "fourteen (14)" and insert "twenty-one
+6 (21)". BONER
+1
+
+
+================================================================================
+
+Raw Text:
+SF0190S2001
+1 Page 11-line 16 Delete "fourteen".
+2
+3 Page 11-line 17 Delete "(14)" and insert "twenty-one (21)".
+4
+5 Page 12-line 2 Delete "fourteen (14)" and insert "twenty-one
+6 (21)". BONER
+1

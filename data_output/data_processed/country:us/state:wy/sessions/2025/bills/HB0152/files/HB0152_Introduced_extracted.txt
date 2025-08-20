@@ -1,0 +1,149 @@
+Title: HOUSE BILL NO. HB0152
+Official Title: HOUSE BILL NO. HB0152
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0376
+Donated blood-mRNA disclosure.
+Sponsored by: Representative(s) McCann, Allemand, Angelos,
+Heiner, Locke, Ottman, Pendergraft,
+Rodriguez-Williams, Smith, S, Styvar and
+Wasserburger and Senator(s) Hutchings,
+Pearson and Steinmetz
+A BILL
+for
+1 AN ACT relating to public health and safety; requiring
+2 blood donors to disclose vaccination status as specified;
+3 requiring blood packaging to be marked as specified;
+4 allowing a person who receives a blood transfusion to
+5 request the use of certain blood; providing definitions;
+6 requiring rulemaking; and providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 35-4-1101 is created to read:
+11
+12 ARTICLE 11
+13 BLOOD DONATIONS AND VACCINATIONS
+14
+1 HB0152
+2025 STATE OF WYOMING 25LSO-0376
+1 35-4-1101. Disclosure of mRNA vaccinations for blood
+2 donations; labeling; right to request certain blood;
+3 definitions.
+4
+5 (a) As used in this chapter:
+6
+7 (i) "COVID-19" means as defined in W.S.
+8 1-1-141(a)(ii);
+9
+10 (ii) "Messenger ribonucleic acid vaccine" means
+11 a type of vaccine that uses called messenger ribonucleic
+12 acid to produce an immune response against a disease.
+13
+14 (b) Any person who collects human blood donations for
+15 the purpose of providing blood for human blood transfusion
+16 shall require blood donors to disclose whether the blood
+17 donor has received a COVID-19 vaccine or a messenger
+18 ribonucleic acid vaccine at any time.
+19
+20 (c) Blood originating from a donor who has received a
+21 COVID-19 vaccine or a messenger ribonucleic acid vaccine
+22 shall be conspicuously marked on the packaging of the blood
+23 and any paperwork related to the blood.
+2 HB0152
+2025 STATE OF WYOMING 25LSO-0376
+1
+2 (d) In a nonemergency situation, as determined by the
+3 health care provider providing medical services, a person
+4 receiving a blood transfusion shall have the right to
+5 request blood based on whether or not the blood originated
+6 from a person who has received a COVID-19 vaccine or a
+7 messenger ribonucleic acid vaccine, if the requested blood
+8 is available at the facility.
+9
+10 Section 2. The department of health shall promulgate
+11 all rules necessary to implement this act.
+12
+13 Section 3. This act is effective July 1, 2025.
+14
+15 (END)
+3 HB0152
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0376
+HOUSE BILL NO. HB0152
+Donated blood-mRNA disclosure.
+Sponsored by: Representative(s) McCann, Allemand, Angelos,
+Heiner, Locke, Ottman, Pendergraft,
+Rodriguez-Williams, Smith, S, Styvar and
+Wasserburger and Senator(s) Hutchings,
+Pearson and Steinmetz
+A BILL
+for
+1 AN ACT relating to public health and safety; requiring
+2 blood donors to disclose vaccination status as specified;
+3 requiring blood packaging to be marked as specified;
+4 allowing a person who receives a blood transfusion to
+5 request the use of certain blood; providing definitions;
+6 requiring rulemaking; and providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 35-4-1101 is created to read:
+11
+12 ARTICLE 11
+13 BLOOD DONATIONS AND VACCINATIONS
+14
+1 HB0152
+
+2025 STATE OF WYOMING 25LSO-0376
+1 35-4-1101. Disclosure of mRNA vaccinations for blood
+2 donations; labeling; right to request certain blood;
+3 definitions.
+4
+5 (a) As used in this chapter:
+6
+7 (i) "COVID-19" means as defined in W.S.
+8 1-1-141(a)(ii);
+9
+10 (ii) "Messenger ribonucleic acid vaccine" means
+11 a type of vaccine that uses called messenger ribonucleic
+12 acid to produce an immune response against a disease.
+13
+14 (b) Any person who collects human blood donations for
+15 the purpose of providing blood for human blood transfusion
+16 shall require blood donors to disclose whether the blood
+17 donor has received a COVID-19 vaccine or a messenger
+18 ribonucleic acid vaccine at any time.
+19
+20 (c) Blood originating from a donor who has received a
+21 COVID-19 vaccine or a messenger ribonucleic acid vaccine
+22 shall be conspicuously marked on the packaging of the blood
+23 and any paperwork related to the blood.
+2 HB0152
+
+2025 STATE OF WYOMING 25LSO-0376
+1
+2 (d) In a nonemergency situation, as determined by the
+3 health care provider providing medical services, a person
+4 receiving a blood transfusion shall have the right to
+5 request blood based on whether or not the blood originated
+6 from a person who has received a COVID-19 vaccine or a
+7 messenger ribonucleic acid vaccine, if the requested blood
+8 is available at the facility.
+9
+10 Section 2. The department of health shall promulgate
+11 all rules necessary to implement this act.
+12
+13 Section 3. This act is effective July 1, 2025.
+14
+15 (END)
+3 HB0152

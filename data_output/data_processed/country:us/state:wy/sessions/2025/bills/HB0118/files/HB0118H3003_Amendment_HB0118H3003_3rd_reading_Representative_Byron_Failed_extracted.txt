@@ -1,0 +1,53 @@
+Title: 1 Page 2-line 1 Delete "Property" and insert "Public
+Official Title: 1 Page 2-line 1 Delete "Property" and insert "Public
+Number of Sections: 1
+Source: versions - Amendment HB0118H3003 (3rd reading) - Representative Byron (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0118H3003
+2 property".
+3
+4 Page 2-line 2 Before "property" insert "public"; before
+5 "land" insert "public".
+6
+7 Page 2-line 9 Before "property" insert "public".
+8
+9 Page 2-line 10 Delete "property" and insert "land".
+10
+11 Page 3-line 12 Before "lands" insert "public".
+12
+13 Page 4-line 3 Before "land" insert "public".
+14
+15 Page 5-line 5 Before "lands" insert "public".
+16
+17 Page 5-line 14 Before "land" insert "public"; before
+18 "property" insert "public". BYRON
+1
+
+
+================================================================================
+
+Raw Text:
+HB0118H3003
+1 Page 2-line 1 Delete "Property" and insert "Public
+2 property".
+3
+4 Page 2-line 2 Before "property" insert "public"; before
+5 "land" insert "public".
+6
+7 Page 2-line 9 Before "property" insert "public".
+8
+9 Page 2-line 10 Delete "property" and insert "land".
+10
+11 Page 3-line 12 Before "lands" insert "public".
+12
+13 Page 4-line 3 Before "land" insert "public".
+14
+15 Page 5-line 5 Before "lands" insert "public".
+16
+17 Page 5-line 14 Before "land" insert "public"; before
+18 "property" insert "public". BYRON
+1

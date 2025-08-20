@@ -1,0 +1,124 @@
+Title: Sponsored By: Joint Corporations, Elections & Political
+Official Title: Sponsored By: Joint Corporations, Elections & Political
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0057 911 service reporting.
+Subdivisions Interim Committee
+AN ACT relating to emergency telephone service; requiring reporting of 911
+outages; clarifying provisions related to reporting of revenues and
+expenditures; and providing for an effective date.
+12/20/2024 Bill Number Assigned
+1/2/2025 S Received for Introduction
+1/14/2025 S Introduced and Referred to S07 - Corporations
+1/20/2025 S07 - Corporations:Recommend Do Pass 4-0-1-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen
+Excused: Senator Steinmetz
+Ayes 4 Nays 0 Excused 1 Absent 0 Conflicts 0
+1/20/2025 S Placed on General File
+1/21/2025 S COW:Passed
+1/22/2025 S 2nd Reading:Passed
+1/23/2025 S 3rd Reading:Passed 27-3-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, Gierau, Hicks, Hutchings, Jones, Kolb,
+Landen, Laursen, Nethercott, Pappas, Pearson, Rothfuss, Salazar, Schuler,
+Scott, Smith, Steinmetz
+Nays: Senator(s) French, Ide, Mckeown
+Excused: Senator Olsen
+Ayes 27 Nays 3 Excused 1 Absent 0 Conflicts 0
+1/23/2025 H Received for Introduction
+2/20/2025 H Introduced and Referred to H07 - Corporations
+2/27/2025 H07 - Corporations:Recommend Do Pass 5-0-4-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke
+Excused: Representative(s) Lucas, Webb, Webber, Yin
+Ayes 5 Nays 0 Excused 4 Absent 0 Conflicts 0
+2/27/2025 H Placed on General File
+2/28/2025 H COW:Passed
+3/3/2025 H 2nd Reading:Passed
+3/4/2025 H 3rd Reading:Passed 59-1-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+Locke, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Provenza, Riggins,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Strock, Styvar, Tarver,
+Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie,
+Yin
+Nays: Representative Lien
+Excused: Representative(s) Lucas, Storer
+Ayes 59 Nays 1 Excused 2 Absent 0 Conflicts 0
+3/4/2025 Assigned Number SEA No. 0077
+3/4/2025 S President Signed SEA No. 0077
+3/4/2025 H Speaker Signed SEA No. 0077
+3/18/2025 Governor Signed SEA No. 0077
+3/18/2025 Assigned Chapter Number 159
+Chapter No. 159 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+SF0057 911 service reporting.
+Sponsored By: Joint Corporations, Elections & Political
+Subdivisions Interim Committee
+AN ACT relating to emergency telephone service; requiring reporting of 911
+outages; clarifying provisions related to reporting of revenues and
+expenditures; and providing for an effective date.
+12/20/2024 Bill Number Assigned
+1/2/2025 S Received for Introduction
+1/14/2025 S Introduced and Referred to S07 - Corporations
+1/20/2025 S07 - Corporations:Recommend Do Pass 4-0-1-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen
+Excused: Senator Steinmetz
+Ayes 4 Nays 0 Excused 1 Absent 0 Conflicts 0
+1/20/2025 S Placed on General File
+1/21/2025 S COW:Passed
+1/22/2025 S 2nd Reading:Passed
+1/23/2025 S 3rd Reading:Passed 27-3-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, Gierau, Hicks, Hutchings, Jones, Kolb,
+Landen, Laursen, Nethercott, Pappas, Pearson, Rothfuss, Salazar, Schuler,
+Scott, Smith, Steinmetz
+Nays: Senator(s) French, Ide, Mckeown
+Excused: Senator Olsen
+Ayes 27 Nays 3 Excused 1 Absent 0 Conflicts 0
+1/23/2025 H Received for Introduction
+2/20/2025 H Introduced and Referred to H07 - Corporations
+2/27/2025 H07 - Corporations:Recommend Do Pass 5-0-4-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke
+Excused: Representative(s) Lucas, Webb, Webber, Yin
+Ayes 5 Nays 0 Excused 4 Absent 0 Conflicts 0
+2/27/2025 H Placed on General File
+2/28/2025 H COW:Passed
+3/3/2025 H 2nd Reading:Passed
+3/4/2025 H 3rd Reading:Passed 59-1-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+Locke, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Provenza, Riggins,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Strock, Styvar, Tarver,
+Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie,
+Yin
+
+Nays: Representative Lien
+Excused: Representative(s) Lucas, Storer
+Ayes 59 Nays 1 Excused 2 Absent 0 Conflicts 0
+3/4/2025 Assigned Number SEA No. 0077
+3/4/2025 S President Signed SEA No. 0077
+3/4/2025 H Speaker Signed SEA No. 0077
+3/18/2025 Governor Signed SEA No. 0077
+3/18/2025 Assigned Chapter Number 159
+Chapter No. 159 Session Laws of Wyoming 2025

@@ -1,0 +1,40 @@
+Title: PDF Document
+Official Title: 
+Number of Sections: 1
+Source: versions - Amendment SF0050S2001 (2nd reading) - Senator Crago (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0050S2001
+1 Page 2-line 14 Delete ":".
+2
+3 Page 2-line 16 Delete "(i)".
+4
+5 Page 2-line 19 Delete ";".
+6
+7 Page 2-line 21 Delete "(ii)".
+8
+9 Page 3-line 2 Delete ";".
+10
+11 Page 3-line 4 Delete "(iii)". CRAGO
+1
+
+
+================================================================================
+
+Raw Text:
+SF0050S2001
+1 Page 2-line 14 Delete ":".
+2
+3 Page 2-line 16 Delete "(i)".
+4
+5 Page 2-line 19 Delete ";".
+6
+7 Page 2-line 21 Delete "(ii)".
+8
+9 Page 3-line 2 Delete ";".
+10
+11 Page 3-line 4 Delete "(iii)". CRAGO
+1

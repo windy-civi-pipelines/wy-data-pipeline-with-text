@@ -1,0 +1,276 @@
+Title: HOUSE BILL NO. HB0202
+Official Title: HOUSE BILL NO. HB0202
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0529
+Fast Track Permits Act.
+Sponsored by: Representative(s) Filer, Andrew, Geringer,
+Lucas, Singh, Wasserburger and Wylie and
+Senator(s) Pappas and Smith, D
+A BILL
+for
+1 AN ACT relating to city, county, state and local powers;
+2 requiring local government entities to comply with
+3 deadlines for reviewing land use requests within the
+4 subject property's permitted zoning use; providing
+5 exceptions; requiring local government entities to provide
+6 notice as specified; providing definitions; providing
+7 penalties; specifying applicability; and providing for an
+8 effective date.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 16-13-101 is created to read:
+13
+14 CHAPTER 13
+15 DEVELOPMENT OR IMPROVEMENT OF PROPERTY TIMELINES
+1 HB0202
+2025 STATE OF WYOMING 25LSO-0529
+1
+2 16-13-101. Permitting timeline for the development or
+3 improvement of property.
+4
+5 (a) As used in this section:
+6
+7 (i) "Delivered by electronic means" includes
+8 delivery to an electronic mail address at which an
+9 applicant has consented to receive notices, documents or
+10 information;
+11
+12 (ii) "Local government entity" means a governing
+13 body of a city, town, county or other political subdivision
+14 of the state including a planning commission or a planning
+15 and zoning commission;
+16
+17 (iii) "Request" means an application, within the
+18 subject property's permitted zoning use, for an approval
+19 from a local government entity for an action relating to
+20 the development or improvement of property including a
+21 building permit, change of permitted zoning use or
+22 variance. "Request" shall not include applications for
+2 HB0202
+2025 STATE OF WYOMING 25LSO-0529
+1 conditional use permits, rezoning, subdivision permits,
+2 subdivision plats or temporary zoning uses.
+3
+4 (b) After an applicant submits a request to a local
+5 government entity, the local government entity shall
+6 provide written notice not later than fifteen (15) days
+7 after receipt of the request notifying the applicant if the
+8 applicant's request is complete or incomplete for failing
+9 to contain all information required by law or an adopted
+10 rule, ordinance or policy of the local government entity.
+11 The written notice under this subsection shall explain what
+12 information is necessary for the applicant's request to be
+13 complete and the notice may be delivered by electronic
+14 means.
+15
+16 (c) If the development or improvement that is the
+17 subject of the applicant's request is within the subject
+18 property's permitted zoning use the local government entity
+19 shall not require meetings relating to zoning between the
+20 applicant and the local government entity and the local
+21 government entity shall continue the process for approval
+22 or denial of the request without requiring meetings
+23 relating to zoning.
+3 HB0202
+2025 STATE OF WYOMING 25LSO-0529
+1
+2 (d) After an applicant submits a complete request to
+3 the local government entity, the local government entity
+4 shall approve or deny the applicant's request not later
+5 than sixty (60) days after the date the completed request
+6 is submitted unless:
+7
+8 (i) An applicant and the local government entity
+9 agree in writing to an extension of the deadline; or
+10
+11 (ii) An applicant's request requires approval by
+12 a state or federal agency. If the applicant's request
+13 requires approval by a state or federal agency then the
+14 deadline shall be extended for not more than an additional
+15 ten (10) days unless the applicant and the local government
+16 entity agree in writing to an alternative deadline.
+17
+18 (e) If the local government entity denies the
+19 applicant's request, the local government entity shall
+20 provide written notice not later than seven (7) days after
+21 the denial of the applicant's request stating the reasons
+22 why the local government entity denied the applicant's
+4 HB0202
+2025 STATE OF WYOMING 25LSO-0529
+1 request. The written notice under this subsection may be
+2 delivered by electronic means.
+3
+4 (f) Any requirements missed by a local government
+5 entity during a plan review of an applicant's request that
+6 is imposed on an applicant after the applicant's request
+7 has been approved shall result in a ten percent (10%)
+8 reduction in the applicant's fees charged for the request,
+9 unless the requirements that are imposed are a result of
+10 unanticipated conditions of the subject property that
+11 require the applicant to implement mitigation measures.
+12
+13 (g) Except as provided in paragraph (d)(i) of this
+14 section, if a local government entity fails to comply with
+15 the deadline established under subsection (d) of this
+16 section, then the applicant's request shall be approved as
+17 submitted. A building constructed pursuant to a permit
+18 approved under this subsection shall pass all safety and
+19 code compliance inspections prior to the issuance of a
+20 certificate of occupancy.
+21
+5 HB0202
+2025 STATE OF WYOMING 25LSO-0529
+1 Section 2. This act shall apply to applications
+2 relating to the development or improvement of property
+3 filed on and after July 1, 2025.
+4
+5 Section 3. This act is effective July 1, 2025.
+6
+7 (END)
+6 HB0202
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0529
+HOUSE BILL NO. HB0202
+Fast Track Permits Act.
+Sponsored by: Representative(s) Filer, Andrew, Geringer,
+Lucas, Singh, Wasserburger and Wylie and
+Senator(s) Pappas and Smith, D
+A BILL
+for
+1 AN ACT relating to city, county, state and local powers;
+2 requiring local government entities to comply with
+3 deadlines for reviewing land use requests within the
+4 subject property's permitted zoning use; providing
+5 exceptions; requiring local government entities to provide
+6 notice as specified; providing definitions; providing
+7 penalties; specifying applicability; and providing for an
+8 effective date.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 16-13-101 is created to read:
+13
+14 CHAPTER 13
+15 DEVELOPMENT OR IMPROVEMENT OF PROPERTY TIMELINES
+1 HB0202
+
+2025 STATE OF WYOMING 25LSO-0529
+1
+2 16-13-101. Permitting timeline for the development or
+3 improvement of property.
+4
+5 (a) As used in this section:
+6
+7 (i) "Delivered by electronic means" includes
+8 delivery to an electronic mail address at which an
+9 applicant has consented to receive notices, documents or
+10 information;
+11
+12 (ii) "Local government entity" means a governing
+13 body of a city, town, county or other political subdivision
+14 of the state including a planning commission or a planning
+15 and zoning commission;
+16
+17 (iii) "Request" means an application, within the
+18 subject property's permitted zoning use, for an approval
+19 from a local government entity for an action relating to
+20 the development or improvement of property including a
+21 building permit, change of permitted zoning use or
+22 variance. "Request" shall not include applications for
+2 HB0202
+
+2025 STATE OF WYOMING 25LSO-0529
+1 conditional use permits, rezoning, subdivision permits,
+2 subdivision plats or temporary zoning uses.
+3
+4 (b) After an applicant submits a request to a local
+5 government entity, the local government entity shall
+6 provide written notice not later than fifteen (15) days
+7 after receipt of the request notifying the applicant if the
+8 applicant's request is complete or incomplete for failing
+9 to contain all information required by law or an adopted
+10 rule, ordinance or policy of the local government entity.
+11 The written notice under this subsection shall explain what
+12 information is necessary for the applicant's request to be
+13 complete and the notice may be delivered by electronic
+14 means.
+15
+16 (c) If the development or improvement that is the
+17 subject of the applicant's request is within the subject
+18 property's permitted zoning use the local government entity
+19 shall not require meetings relating to zoning between the
+20 applicant and the local government entity and the local
+21 government entity shall continue the process for approval
+22 or denial of the request without requiring meetings
+23 relating to zoning.
+3 HB0202
+
+2025 STATE OF WYOMING 25LSO-0529
+1
+2 (d) After an applicant submits a complete request to
+3 the local government entity, the local government entity
+4 shall approve or deny the applicant's request not later
+5 than sixty (60) days after the date the completed request
+6 is submitted unless:
+7
+8 (i) An applicant and the local government entity
+9 agree in writing to an extension of the deadline; or
+10
+11 (ii) An applicant's request requires approval by
+12 a state or federal agency. If the applicant's request
+13 requires approval by a state or federal agency then the
+14 deadline shall be extended for not more than an additional
+15 ten (10) days unless the applicant and the local government
+16 entity agree in writing to an alternative deadline.
+17
+18 (e) If the local government entity denies the
+19 applicant's request, the local government entity shall
+20 provide written notice not later than seven (7) days after
+21 the denial of the applicant's request stating the reasons
+22 why the local government entity denied the applicant's
+4 HB0202
+
+2025 STATE OF WYOMING 25LSO-0529
+1 request. The written notice under this subsection may be
+2 delivered by electronic means.
+3
+4 (f) Any requirements missed by a local government
+5 entity during a plan review of an applicant's request that
+6 is imposed on an applicant after the applicant's request
+7 has been approved shall result in a ten percent (10%)
+8 reduction in the applicant's fees charged for the request,
+9 unless the requirements that are imposed are a result of
+10 unanticipated conditions of the subject property that
+11 require the applicant to implement mitigation measures.
+12
+13 (g) Except as provided in paragraph (d)(i) of this
+14 section, if a local government entity fails to comply with
+15 the deadline established under subsection (d) of this
+16 section, then the applicant's request shall be approved as
+17 submitted. A building constructed pursuant to a permit
+18 approved under this subsection shall pass all safety and
+19 code compliance inspections prior to the issuance of a
+20 certificate of occupancy.
+21
+5 HB0202
+
+2025 STATE OF WYOMING 25LSO-0529
+1 Section 2. This act shall apply to applications
+2 relating to the development or improvement of property
+3 filed on and after July 1, 2025.
+4
+5 Section 3. This act is effective July 1, 2025.
+6
+7 (END)
+6 HB0202

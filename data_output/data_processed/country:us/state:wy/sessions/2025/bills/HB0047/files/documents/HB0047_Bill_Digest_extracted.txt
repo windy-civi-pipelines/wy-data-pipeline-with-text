@@ -1,0 +1,288 @@
+Title: Sponsored By: Select Committee on Blockchain, Financial Technology
+Official Title: Sponsored By: Select Committee on Blockchain, Financial Technology
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0047 Secretary of state-expedited filings.
+and Digital Innovation Technology
+AN ACT relating to the administration of government; allowing the secretary of
+state to charge a fee to expedite filings of documents as specified; authorizing
+a position; providing an appropriation; specifying a contingency; and providing
+for an effective date.
+12/17/2024 Bill Number Assigned
+1/2/2025 H Received for Introduction
+1/14/2025 H Introduced and Referred to H09 - Minerals
+1/16/2025 H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Campbell, Heiner, Knapp, Larson, Lawley, Riggins,
+Schmid, Tarver, Webber
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/16/2025 :Rerefer to H02 - Appropriations
+1/17/2025 H02 - Appropriations:Recommend Do Pass 7-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft,
+Sherwood, Smith
+Ayes 7 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/17/2025 H Placed on General File
+HB0047HS001/ADOPTED
+Page 1-line 3 After "specified;" insert "authorizing a position;
+providing an appropriation; specifying a contingency;".
+Page 2-after line 16 Insert:
+"Section 2.
+(a) Subject to subsection (c) of this section, the secretary of state is
+authorized up to one (1) full-time position for the period beginning with the
+effective date of this act and ending June 30, 2026 for purposes of implementing
+this act. It is the intent of the legislature that the secretary of state
+include this full-time position in its standard budget request for the
+immediately succeeding fiscal biennium.
+(b) Subject to subsection (c) of this section, there is appropriated
+ninety-three thousand one hundred seventy-nine dollars ($93,179.00) from the
+general fund to the secretary of state for the period beginning with the
+effective date of this act and ending June 30, 2026 to be expended only for the
+purposes of funding the position authorized in subsection (a) of this section.
+This appropriation shall not be transferred or expended for any other purpose
+and any unexpended, unobligated funds remaining from this appropriation shall
+revert as provided by law on June 30, 2026. It is the intent of the legislature
+that this appropriation be doubled and included in the standard budget request
+of the secretary of state for the immediately succeeding fiscal biennium.
+(c) The authorization and appropriation under subsections (a) and (b) of
+this section shall not be effective if 2025 House Bill 0001 or Senate File 0001,
+as enacted into law, authorizes at least one (1) additional full-time position
+for the secretary of state compared to the number of positions authorized in
+2024 Wyoming Session Laws, Chapter 118, Section 002.".
+Page 2-line 18 Delete "Section 2." and insert "Section 3.". HEINER,
+CHAIRMAN
+1/21/2025 H COW:Passed
+HB0047H2001/FAILED
+Page 1-line 3 Before "and providing" insert "requiring a report;".
+Page 2-after line 16 In the House standing committee amendment
+(HB0047HS001/A) to this line, after section 2,
+subsection (c) created by that amendment, insert:
+"(d) The secretary of state shall report to the joint appropriations
+committee before December 31, 2025 regarding whether the position provided by
+this section has been filled and, if filled, whether the position has been
+necessary to implement this act.". FILER
+HB0047H2002/FAILED
+Page 2-line 18 Delete "July 1, 2025" and insert "immediately upon
+completion of all acts necessary for a bill to become
+law as provided by Article 4, Section 8 of the Wyoming
+Constitution". SMITH, S, LUCAS
+1/22/2025 H 2nd Reading:Passed
+1/23/2025 H 3rd Reading:Passed 60-0-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman,
+Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien,
+Locke, Lucas, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Provenza,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock, Styvar,
+Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter,
+Wylie, Yin
+Excused: Representative(s) Eklund, Riggins
+Ayes 60 Nays 0 Excused 2 Absent 0 Conflicts 0
+1/24/2025 S Received for Introduction
+2/10/2025 S Introduced and Referred to S07 - Corporations
+2/12/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/12/2025 :Rerefer to S02 - Appropriations
+2/26/2025 S02 - Appropriations:Recommend Amend and Do Pass 4-0-1-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Gierau, Laursen, Smith
+Excused: Senator Salazar
+Ayes 4 Nays 0 Excused 1 Absent 0 Conflicts 0
+2/26/2025 S Placed on General File
+HB0047SS001/ADOPTED (TO ENGROSSED COPY)
+Page 1-line 3 Delete "authorizing a position;".
+Page 1-line 4 Delete line through "contingency;".
+Page 2-line 5 After "($5,000.00)" insert "to be adjusted for
+inflation biannually using the consumer price index for
+all urban consumers in the Denver-Aurora-Lakewood,
+Colorado metropolitan area published by the bureau of
+labor statistics of the United States department of
+labor".
+Page 2-lines 19 through 23 Delete entirely and renumber as necessary.
+Page 3 Delete entirely.
+Page 4-lines 1 through 5 Delete entirely.
+Page 4-line 7 Delete "Section 3." and insert "Section 2.". DRISKILL,
+ACTING CHAIRMAN
+2/27/2025 S COW:Passed
+2/28/2025 S 2nd Reading:Passed
+HB0047S3001/WITHDRAWN
+3/3/2025 S 3rd Reading:Passed 29-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Barlow, Biteman, Boner, Brennan, Cooper, Crago, Crum,
+Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss,
+Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Anderson, Case
+Ayes 29 Nays 2 Excused 0 Absent 0 Conflicts 0
+3/3/2025 H Received for Concurrence
+3/3/2025 H Concur:Failed 13-47-2-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, L, Byron, Campbell, E, Chestek, Harshman,
+Jarvis, Posey, Provenza, Riggins, Sherwood, Storer, Wylie, Yin
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Campbell, K, Clouston, Connolly, Davis, Eklund, Erickson,
+Filer, Geringer, Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly, Knapp,
+Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft,
+Rodriguez-Williams, Singh, Smith, Strock, Styvar, Tarver, Thayer, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Winter
+Excused: Representative(s) Nicholas, Schmid
+Ayes 13 Nays 47 Excused 2 Absent 0 Conflicts 0
+3/3/2025 H Appointed JCC01 Members
+Representative(s) Bear, Lucas, Pendergraft
+3/4/2025 S Appointed JCC01 Members
+Senator(s) Rothfuss, Driskill, Smith, D
+3/6/2025 H Appointed JCC01 Members
+Representative(s) Bear, Lucas, Pendergraft
+3/6/2025 H postponed indefinitely
+
+
+================================================================================
+
+Raw Text:
+HB0047 Secretary of state-expedited filings.
+Sponsored By: Select Committee on Blockchain, Financial Technology
+and Digital Innovation Technology
+AN ACT relating to the administration of government; allowing the secretary of
+state to charge a fee to expedite filings of documents as specified; authorizing
+a position; providing an appropriation; specifying a contingency; and providing
+for an effective date.
+12/17/2024 Bill Number Assigned
+1/2/2025 H Received for Introduction
+1/14/2025 H Introduced and Referred to H09 - Minerals
+1/16/2025 H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Campbell, Heiner, Knapp, Larson, Lawley, Riggins,
+Schmid, Tarver, Webber
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/16/2025 :Rerefer to H02 - Appropriations
+1/17/2025 H02 - Appropriations:Recommend Do Pass 7-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft,
+Sherwood, Smith
+Ayes 7 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/17/2025 H Placed on General File
+HB0047HS001/ADOPTED
+Page 1-line 3 After "specified;" insert "authorizing a position;
+providing an appropriation; specifying a contingency;".
+Page 2-after line 16 Insert:
+"Section 2.
+(a) Subject to subsection (c) of this section, the secretary of state is
+authorized up to one (1) full-time position for the period beginning with the
+effective date of this act and ending June 30, 2026 for purposes of implementing
+this act. It is the intent of the legislature that the secretary of state
+include this full-time position in its standard budget request for the
+immediately succeeding fiscal biennium.
+(b) Subject to subsection (c) of this section, there is appropriated
+ninety-three thousand one hundred seventy-nine dollars ($93,179.00) from the
+general fund to the secretary of state for the period beginning with the
+effective date of this act and ending June 30, 2026 to be expended only for the
+purposes of funding the position authorized in subsection (a) of this section.
+This appropriation shall not be transferred or expended for any other purpose
+and any unexpended, unobligated funds remaining from this appropriation shall
+revert as provided by law on June 30, 2026. It is the intent of the legislature
+that this appropriation be doubled and included in the standard budget request
+of the secretary of state for the immediately succeeding fiscal biennium.
+
+(c) The authorization and appropriation under subsections (a) and (b) of
+this section shall not be effective if 2025 House Bill 0001 or Senate File 0001,
+as enacted into law, authorizes at least one (1) additional full-time position
+for the secretary of state compared to the number of positions authorized in
+2024 Wyoming Session Laws, Chapter 118, Section 002.".
+Page 2-line 18 Delete "Section 2." and insert "Section 3.". HEINER,
+CHAIRMAN
+1/21/2025 H COW:Passed
+HB0047H2001/FAILED
+Page 1-line 3 Before "and providing" insert "requiring a report;".
+Page 2-after line 16 In the House standing committee amendment
+(HB0047HS001/A) to this line, after section 2,
+subsection (c) created by that amendment, insert:
+"(d) The secretary of state shall report to the joint appropriations
+committee before December 31, 2025 regarding whether the position provided by
+this section has been filled and, if filled, whether the position has been
+necessary to implement this act.". FILER
+HB0047H2002/FAILED
+Page 2-line 18 Delete "July 1, 2025" and insert "immediately upon
+completion of all acts necessary for a bill to become
+law as provided by Article 4, Section 8 of the Wyoming
+Constitution". SMITH, S, LUCAS
+1/22/2025 H 2nd Reading:Passed
+1/23/2025 H 3rd Reading:Passed 60-0-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman,
+Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien,
+Locke, Lucas, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Provenza,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock, Styvar,
+Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter,
+Wylie, Yin
+Excused: Representative(s) Eklund, Riggins
+Ayes 60 Nays 0 Excused 2 Absent 0 Conflicts 0
+1/24/2025 S Received for Introduction
+2/10/2025 S Introduced and Referred to S07 - Corporations
+2/12/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/12/2025 :Rerefer to S02 - Appropriations
+2/26/2025 S02 - Appropriations:Recommend Amend and Do Pass 4-0-1-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Gierau, Laursen, Smith
+
+Excused: Senator Salazar
+Ayes 4 Nays 0 Excused 1 Absent 0 Conflicts 0
+2/26/2025 S Placed on General File
+HB0047SS001/ADOPTED (TO ENGROSSED COPY)
+Page 1-line 3 Delete "authorizing a position;".
+Page 1-line 4 Delete line through "contingency;".
+Page 2-line 5 After "($5,000.00)" insert "to be adjusted for
+inflation biannually using the consumer price index for
+all urban consumers in the Denver-Aurora-Lakewood,
+Colorado metropolitan area published by the bureau of
+labor statistics of the United States department of
+labor".
+Page 2-lines 19 through 23 Delete entirely and renumber as necessary.
+Page 3 Delete entirely.
+Page 4-lines 1 through 5 Delete entirely.
+Page 4-line 7 Delete "Section 3." and insert "Section 2.". DRISKILL,
+ACTING CHAIRMAN
+2/27/2025 S COW:Passed
+2/28/2025 S 2nd Reading:Passed
+HB0047S3001/WITHDRAWN
+3/3/2025 S 3rd Reading:Passed 29-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Barlow, Biteman, Boner, Brennan, Cooper, Crago, Crum,
+Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss,
+Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Anderson, Case
+Ayes 29 Nays 2 Excused 0 Absent 0 Conflicts 0
+3/3/2025 H Received for Concurrence
+3/3/2025 H Concur:Failed 13-47-2-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, L, Byron, Campbell, E, Chestek, Harshman,
+Jarvis, Posey, Provenza, Riggins, Sherwood, Storer, Wylie, Yin
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Campbell, K, Clouston, Connolly, Davis, Eklund, Erickson,
+Filer, Geringer, Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly, Knapp,
+Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft,
+Rodriguez-Williams, Singh, Smith, Strock, Styvar, Tarver, Thayer, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Winter
+Excused: Representative(s) Nicholas, Schmid
+Ayes 13 Nays 47 Excused 2 Absent 0 Conflicts 0
+3/3/2025 H Appointed JCC01 Members
+Representative(s) Bear, Lucas, Pendergraft
+
+3/4/2025 S Appointed JCC01 Members
+Senator(s) Rothfuss, Driskill, Smith, D
+3/6/2025 H Appointed JCC01 Members
+Representative(s) Bear, Lucas, Pendergraft
+3/6/2025 H postponed indefinitely

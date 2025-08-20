@@ -1,0 +1,184 @@
+Title: 1 Page 2-line 1 After "creating" delete "a"; delete
+Official Title: 1 Page 2-line 1 After "creating" delete "a"; delete
+Number of Sections: 1
+Source: versions - Amendment HB0156SS001 (Standing Committee) - Senate Corporations, Elections & Political Subdivi (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0156SS001
+2 "paragraph" and insert "paragraphs"; after
+3 "(lv)" insert "and (lvi)".
+4
+5 Page 2-line 2 After "by creating" delete "a".
+6
+7 Page 2-line 3 Delete "paragraph" and insert "paragraphs";
+8 after "(ix)" insert "and (x)".
+9
+10 Page 3-line 23 After "residence" insert ", citizenship".
+11
+12 Page 4-line 7 After "residency." insert "If a person does
+13 not have the documents or other proof of
+14 residency specified by rule of the secretary
+15 of state, "proof of residence" may be
+16 established by a signed attestation of the
+17 person that the person is a bona fide resident
+18 of the state of Wyoming. The attestation shall
+19 be subject to verification by the county clerk
+20 or the secretary of state.
+21
+22 Page 4-after line 7 Insert and renumber as necessary:
+23
+24 "(lvi) "Proof of United States citizenship" means, for
+25 purposes of voter registration, any of the following:
+26
+27 (A) A valid Wyoming driver's license as defined by
+28 W.S. 31-7-102(a)(xxv) or a valid Wyoming identification card
+29 issued under W.S. 31-8-101, provided that the license or
+30 identification card does not contain any indication that the person
+31 is not a United States citizen;
+32
+33 (B) A valid tribal identification card issued by
+34 the governing body of the Eastern Shoshone Tribe or the Northern
+35 Arapaho Tribe of the Wind River Indian Reservation or any other
+36 federally recognized Indian tribe, provided that the
+37 identification card does not contain any indication that the person
+38 is not a United States citizen;
+39
+40 (C) A valid driver's license or identification card
+41 issued by any other state that is consistent with the Real ID Act
+42 as defined by W.S. 31-7-102(a)(lii), provided that the driver's
+43 license or identification card does not include any indication
+44 that the person is not a United States citizen;
+1
+1
+2 (D) A valid United States passport;
+3
+4 (E) A certificate of United States citizenship;
+5
+6 (F) A certificate of naturalization;
+7
+8 (G) A United States military draft record or a
+9 selective service registration acknowledgment card;
+10
+11 (H) A consular report of birth abroad issued by the
+12 United States department of state;
+13
+14 (J) An original or certified copy of a birth
+15 certificate in the United States bearing an official seal.".
+16
+17 Page 4-lines 17 through 22 Delete entirely.
+18
+19 Page 5-lines 1 and 2 Delete entirely and insert:
+20
+21 "(i) He is a citizen of the United States, as evidenced
+22 by providing proof of United States citizenship as defined by W.S.
+23 22-1-102(a)(lvi);".
+24
+25 Page 5-after line 15 Insert:
+26
+27 "(x) Proof of United States citizenship as defined by
+28 W.S. 22-1-102(a)(lvi).".
+29
+30 Page 7-line 8 Before "and" insert ", proof of United States
+31 citizenship".
+32
+33 Page 7-line 9 Before "completing" insert "by"; strike ",".
+34
+35 Page 8-line 6 Before "and" insert ", proof of United States
+36 citizenship as defined by W.S. 22-1-
+37 102(a)(lvi)"; strike ",". CASE, CHAIRMAN
+38
+2
+
+
+================================================================================
+
+Raw Text:
+HB0156SS001
+1 Page 2-line 1 After "creating" delete "a"; delete
+2 "paragraph" and insert "paragraphs"; after
+3 "(lv)" insert "and (lvi)".
+4
+5 Page 2-line 2 After "by creating" delete "a".
+6
+7 Page 2-line 3 Delete "paragraph" and insert "paragraphs";
+8 after "(ix)" insert "and (x)".
+9
+10 Page 3-line 23 After "residence" insert ", citizenship".
+11
+12 Page 4-line 7 After "residency." insert "If a person does
+13 not have the documents or other proof of
+14 residency specified by rule of the secretary
+15 of state, "proof of residence" may be
+16 established by a signed attestation of the
+17 person that the person is a bona fide resident
+18 of the state of Wyoming. The attestation shall
+19 be subject to verification by the county clerk
+20 or the secretary of state.
+21
+22 Page 4-after line 7 Insert and renumber as necessary:
+23
+24 "(lvi) "Proof of United States citizenship" means, for
+25 purposes of voter registration, any of the following:
+26
+27 (A) A valid Wyoming driver's license as defined by
+28 W.S. 31-7-102(a)(xxv) or a valid Wyoming identification card
+29 issued under W.S. 31-8-101, provided that the license or
+30 identification card does not contain any indication that the person
+31 is not a United States citizen;
+32
+33 (B) A valid tribal identification card issued by
+34 the governing body of the Eastern Shoshone Tribe or the Northern
+35 Arapaho Tribe of the Wind River Indian Reservation or any other
+36 federally recognized Indian tribe, provided that the
+37 identification card does not contain any indication that the person
+38 is not a United States citizen;
+39
+40 (C) A valid driver's license or identification card
+41 issued by any other state that is consistent with the Real ID Act
+42 as defined by W.S. 31-7-102(a)(lii), provided that the driver's
+43 license or identification card does not include any indication
+44 that the person is not a United States citizen;
+1
+
+1
+2 (D) A valid United States passport;
+3
+4 (E) A certificate of United States citizenship;
+5
+6 (F) A certificate of naturalization;
+7
+8 (G) A United States military draft record or a
+9 selective service registration acknowledgment card;
+10
+11 (H) A consular report of birth abroad issued by the
+12 United States department of state;
+13
+14 (J) An original or certified copy of a birth
+15 certificate in the United States bearing an official seal.".
+16
+17 Page 4-lines 17 through 22 Delete entirely.
+18
+19 Page 5-lines 1 and 2 Delete entirely and insert:
+20
+21 "(i) He is a citizen of the United States, as evidenced
+22 by providing proof of United States citizenship as defined by W.S.
+23 22-1-102(a)(lvi);".
+24
+25 Page 5-after line 15 Insert:
+26
+27 "(x) Proof of United States citizenship as defined by
+28 W.S. 22-1-102(a)(lvi).".
+29
+30 Page 7-line 8 Before "and" insert ", proof of United States
+31 citizenship".
+32
+33 Page 7-line 9 Before "completing" insert "by"; strike ",".
+34
+35 Page 8-line 6 Before "and" insert ", proof of United States
+36 citizenship as defined by W.S. 22-1-
+37 102(a)(lvi)"; strike ",". CASE, CHAIRMAN
+38
+2

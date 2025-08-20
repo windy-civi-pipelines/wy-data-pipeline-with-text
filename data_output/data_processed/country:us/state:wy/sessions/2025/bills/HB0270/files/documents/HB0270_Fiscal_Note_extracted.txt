@@ -1,0 +1,101 @@
+Title: Permanent mineral trust fund-spending 25LSO-0494, 1.0
+Official Title: Permanent mineral trust fund-spending 25LSO-0494, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+policy.
+CORRECTED COPY
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+STRATEGIC INVESTMENTS AND PROJECTS ($14,200,000) ($14,700,000) ($15,700,000)
+ACCOUNT
+PUBLIC SCHOOL FOUNDATION PROGRAM ($11,500,000) ($12,100,000) ($12,700,000)
+ACCOUNT
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure
+increase/(decrease)
+PERMANENT WYOMING MINERAL TRUST FUND ($25,700,000) ($26,800,000) ($28,400,000)
+RESERVE ACCOUNT
+Source of revenue and expenditure (decrease):
+This bill reduces the statutory spending policy amount (SPA) for the Permanent
+Wyoming Mineral Trust Fund (PWMTF) from 5 percent to 4.5 percent of the five-year
+average market value of the PWMTF, resulting in decrease to the SPA of $51,300,000
+in fiscal year (FY) 2026, $53,700,000 in FY 2027, and $56,900,000 in FY 2028. Under
+current law, investment earnings from the PWMTF in excess of 2.5 percent of the SPA
+are distributed equally up to the SPA to the Strategic Investments and Projects
+Account (SIPA), 1.25 percent, and the Legislative Stabilization Reserve Account
+(LSRA), 1.25 percent. Amounts in excess of the SPA are distributed to the PWMTF
+Reserve Account. This bill would decrease the maximum amount distributed to the
+LSRA and the SIPA from 1.25 percent to 1 percent of the SPA.
+Further, under current law, in years when investment earnings from the PWMTF are
+less than the SPA, an automatic appropriation from the PWMTF Reserve Account to the
+SIPA occurs to guarantee the SPA amount for the SIPA. The SIPA retains 55 percent
+of the SPA amount made up of investment earnings and appropriations from the PWMTF
+Reserve Account and 45 percent is distributed to the Public School Foundation
+Program Account (SFP). Under this bill, the decrease to the SPA results in an
+expenditure decrease of $25,700,000 in FY 2026, $26,800,000 in FY 2027, and
+$28,400,000 in FY 2028 from the PWMTF Reserve Account, which is equal to one-half
+of the decrease in the SPA. There would also be a corresponding revenue decrease
+to SFP and the SIPA, equal to 45 percent and 55 percent, respectively, of the PWMTF
+Reserve Account expenditure decrease.
+Assumptions:
+The revenue and expenditure decreases assume the January 2025 Consensus Revenue
+Estimating Group forecast.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+HB0270
+
+
+================================================================================
+
+Raw Text:
+Permanent mineral trust fund-spending 25LSO-0494, 1.0
+policy.
+CORRECTED COPY
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+STRATEGIC INVESTMENTS AND PROJECTS ($14,200,000) ($14,700,000) ($15,700,000)
+ACCOUNT
+PUBLIC SCHOOL FOUNDATION PROGRAM ($11,500,000) ($12,100,000) ($12,700,000)
+ACCOUNT
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure
+increase/(decrease)
+PERMANENT WYOMING MINERAL TRUST FUND ($25,700,000) ($26,800,000) ($28,400,000)
+RESERVE ACCOUNT
+Source of revenue and expenditure (decrease):
+This bill reduces the statutory spending policy amount (SPA) for the Permanent
+Wyoming Mineral Trust Fund (PWMTF) from 5 percent to 4.5 percent of the five-year
+average market value of the PWMTF, resulting in decrease to the SPA of $51,300,000
+in fiscal year (FY) 2026, $53,700,000 in FY 2027, and $56,900,000 in FY 2028. Under
+current law, investment earnings from the PWMTF in excess of 2.5 percent of the SPA
+are distributed equally up to the SPA to the Strategic Investments and Projects
+Account (SIPA), 1.25 percent, and the Legislative Stabilization Reserve Account
+(LSRA), 1.25 percent. Amounts in excess of the SPA are distributed to the PWMTF
+Reserve Account. This bill would decrease the maximum amount distributed to the
+LSRA and the SIPA from 1.25 percent to 1 percent of the SPA.
+Further, under current law, in years when investment earnings from the PWMTF are
+less than the SPA, an automatic appropriation from the PWMTF Reserve Account to the
+SIPA occurs to guarantee the SPA amount for the SIPA. The SIPA retains 55 percent
+of the SPA amount made up of investment earnings and appropriations from the PWMTF
+Reserve Account and 45 percent is distributed to the Public School Foundation
+Program Account (SFP). Under this bill, the decrease to the SPA results in an
+expenditure decrease of $25,700,000 in FY 2026, $26,800,000 in FY 2027, and
+$28,400,000 in FY 2028 from the PWMTF Reserve Account, which is equal to one-half
+of the decrease in the SPA. There would also be a corresponding revenue decrease
+to SFP and the SIPA, equal to 45 percent and 55 percent, respectively, of the PWMTF
+Reserve Account expenditure decrease.
+Assumptions:
+The revenue and expenditure decreases assume the January 2025 Consensus Revenue
+Estimating Group forecast.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+HB0270

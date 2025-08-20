@@ -1,0 +1,79 @@
+Title: Vehicle sales and use tax distribution- 25LSO-0257, 1.0
+Official Title: Vehicle sales and use tax distribution- 25LSO-0257, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+highway fund.
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue
+increase/(decrease)
+GENERAL FUND ($69,200,000) ($71,100,000) ($72,900,000)
+HIGHWAY FUND $69,200,000 $71,100,000 $72,900,000
+Source of revenue increase(decrease):
+This bill distributes the current General Fund share of sales taxes (and the
+related one percent administrative fee) on motor vehicles and trailers to the
+Highway Fund.
+Assumptions:
+The above estimates are based on the state 4 percent sales tax collected on motor
+vehicles and trailers in FY 2024, increased by the projected growth in sales and
+use taxes to the General Fund reflected in Table 1 of the October 2024 Consensus
+Revenue Estimating Group (CREG) forecast.
+This change in distribution is effective July 1, 2025, impacting sales tax
+distributions beginning in FY 2026.
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements. As introduced, the bill does not modify any state agency
+budget or current personnel authorizations.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Department of Revenue
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5220; Rodney
+Freier, Department of Transportation, 777-4174)
+HB0033
+
+
+================================================================================
+
+Raw Text:
+Vehicle sales and use tax distribution- 25LSO-0257, 1.0
+highway fund.
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue
+increase/(decrease)
+GENERAL FUND ($69,200,000) ($71,100,000) ($72,900,000)
+HIGHWAY FUND $69,200,000 $71,100,000 $72,900,000
+Source of revenue increase(decrease):
+This bill distributes the current General Fund share of sales taxes (and the
+related one percent administrative fee) on motor vehicles and trailers to the
+Highway Fund.
+Assumptions:
+The above estimates are based on the state 4 percent sales tax collected on motor
+vehicles and trailers in FY 2024, increased by the projected growth in sales and
+use taxes to the General Fund reflected in Table 1 of the October 2024 Consensus
+Revenue Estimating Group (CREG) forecast.
+This change in distribution is effective July 1, 2025, impacting sales tax
+distributions beginning in FY 2026.
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements. As introduced, the bill does not modify any state agency
+budget or current personnel authorizations.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Department of Revenue
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5220; Rodney
+Freier, Department of Transportation, 777-4174)
+HB0033

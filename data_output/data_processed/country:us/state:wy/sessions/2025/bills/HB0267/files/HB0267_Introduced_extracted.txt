@@ -1,0 +1,2365 @@
+Title: HOUSE BILL NO. HB0267
+Official Title: HOUSE BILL NO. HB0267
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0465
+Regulation of hemp.
+Sponsored by: Representative(s) Singh, Andrew, Provenza and
+Yin and Senator(s) Rothfuss
+A BILL
+for
+1 AN ACT relating to hemp products; providing for regulation
+2 of the manufacture, distribution and sale of consumable
+3 hemp products as specified; requiring licensure of
+4 consumable hemp product manufacturers, distributors and
+5 retailers by the Wyoming liquor division; imposing an
+6 excise tax on the retail sale of consumable hemp products;
+7 providing definitions; providing penalties; requiring
+8 reports; requiring rulemaking; making conforming
+9 amendments; repealing conflicting provisions; and providing
+10 for effective dates.
+11
+12 Be It Enacted by the Legislature of the State of Wyoming:
+13
+14 Section 1. W.S. 11-51-201 through 11-51-213 are
+15 created to read:
+1 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 ARTICLE 2
+3 CONSUMABLE HEMP PRODUCTS
+4
+5 11-51-201. Purpose; limitations.
+6
+7 The purpose of this article is to regulate the manufacture,
+8 distribution and sale of consumable hemp products.
+9
+10 11-51-202. Definitions.
+11
+12 (a) As used in this article, unless the context
+13 otherwise requires:
+14
+15 (i) "Batch" means any one (1) or more of the
+16 following:
+17
+18 (A) A specific quantity of hemp plants that
+19 are cultivated from the same seed or plant stock, are
+20 cultivated together, are intended to be harvested together
+21 and that receive an identical propagation and cultivation
+22 treatment;
+23
+2 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (B) A specific quantity of hemp flower that
+2 is harvested together, is uniform and is intended to meet
+3 specifications for identity, strength, purity and
+4 composition and that receives identical sorting, drying,
+5 curing and storage treatment;
+6
+7 (C) A specific quantity of hemp-derived
+8 consumable product that is:
+9
+10 (I) Manufactured at the same time and
+11 using the same methods, equipment and ingredients;
+12
+13 (II) Uniform and intended to meet
+14 specifications for identity, strength, purity and
+15 composition;
+16
+17 (III) Manufactured, packaged and
+18 labeled according to a single batch production record that
+19 is executed and documented.
+20
+21 (ii) "Batch number" means a unique numeric or
+22 alphanumeric identifier assigned to a batch of hemp plants
+23 or hemp-derived consumable products;
+3 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (iii) "Business" means any of the following
+3 licensed under this article a consumable hemp product:
+4
+5 (A) Distributor;
+6
+7 (B) Retailer;
+8
+9 (C) Manufacturer.
+10
+11 (iv) "Counter" means the point of purchase in a
+12 retail establishment that provides separation designed to
+13 make an area of the retail establishment inaccessible to
+14 the customer;
+15
+16 (v) "Distributor" means a person that purchases
+17 consumable hemp products from manufacturers and sells them
+18 to retailers;
+19
+20 (vi) "Division" means the Wyoming liquor
+21 division within the department of revenue created under
+22 W.S. 12-2-106;
+23
+4 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (vii) "Franchise" means a written or oral
+2 arrangement for a definite or indefinite period, in which a
+3 person grants to another person a license to use a trade
+4 name, trademark, service mark or related characteristic and
+5 in which there is a commonality of interest in the
+6 marketing of goods or services at wholesale, retail, by
+7 lease, agreement or otherwise, including but not limited to
+8 a commercial relationship of definite or indefinite
+9 duration between a manufacturer and distributor where the
+10 distributor is granted the right to offer, sell and
+11 distribute within this state or any designated area of the
+12 state some or all of the manufacturer's consumable hemp
+13 products to retailers;
+14
+15 (viii) "Independent testing laboratory" means a
+16 laboratory that meets all of the following conditions:
+17
+18 (A) The laboratory holds an ISO 17025
+19 accreditation, is registered with the United States drug
+20 enforcement administration in accordance with 21 C.F.R. §
+21 1301.13 or holds an equivalent accreditation;
+22
+5 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (B) The laboratory does not have a direct
+2 or indirect interest in the person or entity whose product
+3 is being tested or in a facility that cultivates,
+4 processes, distributes, dispenses or sells consumable hemp
+5 products in this state or any other jurisdiction;
+6
+7 (C) The laboratory performs
+8 tetrahydrocannabinol concentration sampling and testing
+9 using the high-performance chromatography method or another
+10 method of testing authorized by the division.
+11
+12 (ix) "License" means a license issued in
+13 accordance with this article;
+14
+15 (x) "Manufacture" means to compound, blend,
+16 extract, infuse, cook or otherwise make or prepare
+17 consumable hemp products, including the processes of
+18 extraction, infusion, packaging, repackaging, labeling and
+19 relabeling of consumable hemp products;
+20
+21 (xi) "Manufacturer" means any person who
+22 manufactures consumable hemp products;
+23
+6 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (xii) "Producer" means any person who engages in
+2 the process of farming and harvesting hemp that is intended
+3 to be used in the manufacture of a hemp-derived consumable
+4 product;
+5
+6 (xiii) "Proof of age" means a valid driver's
+7 license or other government-issued identification card that
+8 contains a photograph of the person and confirms the
+9 person's age as twenty-one (21) years of age or older;
+10
+11 (xiv) "Retail establishment" means a place of
+12 business open to the general public for the sale of goods
+13 or services and includes a food service establishment;
+14
+15 (xv) "Retailer" means any person who sells
+16 consumable hemp products for consumption and not for
+17 resale;
+18
+19 (xvi) "Serving" means a quantity of a consumable
+20 hemp product indicated on the packaging of the consumable
+21 hemp product;
+22
+7 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (xvii) "Tincture" means hemp-infused liquid or
+2 oils administered orally in small amounts using a dropper
+3 that indicates the serving size.
+4
+5 11-51-203. Prohibited activities; penalties.
+6
+7 (a) No person shall act as a distributor,
+8 manufacturer or retailer of consumable hemp products unless
+9 the person has a license as a business issued under this
+10 article and the consumable hemp product manufactured,
+11 distributed or sold at retail by the person is registered
+12 with the division as provided in this article.
+13
+14 (b) No person shall do any of the following:
+15
+16 (i) Knowingly sell or distribute a consumable
+17 hemp product to a person who is under twenty-one (21) years
+18 of age;
+19
+20 (ii) Except as provided in subsection (g) of
+21 this section, knowingly purchase a consumable hemp product
+22 on behalf of a person who is under twenty-one (21) years of
+23 age;
+8 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (iii) Except as provided in subsection (h) of
+3 this section, knowingly persuade, entice, send or assist a
+4 person who is under twenty-one (21) years of age to
+5 purchase, acquire, receive or attempt to purchase a
+6 consumable hemp product;
+7
+8 (iv) Knowingly distribute samples of consumable
+9 hemp products outside of a retail establishment unless
+10 specifically authorized under this article;
+11
+12 (v) Knowingly sell or distribute a consumable
+13 hemp product without having first obtained proof of age
+14 from the purchaser or recipient, unless an ordinary person
+15 would conclude on the basis of appearance that the
+16 purchaser or recipient is not under the age of twenty-one
+17 (21) years.
+18
+19 (c) Except as provided in subsection (g) of this
+20 section, no person who is under twenty-one (21) years of
+21 age shall knowingly purchase, possess or accept receipt of
+22 a consumable hemp product or knowingly present purported
+23 proof of age that is false, fraudulent or not actually that
+9 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 person for the purpose of purchasing or receiving a
+2 consumable hemp product.
+3
+4 (d) All consumable hemp products, except beverage
+5 products that do not exceed a total of ten (10) milligrams
+6 per serving of delta-8 THC, delta-9 THC, delta-10 THC or
+7 any combination of those, shall be maintained behind the
+8 counter of a retail establishment or in another area that
+9 is inaccessible to a customer. Any consumable hemp product
+10 beverage, including those in cases or boxes, offered for
+11 retail sale shall be merchandised in a manner to clearly
+12 indicate to consumers that the product contains
+13 hemp-derived cannabinoids. Failure to maintain consumable
+14 hemp products in accordance with this subsection is a
+15 violation of this section.
+16
+17 (e) No person shall deliver, ship or cause to be
+18 delivered or shipped any consumable hemp product beverage
+19 directly to any person who is not licensed under this
+20 article. It shall not be a violation of this subsection for
+21 any delivery of a consumable hemp product beverage to a
+22 customer at a retail establishment or at a location
+23 otherwise authorized under this article.
+10 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (f) A first violation of any provision of this
+3 section shall result in a fine of not more than two hundred
+4 fifty dollars ($250.00). A second or subsequent violation
+5 of any provision of this section shall be a misdemeanor
+6 punishable by a fine of not more than seven hundred fifty
+7 dollars ($750.00), imprisonment for not more than six (6)
+8 months, or both.
+9
+10 (g) It shall not be a violation of this section for a
+11 person under the age of twenty-one (21) years to possess or
+12 consume consumable hemp products under the supervision of
+13 the person's parent or guardian if the parent or guardian
+14 has a written document from a physician recommending the
+15 use of consumable hemp products for the person under the
+16 age of twenty-one (21) years.
+17
+18 (h) This section does not preclude law enforcement
+19 efforts to purchase consumable hemp products from retail
+20 establishments involving:
+21
+11 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (i) The use of a minor seventeen (17) years of
+2 age or younger if the minor's parent or legal guardian has
+3 provided consent; or
+4
+5 (ii) The use of a person aged eighteen (18),
+6 nineteen (19) or twenty (20) years if the individual
+7 provides consent.
+8
+9 (j) Any consumable hemp product sold or offered for
+10 sale or consumption in violation of this section is subject
+11 to seizure and forfeiture.
+12
+13 (k) Nothing in this article shall:
+14
+15 (i) Permit any person to undertake any task
+16 under the influence of a consumable hemp product when doing
+17 so would constitute negligence or professional malpractice
+18 or would otherwise create a danger to the person or others;
+19
+20 (ii) Operate, navigate or be in actual physical
+21 control of a motor vehicle, aircraft, motorized watercraft,
+22 or any other vehicle while under the influence of a
+23 hemp-derived cannabinoid;
+12 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (iii) Require an employer to allow the use of a
+3 consumable hemp products in a workplace or allow an
+4 employee to work while under the influence of a consumable
+5 hemp product;
+6
+7 (iv) Exempt a person from prosecution for a
+8 criminal offense related to impairment or intoxication
+9 resulting from use of a consumable hemp product or relieve
+10 a person from any requirement under law to submit to a
+11 breath, blood, urine or other test to detect the presence
+12 of a controlled substance.
+13
+14 11-51-204. Administration.
+15
+16 (a) The division shall enforce this article in a
+17 manner that may reasonably be expected to reduce the extent
+18 to which consumable hemp products are sold or distributed
+19 to persons under twenty-one (21) years of age. The
+20 department of revenue shall adopt rules necessary to
+21 implement this article.
+22
+13 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (b) The division shall conduct random inspections of
+2 consumable hemp products distributed or available for
+3 distribution in the state for compliance with this article.
+4 Inspections under this subsection shall include the
+5 periodic sampling, analyzing and testing of consumable hemp
+6 products distributed within the state for compliance with
+7 the registration, labeling and testing requirements of this
+8 article. The division may conduct an inspection under this
+9 subsection for any reason the division determines is
+10 necessary.
+11
+12 (c) Not later than November 1 of each year the
+13 division shall submit a report to the joint judiciary
+14 interim committee describing in detail the division's
+15 enforcement efforts under this article. The report shall
+16 also be made available to the public on the department of
+17 revenue's website.
+18
+19 11-51-205. Licensing.
+20
+21 (a) Each business shall obtain a license from the
+22 division prior to any manufacturing, distribution or retail
+23 sale of any consumable hemp product.
+14 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (b) The application for a license under this section
+3 shall include at minimum:
+4
+5 (i) The name and address of the applicant;
+6
+7 (ii) The physical address and legal description
+8 of all property where the business will operate as a
+9 distributor, manufacturer or retailer;
+10
+11 (iii) A statement that the applicant has not
+12 been convicted of or pled no contest to a controlled
+13 substance felony within the past ten (10) years, or in the
+14 event the applicant is not an individual person, a
+15 statement that no member, principal, officer or director of
+16 the applicant has been convicted of or pled no contest to a
+17 controlled substance felony;
+18
+19 (iv) Authorization for reasonable access by the
+20 department for inspections and verifications related to
+21 this article;
+22
+15 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (v) Verification that the applicant is a
+2 business entity organized under the laws of Wyoming or is a
+3 Wyoming resident, as defined by rule of the department of
+4 revenue;
+5
+6 (vi) Any other information required by rule of
+7 the department of revenue.
+8
+9 (c) Subject to the limitations of subsection (e) of
+10 this section, the division shall issue a license, or
+11 renewal thereof, which is valid for one (1) year if:
+12
+13 (i) The requirements of subsection (b) of this
+14 section are met, including that the applicant has not been
+15 convicted of or pled no contest to a controlled substance
+16 felony within the past ten (10) years; and
+17
+18 (ii) A fee of two hundred fifty dollars
+19 ($250.00) for distributors or manufacturers and a fee of
+20 one hundred dollars ($100.00) for retailers per location is
+21 paid for each annual license or renewal application. If a
+22 retailer has multiple locations, the fee under this
+16 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 paragraph shall not exceed two thousand five hundred
+2 dollars ($2,500.00).
+3
+4 (d) All fees collected under this section shall be
+5 deposited with the state treasurer in a separate account,
+6 which is hereby created and is continuously appropriated to
+7 the department of revenue for the administration of this
+8 article by the division.
+9
+10 (e) Except in the case of a manufacturer who sells
+11 less than one thousand (1,000) gallons of consumable hemp
+12 product beverages per year:
+13
+14 (i) No person who is engaged in the production,
+15 manufacturing, distribution or sale of consumable hemp
+16 product beverages shall hold more than one (1) type of
+17 license under this section or have any financial interest,
+18 either direct or indirect, in a person holding any of the
+19 other types of licenses under this section;
+20
+21 (ii) No consumable hemp product beverage
+22 manufacturer shall directly solicit, sell or otherwise
+23 convey consumable hemp product beverages to retailers.
+17 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 Manufacturers of consumable hemp product beverages are
+2 authorized to solicit and sell consumable hemp product
+3 beverages to distributors. Distributors are authorized to
+4 solicit and sell consumable hemp product beverages to
+5 retailers.
+6
+7 (f) The division may suspend, revoke or not renew any
+8 license issued under this article if, after notice and
+9 opportunity for a hearing, the division finds the provider
+10 has violated this article or any rule promulgated under
+11 this article.
+12
+13 11-51-206. Testing requirements.
+14
+15 (a) Each manufacturer shall have all consumable hemp
+16 products or each batch of consumable hemp products tested
+17 prior to distribution to a distributor for distribution in
+18 Wyoming or before distributing the product to a retailer.
+19 If a consumable hemp product is packaged in a manner that
+20 may be sold to the ultimate consumer after being delivered
+21 to the distributor and the distributor does not open the
+22 package, the distributor is not required to further test
+23 the consumable hemp product under this section. If the
+18 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 consumable hemp product or batch of consumable hemp
+2 products is not packaged in a manner that may be sold to
+3 the ultimate consumer after being delivered to the
+4 distributor or if the distributor opens the package, the
+5 distributor shall have the consumable hemp product tested
+6 prior to distribution as provided in this section. The
+7 testing under this section shall determine the presence and
+8 amounts of any of the substances listed in subsection (b)
+9 of this section. No product that contains more than the
+10 maximum amount indicated for any substance in subsection
+11 (b) of this section shall be distributed or sold in this
+12 state.
+13
+14 (b) The division, through the department of revenue,
+15 shall promulgate rules specifying the pass and fail levels
+16 for safety and toxicity with respect to the testing
+17 required by this subsection. All consumable hemp products
+18 offered for sale or distribution in this state shall be
+19 tested for the presence of and amount of the following
+20 substances:
+21
+22 (i) Heavy metals;
+23
+19 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (ii) Pesticides;
+2
+3 (iii) Mycotoxins;
+4
+5 (iv) Solvents;
+6
+7 (v) Microbials;
+8
+9 (vi) THC.
+10
+11 (c) The manufacturer and distributor shall contract
+12 with an independent testing laboratory to provide any
+13 testing required under this section.
+14
+15 (d) An independent testing laboratory providing
+16 testing required under this section shall use high
+17 performance liquid chromatography or a comparable and
+18 validated testing method for any separation and measurement
+19 required in the testing.
+20
+21 (e) Each consumable hemp product or batch of
+22 consumable hemp products tested in accordance with this
+23 section shall be accompanied by a validly issued
+20 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 certificate of analysis from an independent testing
+2 laboratory. The certificate of analysis shall include all
+3 of the following:
+4
+5 (i) The batch identification number;
+6
+7 (ii) The date the consumable hemp product or
+8 batch was received for testing;
+9
+10 (iii) The date testing was completed;
+11
+12 (iv) The method of analysis for each test
+13 conducted;
+14
+15 (v) Proof that the certificate of analysis is
+16 issued for the product specified on the certificate.
+17
+18 (f) Each consumable hemp product or batch shall have
+19 an expiration date on the label that conforms with
+20 applicable federal law and shall be not more than two (2)
+21 years from the date of publication of the product's
+22 certificate of analysis required by this section.
+23
+21 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (g) The division shall:
+2
+3 (i) Maintain and post on its website or the
+4 website of the department of revenue a registry of testing
+5 laboratories that are qualified to test consumable hemp
+6 products;
+7
+8 (ii) Develop an application and process by which
+9 qualifying laboratories are listed on the website as
+10 provided in paragraph (i) of this subsection. The
+11 application submitted by a potentially qualifying
+12 laboratory shall include a sample certificate of analysis
+13 issued by the applying laboratory.
+14
+15 11-51-207. Label requirements.
+16
+17 (a) The label of each consumable hemp product offered
+18 for distribution or sale in this state shall contain the
+19 following information, legibly displayed:
+20
+21 (i) The product name or common name for the
+22 product, on the front of the label;
+23
+22 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (ii) The brand name of the product, on the front
+2 of the label;
+3
+4 (iii) The net count of individual items in the
+5 container, if applicable, on the front of the label;
+6
+7 (iv) The net weight or volume of the product;
+8
+9 (v) Suggested product use, including serving
+10 sizes if the product is intended for ingestion or
+11 inhalation;
+12
+13 (vi) A list of ingredients in the product,
+14 including:
+15
+16 (A) The amount of any cannabinoid or
+17 combination of cannabinoids, in milligrams;
+18
+19 (B) A list of allergens;
+20
+21 (C) The manufacturer or distributor name
+22 and address;
+23
+23 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (D) Batch number;
+2
+3 (E) A statement that use while pregnant or
+4 breastfeeding may be harmful;
+5
+6 (F) A statement that the product contains
+7 hemp-derived cannabinoids and that consumption of certain
+8 cannabinoids may impair your ability to drive or operate
+9 heavy machinery or motor vehicles;
+10
+11 (G) A statement to keep out of the reach of
+12 children;
+13
+14 (H) A statement that it is unlawful for a
+15 person less than twenty-one (21) years of age to use or
+16 consume the product;
+17
+18 (J) A statement to consult your physician
+19 before use;
+20
+21 (K) A statement that consuming consumable
+22 hemp products may result in a failed drug test;
+23
+24 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (M) The following text: "This product has
+2 not been evaluated by the Food and Drug Administration.
+3 This product is not intended to diagnose, treat, cure,
+4 mitigate or prevent any disease.";
+5
+6 (N) The following text: "Warning – The
+7 safety of this product has not been determined."; and
+8
+9 (O) An expiration date in accordance with
+10 W.S. 11-51-206(f).
+11
+12 (b) No consumable hemp product labels shall:
+13
+14 (i) Have any likeness or bear any reasonable
+15 resemblance to a human, animal, cartoon character or
+16 fictional character known to appeal primarily to persons
+17 under twenty-one (21) years of age;
+18
+19 (ii) Appear to imitate a food, candy or other
+20 commonly available snack product that is typically marketed
+21 toward or appealing to children.
+22
+25 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (c) The limitations of subsection (b) of this section
+2 shall not prevent the use of drawings, illustrations or
+3 artwork depicting nonmythical creatures, inanimate objects,
+4 scenery, humanoid characters, fruit or flavor focused
+5 images or any other items not known to appeal primarily to
+6 persons under twenty-one (21) years of age.
+7
+8 11-51-208. Product requirements and restrictions.
+9
+10 (a) Each consumable hemp product that is sold in this
+11 state shall meet the following requirements:
+12
+13 (i) Be labeled in accordance with W.S. 11-51-207
+14 and include a quick response code that directs consumers to
+15 all testing requirements specified by W.S. 11-51-206;
+16
+17 (ii) Satisfy the child resistant effectiveness
+18 standards under 16 C.F.R. § 1700.15(b)(1) when tested in
+19 accordance with the requirements set forth in 16 C.F.R. §
+20 1700.20. This paragraph shall not apply to consumable hemp
+21 product beverages;
+22
+26 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (iii) Be manufactured in the United States under
+2 the applicable law governing the manufacture of consumable
+3 hemp products in the jurisdiction where the product was
+4 manufactured.
+5
+6 (b) No consumable hemp product intended for
+7 ingestion, including beverage products, shall:
+8
+9 (i) Be sold in a serving that contains more than
+10 one hundred (100) milligrams, in the aggregate, of any
+11 combination of delta-8 THC, delta-9 THC and delta-10 THC;
+12
+13 (ii) Be formed in the shape of an animal or
+14 cartoon character.
+15
+16 (c) No consumable hemp product intended for
+17 inhalation shall:
+18
+19 (i) Be sold in a container that contains more
+20 than six (6) milliliters or six (6) milligrams of
+21 hemp-derived cannabinoids, in the aggregate, of any
+22 combination of delta-8 THC, delta-9 THC and delta-10 THC;
+23
+27 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (ii) Have a certificate of analysis issued by an
+2 independent testing laboratory that was issued more than
+3 twelve (12) months before the date of the sale.
+4
+5 11-51-209. Product registration.
+6
+7 (a) Each consumable hemp product distributed or
+8 available for sale in Wyoming shall be officially
+9 registered annually with the division and shall comply with
+10 the following requirements:
+11
+12 (i) Application for registration shall be made
+13 to the division on a form required by the division and
+14 shall include the following information:
+15
+16 (A) The name and address of the applicant
+17 and the name and address of the person whose name will
+18 appear on the label, if different than the applicant;
+19
+20 (B) The name of the product;
+21
+22 (C) The type and use of the product;
+23
+28 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (D) A complete copy of the label as it will
+2 appear on the product in a legible format;
+3
+4 (E) If the product has been assigned a
+5 national drug code in accordance with 21 C.F.R. § 207.33,
+6 the applicant shall provide the national drug code number;
+7 and
+8
+9 (F) A certificate of analysis from an
+10 independent testing laboratory for the consumable hemp
+11 product in compliance with W.S. 11-51-206.
+12
+13 (b) The division may deny registration of a
+14 consumable hemp product for an incomplete application.
+15
+16 (c) A new registration shall be required under this
+17 section for any of the following:
+18
+19 (i) Any change in the ingredients of the
+20 consumable hemp product, including any change in the amount
+21 or ratio of the ingredients;
+22
+23 (ii) A change to the directions for use;
+29 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (iii) A change of name for the product.
+3
+4 (d) If there are any changes to a consumable hemp
+5 product that do not require a new registration under
+6 subsection (c) of this section, the registrant shall submit
+7 copies of each label change to the division as soon as the
+8 changes are effective.
+9
+10 (e) A hemp-derived consumable product that has been
+11 discontinued shall continue to be registered in the state
+12 until the product is no longer available for distribution
+13 or sale.
+14
+15 (f) The registrant is responsible for the accuracy
+16 and completeness of all information submitted under this
+17 section.
+18
+19 11-51-210. Retail establishments.
+20
+21 (a) Each retail establishment that offers consumable
+22 hemp products shall be licensed as a retailer by the
+23 division in accordance with this article.
+30 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (b) No retailer shall sell or offer for sale any
+3 consumable hemp product unless the product is registered
+4 with the division as provided in W.S. 11-51-209.
+5
+6 (c) A retailer may offer consumable hemp products at
+7 a temporary event or festival after registering the event
+8 with the division and paying an event registration fee of
+9 one hundred dollars ($100.00).
+10
+11 (d) No retailer shall be located within one hundred
+12 (100) feet of a school if children under the age of
+13 eighteen (18) years attend the school.
+14
+15 (e) No business that distributes, sells or serves
+16 consumable hemp products shall employ any person who is
+17 under twenty-one (21) years of age, unless the person
+18 employed is at least eighteen (18) years of age and is
+19 under the direct supervision of a person twenty-one (21)
+20 years of age or older.
+21
+22 (f) Except as otherwise provided in this subsection,
+23 only pre-packaged registered consumable hemp products shall
+31 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 be offered as ready-to-consume or for direct consumption at
+2 a retailer. Consumable hemp products shall not be added to
+3 an ingestible food product by a retailer, provided that
+4 consumable hemp product beverages may be added to a
+5 nonalcoholic ingestible beverage product at a retailer that
+6 is a food service establishment. A retailer that is a food
+7 service establishment shall, upon request, provide the
+8 consumer with copy of the consumable hemp product's
+9 registration with the division in conjunction with
+10 incorporating a consumable hemp product beverage with a
+11 nonalcoholic beverage under this subsection.
+12
+13 (g) Any retailer offering on-site consumption of
+14 consumable hemp products shall provide to consumers upon
+15 request:
+16
+17 (i) The common name of the product;
+18
+19 (ii) The distributor or manufacturer of the
+20 product;
+21
+22 (iii) A copy of the division's registration of
+23 the consumable hemp product.
+32 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (h) A retailer offering on-site consumption of
+3 consumable hemp products shall notify the division not
+4 later than twenty-four (24) hours after the establishment
+5 knows of any serious adverse event related to a consumable
+6 hemp product sold by the establishment.
+7
+8 (j) No manufacturer or distributor shall pay a
+9 retailer, nor shall any retailer accept, any payment,
+10 credit or any other consideration to induce the retailer to
+11 advertise or display a consumable hemp product in a certain
+12 manner or to offer the consumable hemp product on the
+13 retailer's licensed premises.
+14
+15 11-51-211. Excise tax.
+16
+17 (a) An excise tax at the rate of two percent (2%) is
+18 imposed on the retail sale of a consumable hemp product.
+19 The tax under this subsection is in addition to any tax
+20 imposed under any other provision of federal, state or
+21 local law. Except as provided in subsection (b) of this
+22 section, the tax under this subsection shall be collected
+23 and paid to the department of revenue in the same manner as
+33 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 the sales tax on the consumable hemp product in accordance
+2 with W.S. 39-15-101 through 39-15-111.
+3
+4 (b) All taxes collected under subsection (a) of this
+5 section shall be reported, paid and accounted for
+6 separately. All taxes collected under subsection (a) of
+7 this section shall be deposited in the general fund.
+8
+9 11-51-212. Franchises for distributors of consumable
+10 hemp product beverages.
+11
+12 (a) If more than one (1) franchise for the same brand
+13 or brands of consumable hemp product beverages is granted
+14 to different distributors in Wyoming, it is a violation of
+15 this section for any manufacturer to discriminate between
+16 the distributors with respect to any of the terms,
+17 provisions or conditions of the franchises.
+18
+19 (b) Notwithstanding the terms, provisions and
+20 conditions of any franchise, no manufacturer shall
+21 unilaterally terminate, refuse to continue or substantially
+22 change the condition of any franchise with a distributor
+23 unless the manufacturer has first established good cause
+34 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 for the termination, failure to continue or substantial
+2 change.
+3
+4 (c) Any distributor may bring an action in a court of
+5 competent jurisdiction against a manufacturer for violation
+6 of any of the provisions of this section and may recover
+7 damages sustained by the distributor together with the
+8 costs of the action and reasonable attorney fees.
+9
+10 (d) In any action brought under subsection (c) of
+11 this section for a termination, failure to continue or
+12 change in violation of this section, it is a complete
+13 defense for the manufacturer to prove that the termination,
+14 failure to continue or change was done in good faith and
+15 for good cause.
+16
+17 (e) As used in this section:
+18
+19 (i) "Good cause" means any of the following:
+20
+21 (A) Failure by the distributor to comply
+22 substantially with the provisions of an agreement or
+35 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 understanding with the manufacturer, if the provisions are
+2 both essential and reasonable;
+3
+4 (B) Bad faith by the distributor or failure
+5 of the distributor to observe reasonable commercial
+6 standards of fair dealing in the trade;
+7
+8 (C) Revocation, or suspension for more than
+9 thirty (30) days, of the distributor's license.
+10
+11 (ii) "Good faith" is the duty of each party to
+12 any franchise and all officers, employees or agents thereof
+13 to act in a fair manner towards each other.
+14
+15 11-51-213. Safe harbor.
+16
+17 (a) The testing requirements under W.S. 11-51-206,
+18 the label requirements under W.S. 11-51-207 and the product
+19 registration requirements under W.S. 11-15-208 shall not
+20 apply to any consumable hemp product manufactured or held
+21 in Wyoming if the product will not be sold by a retailer in
+22 Wyoming or will not be sold to a consumer in Wyoming.
+23
+36 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (b) Nothing in this section shall be deemed to
+2 prevent the division from conducting inspections as
+3 provided in W.S. 11-51-204(b) to ensure compliance with
+4 this article.
+5
+6 Section 2. W.S. 11-51-101(a)(iii), (iv), (vi) and by
+7 creating new paragraphs (ix) through (xiii), 11-51-102(b),
+8 11-51-103(a), 11-51-104(a)(intro), (iii) and (b) through
+9 (d), 11-51-505(a), 11-51-106, 11-51-107, 14-3-310(a), (e)
+10 and (f) and 35-7-1063(a) by creating a new paragraph (iv),
+11 (b)(i), (ii), by creating a new paragraph (iii) and by
+12 renumbering (iii) as (iv) are amended to read:
+13
+14 ARTICLE 1
+15 HEMP PRODUCTION
+16
+17 11-51-101. Definitions.
+18
+19 (a) As used in this chapter:
+20
+21 (iii) "Hemp" or "hemp product" means all parts,
+22 seeds and varieties of the plant cannabis sativa l.,
+23 whether growing or not, or a product, derivative, extract,
+37 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 cannabinoid, isomer, acid, salt or salt of isomer made from
+2 that plant with no synthetic substance and with a delta-9
+3 THC concentration of not more than three-tenths of one
+4 percent (0.3%) on a dry weight basis; when using
+5 post-decarboxylation or another similarly reliable testing
+6 method;
+7
+8 (iv) "Licensee" means a person licensed under
+9 this chapter article to produce, process or test hemp;
+10
+11 (vi) "Process" means converting hemp into
+12 another a hemp product, excluding a consumable hemp
+13 product, that contains no synthetic substance and that
+14 contains no more than three-tenths of one percent (0.3%)
+15 THC on a dry weight basis when using post-decarboxylation
+16 or another similarly reliable testing method;
+17
+18 (ix) "Consumable hemp product" means a product
+19 produced from hemp or containing a hemp-derived cannabinoid
+20 that is a finished good intended for human ingestion or
+21 inhalation and that contains not more than three-tenths of
+22 one percent (0.3%) concentration of delta-9 THC on a dry
+23 weight basis but that may contain concentrations of other
+38 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 hemp-derived cannabinoids in excess of that amount.
+2 "Consumable hemp product" does not include products
+3 intended for topical application, hemp seeds or products
+4 derived from hemp seeds including hemp seed oil that are
+5 generally recognized as safe by the United States food and
+6 drug administration;
+7
+8 (x) "Hemp-derived cannabinoid" means any
+9 cannabinoid derived from a compound found in hemp,
+10 including, but not limited to, delta-9 tetrahydrocannabinol
+11 (delta-9 THC), tetrahydrocannabinolic acid (THCA),
+12 cannabidiol (CBD), cannabidiolic acid (CBDA), cannabinol
+13 (CBN), cannabigerol (CBG), cannabicrhomene (CBC)
+14 cannabicycol (CBL), cannabivarin (CBV),
+15 tetrahydrocannabivarin (THCV), cannabidivarin (CBDV),
+16 cannabicitran (CBT), delta-7 tetraydrocannabinol (delta-7
+17 THC), delta-8 tetrahydrocannabinol (delta-8 THC), delta-10
+18 tetrahydrocannabinol (delta-10 THC) or hexahydrocannabinol
+19 (HHC). This term also includes any synthetic cannabinoid
+20 derived from hemp and contained in a consumable hemp
+21 product;
+22
+39 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (xi) "Hemp product" includes animal feed
+2 products derived from hemp, fiber products, grain, products
+3 intended for topical application and hemp seeds or products
+4 derived from hemp seeds that are generally recognized as
+5 safe by the United States food and drug administration.
+6 "Hemp product" shall not include a consumable hemp product;
+7
+8 (xii) "Ingestion" means the process of consuming
+9 hemp through the mouth by swallowing into the
+10 gastrointestinal system;
+11
+12 (xiii) "Inhalation" means the process of
+13 consuming hemp through the respiratory system through the
+14 mouth or nasal passageway.
+15
+16 11-51-102. Hemp as agricultural crop; use of hemp.
+17
+18 (b) Notwithstanding the requirements of this chapter,
+19 the possession, purchase, sale, transportation and use of
+20 hemp and hemp products by any person is allowable. except
+21 The manufacture, distribution and sale of consumable hemp
+22 products is allowed and regulated as provided in W.S.
+23 11-51-103(f) and 14-3-310 11-51-201 through 11-51-213.
+40 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 11-51-103. Licensing; prohibited activities.
+3
+4 (a) No person shall produce hemp or process hemp or
+5 hemp products unless the person has obtained a license from
+6 the department on a form provided by the department. No
+7 person shall manufacture, distribute or sell consumable
+8 hemp products except as provided in W.S. 11-51-201 through
+9 11-51-213.
+10
+11 11-51-104. Enforcement; fees; penalties.
+12
+13 (a) The department shall perform inspections and
+14 provide chemical sampling and analysis of production or
+15 processing activities by licensees to determine compliance
+16 with this chapter article. The department may require
+17 verification of effective disposal by licensees of hemp or
+18 hemp products that contain synthetic substances or that
+19 contain in excess of three-tenths of one percent (0.3%) THC
+20 on a dry weight basis. For any sample, analysis or
+21 verification conducted under this subsection, the
+22 department shall assess the licensee fees as established by
+23 rule of the department, not to exceed the following:
+41 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (iii) Two hundred fifty dollars ($250.00) for
+3 verification of effective disposal of hemp or hemp products
+4 that contain synthetic substances or that contain in excess
+5 of three-tenths of one percent (0.3%) THC on a dry weight
+6 basis.
+7
+8 (b) Except as provided in subsection (e) of this
+9 section, any licensee who violates any provision of this
+10 chapter article or any regulation promulgated pursuant to
+11 this chapter article shall be subject to a corrective
+12 action plan. The corrective action plan may include
+13 reporting requirements, additional inspections, suspension
+14 of a license, steps necessary to restore a license,
+15 requirements related to disposal of hemp or hemp products
+16 that contain in excess of three-tenths of one percent
+17 (0.3%) THC on a dry weight basis or providing notice of the
+18 violation to the licensee's known creditors. The plan may
+19 require rendering THC inaccessible by using hemp or hemp
+20 products as a soil amendment material or by destruction of
+21 the hemp or hemp product as authorized by rule of the
+22 department.
+23
+42 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (c) Any person who intentionally violates this
+2 chapter article is guilty of a misdemeanor punishable by a
+3 fine of not more than seven hundred fifty dollars
+4 ($750.00), imprisonment for not more than six (6) months,
+5 or both.
+6
+7 (d) If any person has three (3) or more violations of
+8 this chapter article or any regulation promulgated pursuant
+9 to this chapter article within five (5) years, the
+10 department shall revoke the license and the person shall be
+11 ineligible for licensure under this chapter article for
+12 five (5) years.
+13
+14 11-51-105. Rules; agreements; research activities.
+15
+16 (a) The department shall adopt rules necessary to
+17 implement the provisions of this chapter article.
+18
+19 11-51-106. Disposition of fees.
+20
+21 All fees collected under this chapter article shall be
+22 deposited with the state treasurer in a separate account
+43 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 which is continuously appropriated to the department for
+2 the administration of this chapter article.
+3
+4 11-51-107. Exception if this article is not
+5 implemented.
+6
+7 Nothing in this chapter article shall preclude any person
+8 from applying for and receiving authorization to produce
+9 and process hemp from another authorized entity if the
+10 department does not receive authority to do so or is
+11 otherwise not implementing this chapter article.
+12
+13 14-3-310. Prohibited sales or delivery of edible
+14 products and vaping products.
+15
+16 (a) No person or retailer shall sell, permit the
+17 sale, offer for sale, give away or deliver consumable hemp
+18 products as defined by W.S. 11-51-101(a)(ix), edible
+19 products or vaping products to any person under the age of
+20 eighteen (18) twenty-one (21) years.
+21
+22 (e) It is an affirmative defense to a prosecution
+23 under subsection (a) this section that, in the case of a
+44 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 sale, the person who sold the consumable hemp products as
+2 defined by W.S. 11-51-101(a)(ix), edible product or vaping
+3 product was presented with, and reasonably relied upon, an
+4 identification card which identified the person buying or
+5 receiving the edible product or vaping product as being
+6 over eighteen (18) twenty-one (21) years of age.
+7
+8 (f) The prohibitions in this section shall not be
+9 construed to apply to the sale or dispensing of cannabidiol
+10 oil that has not more than three-tenths percent (0.3%) of
+11 tetrahydrocannabinol to a parent or guardian for use by the
+12 parent's or guardian's child who is less than eighteen (18)
+13 twenty-one (21) years of age.
+14
+15 35-7-1063. Exceptions to provisions.
+16
+17 (a) The provisions and penalties of this chapter
+18 shall not apply to:
+19
+20 (iv) The manufacture, distribution, sale,
+21 possession or use of consumable hemp products in accordance
+22 with the provisions of W.S. 11-51-201 through 11-51-213.
+23
+45 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 (b) As used in this section:
+2
+3 (i) "Hemp" or "Consumable hemp product" means
+4 all parts, seeds and varieties of the plant cannabis sativa
+5 l. or a product made from that plant with no synthetic
+6 substances and with a THC concentration of not more than
+7 three-tenths of one percent (0.3%) on a dry weight basis as
+8 defined by W.S. 11-51-101(a)(ix);
+9
+10 (ii) "Synthetic substance" "Hemp" means as
+11 defined by W.S. 11-51-101(a)(viii) 11-51-101(a)(iii);
+12
+13 (iii) "Hemp product" means as defined by W.S.
+14 11-51-101(a)(xi);
+15
+16 (iii)(iv) "THC" means as defined by W.S.
+17 11-51-101(a)(vii).
+18
+19 Section 3. W.S. 11-51-103(f)(ii) and 11-51-104(e) are
+20 repealed.
+21
+22 Section 4. The department of revenue and the
+23 department of agriculture shall adopt rules necessary to
+46 HB0267
+2025 STATE OF WYOMING 25LSO-0465
+1 implement the regulation of consumable hemp products, as
+2 provided in sections 1 and 2 of this act, not later than
+3 January 1, 2026.
+4
+5 Section 5.
+6
+7 (a) Except as provided in subsection (b) of this
+8 section, this act is effective immediately upon completion
+9 of all acts necessary for a bill to become law as provided
+10 by Article 4, Section 8 of the Wyoming Constitution.
+11
+12 (b) Sections 1 through 3 of this act are effective
+13 January 1, 2026.
+14
+15 (END)
+47 HB0267
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0465
+HOUSE BILL NO. HB0267
+Regulation of hemp.
+Sponsored by: Representative(s) Singh, Andrew, Provenza and
+Yin and Senator(s) Rothfuss
+A BILL
+for
+1 AN ACT relating to hemp products; providing for regulation
+2 of the manufacture, distribution and sale of consumable
+3 hemp products as specified; requiring licensure of
+4 consumable hemp product manufacturers, distributors and
+5 retailers by the Wyoming liquor division; imposing an
+6 excise tax on the retail sale of consumable hemp products;
+7 providing definitions; providing penalties; requiring
+8 reports; requiring rulemaking; making conforming
+9 amendments; repealing conflicting provisions; and providing
+10 for effective dates.
+11
+12 Be It Enacted by the Legislature of the State of Wyoming:
+13
+14 Section 1. W.S. 11-51-201 through 11-51-213 are
+15 created to read:
+1 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 ARTICLE 2
+3 CONSUMABLE HEMP PRODUCTS
+4
+5 11-51-201. Purpose; limitations.
+6
+7 The purpose of this article is to regulate the manufacture,
+8 distribution and sale of consumable hemp products.
+9
+10 11-51-202. Definitions.
+11
+12 (a) As used in this article, unless the context
+13 otherwise requires:
+14
+15 (i) "Batch" means any one (1) or more of the
+16 following:
+17
+18 (A) A specific quantity of hemp plants that
+19 are cultivated from the same seed or plant stock, are
+20 cultivated together, are intended to be harvested together
+21 and that receive an identical propagation and cultivation
+22 treatment;
+23
+2 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (B) A specific quantity of hemp flower that
+2 is harvested together, is uniform and is intended to meet
+3 specifications for identity, strength, purity and
+4 composition and that receives identical sorting, drying,
+5 curing and storage treatment;
+6
+7 (C) A specific quantity of hemp-derived
+8 consumable product that is:
+9
+10 (I) Manufactured at the same time and
+11 using the same methods, equipment and ingredients;
+12
+13 (II) Uniform and intended to meet
+14 specifications for identity, strength, purity and
+15 composition;
+16
+17 (III) Manufactured, packaged and
+18 labeled according to a single batch production record that
+19 is executed and documented.
+20
+21 (ii) "Batch number" means a unique numeric or
+22 alphanumeric identifier assigned to a batch of hemp plants
+23 or hemp-derived consumable products;
+3 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (iii) "Business" means any of the following
+3 licensed under this article a consumable hemp product:
+4
+5 (A) Distributor;
+6
+7 (B) Retailer;
+8
+9 (C) Manufacturer.
+10
+11 (iv) "Counter" means the point of purchase in a
+12 retail establishment that provides separation designed to
+13 make an area of the retail establishment inaccessible to
+14 the customer;
+15
+16 (v) "Distributor" means a person that purchases
+17 consumable hemp products from manufacturers and sells them
+18 to retailers;
+19
+20 (vi) "Division" means the Wyoming liquor
+21 division within the department of revenue created under
+22 W.S. 12-2-106;
+23
+4 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (vii) "Franchise" means a written or oral
+2 arrangement for a definite or indefinite period, in which a
+3 person grants to another person a license to use a trade
+4 name, trademark, service mark or related characteristic and
+5 in which there is a commonality of interest in the
+6 marketing of goods or services at wholesale, retail, by
+7 lease, agreement or otherwise, including but not limited to
+8 a commercial relationship of definite or indefinite
+9 duration between a manufacturer and distributor where the
+10 distributor is granted the right to offer, sell and
+11 distribute within this state or any designated area of the
+12 state some or all of the manufacturer's consumable hemp
+13 products to retailers;
+14
+15 (viii) "Independent testing laboratory" means a
+16 laboratory that meets all of the following conditions:
+17
+18 (A) The laboratory holds an ISO 17025
+19 accreditation, is registered with the United States drug
+20 enforcement administration in accordance with 21 C.F.R. §
+21 1301.13 or holds an equivalent accreditation;
+22
+5 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (B) The laboratory does not have a direct
+2 or indirect interest in the person or entity whose product
+3 is being tested or in a facility that cultivates,
+4 processes, distributes, dispenses or sells consumable hemp
+5 products in this state or any other jurisdiction;
+6
+7 (C) The laboratory performs
+8 tetrahydrocannabinol concentration sampling and testing
+9 using the high-performance chromatography method or another
+10 method of testing authorized by the division.
+11
+12 (ix) "License" means a license issued in
+13 accordance with this article;
+14
+15 (x) "Manufacture" means to compound, blend,
+16 extract, infuse, cook or otherwise make or prepare
+17 consumable hemp products, including the processes of
+18 extraction, infusion, packaging, repackaging, labeling and
+19 relabeling of consumable hemp products;
+20
+21 (xi) "Manufacturer" means any person who
+22 manufactures consumable hemp products;
+23
+6 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (xii) "Producer" means any person who engages in
+2 the process of farming and harvesting hemp that is intended
+3 to be used in the manufacture of a hemp-derived consumable
+4 product;
+5
+6 (xiii) "Proof of age" means a valid driver's
+7 license or other government-issued identification card that
+8 contains a photograph of the person and confirms the
+9 person's age as twenty-one (21) years of age or older;
+10
+11 (xiv) "Retail establishment" means a place of
+12 business open to the general public for the sale of goods
+13 or services and includes a food service establishment;
+14
+15 (xv) "Retailer" means any person who sells
+16 consumable hemp products for consumption and not for
+17 resale;
+18
+19 (xvi) "Serving" means a quantity of a consumable
+20 hemp product indicated on the packaging of the consumable
+21 hemp product;
+22
+7 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (xvii) "Tincture" means hemp-infused liquid or
+2 oils administered orally in small amounts using a dropper
+3 that indicates the serving size.
+4
+5 11-51-203. Prohibited activities; penalties.
+6
+7 (a) No person shall act as a distributor,
+8 manufacturer or retailer of consumable hemp products unless
+9 the person has a license as a business issued under this
+10 article and the consumable hemp product manufactured,
+11 distributed or sold at retail by the person is registered
+12 with the division as provided in this article.
+13
+14 (b) No person shall do any of the following:
+15
+16 (i) Knowingly sell or distribute a consumable
+17 hemp product to a person who is under twenty-one (21) years
+18 of age;
+19
+20 (ii) Except as provided in subsection (g) of
+21 this section, knowingly purchase a consumable hemp product
+22 on behalf of a person who is under twenty-one (21) years of
+23 age;
+8 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (iii) Except as provided in subsection (h) of
+3 this section, knowingly persuade, entice, send or assist a
+4 person who is under twenty-one (21) years of age to
+5 purchase, acquire, receive or attempt to purchase a
+6 consumable hemp product;
+7
+8 (iv) Knowingly distribute samples of consumable
+9 hemp products outside of a retail establishment unless
+10 specifically authorized under this article;
+11
+12 (v) Knowingly sell or distribute a consumable
+13 hemp product without having first obtained proof of age
+14 from the purchaser or recipient, unless an ordinary person
+15 would conclude on the basis of appearance that the
+16 purchaser or recipient is not under the age of twenty-one
+17 (21) years.
+18
+19 (c) Except as provided in subsection (g) of this
+20 section, no person who is under twenty-one (21) years of
+21 age shall knowingly purchase, possess or accept receipt of
+22 a consumable hemp product or knowingly present purported
+23 proof of age that is false, fraudulent or not actually that
+9 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 person for the purpose of purchasing or receiving a
+2 consumable hemp product.
+3
+4 (d) All consumable hemp products, except beverage
+5 products that do not exceed a total of ten (10) milligrams
+6 per serving of delta-8 THC, delta-9 THC, delta-10 THC or
+7 any combination of those, shall be maintained behind the
+8 counter of a retail establishment or in another area that
+9 is inaccessible to a customer. Any consumable hemp product
+10 beverage, including those in cases or boxes, offered for
+11 retail sale shall be merchandised in a manner to clearly
+12 indicate to consumers that the product contains
+13 hemp-derived cannabinoids. Failure to maintain consumable
+14 hemp products in accordance with this subsection is a
+15 violation of this section.
+16
+17 (e) No person shall deliver, ship or cause to be
+18 delivered or shipped any consumable hemp product beverage
+19 directly to any person who is not licensed under this
+20 article. It shall not be a violation of this subsection for
+21 any delivery of a consumable hemp product beverage to a
+22 customer at a retail establishment or at a location
+23 otherwise authorized under this article.
+10 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (f) A first violation of any provision of this
+3 section shall result in a fine of not more than two hundred
+4 fifty dollars ($250.00). A second or subsequent violation
+5 of any provision of this section shall be a misdemeanor
+6 punishable by a fine of not more than seven hundred fifty
+7 dollars ($750.00), imprisonment for not more than six (6)
+8 months, or both.
+9
+10 (g) It shall not be a violation of this section for a
+11 person under the age of twenty-one (21) years to possess or
+12 consume consumable hemp products under the supervision of
+13 the person's parent or guardian if the parent or guardian
+14 has a written document from a physician recommending the
+15 use of consumable hemp products for the person under the
+16 age of twenty-one (21) years.
+17
+18 (h) This section does not preclude law enforcement
+19 efforts to purchase consumable hemp products from retail
+20 establishments involving:
+21
+11 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (i) The use of a minor seventeen (17) years of
+2 age or younger if the minor's parent or legal guardian has
+3 provided consent; or
+4
+5 (ii) The use of a person aged eighteen (18),
+6 nineteen (19) or twenty (20) years if the individual
+7 provides consent.
+8
+9 (j) Any consumable hemp product sold or offered for
+10 sale or consumption in violation of this section is subject
+11 to seizure and forfeiture.
+12
+13 (k) Nothing in this article shall:
+14
+15 (i) Permit any person to undertake any task
+16 under the influence of a consumable hemp product when doing
+17 so would constitute negligence or professional malpractice
+18 or would otherwise create a danger to the person or others;
+19
+20 (ii) Operate, navigate or be in actual physical
+21 control of a motor vehicle, aircraft, motorized watercraft,
+22 or any other vehicle while under the influence of a
+23 hemp-derived cannabinoid;
+12 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (iii) Require an employer to allow the use of a
+3 consumable hemp products in a workplace or allow an
+4 employee to work while under the influence of a consumable
+5 hemp product;
+6
+7 (iv) Exempt a person from prosecution for a
+8 criminal offense related to impairment or intoxication
+9 resulting from use of a consumable hemp product or relieve
+10 a person from any requirement under law to submit to a
+11 breath, blood, urine or other test to detect the presence
+12 of a controlled substance.
+13
+14 11-51-204. Administration.
+15
+16 (a) The division shall enforce this article in a
+17 manner that may reasonably be expected to reduce the extent
+18 to which consumable hemp products are sold or distributed
+19 to persons under twenty-one (21) years of age. The
+20 department of revenue shall adopt rules necessary to
+21 implement this article.
+22
+13 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (b) The division shall conduct random inspections of
+2 consumable hemp products distributed or available for
+3 distribution in the state for compliance with this article.
+4 Inspections under this subsection shall include the
+5 periodic sampling, analyzing and testing of consumable hemp
+6 products distributed within the state for compliance with
+7 the registration, labeling and testing requirements of this
+8 article. The division may conduct an inspection under this
+9 subsection for any reason the division determines is
+10 necessary.
+11
+12 (c) Not later than November 1 of each year the
+13 division shall submit a report to the joint judiciary
+14 interim committee describing in detail the division's
+15 enforcement efforts under this article. The report shall
+16 also be made available to the public on the department of
+17 revenue's website.
+18
+19 11-51-205. Licensing.
+20
+21 (a) Each business shall obtain a license from the
+22 division prior to any manufacturing, distribution or retail
+23 sale of any consumable hemp product.
+14 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (b) The application for a license under this section
+3 shall include at minimum:
+4
+5 (i) The name and address of the applicant;
+6
+7 (ii) The physical address and legal description
+8 of all property where the business will operate as a
+9 distributor, manufacturer or retailer;
+10
+11 (iii) A statement that the applicant has not
+12 been convicted of or pled no contest to a controlled
+13 substance felony within the past ten (10) years, or in the
+14 event the applicant is not an individual person, a
+15 statement that no member, principal, officer or director of
+16 the applicant has been convicted of or pled no contest to a
+17 controlled substance felony;
+18
+19 (iv) Authorization for reasonable access by the
+20 department for inspections and verifications related to
+21 this article;
+22
+15 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (v) Verification that the applicant is a
+2 business entity organized under the laws of Wyoming or is a
+3 Wyoming resident, as defined by rule of the department of
+4 revenue;
+5
+6 (vi) Any other information required by rule of
+7 the department of revenue.
+8
+9 (c) Subject to the limitations of subsection (e) of
+10 this section, the division shall issue a license, or
+11 renewal thereof, which is valid for one (1) year if:
+12
+13 (i) The requirements of subsection (b) of this
+14 section are met, including that the applicant has not been
+15 convicted of or pled no contest to a controlled substance
+16 felony within the past ten (10) years; and
+17
+18 (ii) A fee of two hundred fifty dollars
+19 ($250.00) for distributors or manufacturers and a fee of
+20 one hundred dollars ($100.00) for retailers per location is
+21 paid for each annual license or renewal application. If a
+22 retailer has multiple locations, the fee under this
+16 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 paragraph shall not exceed two thousand five hundred
+2 dollars ($2,500.00).
+3
+4 (d) All fees collected under this section shall be
+5 deposited with the state treasurer in a separate account,
+6 which is hereby created and is continuously appropriated to
+7 the department of revenue for the administration of this
+8 article by the division.
+9
+10 (e) Except in the case of a manufacturer who sells
+11 less than one thousand (1,000) gallons of consumable hemp
+12 product beverages per year:
+13
+14 (i) No person who is engaged in the production,
+15 manufacturing, distribution or sale of consumable hemp
+16 product beverages shall hold more than one (1) type of
+17 license under this section or have any financial interest,
+18 either direct or indirect, in a person holding any of the
+19 other types of licenses under this section;
+20
+21 (ii) No consumable hemp product beverage
+22 manufacturer shall directly solicit, sell or otherwise
+23 convey consumable hemp product beverages to retailers.
+17 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 Manufacturers of consumable hemp product beverages are
+2 authorized to solicit and sell consumable hemp product
+3 beverages to distributors. Distributors are authorized to
+4 solicit and sell consumable hemp product beverages to
+5 retailers.
+6
+7 (f) The division may suspend, revoke or not renew any
+8 license issued under this article if, after notice and
+9 opportunity for a hearing, the division finds the provider
+10 has violated this article or any rule promulgated under
+11 this article.
+12
+13 11-51-206. Testing requirements.
+14
+15 (a) Each manufacturer shall have all consumable hemp
+16 products or each batch of consumable hemp products tested
+17 prior to distribution to a distributor for distribution in
+18 Wyoming or before distributing the product to a retailer.
+19 If a consumable hemp product is packaged in a manner that
+20 may be sold to the ultimate consumer after being delivered
+21 to the distributor and the distributor does not open the
+22 package, the distributor is not required to further test
+23 the consumable hemp product under this section. If the
+18 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 consumable hemp product or batch of consumable hemp
+2 products is not packaged in a manner that may be sold to
+3 the ultimate consumer after being delivered to the
+4 distributor or if the distributor opens the package, the
+5 distributor shall have the consumable hemp product tested
+6 prior to distribution as provided in this section. The
+7 testing under this section shall determine the presence and
+8 amounts of any of the substances listed in subsection (b)
+9 of this section. No product that contains more than the
+10 maximum amount indicated for any substance in subsection
+11 (b) of this section shall be distributed or sold in this
+12 state.
+13
+14 (b) The division, through the department of revenue,
+15 shall promulgate rules specifying the pass and fail levels
+16 for safety and toxicity with respect to the testing
+17 required by this subsection. All consumable hemp products
+18 offered for sale or distribution in this state shall be
+19 tested for the presence of and amount of the following
+20 substances:
+21
+22 (i) Heavy metals;
+23
+19 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (ii) Pesticides;
+2
+3 (iii) Mycotoxins;
+4
+5 (iv) Solvents;
+6
+7 (v) Microbials;
+8
+9 (vi) THC.
+10
+11 (c) The manufacturer and distributor shall contract
+12 with an independent testing laboratory to provide any
+13 testing required under this section.
+14
+15 (d) An independent testing laboratory providing
+16 testing required under this section shall use high
+17 performance liquid chromatography or a comparable and
+18 validated testing method for any separation and measurement
+19 required in the testing.
+20
+21 (e) Each consumable hemp product or batch of
+22 consumable hemp products tested in accordance with this
+23 section shall be accompanied by a validly issued
+20 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 certificate of analysis from an independent testing
+2 laboratory. The certificate of analysis shall include all
+3 of the following:
+4
+5 (i) The batch identification number;
+6
+7 (ii) The date the consumable hemp product or
+8 batch was received for testing;
+9
+10 (iii) The date testing was completed;
+11
+12 (iv) The method of analysis for each test
+13 conducted;
+14
+15 (v) Proof that the certificate of analysis is
+16 issued for the product specified on the certificate.
+17
+18 (f) Each consumable hemp product or batch shall have
+19 an expiration date on the label that conforms with
+20 applicable federal law and shall be not more than two (2)
+21 years from the date of publication of the product's
+22 certificate of analysis required by this section.
+23
+21 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (g) The division shall:
+2
+3 (i) Maintain and post on its website or the
+4 website of the department of revenue a registry of testing
+5 laboratories that are qualified to test consumable hemp
+6 products;
+7
+8 (ii) Develop an application and process by which
+9 qualifying laboratories are listed on the website as
+10 provided in paragraph (i) of this subsection. The
+11 application submitted by a potentially qualifying
+12 laboratory shall include a sample certificate of analysis
+13 issued by the applying laboratory.
+14
+15 11-51-207. Label requirements.
+16
+17 (a) The label of each consumable hemp product offered
+18 for distribution or sale in this state shall contain the
+19 following information, legibly displayed:
+20
+21 (i) The product name or common name for the
+22 product, on the front of the label;
+23
+22 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (ii) The brand name of the product, on the front
+2 of the label;
+3
+4 (iii) The net count of individual items in the
+5 container, if applicable, on the front of the label;
+6
+7 (iv) The net weight or volume of the product;
+8
+9 (v) Suggested product use, including serving
+10 sizes if the product is intended for ingestion or
+11 inhalation;
+12
+13 (vi) A list of ingredients in the product,
+14 including:
+15
+16 (A) The amount of any cannabinoid or
+17 combination of cannabinoids, in milligrams;
+18
+19 (B) A list of allergens;
+20
+21 (C) The manufacturer or distributor name
+22 and address;
+23
+23 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (D) Batch number;
+2
+3 (E) A statement that use while pregnant or
+4 breastfeeding may be harmful;
+5
+6 (F) A statement that the product contains
+7 hemp-derived cannabinoids and that consumption of certain
+8 cannabinoids may impair your ability to drive or operate
+9 heavy machinery or motor vehicles;
+10
+11 (G) A statement to keep out of the reach of
+12 children;
+13
+14 (H) A statement that it is unlawful for a
+15 person less than twenty-one (21) years of age to use or
+16 consume the product;
+17
+18 (J) A statement to consult your physician
+19 before use;
+20
+21 (K) A statement that consuming consumable
+22 hemp products may result in a failed drug test;
+23
+24 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (M) The following text: "This product has
+2 not been evaluated by the Food and Drug Administration.
+3 This product is not intended to diagnose, treat, cure,
+4 mitigate or prevent any disease.";
+5
+6 (N) The following text: "Warning – The
+7 safety of this product has not been determined."; and
+8
+9 (O) An expiration date in accordance with
+10 W.S. 11-51-206(f).
+11
+12 (b) No consumable hemp product labels shall:
+13
+14 (i) Have any likeness or bear any reasonable
+15 resemblance to a human, animal, cartoon character or
+16 fictional character known to appeal primarily to persons
+17 under twenty-one (21) years of age;
+18
+19 (ii) Appear to imitate a food, candy or other
+20 commonly available snack product that is typically marketed
+21 toward or appealing to children.
+22
+25 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (c) The limitations of subsection (b) of this section
+2 shall not prevent the use of drawings, illustrations or
+3 artwork depicting nonmythical creatures, inanimate objects,
+4 scenery, humanoid characters, fruit or flavor focused
+5 images or any other items not known to appeal primarily to
+6 persons under twenty-one (21) years of age.
+7
+8 11-51-208. Product requirements and restrictions.
+9
+10 (a) Each consumable hemp product that is sold in this
+11 state shall meet the following requirements:
+12
+13 (i) Be labeled in accordance with W.S. 11-51-207
+14 and include a quick response code that directs consumers to
+15 all testing requirements specified by W.S. 11-51-206;
+16
+17 (ii) Satisfy the child resistant effectiveness
+18 standards under 16 C.F.R. § 1700.15(b)(1) when tested in
+19 accordance with the requirements set forth in 16 C.F.R. §
+20 1700.20. This paragraph shall not apply to consumable hemp
+21 product beverages;
+22
+26 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (iii) Be manufactured in the United States under
+2 the applicable law governing the manufacture of consumable
+3 hemp products in the jurisdiction where the product was
+4 manufactured.
+5
+6 (b) No consumable hemp product intended for
+7 ingestion, including beverage products, shall:
+8
+9 (i) Be sold in a serving that contains more than
+10 one hundred (100) milligrams, in the aggregate, of any
+11 combination of delta-8 THC, delta-9 THC and delta-10 THC;
+12
+13 (ii) Be formed in the shape of an animal or
+14 cartoon character.
+15
+16 (c) No consumable hemp product intended for
+17 inhalation shall:
+18
+19 (i) Be sold in a container that contains more
+20 than six (6) milliliters or six (6) milligrams of
+21 hemp-derived cannabinoids, in the aggregate, of any
+22 combination of delta-8 THC, delta-9 THC and delta-10 THC;
+23
+27 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (ii) Have a certificate of analysis issued by an
+2 independent testing laboratory that was issued more than
+3 twelve (12) months before the date of the sale.
+4
+5 11-51-209. Product registration.
+6
+7 (a) Each consumable hemp product distributed or
+8 available for sale in Wyoming shall be officially
+9 registered annually with the division and shall comply with
+10 the following requirements:
+11
+12 (i) Application for registration shall be made
+13 to the division on a form required by the division and
+14 shall include the following information:
+15
+16 (A) The name and address of the applicant
+17 and the name and address of the person whose name will
+18 appear on the label, if different than the applicant;
+19
+20 (B) The name of the product;
+21
+22 (C) The type and use of the product;
+23
+28 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (D) A complete copy of the label as it will
+2 appear on the product in a legible format;
+3
+4 (E) If the product has been assigned a
+5 national drug code in accordance with 21 C.F.R. § 207.33,
+6 the applicant shall provide the national drug code number;
+7 and
+8
+9 (F) A certificate of analysis from an
+10 independent testing laboratory for the consumable hemp
+11 product in compliance with W.S. 11-51-206.
+12
+13 (b) The division may deny registration of a
+14 consumable hemp product for an incomplete application.
+15
+16 (c) A new registration shall be required under this
+17 section for any of the following:
+18
+19 (i) Any change in the ingredients of the
+20 consumable hemp product, including any change in the amount
+21 or ratio of the ingredients;
+22
+23 (ii) A change to the directions for use;
+29 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (iii) A change of name for the product.
+3
+4 (d) If there are any changes to a consumable hemp
+5 product that do not require a new registration under
+6 subsection (c) of this section, the registrant shall submit
+7 copies of each label change to the division as soon as the
+8 changes are effective.
+9
+10 (e) A hemp-derived consumable product that has been
+11 discontinued shall continue to be registered in the state
+12 until the product is no longer available for distribution
+13 or sale.
+14
+15 (f) The registrant is responsible for the accuracy
+16 and completeness of all information submitted under this
+17 section.
+18
+19 11-51-210. Retail establishments.
+20
+21 (a) Each retail establishment that offers consumable
+22 hemp products shall be licensed as a retailer by the
+23 division in accordance with this article.
+30 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (b) No retailer shall sell or offer for sale any
+3 consumable hemp product unless the product is registered
+4 with the division as provided in W.S. 11-51-209.
+5
+6 (c) A retailer may offer consumable hemp products at
+7 a temporary event or festival after registering the event
+8 with the division and paying an event registration fee of
+9 one hundred dollars ($100.00).
+10
+11 (d) No retailer shall be located within one hundred
+12 (100) feet of a school if children under the age of
+13 eighteen (18) years attend the school.
+14
+15 (e) No business that distributes, sells or serves
+16 consumable hemp products shall employ any person who is
+17 under twenty-one (21) years of age, unless the person
+18 employed is at least eighteen (18) years of age and is
+19 under the direct supervision of a person twenty-one (21)
+20 years of age or older.
+21
+22 (f) Except as otherwise provided in this subsection,
+23 only pre-packaged registered consumable hemp products shall
+31 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 be offered as ready-to-consume or for direct consumption at
+2 a retailer. Consumable hemp products shall not be added to
+3 an ingestible food product by a retailer, provided that
+4 consumable hemp product beverages may be added to a
+5 nonalcoholic ingestible beverage product at a retailer that
+6 is a food service establishment. A retailer that is a food
+7 service establishment shall, upon request, provide the
+8 consumer with copy of the consumable hemp product's
+9 registration with the division in conjunction with
+10 incorporating a consumable hemp product beverage with a
+11 nonalcoholic beverage under this subsection.
+12
+13 (g) Any retailer offering on-site consumption of
+14 consumable hemp products shall provide to consumers upon
+15 request:
+16
+17 (i) The common name of the product;
+18
+19 (ii) The distributor or manufacturer of the
+20 product;
+21
+22 (iii) A copy of the division's registration of
+23 the consumable hemp product.
+32 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (h) A retailer offering on-site consumption of
+3 consumable hemp products shall notify the division not
+4 later than twenty-four (24) hours after the establishment
+5 knows of any serious adverse event related to a consumable
+6 hemp product sold by the establishment.
+7
+8 (j) No manufacturer or distributor shall pay a
+9 retailer, nor shall any retailer accept, any payment,
+10 credit or any other consideration to induce the retailer to
+11 advertise or display a consumable hemp product in a certain
+12 manner or to offer the consumable hemp product on the
+13 retailer's licensed premises.
+14
+15 11-51-211. Excise tax.
+16
+17 (a) An excise tax at the rate of two percent (2%) is
+18 imposed on the retail sale of a consumable hemp product.
+19 The tax under this subsection is in addition to any tax
+20 imposed under any other provision of federal, state or
+21 local law. Except as provided in subsection (b) of this
+22 section, the tax under this subsection shall be collected
+23 and paid to the department of revenue in the same manner as
+33 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 the sales tax on the consumable hemp product in accordance
+2 with W.S. 39-15-101 through 39-15-111.
+3
+4 (b) All taxes collected under subsection (a) of this
+5 section shall be reported, paid and accounted for
+6 separately. All taxes collected under subsection (a) of
+7 this section shall be deposited in the general fund.
+8
+9 11-51-212. Franchises for distributors of consumable
+10 hemp product beverages.
+11
+12 (a) If more than one (1) franchise for the same brand
+13 or brands of consumable hemp product beverages is granted
+14 to different distributors in Wyoming, it is a violation of
+15 this section for any manufacturer to discriminate between
+16 the distributors with respect to any of the terms,
+17 provisions or conditions of the franchises.
+18
+19 (b) Notwithstanding the terms, provisions and
+20 conditions of any franchise, no manufacturer shall
+21 unilaterally terminate, refuse to continue or substantially
+22 change the condition of any franchise with a distributor
+23 unless the manufacturer has first established good cause
+34 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 for the termination, failure to continue or substantial
+2 change.
+3
+4 (c) Any distributor may bring an action in a court of
+5 competent jurisdiction against a manufacturer for violation
+6 of any of the provisions of this section and may recover
+7 damages sustained by the distributor together with the
+8 costs of the action and reasonable attorney fees.
+9
+10 (d) In any action brought under subsection (c) of
+11 this section for a termination, failure to continue or
+12 change in violation of this section, it is a complete
+13 defense for the manufacturer to prove that the termination,
+14 failure to continue or change was done in good faith and
+15 for good cause.
+16
+17 (e) As used in this section:
+18
+19 (i) "Good cause" means any of the following:
+20
+21 (A) Failure by the distributor to comply
+22 substantially with the provisions of an agreement or
+35 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 understanding with the manufacturer, if the provisions are
+2 both essential and reasonable;
+3
+4 (B) Bad faith by the distributor or failure
+5 of the distributor to observe reasonable commercial
+6 standards of fair dealing in the trade;
+7
+8 (C) Revocation, or suspension for more than
+9 thirty (30) days, of the distributor's license.
+10
+11 (ii) "Good faith" is the duty of each party to
+12 any franchise and all officers, employees or agents thereof
+13 to act in a fair manner towards each other.
+14
+15 11-51-213. Safe harbor.
+16
+17 (a) The testing requirements under W.S. 11-51-206,
+18 the label requirements under W.S. 11-51-207 and the product
+19 registration requirements under W.S. 11-15-208 shall not
+20 apply to any consumable hemp product manufactured or held
+21 in Wyoming if the product will not be sold by a retailer in
+22 Wyoming or will not be sold to a consumer in Wyoming.
+23
+36 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (b) Nothing in this section shall be deemed to
+2 prevent the division from conducting inspections as
+3 provided in W.S. 11-51-204(b) to ensure compliance with
+4 this article.
+5
+6 Section 2. W.S. 11-51-101(a)(iii), (iv), (vi) and by
+7 creating new paragraphs (ix) through (xiii), 11-51-102(b),
+8 11-51-103(a), 11-51-104(a)(intro), (iii) and (b) through
+9 (d), 11-51-505(a), 11-51-106, 11-51-107, 14-3-310(a), (e)
+10 and (f) and 35-7-1063(a) by creating a new paragraph (iv),
+11 (b)(i), (ii), by creating a new paragraph (iii) and by
+12 renumbering (iii) as (iv) are amended to read:
+13
+14 ARTICLE 1
+15 HEMP PRODUCTION
+16
+17 11-51-101. Definitions.
+18
+19 (a) As used in this chapter:
+20
+21 (iii) "Hemp" or "hemp product" means all parts,
+22 seeds and varieties of the plant cannabis sativa l.,
+23 whether growing or not, or a product, derivative, extract,
+37 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 cannabinoid, isomer, acid, salt or salt of isomer made from
+2 that plant with no synthetic substance and with a delta-9
+3 THC concentration of not more than three-tenths of one
+4 percent (0.3%) on a dry weight basis; when using
+5 post-decarboxylation or another similarly reliable testing
+6 method;
+7
+8 (iv) "Licensee" means a person licensed under
+9 this chapter article to produce, process or test hemp;
+10
+11 (vi) "Process" means converting hemp into
+12 another a hemp product, excluding a consumable hemp
+13 product, that contains no synthetic substance and that
+14 contains no more than three-tenths of one percent (0.3%)
+15 THC on a dry weight basis when using post-decarboxylation
+16 or another similarly reliable testing method;
+17
+18 (ix) "Consumable hemp product" means a product
+19 produced from hemp or containing a hemp-derived cannabinoid
+20 that is a finished good intended for human ingestion or
+21 inhalation and that contains not more than three-tenths of
+22 one percent (0.3%) concentration of delta-9 THC on a dry
+23 weight basis but that may contain concentrations of other
+38 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 hemp-derived cannabinoids in excess of that amount.
+2 "Consumable hemp product" does not include products
+3 intended for topical application, hemp seeds or products
+4 derived from hemp seeds including hemp seed oil that are
+5 generally recognized as safe by the United States food and
+6 drug administration;
+7
+8 (x) "Hemp-derived cannabinoid" means any
+9 cannabinoid derived from a compound found in hemp,
+10 including, but not limited to, delta-9 tetrahydrocannabinol
+11 (delta-9 THC), tetrahydrocannabinolic acid (THCA),
+12 cannabidiol (CBD), cannabidiolic acid (CBDA), cannabinol
+13 (CBN), cannabigerol (CBG), cannabicrhomene (CBC)
+14 cannabicycol (CBL), cannabivarin (CBV),
+15 tetrahydrocannabivarin (THCV), cannabidivarin (CBDV),
+16 cannabicitran (CBT), delta-7 tetraydrocannabinol (delta-7
+17 THC), delta-8 tetrahydrocannabinol (delta-8 THC), delta-10
+18 tetrahydrocannabinol (delta-10 THC) or hexahydrocannabinol
+19 (HHC). This term also includes any synthetic cannabinoid
+20 derived from hemp and contained in a consumable hemp
+21 product;
+22
+39 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (xi) "Hemp product" includes animal feed
+2 products derived from hemp, fiber products, grain, products
+3 intended for topical application and hemp seeds or products
+4 derived from hemp seeds that are generally recognized as
+5 safe by the United States food and drug administration.
+6 "Hemp product" shall not include a consumable hemp product;
+7
+8 (xii) "Ingestion" means the process of consuming
+9 hemp through the mouth by swallowing into the
+10 gastrointestinal system;
+11
+12 (xiii) "Inhalation" means the process of
+13 consuming hemp through the respiratory system through the
+14 mouth or nasal passageway.
+15
+16 11-51-102. Hemp as agricultural crop; use of hemp.
+17
+18 (b) Notwithstanding the requirements of this chapter,
+19 the possession, purchase, sale, transportation and use of
+20 hemp and hemp products by any person is allowable. except
+21 The manufacture, distribution and sale of consumable hemp
+22 products is allowed and regulated as provided in W.S.
+23 11-51-103(f) and 14-3-310 11-51-201 through 11-51-213.
+40 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 11-51-103. Licensing; prohibited activities.
+3
+4 (a) No person shall produce hemp or process hemp or
+5 hemp products unless the person has obtained a license from
+6 the department on a form provided by the department. No
+7 person shall manufacture, distribute or sell consumable
+8 hemp products except as provided in W.S. 11-51-201 through
+9 11-51-213.
+10
+11 11-51-104. Enforcement; fees; penalties.
+12
+13 (a) The department shall perform inspections and
+14 provide chemical sampling and analysis of production or
+15 processing activities by licensees to determine compliance
+16 with this chapter article. The department may require
+17 verification of effective disposal by licensees of hemp or
+18 hemp products that contain synthetic substances or that
+19 contain in excess of three-tenths of one percent (0.3%) THC
+20 on a dry weight basis. For any sample, analysis or
+21 verification conducted under this subsection, the
+22 department shall assess the licensee fees as established by
+23 rule of the department, not to exceed the following:
+41 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1
+2 (iii) Two hundred fifty dollars ($250.00) for
+3 verification of effective disposal of hemp or hemp products
+4 that contain synthetic substances or that contain in excess
+5 of three-tenths of one percent (0.3%) THC on a dry weight
+6 basis.
+7
+8 (b) Except as provided in subsection (e) of this
+9 section, any licensee who violates any provision of this
+10 chapter article or any regulation promulgated pursuant to
+11 this chapter article shall be subject to a corrective
+12 action plan. The corrective action plan may include
+13 reporting requirements, additional inspections, suspension
+14 of a license, steps necessary to restore a license,
+15 requirements related to disposal of hemp or hemp products
+16 that contain in excess of three-tenths of one percent
+17 (0.3%) THC on a dry weight basis or providing notice of the
+18 violation to the licensee's known creditors. The plan may
+19 require rendering THC inaccessible by using hemp or hemp
+20 products as a soil amendment material or by destruction of
+21 the hemp or hemp product as authorized by rule of the
+22 department.
+23
+42 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (c) Any person who intentionally violates this
+2 chapter article is guilty of a misdemeanor punishable by a
+3 fine of not more than seven hundred fifty dollars
+4 ($750.00), imprisonment for not more than six (6) months,
+5 or both.
+6
+7 (d) If any person has three (3) or more violations of
+8 this chapter article or any regulation promulgated pursuant
+9 to this chapter article within five (5) years, the
+10 department shall revoke the license and the person shall be
+11 ineligible for licensure under this chapter article for
+12 five (5) years.
+13
+14 11-51-105. Rules; agreements; research activities.
+15
+16 (a) The department shall adopt rules necessary to
+17 implement the provisions of this chapter article.
+18
+19 11-51-106. Disposition of fees.
+20
+21 All fees collected under this chapter article shall be
+22 deposited with the state treasurer in a separate account
+43 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 which is continuously appropriated to the department for
+2 the administration of this chapter article.
+3
+4 11-51-107. Exception if this article is not
+5 implemented.
+6
+7 Nothing in this chapter article shall preclude any person
+8 from applying for and receiving authorization to produce
+9 and process hemp from another authorized entity if the
+10 department does not receive authority to do so or is
+11 otherwise not implementing this chapter article.
+12
+13 14-3-310. Prohibited sales or delivery of edible
+14 products and vaping products.
+15
+16 (a) No person or retailer shall sell, permit the
+17 sale, offer for sale, give away or deliver consumable hemp
+18 products as defined by W.S. 11-51-101(a)(ix), edible
+19 products or vaping products to any person under the age of
+20 eighteen (18) twenty-one (21) years.
+21
+22 (e) It is an affirmative defense to a prosecution
+23 under subsection (a) this section that, in the case of a
+44 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 sale, the person who sold the consumable hemp products as
+2 defined by W.S. 11-51-101(a)(ix), edible product or vaping
+3 product was presented with, and reasonably relied upon, an
+4 identification card which identified the person buying or
+5 receiving the edible product or vaping product as being
+6 over eighteen (18) twenty-one (21) years of age.
+7
+8 (f) The prohibitions in this section shall not be
+9 construed to apply to the sale or dispensing of cannabidiol
+10 oil that has not more than three-tenths percent (0.3%) of
+11 tetrahydrocannabinol to a parent or guardian for use by the
+12 parent's or guardian's child who is less than eighteen (18)
+13 twenty-one (21) years of age.
+14
+15 35-7-1063. Exceptions to provisions.
+16
+17 (a) The provisions and penalties of this chapter
+18 shall not apply to:
+19
+20 (iv) The manufacture, distribution, sale,
+21 possession or use of consumable hemp products in accordance
+22 with the provisions of W.S. 11-51-201 through 11-51-213.
+23
+45 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 (b) As used in this section:
+2
+3 (i) "Hemp" or "Consumable hemp product" means
+4 all parts, seeds and varieties of the plant cannabis sativa
+5 l. or a product made from that plant with no synthetic
+6 substances and with a THC concentration of not more than
+7 three-tenths of one percent (0.3%) on a dry weight basis as
+8 defined by W.S. 11-51-101(a)(ix);
+9
+10 (ii) "Synthetic substance" "Hemp" means as
+11 defined by W.S. 11-51-101(a)(viii) 11-51-101(a)(iii);
+12
+13 (iii) "Hemp product" means as defined by W.S.
+14 11-51-101(a)(xi);
+15
+16 (iii)(iv) "THC" means as defined by W.S.
+17 11-51-101(a)(vii).
+18
+19 Section 3. W.S. 11-51-103(f)(ii) and 11-51-104(e) are
+20 repealed.
+21
+22 Section 4. The department of revenue and the
+23 department of agriculture shall adopt rules necessary to
+46 HB0267
+
+2025 STATE OF WYOMING 25LSO-0465
+1 implement the regulation of consumable hemp products, as
+2 provided in sections 1 and 2 of this act, not later than
+3 January 1, 2026.
+4
+5 Section 5.
+6
+7 (a) Except as provided in subsection (b) of this
+8 section, this act is effective immediately upon completion
+9 of all acts necessary for a bill to become law as provided
+10 by Article 4, Section 8 of the Wyoming Constitution.
+11
+12 (b) Sections 1 through 3 of this act are effective
+13 January 1, 2026.
+14
+15 (END)
+47 HB0267

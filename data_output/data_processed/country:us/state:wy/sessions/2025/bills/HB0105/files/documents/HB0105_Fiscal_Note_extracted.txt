@@ -1,0 +1,37 @@
+Title: There would be a fiscal impact. However, it is indeterminable if the proposed
+Official Title: There would be a fiscal impact. However, it is indeterminable if the proposed
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Breach orders due process. 25LSO-0402, 1.1
+FISCAL NOTE
+The fiscal impact is indeterminable.
+requirements could be fulfilled with existing internal personnel or if external
+contractors would need to be brought in. Added duties and associated costs cannot
+be determined as this would be dependent upon several factors (location of
+breach, size of dam, number of water rights holders, notification requirements,
+complexity of alternatives development, who determines liability, etc.).
+Prepared by: Matt Sackett, LSO Contractor Phone: 777-7881
+(Information provided by Kristin Baker, State Engineer's Office, 307-777-6977)
+HB0105
+
+
+================================================================================
+
+Raw Text:
+Breach orders due process. 25LSO-0402, 1.1
+FISCAL NOTE
+The fiscal impact is indeterminable.
+There would be a fiscal impact. However, it is indeterminable if the proposed
+requirements could be fulfilled with existing internal personnel or if external
+contractors would need to be brought in. Added duties and associated costs cannot
+be determined as this would be dependent upon several factors (location of
+breach, size of dam, number of water rights holders, notification requirements,
+complexity of alternatives development, who determines liability, etc.).
+Prepared by: Matt Sackett, LSO Contractor Phone: 777-7881
+(Information provided by Kristin Baker, State Engineer's Office, 307-777-6977)
+HB0105

@@ -1,0 +1,2169 @@
+Title: HOUSE BILL NO. HB0086
+Official Title: HOUSE BILL NO. HB0086
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0064
+Public property and buildings-amendments.
+Sponsored by: Joint Appropriations Committee
+A BILL
+for
+1 AN ACT relating to public property and buildings; amending
+2 and creating provisions related to budgeting, planning and
+3 reporting for capital construction projects, major
+4 maintenance and routine maintenance for public buildings,
+5 facilities and sites; conforming and repealing definitions;
+6 amending requirements for contracting for public works;
+7 specifying duties related to capital construction projects,
+8 major maintenance and routine maintenance for the state
+9 construction department, the state building commission, the
+10 school districts, the board of trustees of the University
+11 of Wyoming and the community college commission; repealing
+12 major maintenance funding requirements; requiring reports;
+13 requiring rulemaking; specifying applicability; and
+14 providing for effective dates.
+15
+16 Be It Enacted by the Legislature of the State of Wyoming:
+1 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 Section 1. W.S. 21-17-208 is created to read:
+3
+4 21-17-208. University property maintenance and
+5 capital construction.
+6
+7 (a) As used in this section:
+8
+9 (i) "Capital construction project" means as
+10 defined by W.S. 9-2-3001(b)(ii);
+11
+12 (ii) "Major maintenance" means as defined by
+13 W.S. 9-2-3001(b)(ix);
+14
+15 (iii) "Property" means as defined by W.S.
+16 9-2-3001(b)(x);
+17
+18 (iv) "Routine maintenance" means as defined by
+19 W.S. 9-2-3001(b)(xii).
+20
+21 (b) As part of its administrative functions, the
+22 board of trustees shall identify University of Wyoming
+23 property needs and develop a prioritized list of capital
+2 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 construction projects. The prioritized capital construction
+2 projects shall be reported by the board to the state
+3 construction department not later than June 1 of each year.
+4 Following review, analysis and study, the state
+5 construction department shall forward the prioritized list
+6 of university capital construction projects to the state
+7 building commission.
+8
+9 (c) The state construction department shall submit to
+10 the state building commission a recommendation for funding
+11 university major maintenance each biennium in preparation
+12 for the development of the state budget. This
+13 recommendation for major maintenance shall be based on a
+14 formula adopted by the state building commission pursuant
+15 to W.S. 9-5-107(g) and upon forms and in a format specified
+16 by the state budget department. At the end of each fiscal
+17 year, the board of trustees shall submit a report to the
+18 state construction department on major maintenance
+19 expenditures and commitments incurred in the immediately
+20 preceding fiscal year as required by W.S. 9-5-107(j).
+21
+22 (d) With respect to University of Wyoming
+23 property, the board of trustees shall:
+3 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (i) Develop and implement schedules for routine
+3 maintenance that are designed to eliminate maintenance
+4 backlogs, establish proactive maintenance practices and
+5 ensure that university property and the components,
+6 equipment and systems of university property reach their
+7 full life expectancy;
+8
+9 (ii) Plan for the funding of major maintenance
+10 for the components, equipment and systems of university
+11 property that have a life expectancy that is less than the
+12 life expectancy of university property of which the
+13 component, equipment or system is part;
+14
+15 (iii) Maintain records of routine maintenance
+16 for university property and the components, equipment and
+17 systems of university property.
+18
+19 Section 2. W.S. 9-2-3001(b)(ii) and by creating new
+20 paragraphs (viii) through (xii), 9-2-3004(c)(i), (vi) and
+21 by creating new paragraphs (x) through (xii), 9-2-3202(a)
+22 by creating a new paragraph (xi), 9-4-207(d)(intro) and by
+23 creating a new paragraph (iv), 9-5-107(d)(intro), (iii), by
+4 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 creating new paragraphs (v) and (vi), (g)(intro), (i) and
+2 by creating new subsections (j) through (m),
+3 16-6-101(a)(v), 16-6-102(a) and by creating a new
+4 subsection (g), 16-6-401(a)(intro) and (ix),
+5 16-6-1001(f)(i), 21-15-108(b), 21-15-109(a)(iii)(intro),
+6 (iv), (vi), (viii) and (e), 21-15-111(a)(iii) through (v)
+7 and by creating new paragraphs (x) and (xi),
+8 21-15-116(a)(intro) and (v), 21-15-119(a)(i),
+9 21-15-123(f)(v)(intro), (E) and (vi), 21-18-102(a) by
+10 creating new paragraphs (xxiii) through (xxvi) and by
+11 renumbering (xxiii) as (xxvii), 21-18-202(d)(v)(intro), (A)
+12 and (C), 21-18-225(a)(intro), (b) by creating new
+13 paragraphs (v) through (vii), (d)(intro), (e), (g), (h) and
+14 (j) and 21-18-319(e)(ii) are amended to read:
+15
+16 9-2-3001. State construction department created;
+17 definitions.
+18
+19 (b) As used in this article:
+20
+21 (ii) "Capital construction project" means new
+22 construction, demolition, renovation, and capital renewal
+23 and major maintenance of or to any public building or
+5 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 facility and any other public improvement necessary for the
+2 public building or facility, major maintenance as defined
+3 in W.S. 16-6-101(a)(v) and major building and facility
+4 repair and replacement as defined in W.S. 21-15-109(a)(iii)
+5 property;
+6
+7 (viii) "Capital renewal" means capital
+8 construction infrastructure upgrades and replacement
+9 projects to systems external to a building or facility that
+10 are necessary for the continued functionality of a building
+11 or facility. "Capital renewal" includes projects that do
+12 not qualify as new construction and for which the costs
+13 exceed amounts typically appropriated or expended on major
+14 maintenance for a property such as water projects, sewer
+15 projects, electrical projects and other major
+16 infrastructure projects external to a building or facility
+17 that impact the life, health and safety of occupants in a
+18 building or facility;
+19
+20 (ix) "Major building and facility repair and
+21 replacement" and "major maintenance" mean the repair,
+22 replacement or upgrade of complete or major portions of any
+23 component, equipment or system of a property at irregular
+6 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 intervals that is required to continue the use of the
+2 property at its designed capacity for its designed intended
+3 use and is typically accomplished by contractors due to the
+4 personnel demand to accomplish the work in a timely manner,
+5 the level of sophistication of the work or the need for
+6 warranted work. The terms include, but are not limited to,
+7 the following categories as hereafter defined:
+8
+9 (A) "Code compliance" means the repair,
+10 replacement or upgrade of a component, equipment or system
+11 of a property that is mandated by law, regulation or code
+12 to continue the use of the property at its designed
+13 capacity for its designed intended use;
+14
+15 (B) "Site improvements" means the repair,
+16 replacement or upgrade of a component, equipment or system
+17 of a site, including the repair, replacement or upgrade of
+18 any of the following:
+19
+20 (I) Sidewalks;
+21
+22 (II) Parking lots;
+23
+7 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 (III) Athletic tracks;
+2
+3 (IV) Playground features;
+4
+5 (V) Outdoor security features;
+6
+7 (VI) Landscaping;
+8
+9 (VII) Drainage systems;
+10
+11 (VIII) Campus roads or streets;
+12
+13 (IX) Components, equipment or systems
+14 similar to those specified in subdivisions (I) through
+15 (VIII) of this subparagraph.
+16
+17 (C) "System improvements" means the repair,
+18 replacement or upgrade of a component, equipment or system
+19 of a building or facility, including any of the following:
+20
+21 (I) Structural systems;
+22
+23 (II) Fire protection systems;
+8 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (III) Indoor security features;
+3
+4 (IV) Electrical, lighting, plumbing,
+5 heating, ventilation or air conditioning systems;
+6
+7 (V) Roofs;
+8
+9 (VI) Windows and doors;
+10
+11 (VII) Conveyance systems, including
+12 elevators and escalators;
+13
+14 (VIII) Information technology systems;
+15
+16 (IX) Components, equipment or systems
+17 similar to those specified in subdivisions (I) through
+18 (VIII) of this subparagraph.
+19
+20 (x) "Property" means a building, facility or
+21 site;
+22
+9 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 (xi) "Renovation" means work done to restore
+2 property to a condition that is functional for its original
+3 or designed intended use and capacity, to modernize or
+4 adapt property to an approved new use and capacity or for
+5 the purpose of making it code compliant, including
+6 architectural and structural changes and the modernization
+7 of mechanical and electrical systems. "Renovation" includes
+8 the repair, strengthening or restoration of major building
+9 systems or structures to a safe condition. "Renovation"
+10 does not include work that consists primarily of routine
+11 maintenance, minor repairs and replacement due to normal
+12 use, wear and tear or deterioration;
+13
+14 (xii) "Routine maintenance" means activities
+15 necessary to keep a property and the components, equipment
+16 and systems of a property in safe and good working order so
+17 that the property may be used at its original or designed
+18 capacity for its original or designed intended use.
+19 "Routine maintenance" includes custodial, groundskeeping
+20 and maintenance tasks done on a routine basis by building
+21 personnel and specialized equipment and building system
+22 maintenance that is accomplished on a routine basis by
+23 contractors.
+10 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 9-2-3004. Duties of the department.
+3
+4 (c) The department shall:
+5
+6 (i) Review and make recommendations to the
+7 governor concerning capital construction project and land
+8 acquisition budget requests made by the state building
+9 commission, school facilities commission, the University of
+10 Wyoming, community college commission and any agency;
+11
+12 (vi) Plan for all capital construction projects
+13 in accordance with the provisions of W.S. 9-5-107, 9-5-108
+14 and rules, procedures and criteria adopted pursuant to
+15 those sections;
+16
+17 (x) Not later than September 1 of each odd
+18 numbered year, submit to the state building commission a
+19 recommendation for funding for the immediately succeeding
+20 fiscal biennium for major maintenance for state property,
+21 community college property and University of Wyoming
+22 property. This recommendation shall be based on the formula
+11 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 adopted by the state building commission pursuant to W.S.
+2 9-5-107(g);
+3
+4 (xi) Review and approve any renovation that
+5 changes the intended capacity or designed intended use of a
+6 property that receives appropriations for major
+7 maintenance;
+8
+9 (xii) Develop and maintain a twenty (20) year
+10 statewide strategic facility plan and comprehensive system
+11 for monitoring and reporting appropriations and
+12 expenditures for capital construction projects and routine
+13 maintenance for state property, community college property
+14 and University of Wyoming property.
+15
+16 9-2-3202. Definitions; powers generally; duties of
+17 governor; provisions construed; cooperation with
+18 legislature and judiciary; divisions enumerated.
+19
+20 (a) As used in this act:
+21
+22 (xi) "Routine maintenance" means as defined by
+23 W.S. 9-2-3001(b)(xii).
+12 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 9-4-207. Disposition of unexpended appropriations.
+3
+4 (d) Appropriations for the purposes specified in this
+5 subsection shall be excluded from reverting pursuant to
+6 subsections (a) through (c) of this section.
+7 Appropriations which that do not revert pursuant to this
+8 subsection shall be expended only on the projects for which
+9 the funds were appropriated or as authorized by paragraph
+10 (iv) of this subsection. Funds subject to this subsection
+11 are appropriations:
+12
+13 (iv) For major maintenance as defined by W.S.
+14 9-2-3001(b)(ix) for state property, community college
+15 property and University of Wyoming property. Appropriations
+16 subject to this paragraph that do not revert may be
+17 expended on any expenses incurred for major maintenance as
+18 defined by W.S. 9-2-3001(b)(ix).
+19
+20 9-5-107. Duties and responsibilities with respect to
+21 state property; state capital construction needs assessment
+22 and priorities; neglected routine maintenance; supplemental
+23 major maintenance funding.
+13 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (d) The state building commission shall adopt rules
+3 implementing policies for the management of state buildings
+4 property. The rules shall establish:
+5
+6 (iii) Requirements for planned development and
+7 implementation of routine maintenance schedules designed to
+8 eliminate maintenance backlogs, and to establish proactive
+9 maintenance practices and ensure that state property and
+10 the components, equipment and systems of state property
+11 reach their full life expectancy;
+12
+13 (v) Requirements for planning for the funding of
+14 major maintenance for the components, equipment and systems
+15 of state property that have a life expectancy that is less
+16 than the life expectancy of the state property of which the
+17 component, equipment or system is part;
+18
+19 (vi) Requirements for maintaining records of
+20 routine maintenance for state property and the components,
+21 equipment and systems of state property.
+22
+14 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 (g) The state building commission shall adopt a
+2 formula for major building and facility repair and
+3 replacement for maintenance for state property, community
+4 college facilities property and University of Wyoming
+5 property. The formula shall:
+6
+7 (i) Be based on the gross square footage of
+8 buildings and facilities for not more than seven (7)
+9 categories of buildings each for state property, community
+10 college property and University of Wyoming property and
+11 shall:
+12
+13 (A) For community college property, include
+14 only buildings providing education programs comprising the
+15 statewide college system strategic plan developed and
+16 maintained under W.S. 21-18-202(a)(v);
+17
+18 (B) Specifically exclude student housing,
+19 student unions and auxiliary services areas funded
+20 exclusively through university or community college
+21 generated revenues unless otherwise specified by law.
+22
+15 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 (j) At the end of each fiscal year, the state
+2 construction department, any agency responsible for the
+3 operation and management of a state property, the community
+4 college commission and the University of Wyoming shall
+5 report to the state building commission on the expenditures
+6 and commitments made from any funds appropriated for major
+7 maintenance.
+8
+9 (k) To the extent the amount of funds appropriated in
+10 any fiscal biennium pursuant to the formula adopted by the
+11 state building commission under subsection (g) of this
+12 section for major maintenance are insufficient to repair,
+13 replace or upgrade a failed component, equipment or system
+14 of a property, the state building commission, the community
+15 college commission, any agency and the University of
+16 Wyoming may separately identify and request in its capital
+17 construction budget request submitted to the governor the
+18 additional amount necessary for the major maintenance. Any
+19 supplemental funding appropriated in response to a budget
+20 request submitted under this subsection shall be
+21 conditioned on the requesting entity expending all funds
+22 appropriated in the fiscal biennium for major maintenance
+16 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 on the failed component, equipment or a system, except as
+2 otherwise provided by law.
+3
+4 (m) As used in this section:
+5
+6 (i) "Major maintenance" means as defined by W.S.
+7 9-2-3001(b)(ix);
+8
+9 (ii) "Property" means as defined by W.S.
+10 9-2-3001(b)(x);
+11
+12 (iii) "Routine maintenance" means as defined by
+13 W.S. 9-2-3001(b)(xii).
+14
+15 16-6-101. Definitions.
+16
+17 (a) As used in this act:
+18
+19 (v) "Major maintenance" means the repair or
+20 replacement of complete or major portions of building and
+21 facility systems at irregular intervals which is required
+22 to continue the use of the building or facility at its
+23 original capacity for its original intended use and is
+17 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 typically accomplished by contractors due to the personnel
+2 demand to accomplish the work in a timely manner, the level
+3 of sophistication of the work or the need for warranted
+4 work as defined by W.S. 9-2-3001(b)(ix);
+5
+6 16-6-102. Resident contractors; preference limitation
+7 with reference to lowest bid or qualified response;
+8 decertification; denial of application for residency.
+9
+10 (a) If a contract is let by a public entity for a
+11 public work, the contract shall be let, if advertisement
+12 for bids or request for proposal is not required, to a
+13 resident of the state, provided that if the services
+14 required are not offered by any known resident of the
+15 state, the public entity may let the contract to a
+16 nonresident. If advertisement for bids is required, the
+17 contract shall be let to the responsible certified resident
+18 making the lowest bid if the certified resident's bid is
+19 not more than five percent (5%) higher than that of the
+20 lowest responsible nonresident bidder.
+21
+22 (g) Whenever an emergency arises requiring a contract
+23 for a public work, a public entity may waive any applicable
+18 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 requirement of this section if the requirement endangers
+2 the health, welfare or safety of the public.
+3
+4 16-6-401. Definitions.
+5
+6 (a) As used in W.S. 16-6-401 through 16-6-403 this
+7 article:
+8
+9 (ix) "Renovation" means revision to a major
+10 facility which will affect more than fifty percent (50%) of
+11 the gross floor area in the building as defined by W.S.
+12 9-2-3001(b)(xi).
+13
+14 16-6-1001. Capital construction projects
+15 restrictions; preference requirements; waivers.
+16
+17 (f) As used in this section:
+18
+19 (i) "Capital construction project" means new
+20 construction, demolition, renovation and capital renewal of
+21 or to any public building or facility and any other public
+22 improvement necessary for the public building or facility,
+23 major maintenance as defined in by W.S. 16-6-101(a)(v) and
+19 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 major building and facility repair and replacement as
+2 defined in W.S. 21-15-109(a)(iii) 9-2-3001(b)(ii);
+3
+4 21-15-108. Revenue bonds for grants and loans;
+5 refunding revenue bonds.
+6
+7 (b) The school facilities commission may borrow money
+8 in a principal amount not to exceed one hundred million
+9 dollars ($100,000,000.00) by the issuance from time to time
+10 of one (1) or more series of revenue bonds. The commission
+11 may encumber revenues under subsection (a) of this section
+12 for bonds in total amounts not to exceed one hundred
+13 million dollars ($100,000,000.00) issued for school capital
+14 construction projects and assistance as determined by the
+15 commission and approved by the legislature under W.S.
+16 21-15-119. Any bonds issued under this section, together
+17 with any interest accruing thereon and any prior redemption
+18 premiums due in connection therewith, are payable and
+19 collectible solely out of revenues authorized under this
+20 section. The bondholders may not look to any general or
+21 other fund for payment of the bonds except the revenues
+22 pledged therefore. The bonds shall not constitute an
+23 indebtedness or a debt within the meaning of any
+20 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 constitutional or statutory provision or limitation. The
+2 bonds shall not be considered or held to be general
+3 obligations of the state but shall constitute its special
+4 obligations and the commission shall not pledge the state's
+5 full faith and credit for payment of the bonds.
+6
+7 21-15-109. Major building and facility repair and
+8 replacement payments; computation; square footage
+9 allowance; use of payment funds; accounting and reporting
+10 requirements; neglected routine maintenance.
+11
+12 (a) As used in this act:
+13
+14 (iii) "Major building and facility repair and
+15 replacement" means the repair or replacement of complete or
+16 major portions of and "major maintenance" mean as defined
+17 by W.S. 9-2-3001(b)(ix) for school building and facility
+18 systems, at irregular intervals which is required to
+19 continue the use of the building or facility at its
+20 original capacity for its original intended use and is
+21 typically accomplished by contractors due to the personnel
+22 demand to accomplish the work in a timely manner, the level
+23 of sophistication of the work or the need for warranted
+21 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 work. The term includes the following categories as
+2 hereafter defined:
+3
+4 (iv) "Office building" means a school building
+5 or facility primarily used in connection with or for the
+6 purpose of district administrative functions, the major
+7 purpose or use of which is not dedicated to the provision
+8 of educational programs offered by the district in
+9 accordance with law;. "Office building" shall include
+10 maintenance facilities and storage buildings in which
+11 supplies are stored;
+12
+13 (vi) "Routine maintenance" and repair" means
+14 activities necessary to keep a school building or facility
+15 in safe and good working order so that it may be used at
+16 its original or designed capacity for its originally
+17 intended purposes, including janitorial, grounds keeping
+18 and maintenance tasks done on a routine basis and typically
+19 accomplished by district personnel with exceptions for any
+20 routine tasks accomplished by contractors such as elevator
+21 or other specialized equipment or building system
+22 maintenance as defined by W.S. 9‑2‑3001(b)(xii) for school
+23 buildings and facilities;
+22 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (viii) "Warehouse building" means a school
+3 building or facility primarily used for storage of
+4 equipment, materials and other district property and
+5 supplies, including facilities in which school buses and
+6 school equipment are stored, maintained or serviced.
+7
+8 (e) Amounts distributed under subsection (b) of this
+9 section shall be deposited by the recipient district into a
+10 separate account, the balance of which may accumulate from
+11 year-to-year. Except as specified under subsection (f) of
+12 this section, expenditures from the separate account,
+13 including any interest earnings on the account, shall be
+14 restricted to expenses incurred for major building and
+15 facility repair and replacement as defined in subsection
+16 (a) of this section and shall be in accordance with the
+17 district's facility plan under W.S. 21-15-116. Account
+18 expenditures may include the expenses of district personnel
+19 performing work described under paragraph (a)(iii) of this
+20 section if approved by the department and if documented
+21 within the district's facility plan. The district's
+22 facility plan shall clearly specify proposed major
+23 maintenance expenditures for addressing district major
+23 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 building and facility repair and replacement needs on a
+2 building-by-building basis, updated for the applicable
+3 reporting period, which shall be aligned to the statewide
+4 adequacy standards and prioritized based upon the impact of
+5 the building or facility on the district's ability to
+6 deliver the required educational program. The district
+7 shall include plans for maintaining any district building
+8 or facility which is under a lease agreement, specifying
+9 lease revenues available to the district for maintenance of
+10 facilities to the level required by statewide adequacy
+11 standards. No expenditures shall be made from the separate
+12 account unless the repair or replacement of the building or
+13 facility systems for which the expenditure is to be made is
+14 clearly specified within the district's facility plan or
+15 otherwise approved by the department. In a manner and form
+16 required by commission rule and regulation, each district
+17 shall annually report to the department on the expenditures
+18 made from the separate account during the applicable
+19 reporting period, separating account expenditures on a
+20 building-by-building basis. The department shall annually
+21 review account expenditures. and The department shall,
+22 report expenditures to in consultation with each respective
+23 school district, provide a report to the commission, and
+24 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 the select committee on school facilities established under
+2 W.S. 28-11-301 and the joint appropriations committee on
+3 major maintenance expenditures. The department shall
+4 compile reported building-by-building expenditure
+5 information for each district and the district facility
+6 plan and include this information in its annual report to
+7 the select committee pursuant to W.S. 21-15-121. If any
+8 district expends funds within the separate account for
+9 purposes not authorized by this subsection or by rule and
+10 regulation of the commission, the payments for that
+11 district shall be reduced by the amount of the unauthorized
+12 expenditure in the school year following the year in which
+13 the expenditure was discovered or the school year in which
+14 notification was provided by the department, whichever
+15 first occurs.
+16
+17 21-15-111. Definitions.
+18
+19 (a) As used in this act, unless the context requires
+20 otherwise:
+21
+22 (iii) "Local enhancements to school buildings
+23 and facilities" or "local enhancements" means any
+25 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 renovation, capital renewal, construction, replacement,
+2 repair or other improvement of or to any school building or
+3 facility initiated by a school district which is designed
+4 to bring the building or facility to a condition exceeding
+5 the statewide building adequacy standards and the
+6 commission's facility design standards and guidelines;
+7
+8 (iv) "Project" means replacement, renovation,
+9 capital renewal or new construction projects which that
+10 increase the value of the school building or facility by
+11 improving the functioning of the building or facility or
+12 the capacity of the building or facility, or both,
+13 excluding major building and facility repair and
+14 replacement as defined under by W.S. 21-15-109(a)(iii)
+15 9-2-3001(b)(ix), and routine maintenance and repair as
+16 defined under by W.S. 21-15-109(a)(vi) 9-2-3001(b)(xii);
+17
+18 (v) "Remedy" or "remediation" means a course of
+19 action addressing identified building and facility needs in
+20 accordance with statewide adequacy standards developed
+21 under this act, consisting of building or facility
+22 construction, replacement, renovation, capital renewal,
+23 repair or any combination thereof;
+26 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (x) "Capital renewal" means as defined by W.S.
+3 9-2-3001(b)(viii) for school buildings and facilities;
+4
+5 (xi) "Renovation" means as defined by W.S.
+6 9-2-3001(b)(xi) for school buildings and facilities.
+7
+8 21-15-116. School district facility plans;
+9 development, review and approval; plan criteria;
+10 administrative review; collaborative committee process.
+11
+12 (a) In accordance with rules and regulations of the
+13 commission, long range comprehensive school building and
+14 facility plans for each school district shall be developed
+15 by the department in coordination with the applicable
+16 district, which address district wide building and facility
+17 needs. The facility plan shall identify building and
+18 facility needs aligned with the statewide adequacy
+19 standards, actions to remediate building and facility needs
+20 including new construction, demolition as provided in this
+21 subsection, renovation, capital renewal and major building
+22 and facility repair and replacement expenditures, and any
+23 local enhancements to buildings and facilities beyond
+27 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 statewide adequacy standards. The facility plan shall
+2 include a response to each school building and facility
+3 need identified on a building-by-building, space-by-space
+4 basis. The plan shall also review, and to the extent
+5 practical, identify and prioritize nonconstruction
+6 alternatives to school building and facility needs such as
+7 building closure, modification of school boundaries,
+8 modification of school grade configurations and similar
+9 approaches. Demolition or use, lease or other methods of
+10 disposition of surplus buildings and facilities shall be
+11 incorporated as part of the district plan, including the
+12 disposition of any existing land owned by the district. The
+13 plan shall not include the abandonment or demolition of any
+14 school facility or building unless there has first been a
+15 public hearing on the issue. The plan shall also specify
+16 identified alternative methods of building disposition,
+17 proposed allocation of costs incurred or revenues resulting
+18 from disposition and allocation of disposition revenues to
+19 offset any costs paid by the department. In addition,
+20 district facility plans shall include:
+21
+22 (v) A plan for addressing district major
+23 building and facility repair and replacement needs as
+28 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 required under W.S. 21-15-109(e) and routine maintenance
+2 needs. The routine and major maintenance plan shall:
+3
+4 (A) Be designed to eliminate maintenance
+5 backlogs, establish proactive maintenance practices and
+6 ensure that school buildings and facilities and components,
+7 equipment and systems of school buildings and facilities
+8 reach their full life expectancy;
+9
+10 (B) Anticipate the funding of major
+11 building and facility repair for the components, equipment
+12 and systems of school buildings and facilities that have a
+13 life expectancy that is less than the life expectancy of
+14 the school building or facility of which the component,
+15 equipment or system is part;
+16
+17 (C) Establish requirements for maintaining
+18 routine maintenance records for school buildings and
+19 facilities and the components, equipment and systems of
+20 school buildings and facilities.
+21
+22 21-15-119. Commission budget and funding
+23 recommendations.
+29 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (a) Notwithstanding W.S. 9-2-1012, the commission
+3 shall annually, not later than September 1, develop and
+4 submit a recommended budget for projects and school capital
+5 construction financing to the governor, through the state
+6 budget department and to the select committee on school
+7 facilities. The department shall prepare and provide
+8 information as requested by the commission. The commission
+9 shall include with its recommended budget to the select
+10 committee the prioritized schedules of projects specified
+11 in W.S. 21-15-117 including the amounts allocated to each
+12 project and the annual building status report specified
+13 under W.S. 21-15-121. The recommended budget submitted by
+14 the commission shall include:
+15
+16 (i) The estimated costs and proposed funding
+17 amounts for all projects determined under W.S. 21-15-117
+18 and 21-15-118 and proposed for that budget period, together
+19 with estimated expenditures for major building and facility
+20 repair and replacement program payments under W.S.
+21 21-15-109 for the same budget period. To the extent the
+22 amount of payments under W.S. 21-15-109 for the same budget
+23 period are insufficient to repair, replace or upgrade a
+30 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 failed component, equipment or system of a school building
+2 or facility, the recommended budget may separately identify
+3 and request additional amounts necessary to repair, replace
+4 or upgrade the failed component, equipment or system.
+5 Except as otherwise provided by law, any supplemental
+6 funding appropriated in response to a budget recommendation
+7 submitted under this paragraph shall be conditioned on the
+8 school district expending amounts available in the separate
+9 account established under W.S. 21-15-109(e) on major
+10 building and facility repair and replacement, provided that
+11 a school district shall not be required to expend more than
+12 fifty percent (50%) of the projected balance of the
+13 separate account after all planned expenses for major
+14 building and facility repair are deducted;
+15
+16 21-15-123. State construction department; duties and
+17 authority relating to school facilities.
+18
+19 (f) The state construction department shall:
+20
+21 (v) Enter into or approve construction or
+22 renovation project agreements with school districts, as
+23 appropriate. Each agreement shall:
+31 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (E) Assure the state is not responsible or
+3 liable for compliance with construction or renovation
+4 project schedules or completion dates;
+5
+6 (vi) Review district proposals for the
+7 disposition or demolition of buildings and facilities made
+8 surplus by an approved construction or renovation project
+9 or by changes in school population, including allocation of
+10 resulting costs and revenues and report the proposals to
+11 the commission. Disposition shall include options for use,
+12 lease, sale and any other means of disposing of the surplus
+13 building or facility. The costs and revenues incurred by
+14 the disposition or demolition of the building or facility
+15 shall be accounted for in each district's school facility
+16 plan and considered in any building or facility remedy for
+17 that district, including the allocation of revenues
+18 resulting from the disposition of property rendered surplus
+19 to offset property demolition costs. The department shall
+20 report this review to the commission. The commission, after
+21 receiving a report of the review by the department, shall
+22 approve the proposal related to disposition or demolition
+23 submitted pursuant to this paragraph unless the commission
+32 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 determines that the proposal does not protect the financial
+2 interests of the state or is not otherwise in the public
+3 interest. Any revenues resulting from property disposition
+4 under this paragraph shall not be considered or counted
+5 under W.S. 21-13-310(a)(xiv) or (xv);
+6
+7 21-18-102. Definitions.
+8
+9 (a) As used in this act:
+10
+11 (xxiii) "Capital construction project" and
+12 "capital construction" mean as defined by W.S.
+13 9-2-3001(b)(ii);
+14
+15 (xxiv) "Capital renewal" means as defined by
+16 W.S. 9-2-3001(b)(viii);
+17
+18 (xxv) "Major maintenance" means as defined by
+19 W.S. 9-2-3001(b)(ix);
+20
+21 (xxvi) "Renovation" means as defined by W.S.
+22 9-2-3001(b)(xi);
+23
+33 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 (xxiii)(xxvii) "This act" means W.S. 21-18-101
+2 through 21-18-409.
+3
+4 21-18-202. Powers and duties of the commission.
+5
+6 (d) The commission shall perform the following
+7 approval functions:
+8
+9 (v) Approve all new capital construction
+10 projects the following expenditures in excess of two
+11 hundred fifty thousand dollars ($250,000.00) market value
+12 for which state funds are or could be eventually applied:.
+13 "New capital construction projects" include:
+14
+15 (A) New Capital construction projects,
+16 renovation and capital renewal excluding major maintenance,
+17 in excess of two hundred fifty thousand dollars
+18 ($250,000.00) market value; which is not necessary
+19 maintenance or repair;
+20
+21 (C) Previously approved and uncompleted new
+22 capital construction projects, excluding major maintenance,
+23 which have increased in total cost by ten percent (10%) or
+34 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 more since cost estimates were developed at the time of
+2 initial project approval under this paragraph and W.S.
+3 21-18-205(g).
+4
+5 21-18-225. College maintenance and capital
+6 construction funding.
+7
+8 (a) As part of its administrative functions, the
+9 community college commission shall identify community
+10 college building needs and develop a prioritized list of
+11 community college capital construction projects. The
+12 prioritized community college capital construction projects
+13 shall be reported by the commission to the state
+14 construction department in accordance with subsection (g)
+15 of this section. Following review, analysis and study, the
+16 state construction department shall forward recommendations
+17 for community college capital construction projects to the
+18 state building commission. The state construction
+19 department shall also submit major maintenance budget
+20 requests for college buildings to the legislature in
+21 accordance with this section. Major maintenance budget
+22 requests shall be based upon the square footage submitted
+23 by the commission under subsection (f) of this section and
+35 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 upon a formula adopted by the state building commission ,
+2 and upon forms and in a format specified by the state
+3 budget department to the state building commission and the
+4 joint appropriations committee a recommendation for funding
+5 community college major maintenance each biennium in
+6 preparation for the development of the state budget. This
+7 recommendation shall be based on a formula adopted by the
+8 state building commission pursuant to W.S. 9-5-107(g) and
+9 upon forms and in a format specified by the state budget
+10 department. At the end of each fiscal year, the commission
+11 shall submit a report to the state construction department
+12 on major maintenance expenditures incurred in the
+13 immediately preceding fiscal year as required by W.S.
+14 9-5-107(j). College building maintenance budget requests
+15 submitted by the state construction department to the
+16 legislature and capital construction budget requests
+17 forwarded by the state building commission to the
+18 legislature shall include only necessary building square
+19 footage:
+20
+21 (b) To carry out this section and in accordance with
+22 rules and regulations of the state building commission
+23 promulgated under W.S. 9-5-107(d) and (e) serving as
+36 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 guidelines for implementation and administration of this
+2 section, the commission shall establish and maintain:
+3
+4 (v) Requirements for community college districts
+5 to develop and implement routine maintenance schedules that
+6 are designed to eliminate maintenance backlogs, establish
+7 proactive maintenance practices and ensure that community
+8 college buildings, facilities and sites and the components,
+9 equipment and systems of community college buildings,
+10 facilities and sites reach their full life expectancy;
+11
+12 (vi) Plan for the funding of the major
+13 maintenance for the components, equipment and systems of
+14 community college buildings, facilities and sites that have
+15 a life expectancy that is less than the life expectancy of
+16 the building, facility or site of which the component,
+17 equipment or system is part;
+18
+19 (vii) Maintain records of routine maintenance
+20 for community college buildings, facilities and sites and
+21 any components, equipment and systems of community college
+22 buildings, facilities and sites.
+23
+37 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 (d) On or before November 1 of each year, the
+2 commission shall, based upon the assessment performed under
+3 subsection (c) of this section and upon facility plans and
+4 annual reports submitted by each college pursuant to W.S.
+5 21-18-304(a)(xi), prioritize community college capital
+6 construction project needs for the current fiscal year and
+7 the succeeding four (4) fiscal years based upon:
+8
+9 (e) The commission may modify capital construction
+10 project needs prioritized under subsection (d) of this
+11 section in any subsequent fiscal year as necessary to
+12 address statewide needs as substantiated by data, condition
+13 assessments, needs analysis and other information assembled
+14 by the commission under this section. Needs receiving a
+15 lower priority than previously assigned may be removed or
+16 reprioritized by the commission. Capital construction
+17 project needs modified under this subsection shall be
+18 reported to the state construction department.
+19
+20 (g) Upon prioritizing community college capital
+21 construction project needs under subsection (d) of this
+22 section, the commission shall not later than June 1 of each
+23 year, report the prioritized list to the state construction
+38 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 department. In accordance with W.S. 9-5-108(a)(ii), the
+2 state construction department shall review, analyze and
+3 study construction needs prioritized under subsection (d)
+4 of this section and conduct necessary value engineering
+5 analysis, schematic design review, safety and security
+6 assessments and other analysis and review prior to
+7 submission of recommendations to the state building
+8 commission. The state building commission shall consider
+9 and incorporate prioritized capital construction project
+10 needs recommendations into legislation requesting necessary
+11 funding, developed under W.S. 9-5-108(a)(ii)(J), for
+12 submission to the legislature for review, authorization and
+13 approval. The legislation shall also include a separate
+14 appropriation for contingency costs associated with
+15 recommended capital construction projects and a separate
+16 appropriation for administrative costs of the state
+17 construction department for management of the recommended
+18 capital construction projects as required by subsection (j)
+19 of this section. The state construction department shall
+20 submit a separate budget request for project design and
+21 planning funds to be available to assist community colleges
+22 with costs incurred in developing and providing necessary
+23 plans, designs and other information to the state
+39 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 construction department for purposes of this subsection.
+2 This request shall also include funds for major maintenance
+3 for the square footage reported by the commission under
+4 subsection (f) of this section. The state construction
+5 department shall consult with the community college
+6 commission in developing recommendations under this
+7 subsection.
+8
+9 (h) The community college commission shall provide
+10 copies of the needs assessment, capital construction
+11 project priorities and major maintenance square footage
+12 established under this section to members of the
+13 legislature on or before December 1 of each year.
+14
+15 (j) Subject to amounts made available by legislative
+16 appropriation and to any conditions which may be attached
+17 to appropriation expenditures, the state construction
+18 department shall distribute state funds for building
+19 capital construction projects approved and authorized by
+20 the legislature. Distributions of state funds for any
+21 approved and authorized capital construction project shall
+22 be in accordance with payment schedules established by rule
+23 and regulation of the department. Payments by the
+40 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 department shall be contingent upon the receipt of any
+2 local district funding as may be required by legislative
+3 authorization, or upon receipt of other documentation which
+4 may be required by the program certifying the timely
+5 receipt of required local district funds for the capital
+6 construction project. Payments to districts shall also be
+7 attached to prescribed phases of the capital construction
+8 project and the completion of certain project phases.
+9 Construction phases for which approval of the program is
+10 required shall be specified by the state construction
+11 department rule and regulation, clearly prescribing a
+12 process for program review and approval of project plans
+13 and specifications, project development and project changes
+14 and change orders. In carrying out duties under this
+15 subsection, the department may execute powers prescribed
+16 under W.S. 9-5-108(a)(iii) in coordination with the state
+17 building commission and the appropriate community college
+18 district. No scheduled payment shall be made by the
+19 department without compliance with the prescribed process.
+20
+21 21-18-319. Student dormitory capital construction
+22 loans; rulemaking; requirements; reporting; definition.
+23
+41 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1 (e) As used in this section:
+2
+3 (ii) "Capital construction" or "construction"
+4 includes new construction, demolition, renovation or
+5 capital renewal.
+6
+7 Section 3. W.S. 9-5-107(h), 21-15-109(a)(iii)(A)
+8 through (C) and 21-18-225(b)(iv) are repealed.
+9
+10 Section 4.
+11
+12 (a) The state construction department, the state
+13 building commission, the community college commission and
+14 the school facilities commission shall promulgate all rules
+15 necessary to implement this act.
+16
+17 (b) Subject to section 5 of this act, the board of
+18 trustees of the University of Wyoming shall promulgate all
+19 regulations necessary to implement this act.
+20
+21 Section 5. This act shall not apply to the University
+22 of Wyoming student housing project, law school project, war
+23 memorial west stands project or aquatics center project.
+42 HB0086
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 Section 6.
+3
+4 (a) Except as provided in subsection (b) of this
+5 section, this act is effective July 1, 2025.
+6
+7 (b) Sections 4 through 6 of this act are effective
+8 immediately upon completion of all acts necessary for a
+9 bill to become law as provided by Article 4, Section 8 of
+10 the Wyoming Constitution.
+11
+12 (END)
+43 HB0086
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0064
+HOUSE BILL NO. HB0086
+Public property and buildings-amendments.
+Sponsored by: Joint Appropriations Committee
+A BILL
+for
+1 AN ACT relating to public property and buildings; amending
+2 and creating provisions related to budgeting, planning and
+3 reporting for capital construction projects, major
+4 maintenance and routine maintenance for public buildings,
+5 facilities and sites; conforming and repealing definitions;
+6 amending requirements for contracting for public works;
+7 specifying duties related to capital construction projects,
+8 major maintenance and routine maintenance for the state
+9 construction department, the state building commission, the
+10 school districts, the board of trustees of the University
+11 of Wyoming and the community college commission; repealing
+12 major maintenance funding requirements; requiring reports;
+13 requiring rulemaking; specifying applicability; and
+14 providing for effective dates.
+15
+16 Be It Enacted by the Legislature of the State of Wyoming:
+1 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 Section 1. W.S. 21-17-208 is created to read:
+3
+4 21-17-208. University property maintenance and
+5 capital construction.
+6
+7 (a) As used in this section:
+8
+9 (i) "Capital construction project" means as
+10 defined by W.S. 9-2-3001(b)(ii);
+11
+12 (ii) "Major maintenance" means as defined by
+13 W.S. 9-2-3001(b)(ix);
+14
+15 (iii) "Property" means as defined by W.S.
+16 9-2-3001(b)(x);
+17
+18 (iv) "Routine maintenance" means as defined by
+19 W.S. 9-2-3001(b)(xii).
+20
+21 (b) As part of its administrative functions, the
+22 board of trustees shall identify University of Wyoming
+23 property needs and develop a prioritized list of capital
+2 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 construction projects. The prioritized capital construction
+2 projects shall be reported by the board to the state
+3 construction department not later than June 1 of each year.
+4 Following review, analysis and study, the state
+5 construction department shall forward the prioritized list
+6 of university capital construction projects to the state
+7 building commission.
+8
+9 (c) The state construction department shall submit to
+10 the state building commission a recommendation for funding
+11 university major maintenance each biennium in preparation
+12 for the development of the state budget. This
+13 recommendation for major maintenance shall be based on a
+14 formula adopted by the state building commission pursuant
+15 to W.S. 9-5-107(g) and upon forms and in a format specified
+16 by the state budget department. At the end of each fiscal
+17 year, the board of trustees shall submit a report to the
+18 state construction department on major maintenance
+19 expenditures and commitments incurred in the immediately
+20 preceding fiscal year as required by W.S. 9-5-107(j).
+21
+22 (d) With respect to University of Wyoming
+23 property, the board of trustees shall:
+3 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (i) Develop and implement schedules for routine
+3 maintenance that are designed to eliminate maintenance
+4 backlogs, establish proactive maintenance practices and
+5 ensure that university property and the components,
+6 equipment and systems of university property reach their
+7 full life expectancy;
+8
+9 (ii) Plan for the funding of major maintenance
+10 for the components, equipment and systems of university
+11 property that have a life expectancy that is less than the
+12 life expectancy of university property of which the
+13 component, equipment or system is part;
+14
+15 (iii) Maintain records of routine maintenance
+16 for university property and the components, equipment and
+17 systems of university property.
+18
+19 Section 2. W.S. 9-2-3001(b)(ii) and by creating new
+20 paragraphs (viii) through (xii), 9-2-3004(c)(i), (vi) and
+21 by creating new paragraphs (x) through (xii), 9-2-3202(a)
+22 by creating a new paragraph (xi), 9-4-207(d)(intro) and by
+23 creating a new paragraph (iv), 9-5-107(d)(intro), (iii), by
+4 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 creating new paragraphs (v) and (vi), (g)(intro), (i) and
+2 by creating new subsections (j) through (m),
+3 16-6-101(a)(v), 16-6-102(a) and by creating a new
+4 subsection (g), 16-6-401(a)(intro) and (ix),
+5 16-6-1001(f)(i), 21-15-108(b), 21-15-109(a)(iii)(intro),
+6 (iv), (vi), (viii) and (e), 21-15-111(a)(iii) through (v)
+7 and by creating new paragraphs (x) and (xi),
+8 21-15-116(a)(intro) and (v), 21-15-119(a)(i),
+9 21-15-123(f)(v)(intro), (E) and (vi), 21-18-102(a) by
+10 creating new paragraphs (xxiii) through (xxvi) and by
+11 renumbering (xxiii) as (xxvii), 21-18-202(d)(v)(intro), (A)
+12 and (C), 21-18-225(a)(intro), (b) by creating new
+13 paragraphs (v) through (vii), (d)(intro), (e), (g), (h) and
+14 (j) and 21-18-319(e)(ii) are amended to read:
+15
+16 9-2-3001. State construction department created;
+17 definitions.
+18
+19 (b) As used in this article:
+20
+21 (ii) "Capital construction project" means new
+22 construction, demolition, renovation, and capital renewal
+23 and major maintenance of or to any public building or
+5 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 facility and any other public improvement necessary for the
+2 public building or facility, major maintenance as defined
+3 in W.S. 16-6-101(a)(v) and major building and facility
+4 repair and replacement as defined in W.S. 21-15-109(a)(iii)
+5 property;
+6
+7 (viii) "Capital renewal" means capital
+8 construction infrastructure upgrades and replacement
+9 projects to systems external to a building or facility that
+10 are necessary for the continued functionality of a building
+11 or facility. "Capital renewal" includes projects that do
+12 not qualify as new construction and for which the costs
+13 exceed amounts typically appropriated or expended on major
+14 maintenance for a property such as water projects, sewer
+15 projects, electrical projects and other major
+16 infrastructure projects external to a building or facility
+17 that impact the life, health and safety of occupants in a
+18 building or facility;
+19
+20 (ix) "Major building and facility repair and
+21 replacement" and "major maintenance" mean the repair,
+22 replacement or upgrade of complete or major portions of any
+23 component, equipment or system of a property at irregular
+6 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 intervals that is required to continue the use of the
+2 property at its designed capacity for its designed intended
+3 use and is typically accomplished by contractors due to the
+4 personnel demand to accomplish the work in a timely manner,
+5 the level of sophistication of the work or the need for
+6 warranted work. The terms include, but are not limited to,
+7 the following categories as hereafter defined:
+8
+9 (A) "Code compliance" means the repair,
+10 replacement or upgrade of a component, equipment or system
+11 of a property that is mandated by law, regulation or code
+12 to continue the use of the property at its designed
+13 capacity for its designed intended use;
+14
+15 (B) "Site improvements" means the repair,
+16 replacement or upgrade of a component, equipment or system
+17 of a site, including the repair, replacement or upgrade of
+18 any of the following:
+19
+20 (I) Sidewalks;
+21
+22 (II) Parking lots;
+23
+7 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 (III) Athletic tracks;
+2
+3 (IV) Playground features;
+4
+5 (V) Outdoor security features;
+6
+7 (VI) Landscaping;
+8
+9 (VII) Drainage systems;
+10
+11 (VIII) Campus roads or streets;
+12
+13 (IX) Components, equipment or systems
+14 similar to those specified in subdivisions (I) through
+15 (VIII) of this subparagraph.
+16
+17 (C) "System improvements" means the repair,
+18 replacement or upgrade of a component, equipment or system
+19 of a building or facility, including any of the following:
+20
+21 (I) Structural systems;
+22
+23 (II) Fire protection systems;
+8 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (III) Indoor security features;
+3
+4 (IV) Electrical, lighting, plumbing,
+5 heating, ventilation or air conditioning systems;
+6
+7 (V) Roofs;
+8
+9 (VI) Windows and doors;
+10
+11 (VII) Conveyance systems, including
+12 elevators and escalators;
+13
+14 (VIII) Information technology systems;
+15
+16 (IX) Components, equipment or systems
+17 similar to those specified in subdivisions (I) through
+18 (VIII) of this subparagraph.
+19
+20 (x) "Property" means a building, facility or
+21 site;
+22
+9 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 (xi) "Renovation" means work done to restore
+2 property to a condition that is functional for its original
+3 or designed intended use and capacity, to modernize or
+4 adapt property to an approved new use and capacity or for
+5 the purpose of making it code compliant, including
+6 architectural and structural changes and the modernization
+7 of mechanical and electrical systems. "Renovation" includes
+8 the repair, strengthening or restoration of major building
+9 systems or structures to a safe condition. "Renovation"
+10 does not include work that consists primarily of routine
+11 maintenance, minor repairs and replacement due to normal
+12 use, wear and tear or deterioration;
+13
+14 (xii) "Routine maintenance" means activities
+15 necessary to keep a property and the components, equipment
+16 and systems of a property in safe and good working order so
+17 that the property may be used at its original or designed
+18 capacity for its original or designed intended use.
+19 "Routine maintenance" includes custodial, groundskeeping
+20 and maintenance tasks done on a routine basis by building
+21 personnel and specialized equipment and building system
+22 maintenance that is accomplished on a routine basis by
+23 contractors.
+10 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 9-2-3004. Duties of the department.
+3
+4 (c) The department shall:
+5
+6 (i) Review and make recommendations to the
+7 governor concerning capital construction project and land
+8 acquisition budget requests made by the state building
+9 commission, school facilities commission, the University of
+10 Wyoming, community college commission and any agency;
+11
+12 (vi) Plan for all capital construction projects
+13 in accordance with the provisions of W.S. 9-5-107, 9-5-108
+14 and rules, procedures and criteria adopted pursuant to
+15 those sections;
+16
+17 (x) Not later than September 1 of each odd
+18 numbered year, submit to the state building commission a
+19 recommendation for funding for the immediately succeeding
+20 fiscal biennium for major maintenance for state property,
+21 community college property and University of Wyoming
+22 property. This recommendation shall be based on the formula
+11 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 adopted by the state building commission pursuant to W.S.
+2 9-5-107(g);
+3
+4 (xi) Review and approve any renovation that
+5 changes the intended capacity or designed intended use of a
+6 property that receives appropriations for major
+7 maintenance;
+8
+9 (xii) Develop and maintain a twenty (20) year
+10 statewide strategic facility plan and comprehensive system
+11 for monitoring and reporting appropriations and
+12 expenditures for capital construction projects and routine
+13 maintenance for state property, community college property
+14 and University of Wyoming property.
+15
+16 9-2-3202. Definitions; powers generally; duties of
+17 governor; provisions construed; cooperation with
+18 legislature and judiciary; divisions enumerated.
+19
+20 (a) As used in this act:
+21
+22 (xi) "Routine maintenance" means as defined by
+23 W.S. 9-2-3001(b)(xii).
+12 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 9-4-207. Disposition of unexpended appropriations.
+3
+4 (d) Appropriations for the purposes specified in this
+5 subsection shall be excluded from reverting pursuant to
+6 subsections (a) through (c) of this section.
+7 Appropriations which that do not revert pursuant to this
+8 subsection shall be expended only on the projects for which
+9 the funds were appropriated or as authorized by paragraph
+10 (iv) of this subsection. Funds subject to this subsection
+11 are appropriations:
+12
+13 (iv) For major maintenance as defined by W.S.
+14 9-2-3001(b)(ix) for state property, community college
+15 property and University of Wyoming property. Appropriations
+16 subject to this paragraph that do not revert may be
+17 expended on any expenses incurred for major maintenance as
+18 defined by W.S. 9-2-3001(b)(ix).
+19
+20 9-5-107. Duties and responsibilities with respect to
+21 state property; state capital construction needs assessment
+22 and priorities; neglected routine maintenance; supplemental
+23 major maintenance funding.
+13 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (d) The state building commission shall adopt rules
+3 implementing policies for the management of state buildings
+4 property. The rules shall establish:
+5
+6 (iii) Requirements for planned development and
+7 implementation of routine maintenance schedules designed to
+8 eliminate maintenance backlogs, and to establish proactive
+9 maintenance practices and ensure that state property and
+10 the components, equipment and systems of state property
+11 reach their full life expectancy;
+12
+13 (v) Requirements for planning for the funding of
+14 major maintenance for the components, equipment and systems
+15 of state property that have a life expectancy that is less
+16 than the life expectancy of the state property of which the
+17 component, equipment or system is part;
+18
+19 (vi) Requirements for maintaining records of
+20 routine maintenance for state property and the components,
+21 equipment and systems of state property.
+22
+14 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 (g) The state building commission shall adopt a
+2 formula for major building and facility repair and
+3 replacement for maintenance for state property, community
+4 college facilities property and University of Wyoming
+5 property. The formula shall:
+6
+7 (i) Be based on the gross square footage of
+8 buildings and facilities for not more than seven (7)
+9 categories of buildings each for state property, community
+10 college property and University of Wyoming property and
+11 shall:
+12
+13 (A) For community college property, include
+14 only buildings providing education programs comprising the
+15 statewide college system strategic plan developed and
+16 maintained under W.S. 21-18-202(a)(v);
+17
+18 (B) Specifically exclude student housing,
+19 student unions and auxiliary services areas funded
+20 exclusively through university or community college
+21 generated revenues unless otherwise specified by law.
+22
+15 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 (j) At the end of each fiscal year, the state
+2 construction department, any agency responsible for the
+3 operation and management of a state property, the community
+4 college commission and the University of Wyoming shall
+5 report to the state building commission on the expenditures
+6 and commitments made from any funds appropriated for major
+7 maintenance.
+8
+9 (k) To the extent the amount of funds appropriated in
+10 any fiscal biennium pursuant to the formula adopted by the
+11 state building commission under subsection (g) of this
+12 section for major maintenance are insufficient to repair,
+13 replace or upgrade a failed component, equipment or system
+14 of a property, the state building commission, the community
+15 college commission, any agency and the University of
+16 Wyoming may separately identify and request in its capital
+17 construction budget request submitted to the governor the
+18 additional amount necessary for the major maintenance. Any
+19 supplemental funding appropriated in response to a budget
+20 request submitted under this subsection shall be
+21 conditioned on the requesting entity expending all funds
+22 appropriated in the fiscal biennium for major maintenance
+16 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 on the failed component, equipment or a system, except as
+2 otherwise provided by law.
+3
+4 (m) As used in this section:
+5
+6 (i) "Major maintenance" means as defined by W.S.
+7 9-2-3001(b)(ix);
+8
+9 (ii) "Property" means as defined by W.S.
+10 9-2-3001(b)(x);
+11
+12 (iii) "Routine maintenance" means as defined by
+13 W.S. 9-2-3001(b)(xii).
+14
+15 16-6-101. Definitions.
+16
+17 (a) As used in this act:
+18
+19 (v) "Major maintenance" means the repair or
+20 replacement of complete or major portions of building and
+21 facility systems at irregular intervals which is required
+22 to continue the use of the building or facility at its
+23 original capacity for its original intended use and is
+17 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 typically accomplished by contractors due to the personnel
+2 demand to accomplish the work in a timely manner, the level
+3 of sophistication of the work or the need for warranted
+4 work as defined by W.S. 9-2-3001(b)(ix);
+5
+6 16-6-102. Resident contractors; preference limitation
+7 with reference to lowest bid or qualified response;
+8 decertification; denial of application for residency.
+9
+10 (a) If a contract is let by a public entity for a
+11 public work, the contract shall be let, if advertisement
+12 for bids or request for proposal is not required, to a
+13 resident of the state, provided that if the services
+14 required are not offered by any known resident of the
+15 state, the public entity may let the contract to a
+16 nonresident. If advertisement for bids is required, the
+17 contract shall be let to the responsible certified resident
+18 making the lowest bid if the certified resident's bid is
+19 not more than five percent (5%) higher than that of the
+20 lowest responsible nonresident bidder.
+21
+22 (g) Whenever an emergency arises requiring a contract
+23 for a public work, a public entity may waive any applicable
+18 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 requirement of this section if the requirement endangers
+2 the health, welfare or safety of the public.
+3
+4 16-6-401. Definitions.
+5
+6 (a) As used in W.S. 16-6-401 through 16-6-403 this
+7 article:
+8
+9 (ix) "Renovation" means revision to a major
+10 facility which will affect more than fifty percent (50%) of
+11 the gross floor area in the building as defined by W.S.
+12 9-2-3001(b)(xi).
+13
+14 16-6-1001. Capital construction projects
+15 restrictions; preference requirements; waivers.
+16
+17 (f) As used in this section:
+18
+19 (i) "Capital construction project" means new
+20 construction, demolition, renovation and capital renewal of
+21 or to any public building or facility and any other public
+22 improvement necessary for the public building or facility,
+23 major maintenance as defined in by W.S. 16-6-101(a)(v) and
+19 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 major building and facility repair and replacement as
+2 defined in W.S. 21-15-109(a)(iii) 9-2-3001(b)(ii);
+3
+4 21-15-108. Revenue bonds for grants and loans;
+5 refunding revenue bonds.
+6
+7 (b) The school facilities commission may borrow money
+8 in a principal amount not to exceed one hundred million
+9 dollars ($100,000,000.00) by the issuance from time to time
+10 of one (1) or more series of revenue bonds. The commission
+11 may encumber revenues under subsection (a) of this section
+12 for bonds in total amounts not to exceed one hundred
+13 million dollars ($100,000,000.00) issued for school capital
+14 construction projects and assistance as determined by the
+15 commission and approved by the legislature under W.S.
+16 21-15-119. Any bonds issued under this section, together
+17 with any interest accruing thereon and any prior redemption
+18 premiums due in connection therewith, are payable and
+19 collectible solely out of revenues authorized under this
+20 section. The bondholders may not look to any general or
+21 other fund for payment of the bonds except the revenues
+22 pledged therefore. The bonds shall not constitute an
+23 indebtedness or a debt within the meaning of any
+20 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 constitutional or statutory provision or limitation. The
+2 bonds shall not be considered or held to be general
+3 obligations of the state but shall constitute its special
+4 obligations and the commission shall not pledge the state's
+5 full faith and credit for payment of the bonds.
+6
+7 21-15-109. Major building and facility repair and
+8 replacement payments; computation; square footage
+9 allowance; use of payment funds; accounting and reporting
+10 requirements; neglected routine maintenance.
+11
+12 (a) As used in this act:
+13
+14 (iii) "Major building and facility repair and
+15 replacement" means the repair or replacement of complete or
+16 major portions of and "major maintenance" mean as defined
+17 by W.S. 9-2-3001(b)(ix) for school building and facility
+18 systems, at irregular intervals which is required to
+19 continue the use of the building or facility at its
+20 original capacity for its original intended use and is
+21 typically accomplished by contractors due to the personnel
+22 demand to accomplish the work in a timely manner, the level
+23 of sophistication of the work or the need for warranted
+21 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 work. The term includes the following categories as
+2 hereafter defined:
+3
+4 (iv) "Office building" means a school building
+5 or facility primarily used in connection with or for the
+6 purpose of district administrative functions, the major
+7 purpose or use of which is not dedicated to the provision
+8 of educational programs offered by the district in
+9 accordance with law;. "Office building" shall include
+10 maintenance facilities and storage buildings in which
+11 supplies are stored;
+12
+13 (vi) "Routine maintenance" and repair" means
+14 activities necessary to keep a school building or facility
+15 in safe and good working order so that it may be used at
+16 its original or designed capacity for its originally
+17 intended purposes, including janitorial, grounds keeping
+18 and maintenance tasks done on a routine basis and typically
+19 accomplished by district personnel with exceptions for any
+20 routine tasks accomplished by contractors such as elevator
+21 or other specialized equipment or building system
+22 maintenance as defined by W.S. 9‑2‑3001(b)(xii) for school
+23 buildings and facilities;
+22 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (viii) "Warehouse building" means a school
+3 building or facility primarily used for storage of
+4 equipment, materials and other district property and
+5 supplies, including facilities in which school buses and
+6 school equipment are stored, maintained or serviced.
+7
+8 (e) Amounts distributed under subsection (b) of this
+9 section shall be deposited by the recipient district into a
+10 separate account, the balance of which may accumulate from
+11 year-to-year. Except as specified under subsection (f) of
+12 this section, expenditures from the separate account,
+13 including any interest earnings on the account, shall be
+14 restricted to expenses incurred for major building and
+15 facility repair and replacement as defined in subsection
+16 (a) of this section and shall be in accordance with the
+17 district's facility plan under W.S. 21-15-116. Account
+18 expenditures may include the expenses of district personnel
+19 performing work described under paragraph (a)(iii) of this
+20 section if approved by the department and if documented
+21 within the district's facility plan. The district's
+22 facility plan shall clearly specify proposed major
+23 maintenance expenditures for addressing district major
+23 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 building and facility repair and replacement needs on a
+2 building-by-building basis, updated for the applicable
+3 reporting period, which shall be aligned to the statewide
+4 adequacy standards and prioritized based upon the impact of
+5 the building or facility on the district's ability to
+6 deliver the required educational program. The district
+7 shall include plans for maintaining any district building
+8 or facility which is under a lease agreement, specifying
+9 lease revenues available to the district for maintenance of
+10 facilities to the level required by statewide adequacy
+11 standards. No expenditures shall be made from the separate
+12 account unless the repair or replacement of the building or
+13 facility systems for which the expenditure is to be made is
+14 clearly specified within the district's facility plan or
+15 otherwise approved by the department. In a manner and form
+16 required by commission rule and regulation, each district
+17 shall annually report to the department on the expenditures
+18 made from the separate account during the applicable
+19 reporting period, separating account expenditures on a
+20 building-by-building basis. The department shall annually
+21 review account expenditures. and The department shall,
+22 report expenditures to in consultation with each respective
+23 school district, provide a report to the commission, and
+24 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 the select committee on school facilities established under
+2 W.S. 28-11-301 and the joint appropriations committee on
+3 major maintenance expenditures. The department shall
+4 compile reported building-by-building expenditure
+5 information for each district and the district facility
+6 plan and include this information in its annual report to
+7 the select committee pursuant to W.S. 21-15-121. If any
+8 district expends funds within the separate account for
+9 purposes not authorized by this subsection or by rule and
+10 regulation of the commission, the payments for that
+11 district shall be reduced by the amount of the unauthorized
+12 expenditure in the school year following the year in which
+13 the expenditure was discovered or the school year in which
+14 notification was provided by the department, whichever
+15 first occurs.
+16
+17 21-15-111. Definitions.
+18
+19 (a) As used in this act, unless the context requires
+20 otherwise:
+21
+22 (iii) "Local enhancements to school buildings
+23 and facilities" or "local enhancements" means any
+25 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 renovation, capital renewal, construction, replacement,
+2 repair or other improvement of or to any school building or
+3 facility initiated by a school district which is designed
+4 to bring the building or facility to a condition exceeding
+5 the statewide building adequacy standards and the
+6 commission's facility design standards and guidelines;
+7
+8 (iv) "Project" means replacement, renovation,
+9 capital renewal or new construction projects which that
+10 increase the value of the school building or facility by
+11 improving the functioning of the building or facility or
+12 the capacity of the building or facility, or both,
+13 excluding major building and facility repair and
+14 replacement as defined under by W.S. 21-15-109(a)(iii)
+15 9-2-3001(b)(ix), and routine maintenance and repair as
+16 defined under by W.S. 21-15-109(a)(vi) 9-2-3001(b)(xii);
+17
+18 (v) "Remedy" or "remediation" means a course of
+19 action addressing identified building and facility needs in
+20 accordance with statewide adequacy standards developed
+21 under this act, consisting of building or facility
+22 construction, replacement, renovation, capital renewal,
+23 repair or any combination thereof;
+26 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (x) "Capital renewal" means as defined by W.S.
+3 9-2-3001(b)(viii) for school buildings and facilities;
+4
+5 (xi) "Renovation" means as defined by W.S.
+6 9-2-3001(b)(xi) for school buildings and facilities.
+7
+8 21-15-116. School district facility plans;
+9 development, review and approval; plan criteria;
+10 administrative review; collaborative committee process.
+11
+12 (a) In accordance with rules and regulations of the
+13 commission, long range comprehensive school building and
+14 facility plans for each school district shall be developed
+15 by the department in coordination with the applicable
+16 district, which address district wide building and facility
+17 needs. The facility plan shall identify building and
+18 facility needs aligned with the statewide adequacy
+19 standards, actions to remediate building and facility needs
+20 including new construction, demolition as provided in this
+21 subsection, renovation, capital renewal and major building
+22 and facility repair and replacement expenditures, and any
+23 local enhancements to buildings and facilities beyond
+27 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 statewide adequacy standards. The facility plan shall
+2 include a response to each school building and facility
+3 need identified on a building-by-building, space-by-space
+4 basis. The plan shall also review, and to the extent
+5 practical, identify and prioritize nonconstruction
+6 alternatives to school building and facility needs such as
+7 building closure, modification of school boundaries,
+8 modification of school grade configurations and similar
+9 approaches. Demolition or use, lease or other methods of
+10 disposition of surplus buildings and facilities shall be
+11 incorporated as part of the district plan, including the
+12 disposition of any existing land owned by the district. The
+13 plan shall not include the abandonment or demolition of any
+14 school facility or building unless there has first been a
+15 public hearing on the issue. The plan shall also specify
+16 identified alternative methods of building disposition,
+17 proposed allocation of costs incurred or revenues resulting
+18 from disposition and allocation of disposition revenues to
+19 offset any costs paid by the department. In addition,
+20 district facility plans shall include:
+21
+22 (v) A plan for addressing district major
+23 building and facility repair and replacement needs as
+28 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 required under W.S. 21-15-109(e) and routine maintenance
+2 needs. The routine and major maintenance plan shall:
+3
+4 (A) Be designed to eliminate maintenance
+5 backlogs, establish proactive maintenance practices and
+6 ensure that school buildings and facilities and components,
+7 equipment and systems of school buildings and facilities
+8 reach their full life expectancy;
+9
+10 (B) Anticipate the funding of major
+11 building and facility repair for the components, equipment
+12 and systems of school buildings and facilities that have a
+13 life expectancy that is less than the life expectancy of
+14 the school building or facility of which the component,
+15 equipment or system is part;
+16
+17 (C) Establish requirements for maintaining
+18 routine maintenance records for school buildings and
+19 facilities and the components, equipment and systems of
+20 school buildings and facilities.
+21
+22 21-15-119. Commission budget and funding
+23 recommendations.
+29 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (a) Notwithstanding W.S. 9-2-1012, the commission
+3 shall annually, not later than September 1, develop and
+4 submit a recommended budget for projects and school capital
+5 construction financing to the governor, through the state
+6 budget department and to the select committee on school
+7 facilities. The department shall prepare and provide
+8 information as requested by the commission. The commission
+9 shall include with its recommended budget to the select
+10 committee the prioritized schedules of projects specified
+11 in W.S. 21-15-117 including the amounts allocated to each
+12 project and the annual building status report specified
+13 under W.S. 21-15-121. The recommended budget submitted by
+14 the commission shall include:
+15
+16 (i) The estimated costs and proposed funding
+17 amounts for all projects determined under W.S. 21-15-117
+18 and 21-15-118 and proposed for that budget period, together
+19 with estimated expenditures for major building and facility
+20 repair and replacement program payments under W.S.
+21 21-15-109 for the same budget period. To the extent the
+22 amount of payments under W.S. 21-15-109 for the same budget
+23 period are insufficient to repair, replace or upgrade a
+30 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 failed component, equipment or system of a school building
+2 or facility, the recommended budget may separately identify
+3 and request additional amounts necessary to repair, replace
+4 or upgrade the failed component, equipment or system.
+5 Except as otherwise provided by law, any supplemental
+6 funding appropriated in response to a budget recommendation
+7 submitted under this paragraph shall be conditioned on the
+8 school district expending amounts available in the separate
+9 account established under W.S. 21-15-109(e) on major
+10 building and facility repair and replacement, provided that
+11 a school district shall not be required to expend more than
+12 fifty percent (50%) of the projected balance of the
+13 separate account after all planned expenses for major
+14 building and facility repair are deducted;
+15
+16 21-15-123. State construction department; duties and
+17 authority relating to school facilities.
+18
+19 (f) The state construction department shall:
+20
+21 (v) Enter into or approve construction or
+22 renovation project agreements with school districts, as
+23 appropriate. Each agreement shall:
+31 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 (E) Assure the state is not responsible or
+3 liable for compliance with construction or renovation
+4 project schedules or completion dates;
+5
+6 (vi) Review district proposals for the
+7 disposition or demolition of buildings and facilities made
+8 surplus by an approved construction or renovation project
+9 or by changes in school population, including allocation of
+10 resulting costs and revenues and report the proposals to
+11 the commission. Disposition shall include options for use,
+12 lease, sale and any other means of disposing of the surplus
+13 building or facility. The costs and revenues incurred by
+14 the disposition or demolition of the building or facility
+15 shall be accounted for in each district's school facility
+16 plan and considered in any building or facility remedy for
+17 that district, including the allocation of revenues
+18 resulting from the disposition of property rendered surplus
+19 to offset property demolition costs. The department shall
+20 report this review to the commission. The commission, after
+21 receiving a report of the review by the department, shall
+22 approve the proposal related to disposition or demolition
+23 submitted pursuant to this paragraph unless the commission
+32 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 determines that the proposal does not protect the financial
+2 interests of the state or is not otherwise in the public
+3 interest. Any revenues resulting from property disposition
+4 under this paragraph shall not be considered or counted
+5 under W.S. 21-13-310(a)(xiv) or (xv);
+6
+7 21-18-102. Definitions.
+8
+9 (a) As used in this act:
+10
+11 (xxiii) "Capital construction project" and
+12 "capital construction" mean as defined by W.S.
+13 9-2-3001(b)(ii);
+14
+15 (xxiv) "Capital renewal" means as defined by
+16 W.S. 9-2-3001(b)(viii);
+17
+18 (xxv) "Major maintenance" means as defined by
+19 W.S. 9-2-3001(b)(ix);
+20
+21 (xxvi) "Renovation" means as defined by W.S.
+22 9-2-3001(b)(xi);
+23
+33 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 (xxiii)(xxvii) "This act" means W.S. 21-18-101
+2 through 21-18-409.
+3
+4 21-18-202. Powers and duties of the commission.
+5
+6 (d) The commission shall perform the following
+7 approval functions:
+8
+9 (v) Approve all new capital construction
+10 projects the following expenditures in excess of two
+11 hundred fifty thousand dollars ($250,000.00) market value
+12 for which state funds are or could be eventually applied:.
+13 "New capital construction projects" include:
+14
+15 (A) New Capital construction projects,
+16 renovation and capital renewal excluding major maintenance,
+17 in excess of two hundred fifty thousand dollars
+18 ($250,000.00) market value; which is not necessary
+19 maintenance or repair;
+20
+21 (C) Previously approved and uncompleted new
+22 capital construction projects, excluding major maintenance,
+23 which have increased in total cost by ten percent (10%) or
+34 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 more since cost estimates were developed at the time of
+2 initial project approval under this paragraph and W.S.
+3 21-18-205(g).
+4
+5 21-18-225. College maintenance and capital
+6 construction funding.
+7
+8 (a) As part of its administrative functions, the
+9 community college commission shall identify community
+10 college building needs and develop a prioritized list of
+11 community college capital construction projects. The
+12 prioritized community college capital construction projects
+13 shall be reported by the commission to the state
+14 construction department in accordance with subsection (g)
+15 of this section. Following review, analysis and study, the
+16 state construction department shall forward recommendations
+17 for community college capital construction projects to the
+18 state building commission. The state construction
+19 department shall also submit major maintenance budget
+20 requests for college buildings to the legislature in
+21 accordance with this section. Major maintenance budget
+22 requests shall be based upon the square footage submitted
+23 by the commission under subsection (f) of this section and
+35 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 upon a formula adopted by the state building commission ,
+2 and upon forms and in a format specified by the state
+3 budget department to the state building commission and the
+4 joint appropriations committee a recommendation for funding
+5 community college major maintenance each biennium in
+6 preparation for the development of the state budget. This
+7 recommendation shall be based on a formula adopted by the
+8 state building commission pursuant to W.S. 9-5-107(g) and
+9 upon forms and in a format specified by the state budget
+10 department. At the end of each fiscal year, the commission
+11 shall submit a report to the state construction department
+12 on major maintenance expenditures incurred in the
+13 immediately preceding fiscal year as required by W.S.
+14 9-5-107(j). College building maintenance budget requests
+15 submitted by the state construction department to the
+16 legislature and capital construction budget requests
+17 forwarded by the state building commission to the
+18 legislature shall include only necessary building square
+19 footage:
+20
+21 (b) To carry out this section and in accordance with
+22 rules and regulations of the state building commission
+23 promulgated under W.S. 9-5-107(d) and (e) serving as
+36 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 guidelines for implementation and administration of this
+2 section, the commission shall establish and maintain:
+3
+4 (v) Requirements for community college districts
+5 to develop and implement routine maintenance schedules that
+6 are designed to eliminate maintenance backlogs, establish
+7 proactive maintenance practices and ensure that community
+8 college buildings, facilities and sites and the components,
+9 equipment and systems of community college buildings,
+10 facilities and sites reach their full life expectancy;
+11
+12 (vi) Plan for the funding of the major
+13 maintenance for the components, equipment and systems of
+14 community college buildings, facilities and sites that have
+15 a life expectancy that is less than the life expectancy of
+16 the building, facility or site of which the component,
+17 equipment or system is part;
+18
+19 (vii) Maintain records of routine maintenance
+20 for community college buildings, facilities and sites and
+21 any components, equipment and systems of community college
+22 buildings, facilities and sites.
+23
+37 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 (d) On or before November 1 of each year, the
+2 commission shall, based upon the assessment performed under
+3 subsection (c) of this section and upon facility plans and
+4 annual reports submitted by each college pursuant to W.S.
+5 21-18-304(a)(xi), prioritize community college capital
+6 construction project needs for the current fiscal year and
+7 the succeeding four (4) fiscal years based upon:
+8
+9 (e) The commission may modify capital construction
+10 project needs prioritized under subsection (d) of this
+11 section in any subsequent fiscal year as necessary to
+12 address statewide needs as substantiated by data, condition
+13 assessments, needs analysis and other information assembled
+14 by the commission under this section. Needs receiving a
+15 lower priority than previously assigned may be removed or
+16 reprioritized by the commission. Capital construction
+17 project needs modified under this subsection shall be
+18 reported to the state construction department.
+19
+20 (g) Upon prioritizing community college capital
+21 construction project needs under subsection (d) of this
+22 section, the commission shall not later than June 1 of each
+23 year, report the prioritized list to the state construction
+38 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 department. In accordance with W.S. 9-5-108(a)(ii), the
+2 state construction department shall review, analyze and
+3 study construction needs prioritized under subsection (d)
+4 of this section and conduct necessary value engineering
+5 analysis, schematic design review, safety and security
+6 assessments and other analysis and review prior to
+7 submission of recommendations to the state building
+8 commission. The state building commission shall consider
+9 and incorporate prioritized capital construction project
+10 needs recommendations into legislation requesting necessary
+11 funding, developed under W.S. 9-5-108(a)(ii)(J), for
+12 submission to the legislature for review, authorization and
+13 approval. The legislation shall also include a separate
+14 appropriation for contingency costs associated with
+15 recommended capital construction projects and a separate
+16 appropriation for administrative costs of the state
+17 construction department for management of the recommended
+18 capital construction projects as required by subsection (j)
+19 of this section. The state construction department shall
+20 submit a separate budget request for project design and
+21 planning funds to be available to assist community colleges
+22 with costs incurred in developing and providing necessary
+23 plans, designs and other information to the state
+39 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 construction department for purposes of this subsection.
+2 This request shall also include funds for major maintenance
+3 for the square footage reported by the commission under
+4 subsection (f) of this section. The state construction
+5 department shall consult with the community college
+6 commission in developing recommendations under this
+7 subsection.
+8
+9 (h) The community college commission shall provide
+10 copies of the needs assessment, capital construction
+11 project priorities and major maintenance square footage
+12 established under this section to members of the
+13 legislature on or before December 1 of each year.
+14
+15 (j) Subject to amounts made available by legislative
+16 appropriation and to any conditions which may be attached
+17 to appropriation expenditures, the state construction
+18 department shall distribute state funds for building
+19 capital construction projects approved and authorized by
+20 the legislature. Distributions of state funds for any
+21 approved and authorized capital construction project shall
+22 be in accordance with payment schedules established by rule
+23 and regulation of the department. Payments by the
+40 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 department shall be contingent upon the receipt of any
+2 local district funding as may be required by legislative
+3 authorization, or upon receipt of other documentation which
+4 may be required by the program certifying the timely
+5 receipt of required local district funds for the capital
+6 construction project. Payments to districts shall also be
+7 attached to prescribed phases of the capital construction
+8 project and the completion of certain project phases.
+9 Construction phases for which approval of the program is
+10 required shall be specified by the state construction
+11 department rule and regulation, clearly prescribing a
+12 process for program review and approval of project plans
+13 and specifications, project development and project changes
+14 and change orders. In carrying out duties under this
+15 subsection, the department may execute powers prescribed
+16 under W.S. 9-5-108(a)(iii) in coordination with the state
+17 building commission and the appropriate community college
+18 district. No scheduled payment shall be made by the
+19 department without compliance with the prescribed process.
+20
+21 21-18-319. Student dormitory capital construction
+22 loans; rulemaking; requirements; reporting; definition.
+23
+41 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1 (e) As used in this section:
+2
+3 (ii) "Capital construction" or "construction"
+4 includes new construction, demolition, renovation or
+5 capital renewal.
+6
+7 Section 3. W.S. 9-5-107(h), 21-15-109(a)(iii)(A)
+8 through (C) and 21-18-225(b)(iv) are repealed.
+9
+10 Section 4.
+11
+12 (a) The state construction department, the state
+13 building commission, the community college commission and
+14 the school facilities commission shall promulgate all rules
+15 necessary to implement this act.
+16
+17 (b) Subject to section 5 of this act, the board of
+18 trustees of the University of Wyoming shall promulgate all
+19 regulations necessary to implement this act.
+20
+21 Section 5. This act shall not apply to the University
+22 of Wyoming student housing project, law school project, war
+23 memorial west stands project or aquatics center project.
+42 HB0086
+
+2025 STATE OF WYOMING 25LSO-0064
+1
+2 Section 6.
+3
+4 (a) Except as provided in subsection (b) of this
+5 section, this act is effective July 1, 2025.
+6
+7 (b) Sections 4 through 6 of this act are effective
+8 immediately upon completion of all acts necessary for a
+9 bill to become law as provided by Article 4, Section 8 of
+10 the Wyoming Constitution.
+11
+12 (END)
+43 HB0086

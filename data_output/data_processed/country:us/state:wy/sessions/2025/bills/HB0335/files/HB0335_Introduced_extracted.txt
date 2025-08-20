@@ -1,0 +1,882 @@
+Title: HOUSE BILL NO. HB0335
+Official Title: HOUSE BILL NO. HB0335
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0727
+Wyoming educational religious freedom act.
+Sponsored by: Representative(s) Brady
+A BILL
+for
+1 AN ACT relating to public education; prohibiting sectarian
+2 instruction and practices in public institutions; providing
+3 definitions; specifying prohibited practices; creating a
+4 complaint process; specifying duties of the state board of
+5 education; requiring modification of accreditation status
+6 as specified; providing enforcement; providing penalties;
+7 and providing for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 21-9-301 through 21-9-306 are created
+12 to read:
+13
+14 ARTICLE 3
+15 WYOMING EDUCATIONAL RELIGIOUS FREEDOM ACT
+16
+1 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 21-9-301. Wyoming educational religious freedom act.
+2
+3 This act may be cited as the "Wyoming Educational Religious
+4 Freedom Act."
+5
+6 21-9-302. Legislative findings.
+7
+8 (a) The Wyoming legislature finds that:
+9
+10 (i) Article 1, section 19 and article 7, section
+11 12 of the Wyoming constitution prohibit sectarian
+12 instruction in public schools;
+13
+14 (ii) Certain educational frameworks and
+15 practices constitute sectarian instruction through:
+16
+17 (A) Establishment of comprehensive belief
+18 systems;
+19
+20 (B) Implementation of mandatory ritual-like
+21 practices;
+22
+2 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 (C) Imposition of specific moral ethical
+2 frameworks;
+3
+4 (D) Creation of hierarchical authority
+5 structures for moral guidance;
+6
+7 (E) Required acceptance and practice of
+8 specific worldviews;
+9
+10 (F) Mandatory participation in belief-based
+11 activities.
+12
+13 (iii) The state has the following compelling
+14 government interests:
+15
+16 (A) Protecting students' rights of
+17 conscience;
+18
+19 (B) Maintaining religious neutrality in
+20 public education;
+21
+22 (C) Ensuring parents' rights in directing
+23 their children's education;
+3 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1
+2 (D) Preservice academic freedom while
+3 preventing compelling speech;
+4
+5 (E) Upholding the Wyoming constitution
+6 prohibiting sectarian instruction in public schools;
+7
+8 (F) Protecting the freedom of religion
+9 provided by the first amendment to the United States
+10 constitution;
+11
+12 (G) Maintaining educational quality;
+13
+14 (H) Respecting diverse community values.
+15
+16 (iv) The Wyoming Educational Religious Freedom
+17 Act is narrowly tailored to achieve the compelling
+18 government interests outlined in paragraph (iii) of this
+19 subsection.
+20
+21 21-9-303. Definitions.
+22
+23 (a) "Educational institution" means:
+4 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1
+2 (i) Any public school;
+3
+4 (ii) Any public school district;
+5
+6 (iii) Any program or activity receiving state
+7 educational funds;
+8
+9 (iv) Any entity providing educational services
+10 under contract with the state.
+11
+12 (b) "Sectarian" includes any pedagogical framework,
+13 practice or instruction that:
+14
+15 (i) Mandates specific beliefs about human
+16 development, identity or social interaction;
+17
+18 (ii) Requires participation in activities
+19 involving emotional or personal disclosure;
+20
+21 (iii) Enforces particular viewpoints about power
+22 structures, privilege or group identity;
+23
+5 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 (iv) Establishes predetermined moral frameworks
+2 about social or cultural dynamics;
+3
+4 (v) Requires acceptance of specific theories
+5 about systemic or institution structures;
+6
+7 (vi) Mandates participation in exercises focused
+8 on identity exploration or recognition;
+9
+10 (vii) Implements compulsory training or
+11 activities regarding cultural competency or bias;
+12
+13 (viii) Requires adherence to prescribed methods
+14 of discussing or analyzing group identity;
+15
+16 (ix) Establishes specific frameworks for
+17 emotional processing or social interaction;
+18
+19 (x) Mandates acceptance of particular historical
+20 interpretations based on group identity.
+21
+22 21-9-304. Prohibited practices; authorized practices.
+23
+6 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 (a) No educational institution shall implement or
+2 incorporate curricula, instruction, training or programming
+3 that:
+4
+5 (i) Requires students to:
+6
+7 (A) Participate in mandatory emotional
+8 disclosure or processing activities;
+9
+10 (B) Accept specific beliefs about power
+11 dynamics or privilege;
+12
+13 (C) Engage in compulsory identity
+14 exploration or recognition;
+15
+16 (D) Adopt particular viewpoints about
+17 social or cultural structure;
+18
+19 (E) Follow prescribed methods for
+20 discussing group identity;
+21
+22 (F) Accept specific historical
+23 interpretations based on group identity;
+7 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1
+2 (G) Participate in mandatory cultural
+3 competency or bias recognition activities.
+4
+5 (ii) Establishes or enforces:
+6
+7 (A) Equity-based or identity-based grading
+8 systems;
+9
+10 (B) Mandatory identity-focused group work;
+11
+12 (C) Required cultural celebration of
+13 activities;
+14
+15 (D) Compulsory privilege or bias
+16 recognition exercises;
+17
+18 (E) Prescribed protocols for discussing
+19 group identity;
+20
+21 (F) Required acceptance of specific power
+22 dynamic analysis.
+23
+8 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 (iii) Integrates into academic subjects:
+2
+3 (A) Mandatory emotional processing
+4 activities;
+5
+6 (B) Required identity-based analysis;
+7
+8 (C) Compulsory cultural competency
+9 exercises;
+10
+11 (D) Prescribed social justice framework;
+12
+13 (E) Required equity-based learning methods.
+14
+15 (b) Nothing in the Wyoming Educational Religious
+16 Freedom Act shall be interpreted to prohibit:
+17
+18 (i) An educational institution from providing
+19 academic instruction about historical or scientific
+20 concepts;
+21
+22 (ii) A student from voluntarily participating in
+23 discussions or activities;
+9 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1
+2 (iii) An educational institution from using
+3 educational materials that reference diverse viewpoints or
+4 perspectives.
+5
+6 21-9-305. Responsibilities of educational
+7 institutions.
+8
+9 (a) Educational institutions shall perform the
+10 following duties:
+11
+12 (i) Establish written policies and procedures
+13 to:
+14
+15 (A) Annually review and evaluate
+16 curriculum, materials and instructional practices for
+17 sectarian content including:
+18
+19 (I) Instructional materials including
+20 physical and digital textbooks, interactive digital
+21 platforms, educational software and applications, online
+22 learning management systems and streaming media content;
+23
+10 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 (II) Supplementary materials including
+2 worksheets, handouts, digital supplemental content,
+3 third-party educational resources, educational websites and
+4 platforms and virtual or augmented reality content;
+5
+6 (III) Teacher resources including
+7 lesson plans, guides, instructional support materials,
+8 classroom management tools, assessment guidelines and
+9 digital teaching platforms;
+10
+11 (IV) Assessment materials including
+12 tests, quizzes, performance evaluations, digital assessment
+13 platforms, progress monitoring tools and data collection
+14 systems;
+15
+16 (V) Professional development materials
+17 including training materials, continuing education
+18 resources, online professional learning platforms, coaching
+19 and mentoring materials and educational research materials.
+20
+21 (B) Ensure all curriculum materials do not:
+22
+11 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 (I) Mandate acceptance of specific
+2 belief systems;
+3
+4 (II) Require participation in
+5 sectarian practices;
+6
+7 (III) Enforce particular worldviews;
+8
+9 (IV) Implement compulsory
+10 identity-based activities.
+11
+12 (ii) Implement corrective action plans imposed
+13 by the state board of education pursuant to W.S. 21-9-306.
+14
+15 21-9-306. Responsibilities of the state board of
+16 education; complaint process; penalties for violation.
+17
+18 (a) The state board of education shall:
+19
+20 (i) Establish standards for educational
+21 institutions to identify violations of W.S. 21-9-304;
+22
+12 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 (ii) Establish procedures for educational
+2 institutions to annually submit compliance reports to the
+3 state board for review;
+4
+5 (iii) Review educational institutions' policies
+6 and procedures established under W.S. 21-9-305(a)(i);
+7
+8 (iv) Issue guidance to educational institutions
+9 to ensure compliance with the Wyoming Educational Religious
+10 Freedom Act.
+11
+12 (b) The state board of education shall establish
+13 procedures to investigate complaints of noncompliance by
+14 educational institutions with the Wyoming Educational
+15 Religious Freedom Act. The process shall include written
+16 notice to educational institutions of non-compliance with
+17 the Wyoming Educational Religious Freedom Act and
+18 imposition of corrective action plans which shall include
+19 the following penalties:
+20
+21 (i) For an educational institution's first
+22 violation the educational institution shall submit a
+23 corrective action plan to the state board of education
+13 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 within thirty (30) days of issuance of the state board's
+2 decision, complete mandatory compliance training, provide a
+3 monthly progress report to the state board of education for
+4 a twelve (12) month period and be subject to a twelve (12)
+5 month monitoring period by the state board of education;
+6
+7 (ii) If an educational institution violates the
+8 Wyoming Educational Religious Freedom Act during the twelve
+9 (12) month monitoring period imposed under paragraph (i) of
+10 this subsection, the educational institution shall:
+11
+12 (A) Be subject to a change in accreditation
+13 status to accredited with follow-up by the state board of
+14 education pursuant to W.S. 21-2-304(a)(ii) and (b)(ii);
+15
+16 (B) Be subject to weekly compliance
+17 monitoring and reporting by the state board of education;
+18
+19 (C) Submit curriculum all curriculum
+20 materials to the department of education for review. The
+21 department of education shall complete the review within
+22 forty-five (45) days of receipt of the material and submit
+14 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 written findings and recommendations to the school district
+2 board of trustees and the state board of education;
+3
+4 (D) Submit an administrative improvement
+5 plan to the state board of education; and
+6
+7 (E) Be subject to an additional twelve (12)
+8 months of monitoring by the state board of education.
+9
+10 (iii) If an educational institution violates the
+11 Wyoming Educational Religious Freedom Act twice during the
+12 twelve (12) month monitoring period imposed under paragraph
+13 (i) of this subsection, the educational institution shall:
+14
+15 (A) Be subject to a change in accreditation
+16 status to non-accredited by the state board of education
+17 pursuant to W.S. 21-2-304(a)(ii) and (b)(ii);
+18
+19 (B) Be subject to oversight and corrective
+20 measures, including but not limited to a comprehensive
+21 program review, by the state department of education and
+22 state board of education; and
+23
+15 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 (C) Undergo leadership restructuring as
+2 required by the state department of education and state
+3 board of education.
+4
+5 (iv) Immediate action by the state board of
+6 education to change the educational institution's
+7 accreditation status to nonaccredited pursuant to W.S.
+8 21-2-304(a)(ii) and (b)(ii), for any educational
+9 institution that commits any of the following:
+10
+11 (A) Willfully violates the Wyoming
+12 Educational Religious Freedom Act affecting at least twenty
+13 percent (20%) of the students enrolled in the educational
+14 institution for not less than ninety (90) days;
+15
+16 (B) Deliberately conceals violations of the
+17 Wyoming Educational Religious Freedom Act for not less than
+18 one hundred eighty (180) days;
+19
+20 (C) Engages in retaliation against the
+21 person that alleged violation of the Wyoming Educational
+22 Religious Freedom Act;
+23
+16 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 (D) Continued violation of the Wyoming
+2 Educational Freedom Act for at least sixty (60) days
+3 following receipt of the notice provided pursuant to
+4 subsection (b) of this section;
+5
+6 (E) Intentional falsification of compliance
+7 reports submitted to the state board of education;
+8
+9 (F) Sustained non-cooperation with
+10 investigations conducted by the state board of education
+11 for not less than ninety (90) calendar days.
+12
+13 (c) Any parent or guardian of a student enrolled in
+14 an educational institution may:
+15
+16 (i) File a complaint and request a hearing with
+17 the state board of education alleging an educational
+18 institution violated the Wyoming Educational Religious
+19 Freedom Act;
+20
+21 (ii) Request the state board of education review
+22 educational materials of an educational institution for
+17 HB0335
+2025 STATE OF WYOMING 25LSO-0727
+1 compliance with the Wyoming Educational Religious Freedom
+2 Act.
+3
+4 Section 2. This act is effective July 1, 2026.
+5
+6 (END)
+18 HB0335
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0727
+HOUSE BILL NO. HB0335
+Wyoming educational religious freedom act.
+Sponsored by: Representative(s) Brady
+A BILL
+for
+1 AN ACT relating to public education; prohibiting sectarian
+2 instruction and practices in public institutions; providing
+3 definitions; specifying prohibited practices; creating a
+4 complaint process; specifying duties of the state board of
+5 education; requiring modification of accreditation status
+6 as specified; providing enforcement; providing penalties;
+7 and providing for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 21-9-301 through 21-9-306 are created
+12 to read:
+13
+14 ARTICLE 3
+15 WYOMING EDUCATIONAL RELIGIOUS FREEDOM ACT
+16
+1 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 21-9-301. Wyoming educational religious freedom act.
+2
+3 This act may be cited as the "Wyoming Educational Religious
+4 Freedom Act."
+5
+6 21-9-302. Legislative findings.
+7
+8 (a) The Wyoming legislature finds that:
+9
+10 (i) Article 1, section 19 and article 7, section
+11 12 of the Wyoming constitution prohibit sectarian
+12 instruction in public schools;
+13
+14 (ii) Certain educational frameworks and
+15 practices constitute sectarian instruction through:
+16
+17 (A) Establishment of comprehensive belief
+18 systems;
+19
+20 (B) Implementation of mandatory ritual-like
+21 practices;
+22
+2 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 (C) Imposition of specific moral ethical
+2 frameworks;
+3
+4 (D) Creation of hierarchical authority
+5 structures for moral guidance;
+6
+7 (E) Required acceptance and practice of
+8 specific worldviews;
+9
+10 (F) Mandatory participation in belief-based
+11 activities.
+12
+13 (iii) The state has the following compelling
+14 government interests:
+15
+16 (A) Protecting students' rights of
+17 conscience;
+18
+19 (B) Maintaining religious neutrality in
+20 public education;
+21
+22 (C) Ensuring parents' rights in directing
+23 their children's education;
+3 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1
+2 (D) Preservice academic freedom while
+3 preventing compelling speech;
+4
+5 (E) Upholding the Wyoming constitution
+6 prohibiting sectarian instruction in public schools;
+7
+8 (F) Protecting the freedom of religion
+9 provided by the first amendment to the United States
+10 constitution;
+11
+12 (G) Maintaining educational quality;
+13
+14 (H) Respecting diverse community values.
+15
+16 (iv) The Wyoming Educational Religious Freedom
+17 Act is narrowly tailored to achieve the compelling
+18 government interests outlined in paragraph (iii) of this
+19 subsection.
+20
+21 21-9-303. Definitions.
+22
+23 (a) "Educational institution" means:
+4 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1
+2 (i) Any public school;
+3
+4 (ii) Any public school district;
+5
+6 (iii) Any program or activity receiving state
+7 educational funds;
+8
+9 (iv) Any entity providing educational services
+10 under contract with the state.
+11
+12 (b) "Sectarian" includes any pedagogical framework,
+13 practice or instruction that:
+14
+15 (i) Mandates specific beliefs about human
+16 development, identity or social interaction;
+17
+18 (ii) Requires participation in activities
+19 involving emotional or personal disclosure;
+20
+21 (iii) Enforces particular viewpoints about power
+22 structures, privilege or group identity;
+23
+5 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 (iv) Establishes predetermined moral frameworks
+2 about social or cultural dynamics;
+3
+4 (v) Requires acceptance of specific theories
+5 about systemic or institution structures;
+6
+7 (vi) Mandates participation in exercises focused
+8 on identity exploration or recognition;
+9
+10 (vii) Implements compulsory training or
+11 activities regarding cultural competency or bias;
+12
+13 (viii) Requires adherence to prescribed methods
+14 of discussing or analyzing group identity;
+15
+16 (ix) Establishes specific frameworks for
+17 emotional processing or social interaction;
+18
+19 (x) Mandates acceptance of particular historical
+20 interpretations based on group identity.
+21
+22 21-9-304. Prohibited practices; authorized practices.
+23
+6 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 (a) No educational institution shall implement or
+2 incorporate curricula, instruction, training or programming
+3 that:
+4
+5 (i) Requires students to:
+6
+7 (A) Participate in mandatory emotional
+8 disclosure or processing activities;
+9
+10 (B) Accept specific beliefs about power
+11 dynamics or privilege;
+12
+13 (C) Engage in compulsory identity
+14 exploration or recognition;
+15
+16 (D) Adopt particular viewpoints about
+17 social or cultural structure;
+18
+19 (E) Follow prescribed methods for
+20 discussing group identity;
+21
+22 (F) Accept specific historical
+23 interpretations based on group identity;
+7 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1
+2 (G) Participate in mandatory cultural
+3 competency or bias recognition activities.
+4
+5 (ii) Establishes or enforces:
+6
+7 (A) Equity-based or identity-based grading
+8 systems;
+9
+10 (B) Mandatory identity-focused group work;
+11
+12 (C) Required cultural celebration of
+13 activities;
+14
+15 (D) Compulsory privilege or bias
+16 recognition exercises;
+17
+18 (E) Prescribed protocols for discussing
+19 group identity;
+20
+21 (F) Required acceptance of specific power
+22 dynamic analysis.
+23
+8 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 (iii) Integrates into academic subjects:
+2
+3 (A) Mandatory emotional processing
+4 activities;
+5
+6 (B) Required identity-based analysis;
+7
+8 (C) Compulsory cultural competency
+9 exercises;
+10
+11 (D) Prescribed social justice framework;
+12
+13 (E) Required equity-based learning methods.
+14
+15 (b) Nothing in the Wyoming Educational Religious
+16 Freedom Act shall be interpreted to prohibit:
+17
+18 (i) An educational institution from providing
+19 academic instruction about historical or scientific
+20 concepts;
+21
+22 (ii) A student from voluntarily participating in
+23 discussions or activities;
+9 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1
+2 (iii) An educational institution from using
+3 educational materials that reference diverse viewpoints or
+4 perspectives.
+5
+6 21-9-305. Responsibilities of educational
+7 institutions.
+8
+9 (a) Educational institutions shall perform the
+10 following duties:
+11
+12 (i) Establish written policies and procedures
+13 to:
+14
+15 (A) Annually review and evaluate
+16 curriculum, materials and instructional practices for
+17 sectarian content including:
+18
+19 (I) Instructional materials including
+20 physical and digital textbooks, interactive digital
+21 platforms, educational software and applications, online
+22 learning management systems and streaming media content;
+23
+10 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 (II) Supplementary materials including
+2 worksheets, handouts, digital supplemental content,
+3 third-party educational resources, educational websites and
+4 platforms and virtual or augmented reality content;
+5
+6 (III) Teacher resources including
+7 lesson plans, guides, instructional support materials,
+8 classroom management tools, assessment guidelines and
+9 digital teaching platforms;
+10
+11 (IV) Assessment materials including
+12 tests, quizzes, performance evaluations, digital assessment
+13 platforms, progress monitoring tools and data collection
+14 systems;
+15
+16 (V) Professional development materials
+17 including training materials, continuing education
+18 resources, online professional learning platforms, coaching
+19 and mentoring materials and educational research materials.
+20
+21 (B) Ensure all curriculum materials do not:
+22
+11 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 (I) Mandate acceptance of specific
+2 belief systems;
+3
+4 (II) Require participation in
+5 sectarian practices;
+6
+7 (III) Enforce particular worldviews;
+8
+9 (IV) Implement compulsory
+10 identity-based activities.
+11
+12 (ii) Implement corrective action plans imposed
+13 by the state board of education pursuant to W.S. 21-9-306.
+14
+15 21-9-306. Responsibilities of the state board of
+16 education; complaint process; penalties for violation.
+17
+18 (a) The state board of education shall:
+19
+20 (i) Establish standards for educational
+21 institutions to identify violations of W.S. 21-9-304;
+22
+12 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 (ii) Establish procedures for educational
+2 institutions to annually submit compliance reports to the
+3 state board for review;
+4
+5 (iii) Review educational institutions' policies
+6 and procedures established under W.S. 21-9-305(a)(i);
+7
+8 (iv) Issue guidance to educational institutions
+9 to ensure compliance with the Wyoming Educational Religious
+10 Freedom Act.
+11
+12 (b) The state board of education shall establish
+13 procedures to investigate complaints of noncompliance by
+14 educational institutions with the Wyoming Educational
+15 Religious Freedom Act. The process shall include written
+16 notice to educational institutions of non-compliance with
+17 the Wyoming Educational Religious Freedom Act and
+18 imposition of corrective action plans which shall include
+19 the following penalties:
+20
+21 (i) For an educational institution's first
+22 violation the educational institution shall submit a
+23 corrective action plan to the state board of education
+13 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 within thirty (30) days of issuance of the state board's
+2 decision, complete mandatory compliance training, provide a
+3 monthly progress report to the state board of education for
+4 a twelve (12) month period and be subject to a twelve (12)
+5 month monitoring period by the state board of education;
+6
+7 (ii) If an educational institution violates the
+8 Wyoming Educational Religious Freedom Act during the twelve
+9 (12) month monitoring period imposed under paragraph (i) of
+10 this subsection, the educational institution shall:
+11
+12 (A) Be subject to a change in accreditation
+13 status to accredited with follow-up by the state board of
+14 education pursuant to W.S. 21-2-304(a)(ii) and (b)(ii);
+15
+16 (B) Be subject to weekly compliance
+17 monitoring and reporting by the state board of education;
+18
+19 (C) Submit curriculum all curriculum
+20 materials to the department of education for review. The
+21 department of education shall complete the review within
+22 forty-five (45) days of receipt of the material and submit
+14 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 written findings and recommendations to the school district
+2 board of trustees and the state board of education;
+3
+4 (D) Submit an administrative improvement
+5 plan to the state board of education; and
+6
+7 (E) Be subject to an additional twelve (12)
+8 months of monitoring by the state board of education.
+9
+10 (iii) If an educational institution violates the
+11 Wyoming Educational Religious Freedom Act twice during the
+12 twelve (12) month monitoring period imposed under paragraph
+13 (i) of this subsection, the educational institution shall:
+14
+15 (A) Be subject to a change in accreditation
+16 status to non-accredited by the state board of education
+17 pursuant to W.S. 21-2-304(a)(ii) and (b)(ii);
+18
+19 (B) Be subject to oversight and corrective
+20 measures, including but not limited to a comprehensive
+21 program review, by the state department of education and
+22 state board of education; and
+23
+15 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 (C) Undergo leadership restructuring as
+2 required by the state department of education and state
+3 board of education.
+4
+5 (iv) Immediate action by the state board of
+6 education to change the educational institution's
+7 accreditation status to nonaccredited pursuant to W.S.
+8 21-2-304(a)(ii) and (b)(ii), for any educational
+9 institution that commits any of the following:
+10
+11 (A) Willfully violates the Wyoming
+12 Educational Religious Freedom Act affecting at least twenty
+13 percent (20%) of the students enrolled in the educational
+14 institution for not less than ninety (90) days;
+15
+16 (B) Deliberately conceals violations of the
+17 Wyoming Educational Religious Freedom Act for not less than
+18 one hundred eighty (180) days;
+19
+20 (C) Engages in retaliation against the
+21 person that alleged violation of the Wyoming Educational
+22 Religious Freedom Act;
+23
+16 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 (D) Continued violation of the Wyoming
+2 Educational Freedom Act for at least sixty (60) days
+3 following receipt of the notice provided pursuant to
+4 subsection (b) of this section;
+5
+6 (E) Intentional falsification of compliance
+7 reports submitted to the state board of education;
+8
+9 (F) Sustained non-cooperation with
+10 investigations conducted by the state board of education
+11 for not less than ninety (90) calendar days.
+12
+13 (c) Any parent or guardian of a student enrolled in
+14 an educational institution may:
+15
+16 (i) File a complaint and request a hearing with
+17 the state board of education alleging an educational
+18 institution violated the Wyoming Educational Religious
+19 Freedom Act;
+20
+21 (ii) Request the state board of education review
+22 educational materials of an educational institution for
+17 HB0335
+
+2025 STATE OF WYOMING 25LSO-0727
+1 compliance with the Wyoming Educational Religious Freedom
+2 Act.
+3
+4 Section 2. This act is effective July 1, 2026.
+5
+6 (END)
+18 HB0335

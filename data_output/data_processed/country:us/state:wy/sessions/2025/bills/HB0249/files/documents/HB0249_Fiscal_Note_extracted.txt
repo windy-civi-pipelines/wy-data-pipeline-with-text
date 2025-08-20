@@ -1,0 +1,65 @@
+Title: This bill contains an appropriation of $2,000,000 from the GENERAL FUND to the
+Official Title: This bill contains an appropriation of $2,000,000 from the GENERAL FUND to the
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Runoff elections. 25LSO-0383, 1.0
+FISCAL NOTE
+proposed Runoff Election Account.
+DETAIL OF APPROPRIATION
+Agency #: 002 Agency Name: Secretary of State
+Unit: (new) Runoff elections
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0900 Contractual Services Costs $0 $283,186 $0
+Total Expenditure Per Year: $0 $283,186 $0
+Grand Total Expenditure: $283,186
+Total Appropriated to Agency: $2,000,000
+Total Appropriated by Fund:
+GENERAL FUND $2,000,000
+Description of appropriation:
+Funds in the proposed Runoff Election Account shall not revert and are
+continuously appropriated to the Secretary of State for costs related to
+administering runoff elections.
+The Secretary of State’s Office would need to make changes to the voter
+registration system, WyoReg, and the campaign finance filing system, WYCFIS.
+WyoReg upgrades would cost $247,968 and WYCFIS upgrades would cost $35,218.
+The Secretary of State’s Office indicates that the cost of conducting a statewide
+runoff election is unknown.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Jesse Naiman, Secretary of State's Office, 777-5873)
+HB0249
+
+
+================================================================================
+
+Raw Text:
+Runoff elections. 25LSO-0383, 1.0
+FISCAL NOTE
+This bill contains an appropriation of $2,000,000 from the GENERAL FUND to the
+proposed Runoff Election Account.
+DETAIL OF APPROPRIATION
+Agency #: 002 Agency Name: Secretary of State
+Unit: (new) Runoff elections
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0900 Contractual Services Costs $0 $283,186 $0
+Total Expenditure Per Year: $0 $283,186 $0
+Grand Total Expenditure: $283,186
+Total Appropriated to Agency: $2,000,000
+Total Appropriated by Fund:
+GENERAL FUND $2,000,000
+Description of appropriation:
+Funds in the proposed Runoff Election Account shall not revert and are
+continuously appropriated to the Secretary of State for costs related to
+administering runoff elections.
+The Secretary of State’s Office would need to make changes to the voter
+registration system, WyoReg, and the campaign finance filing system, WYCFIS.
+WyoReg upgrades would cost $247,968 and WYCFIS upgrades would cost $35,218.
+The Secretary of State’s Office indicates that the cost of conducting a statewide
+runoff election is unknown.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Jesse Naiman, Secretary of State's Office, 777-5873)
+HB0249

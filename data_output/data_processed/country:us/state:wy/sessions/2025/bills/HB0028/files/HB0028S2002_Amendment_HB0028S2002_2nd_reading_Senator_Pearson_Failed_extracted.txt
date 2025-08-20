@@ -1,0 +1,37 @@
+Title: 1 Page 1-line 14 After "W.S." delete balance of line and insert
+Official Title: 1 Page 1-line 14 After "W.S." delete balance of line and insert
+Number of Sections: 1
+Source: versions - Amendment HB0028S2002 (2nd reading) - Senator Pearson (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0028S2002
+2 "31-7-102(a)(xli)(G) through (J)".
+3
+4 Page 1-line 15 After "creating" insert "a"; delete
+5 "subparagraphs" and insert "subparagraph";
+6 delete "and (M)".
+7
+8 Page 2-line 11 Delete entirely.
+9
+10 Page 3-lines 16 through 20 Delete entirely. PEARSON, LAURSEN, D
+1
+
+
+================================================================================
+
+Raw Text:
+HB0028S2002
+1 Page 1-line 14 After "W.S." delete balance of line and insert
+2 "31-7-102(a)(xli)(G) through (J)".
+3
+4 Page 1-line 15 After "creating" insert "a"; delete
+5 "subparagraphs" and insert "subparagraph";
+6 delete "and (M)".
+7
+8 Page 2-line 11 Delete entirely.
+9
+10 Page 3-lines 16 through 20 Delete entirely. PEARSON, LAURSEN, D
+1

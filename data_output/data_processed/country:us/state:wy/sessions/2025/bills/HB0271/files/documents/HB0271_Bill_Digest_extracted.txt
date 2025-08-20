@@ -1,0 +1,122 @@
+Title: HB0271 Common school account-spending policy amount.
+Official Title: HB0271 Common school account-spending policy amount.
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Sponsored By: Representative(s) Bear, Allemand, Angelos, Heiner,
+Locke, Pendergraft and Smith, S and Senator(s) Hicks,
+Laursen, D, McKeown and Smith, D
+AN ACT relating to the investment of state funds; decreasing the spending policy
+amount for the common school account within the permanent land fund; specifying
+the disposition of investment earnings and federal mineral royalties; making
+conforming amendments; and providing for an effective date.
+1/21/2025 Bill Number Assigned
+1/22/2025 H Received for Introduction
+1/23/2025 H Introduced and Referred to H02 - Appropriations
+1/27/2025 H02 - Appropriations:Recommend Do Pass 6-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft, Smith
+Nays: Representative Sherwood
+Ayes 6 Nays 1 Excused 0 Absent 0 Conflicts 0
+1/27/2025 H Placed on General File
+1/30/2025 H COW:Passed
+1/31/2025 H 2nd Reading:Laid Back
+HB0271H2001/FAILED
+Page 4-line 6 After "(v)" insert "Through fiscal year 2026,";
+reinsert all stricken language; delete all new
+language.
+Page 4-line 7 Delete all new language.
+Page 4-line 9 After "year." insert "Beginning with fiscal year 2027,
+the percentage shall be reduced by five hundredths
+percent (0.05%) each fiscal year, for five (5) years,
+and thereafter it shall be an amount equal to four and
+seventy-five hundredths percent (4.75%).".HARSHMAN
+HB0271H2002/WITHDRAWN
+2/3/2025 H 2nd Reading:Passed
+HB0271H3001/ADOPTED
+Page 4-line 6 Delete "four".
+Page 4-line 7 Delete line through "(4.5%)" and insert "four and three
+quarters percent (4.75%) for fiscal year 2026 and four
+and one-half percent (4.5%) each fiscal year
+thereafter". CLOUSTON
+HB0271H3002/WITHDRAWN
+2/4/2025 H 3rd Reading:Passed 32-27-3-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Angelos, Bear, Brady, Bratten, Brown, G,
+Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly, Knapp, Lien, Locke, Lucas,
+Mccann, Neiman, Ottman, Pendergraft, Rodriguez-Williams, Schmid, Singh, Smith,
+Strock, Styvar, Tarver, Wasserburger, Webb, Webber, Wharff, Winter
+Nays: Representative(s) Brown, L, Byron, Campbell, E, Campbell, K, Chestek,
+Clouston, Connolly, Davis, Eklund, Erickson, Filer, Geringer, Harshman, Jarvis,
+Larsen, Larson, Lawley, Nicholas, Posey, Provenza, Sherwood, Storer, Thayer,
+Washut, Williams, Wylie, Yin
+Excused: Representative(s) Allemand, Banks, Riggins
+Ayes 32 Nays 27 Excused 3 Absent 0 Conflicts 0
+2/4/2025 S Received for Introduction
+2/18/2025 S Introduced and Referred to S02 - Appropriations
+2/28/2025 S No report prior to CoW Cutoff
+3/3/2025 S:Died in Committee Returned Bill Pursuant to SR 5-4
+
+
+================================================================================
+
+Raw Text:
+HB0271 Common school account-spending policy amount.
+Sponsored By: Representative(s) Bear, Allemand, Angelos, Heiner,
+Locke, Pendergraft and Smith, S and Senator(s) Hicks,
+Laursen, D, McKeown and Smith, D
+AN ACT relating to the investment of state funds; decreasing the spending policy
+amount for the common school account within the permanent land fund; specifying
+the disposition of investment earnings and federal mineral royalties; making
+conforming amendments; and providing for an effective date.
+1/21/2025 Bill Number Assigned
+1/22/2025 H Received for Introduction
+1/23/2025 H Introduced and Referred to H02 - Appropriations
+1/27/2025 H02 - Appropriations:Recommend Do Pass 6-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft, Smith
+Nays: Representative Sherwood
+Ayes 6 Nays 1 Excused 0 Absent 0 Conflicts 0
+1/27/2025 H Placed on General File
+1/30/2025 H COW:Passed
+1/31/2025 H 2nd Reading:Laid Back
+HB0271H2001/FAILED
+Page 4-line 6 After "(v)" insert "Through fiscal year 2026,";
+reinsert all stricken language; delete all new
+language.
+Page 4-line 7 Delete all new language.
+Page 4-line 9 After "year." insert "Beginning with fiscal year 2027,
+the percentage shall be reduced by five hundredths
+percent (0.05%) each fiscal year, for five (5) years,
+and thereafter it shall be an amount equal to four and
+seventy-five hundredths percent (4.75%).".HARSHMAN
+HB0271H2002/WITHDRAWN
+2/3/2025 H 2nd Reading:Passed
+HB0271H3001/ADOPTED
+Page 4-line 6 Delete "four".
+Page 4-line 7 Delete line through "(4.5%)" and insert "four and three
+quarters percent (4.75%) for fiscal year 2026 and four
+and one-half percent (4.5%) each fiscal year
+thereafter". CLOUSTON
+HB0271H3002/WITHDRAWN
+2/4/2025 H 3rd Reading:Passed 32-27-3-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Angelos, Bear, Brady, Bratten, Brown, G,
+Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly, Knapp, Lien, Locke, Lucas,
+
+Mccann, Neiman, Ottman, Pendergraft, Rodriguez-Williams, Schmid, Singh, Smith,
+Strock, Styvar, Tarver, Wasserburger, Webb, Webber, Wharff, Winter
+Nays: Representative(s) Brown, L, Byron, Campbell, E, Campbell, K, Chestek,
+Clouston, Connolly, Davis, Eklund, Erickson, Filer, Geringer, Harshman, Jarvis,
+Larsen, Larson, Lawley, Nicholas, Posey, Provenza, Sherwood, Storer, Thayer,
+Washut, Williams, Wylie, Yin
+Excused: Representative(s) Allemand, Banks, Riggins
+Ayes 32 Nays 27 Excused 3 Absent 0 Conflicts 0
+2/4/2025 S Received for Introduction
+2/18/2025 S Introduced and Referred to S02 - Appropriations
+2/28/2025 S No report prior to CoW Cutoff
+3/3/2025 S:Died in Committee Returned Bill Pursuant to SR 5-4

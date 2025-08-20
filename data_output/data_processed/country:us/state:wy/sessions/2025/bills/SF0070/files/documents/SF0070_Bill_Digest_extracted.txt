@@ -1,0 +1,506 @@
+Title: Sponsored By: Select Committee on Capital Financing & Investments
+Official Title: Sponsored By: Select Committee on Capital Financing & Investments
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Investment modernization-state nonpermanent
+SF0070
+funds.
+AN ACT relating to public funds; amending specified statutory funds to remove
+their inviolate status in order to enhance their investment potential;
+establishing spending policies for specified statutory funds; providing for the
+investment of specified statutory funds; redirecting the deposit of investment
+earnings into the corpuses of specified statutory funds; removing specified
+statutory funds from the pool A investment account; making conforming
+amendments; repealing inconsistent and obsolete statutory provisions; providing
+for the treatment of prior deposits; and providing for an effective date.
+12/31/2024 Bill Number Assigned
+1/6/2025 S Received for Introduction
+1/14/2025 S Introduced and Referred to S02 - Appropriations
+1/17/2025 S02 - Appropriations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Gierau, Laursen, Salazar, Smith
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/17/2025 S Placed on General File
+1/20/2025 S COW:Passed
+1/21/2025 S 2nd Reading:Passed
+1/22/2025 S 3rd Reading:Passed 23-7-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, Gierau, Hicks, Hutchings, Jones, Landen,
+Nethercott, Olsen, Pappas, Rothfuss, Salazar, Schuler, Scott
+Nays: Senator(s) French, Ide, Laursen, Mckeown, Pearson, Smith, Steinmetz
+Excused: Senator Kolb
+Ayes 23 Nays 7 Excused 1 Absent 0 Conflicts 0
+1/23/2025 H Received for Introduction
+2/19/2025 H Introduced and Referred to H02 - Appropriations
+2/24/2025 H02 - Appropriations:Recommend Do Pass 7-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft,
+Sherwood, Smith
+Ayes 7 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/24/2025 H Placed on General File
+2/28/2025 H COW:Passed
+SF0070H2001/FAILED
+Page 1-line 1 After "funds;" insert "creating the income tax
+prevention account; providing for administration of the
+account;".
+Page 1-line 11 After "deposits;" insert "requiring reports;".
+Page 1-after line 13 Insert and renumber as necessary:
+"Section 1. W.S. 9-4-227 is created to read:
+9-4-227. Income tax prevention account.
+(a) There is created the income tax prevention account. The account shall
+consist of all funds transferred or appropriated to the account by law. All
+monies deposited or transferred into the account are inviolate and constitute
+a permanent or perpetual trust fund, subject to the provisions for the
+withdrawal of funds provided by this section.
+(b) The state treasurer shall invest all funds within the income tax
+prevention account in accordance with W.S. 9-4-715(a) and (c) through (e) and
+9-4-716. W.S. 9-4-716(e) shall not apply to the account. The state treasurer,
+or the treasurer's designee, which shall be registered under the federal
+Investment Advisor's Act of 1940, as amended and if required to be registered
+by the terms of that act, may invest the unobligated, unencumbered balance of
+the account in equities, including stocks of corporations. The account shall be
+invested so that the overall risk profile of the account's investments shall
+not materially exceed the risk profile of a reference portfolio that consists
+of eighty-five percent (85%) private equity and fifteen percent (15%) private
+credit investments. In adopting investment policy statements for the account,
+the board shall seek to preserve the balance of the account in a manner that
+strives for the highest possible risk-adjusted total net return consistent with
+an appropriate level of safety and liquidity, giving consideration to the
+account's potential extended investment period and the extended period during
+which monies in the account may be ineligible for withdrawal.
+(c) Beginning on July 1, 2025 and on each July 1 thereafter, the state
+auditor shall transfer one hundred million dollars ($100,000,000.00), or as
+much thereof as is available, from the legislative stabilization reserve account
+to the income tax prevention account. The transfer under this subsection shall
+occur after all other transfers and appropriations from the legislative
+stabilization reserve account required by law are made.
+(d) Transfers made under subsection (c) of this section, and the
+investment of those transfers, shall be in accordance with all of the following:
+(i) The state treasurer shall separately account for each annual transfer
+made under subsection (c) of this section and shall separately account for all
+earnings from each annual transfer;
+(ii) Annual transfers shall not be withdrawn from the account;
+(iii) Investment earnings from each annual transfer shall not be
+withdrawn except in accordance with subsection (e) of this section.
+(e) On July 1 of each fiscal year after fourteen (14) fiscal years have
+elapsed, all investment earnings in the income tax prevention account arising
+from the annual transfer to the account made fourteen (14) fiscal years earlier
+shall be deposited in the general fund. For purposes of this subsection:
+(i) "Investment earnings" mean all interest income, dividends, realized
+capital gains and returned capital;
+(ii) Investment earnings shall be distributed under this subsection as
+the earnings are received or when the fund from which earnings are derived
+matures;
+(iii) The state treasurer may liquidate or sell investments in order to
+maximize earnings or minimize costs associated with making the deposit required
+under this subsection.
+(f) Not later than October 1 of each year, the state treasurer shall
+report to the joint appropriations committee and the select committee on capital
+financing and investments regarding the investment of funds in the income tax
+prevention account. The report shall include information on the annual review
+of the account's investment policy statement and an estimate of investment
+earnings available for deposit to the general fund for the immediately
+succeeding fiscal year.".
+Page 2-line 1 Delete "Section 1." and insert "Section 2.".
+Page 2-line 4 Before "9-15-103(a)," insert "9-4-203(a)(xiii),
+9-4-716(e),".
+Page 8-after line 12 Insert:
+"9-4-203. Definitions.
+(a) As used in this act:
+(xiii) "This act" means W.S. 9-4-202 through 9-4-226 9-4-227.
+9-4-716. State investment policy; investment consultant.
+(e) In investing monies of a fund or account which may be invested in
+stock of a corporation or other equities, the overall risk profile of the
+investments, excluding any specific public purpose investment authorized or
+directed by the legislature, shall not materially exceed the risk profile of a
+reference portfolio that consists of seventy percent (70%) global equities and
+thirty percent (30%) domestic fixed income investments. The state treasurer
+after consultation with the investment funds committee shall submit to the board
+the committee's recommendations of specific benchmarks for the measurement of
+the portfolio risk characteristics. The specific benchmarks shall be determined
+by the board. Any provision of law which restricts or expands the investment of
+a specific fund or account to a greater degree than the provisions of this
+subsection shall control over this subsection.".
+Page 17-line 18 Delete "Section 2." and insert "Section 3.".
+Page 17-line 21 Delete "Section 3." and insert "Section 4.".
+Page 18-line 8 Delete "Section 4." and insert "Section 5.". HARSHMAN
+3/3/2025 H 2nd Reading:Passed
+SF0070H3001/FAILED
+Page 1-line 1 After "funds;" insert "creating the income tax
+prevention account; providing for administration of the
+account;".
+Page 1-line 11 After "deposits;" insert "requiring reports;".
+Page 1-after line 13 Insert and renumber as necessary:
+"Section 1. W.S. 9-4-227 is created to read:
+9-4-227. Income tax prevention account.
+(a) There is created the income tax prevention account. The account shall
+consist of all funds transferred or appropriated to the account by law. All
+monies deposited or transferred into the account are inviolate and constitute
+a permanent or perpetual trust fund, subject to the provisions for the
+withdrawal of funds provided by this section.
+(b) The state treasurer shall invest all funds within the income tax
+prevention account in accordance with W.S. 9-4-715(a) and (c) through (e) and
+9-4-716. W.S. 9-4-716(e) shall not apply to the account. The state treasurer,
+or the treasurer's designee, which shall be registered under the federal
+Investment Advisor's Act of 1940, as amended and if required to be registered
+by the terms of that act, may invest the unobligated, unencumbered balance of
+the account in equities, including stocks of corporations. The account shall be
+invested so that the overall risk profile of the account's investments shall
+not materially exceed the risk profile of a reference portfolio that consists
+of eighty-five percent (85%) private equity and fifteen percent (15%) private
+credit investments. In adopting investment policy statements for the account,
+the board shall seek to preserve the balance of the account in a manner that
+strives for the highest possible risk-adjusted total net return consistent with
+an appropriate level of safety and liquidity, giving consideration to the
+account's potential extended investment period and the extended period during
+which monies in the account may be ineligible for withdrawal.
+(c) On July 1, 2025, if there is not less than two billion dollars
+($2,000,000,000.00) in the legislative stabilization reserve account on that
+date, the state auditor shall transfer one hundred million dollars
+($100,000,000.00) from the legislative stabilization reserve account to the
+income tax prevention account. The transfer under this subsection shall occur
+after all other transfers and appropriations from the legislative stabilization
+reserve account required by law are made. Additional transfers to the income
+tax prevention account in future years shall be subject to legislative
+appropriation.
+(d) Transfers made under subsection (c) of this section, and the
+investment of those transfers, shall be in accordance with all of the following:
+(i) The state treasurer shall separately account for each transfer
+made under subsection (c) of this section and shall separately account for all
+earnings from each transfer;
+(ii) Transfers shall not be withdrawn from the account;
+(iii) Investment earnings from each transfer shall not be
+withdrawn except in accordance with subsection (e) of this section.
+(e) On July 1 of each fiscal year after fourteen (14) fiscal years have
+elapsed, all investment earnings in the income tax prevention account arising
+from the transfer to the account made fourteen (14) fiscal years earlier shall
+be deposited in the general fund. For purposes of this subsection:
+(i) "Investment earnings" mean all interest income, dividends,
+realized capital gains and returned capital;
+(ii) Investment earnings shall be distributed under this
+subsection as the earnings are received or when the fund from which earnings
+are derived matures;
+(iii) The state treasurer may liquidate or sell investments in
+order to maximize earnings or minimize costs associated with making the deposit
+required under this subsection.
+(f) Not later than October 1 of each year, the state treasurer shall
+report to the joint appropriations committee and the select committee on capital
+financing and investments regarding the investment of funds in the income tax
+prevention account. The report shall include information on the annual review
+of the account's investment policy statement and an estimate of investment
+earnings available for deposit to the general fund for the immediately
+succeeding fiscal year.".
+Page 2-line 1 Delete "Section 1." and insert "Section 2.".
+Page 2-line 4 Before "9-15-103(a)," insert "9-4-203(a)(xiii),
+9-4-716(e),".
+Page 8-after line 12 Insert:
+"9-4-203. Definitions.
+(a) As used in this act:
+(xiii) "This act" means W.S. 9-4-202 through 9-4-226 9-4-227.
+9-4-716. State investment policy; investment consultant.
+(e) In investing monies of a fund or account which may be invested in
+stock of a corporation or other equities, the overall risk profile of the
+investments, excluding any specific public purpose investment authorized or
+directed by the legislature, shall not materially exceed the risk profile of a
+reference portfolio that consists of seventy percent (70%) global equities and
+thirty percent (30%) domestic fixed income investments. The state treasurer
+after consultation with the investment funds committee shall submit to the board
+the committee's recommendations of specific benchmarks for the measurement of
+the portfolio risk characteristics. The specific benchmarks shall be determined
+by the board. Any provision of law which restricts or expands the investment of
+a specific fund or account to a greater degree than the provisions of this
+subsection shall control over this subsection.".
+Page 17-line 18 Delete "Section 2." and insert "Section 3.".
+Page 17-line 21 Delete "Section 3." and insert "Section 4.".
+Page 18-line 8 Delete "Section 4." and insert "Section 5.". HARSHMAN
+ROLL CALL
+Ayes: Representative(s) Byron, Campbell, E, Chestek, Clouston, Connolly,
+Davis, Eklund, Erickson, Filer, Geringer, Harshman, Jarvis, Larsen, Larson,
+Lawley, Nicholas, Posey, Provenza, Sherwood, Storer, Thayer, Washut, Williams,
+Wylie
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Campbell, K, Guggenmos, Haroldson, Heiner, Hoeft, Johnson,
+Kelly, Knapp, Lien, Locke, Mccann, Neiman, Ottman, Pendergraft, Riggins,
+Rodriguez-Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver, Wasserburger,
+Webb, Webber, Wharff, Winter, Yin
+Excused: Representative(s) Brown, L, Lucas
+Ayes 24 Nays 36 Excused 2 Absent 0 Conflicts 0
+3/4/2025 H 3rd Reading:Passed 58-2-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, E, Campbell, K, Chestek, Clouston, Connolly,
+Davis, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner,
+Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke,
+Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Provenza, Riggins,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock, Tarver,
+Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie,
+Yin
+Nays: Representative(s) Eklund, Styvar
+Excused: Representative(s) Brown, L, Lucas
+Ayes 58 Nays 2 Excused 2 Absent 0 Conflicts 0
+3/4/2025 Assigned Number SEA No. 0084
+3/4/2025 S President Signed SEA No. 0084
+3/5/2025 H Speaker Signed SEA No. 0084
+3/17/2025 Governor Signed SEA No. 0084
+3/17/2025 Assigned Chapter Number 149
+Chapter No. 149 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+Investment modernization-state nonpermanent
+SF0070
+funds.
+Sponsored By: Select Committee on Capital Financing & Investments
+AN ACT relating to public funds; amending specified statutory funds to remove
+their inviolate status in order to enhance their investment potential;
+establishing spending policies for specified statutory funds; providing for the
+investment of specified statutory funds; redirecting the deposit of investment
+earnings into the corpuses of specified statutory funds; removing specified
+statutory funds from the pool A investment account; making conforming
+amendments; repealing inconsistent and obsolete statutory provisions; providing
+for the treatment of prior deposits; and providing for an effective date.
+12/31/2024 Bill Number Assigned
+1/6/2025 S Received for Introduction
+1/14/2025 S Introduced and Referred to S02 - Appropriations
+1/17/2025 S02 - Appropriations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Gierau, Laursen, Salazar, Smith
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/17/2025 S Placed on General File
+1/20/2025 S COW:Passed
+1/21/2025 S 2nd Reading:Passed
+1/22/2025 S 3rd Reading:Passed 23-7-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, Gierau, Hicks, Hutchings, Jones, Landen,
+Nethercott, Olsen, Pappas, Rothfuss, Salazar, Schuler, Scott
+Nays: Senator(s) French, Ide, Laursen, Mckeown, Pearson, Smith, Steinmetz
+Excused: Senator Kolb
+Ayes 23 Nays 7 Excused 1 Absent 0 Conflicts 0
+1/23/2025 H Received for Introduction
+2/19/2025 H Introduced and Referred to H02 - Appropriations
+2/24/2025 H02 - Appropriations:Recommend Do Pass 7-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft,
+Sherwood, Smith
+Ayes 7 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/24/2025 H Placed on General File
+2/28/2025 H COW:Passed
+SF0070H2001/FAILED
+Page 1-line 1 After "funds;" insert "creating the income tax
+prevention account; providing for administration of the
+account;".
+Page 1-line 11 After "deposits;" insert "requiring reports;".
+Page 1-after line 13 Insert and renumber as necessary:
+
+"Section 1. W.S. 9-4-227 is created to read:
+9-4-227. Income tax prevention account.
+(a) There is created the income tax prevention account. The account shall
+consist of all funds transferred or appropriated to the account by law. All
+monies deposited or transferred into the account are inviolate and constitute
+a permanent or perpetual trust fund, subject to the provisions for the
+withdrawal of funds provided by this section.
+(b) The state treasurer shall invest all funds within the income tax
+prevention account in accordance with W.S. 9-4-715(a) and (c) through (e) and
+9-4-716. W.S. 9-4-716(e) shall not apply to the account. The state treasurer,
+or the treasurer's designee, which shall be registered under the federal
+Investment Advisor's Act of 1940, as amended and if required to be registered
+by the terms of that act, may invest the unobligated, unencumbered balance of
+the account in equities, including stocks of corporations. The account shall be
+invested so that the overall risk profile of the account's investments shall
+not materially exceed the risk profile of a reference portfolio that consists
+of eighty-five percent (85%) private equity and fifteen percent (15%) private
+credit investments. In adopting investment policy statements for the account,
+the board shall seek to preserve the balance of the account in a manner that
+strives for the highest possible risk-adjusted total net return consistent with
+an appropriate level of safety and liquidity, giving consideration to the
+account's potential extended investment period and the extended period during
+which monies in the account may be ineligible for withdrawal.
+(c) Beginning on July 1, 2025 and on each July 1 thereafter, the state
+auditor shall transfer one hundred million dollars ($100,000,000.00), or as
+much thereof as is available, from the legislative stabilization reserve account
+to the income tax prevention account. The transfer under this subsection shall
+occur after all other transfers and appropriations from the legislative
+stabilization reserve account required by law are made.
+(d) Transfers made under subsection (c) of this section, and the
+investment of those transfers, shall be in accordance with all of the following:
+(i) The state treasurer shall separately account for each annual transfer
+made under subsection (c) of this section and shall separately account for all
+earnings from each annual transfer;
+(ii) Annual transfers shall not be withdrawn from the account;
+(iii) Investment earnings from each annual transfer shall not be
+withdrawn except in accordance with subsection (e) of this section.
+(e) On July 1 of each fiscal year after fourteen (14) fiscal years have
+elapsed, all investment earnings in the income tax prevention account arising
+from the annual transfer to the account made fourteen (14) fiscal years earlier
+shall be deposited in the general fund. For purposes of this subsection:
+(i) "Investment earnings" mean all interest income, dividends, realized
+capital gains and returned capital;
+
+(ii) Investment earnings shall be distributed under this subsection as
+the earnings are received or when the fund from which earnings are derived
+matures;
+(iii) The state treasurer may liquidate or sell investments in order to
+maximize earnings or minimize costs associated with making the deposit required
+under this subsection.
+(f) Not later than October 1 of each year, the state treasurer shall
+report to the joint appropriations committee and the select committee on capital
+financing and investments regarding the investment of funds in the income tax
+prevention account. The report shall include information on the annual review
+of the account's investment policy statement and an estimate of investment
+earnings available for deposit to the general fund for the immediately
+succeeding fiscal year.".
+Page 2-line 1 Delete "Section 1." and insert "Section 2.".
+Page 2-line 4 Before "9-15-103(a)," insert "9-4-203(a)(xiii),
+9-4-716(e),".
+Page 8-after line 12 Insert:
+"9-4-203. Definitions.
+(a) As used in this act:
+(xiii) "This act" means W.S. 9-4-202 through 9-4-226 9-4-227.
+9-4-716. State investment policy; investment consultant.
+(e) In investing monies of a fund or account which may be invested in
+stock of a corporation or other equities, the overall risk profile of the
+investments, excluding any specific public purpose investment authorized or
+directed by the legislature, shall not materially exceed the risk profile of a
+reference portfolio that consists of seventy percent (70%) global equities and
+thirty percent (30%) domestic fixed income investments. The state treasurer
+after consultation with the investment funds committee shall submit to the board
+the committee's recommendations of specific benchmarks for the measurement of
+the portfolio risk characteristics. The specific benchmarks shall be determined
+by the board. Any provision of law which restricts or expands the investment of
+a specific fund or account to a greater degree than the provisions of this
+subsection shall control over this subsection.".
+Page 17-line 18 Delete "Section 2." and insert "Section 3.".
+Page 17-line 21 Delete "Section 3." and insert "Section 4.".
+Page 18-line 8 Delete "Section 4." and insert "Section 5.". HARSHMAN
+3/3/2025 H 2nd Reading:Passed
+SF0070H3001/FAILED
+Page 1-line 1 After "funds;" insert "creating the income tax
+prevention account; providing for administration of the
+account;".
+
+Page 1-line 11 After "deposits;" insert "requiring reports;".
+Page 1-after line 13 Insert and renumber as necessary:
+"Section 1. W.S. 9-4-227 is created to read:
+9-4-227. Income tax prevention account.
+(a) There is created the income tax prevention account. The account shall
+consist of all funds transferred or appropriated to the account by law. All
+monies deposited or transferred into the account are inviolate and constitute
+a permanent or perpetual trust fund, subject to the provisions for the
+withdrawal of funds provided by this section.
+(b) The state treasurer shall invest all funds within the income tax
+prevention account in accordance with W.S. 9-4-715(a) and (c) through (e) and
+9-4-716. W.S. 9-4-716(e) shall not apply to the account. The state treasurer,
+or the treasurer's designee, which shall be registered under the federal
+Investment Advisor's Act of 1940, as amended and if required to be registered
+by the terms of that act, may invest the unobligated, unencumbered balance of
+the account in equities, including stocks of corporations. The account shall be
+invested so that the overall risk profile of the account's investments shall
+not materially exceed the risk profile of a reference portfolio that consists
+of eighty-five percent (85%) private equity and fifteen percent (15%) private
+credit investments. In adopting investment policy statements for the account,
+the board shall seek to preserve the balance of the account in a manner that
+strives for the highest possible risk-adjusted total net return consistent with
+an appropriate level of safety and liquidity, giving consideration to the
+account's potential extended investment period and the extended period during
+which monies in the account may be ineligible for withdrawal.
+(c) On July 1, 2025, if there is not less than two billion dollars
+($2,000,000,000.00) in the legislative stabilization reserve account on that
+date, the state auditor shall transfer one hundred million dollars
+($100,000,000.00) from the legislative stabilization reserve account to the
+income tax prevention account. The transfer under this subsection shall occur
+after all other transfers and appropriations from the legislative stabilization
+reserve account required by law are made. Additional transfers to the income
+tax prevention account in future years shall be subject to legislative
+appropriation.
+(d) Transfers made under subsection (c) of this section, and the
+investment of those transfers, shall be in accordance with all of the following:
+(i) The state treasurer shall separately account for each transfer
+made under subsection (c) of this section and shall separately account for all
+earnings from each transfer;
+(ii) Transfers shall not be withdrawn from the account;
+(iii) Investment earnings from each transfer shall not be
+withdrawn except in accordance with subsection (e) of this section.
+(e) On July 1 of each fiscal year after fourteen (14) fiscal years have
+elapsed, all investment earnings in the income tax prevention account arising
+from the transfer to the account made fourteen (14) fiscal years earlier shall
+be deposited in the general fund. For purposes of this subsection:
+
+(i) "Investment earnings" mean all interest income, dividends,
+realized capital gains and returned capital;
+(ii) Investment earnings shall be distributed under this
+subsection as the earnings are received or when the fund from which earnings
+are derived matures;
+(iii) The state treasurer may liquidate or sell investments in
+order to maximize earnings or minimize costs associated with making the deposit
+required under this subsection.
+(f) Not later than October 1 of each year, the state treasurer shall
+report to the joint appropriations committee and the select committee on capital
+financing and investments regarding the investment of funds in the income tax
+prevention account. The report shall include information on the annual review
+of the account's investment policy statement and an estimate of investment
+earnings available for deposit to the general fund for the immediately
+succeeding fiscal year.".
+Page 2-line 1 Delete "Section 1." and insert "Section 2.".
+Page 2-line 4 Before "9-15-103(a)," insert "9-4-203(a)(xiii),
+9-4-716(e),".
+Page 8-after line 12 Insert:
+"9-4-203. Definitions.
+(a) As used in this act:
+(xiii) "This act" means W.S. 9-4-202 through 9-4-226 9-4-227.
+9-4-716. State investment policy; investment consultant.
+(e) In investing monies of a fund or account which may be invested in
+stock of a corporation or other equities, the overall risk profile of the
+investments, excluding any specific public purpose investment authorized or
+directed by the legislature, shall not materially exceed the risk profile of a
+reference portfolio that consists of seventy percent (70%) global equities and
+thirty percent (30%) domestic fixed income investments. The state treasurer
+after consultation with the investment funds committee shall submit to the board
+the committee's recommendations of specific benchmarks for the measurement of
+the portfolio risk characteristics. The specific benchmarks shall be determined
+by the board. Any provision of law which restricts or expands the investment of
+a specific fund or account to a greater degree than the provisions of this
+subsection shall control over this subsection.".
+Page 17-line 18 Delete "Section 2." and insert "Section 3.".
+Page 17-line 21 Delete "Section 3." and insert "Section 4.".
+Page 18-line 8 Delete "Section 4." and insert "Section 5.". HARSHMAN
+ROLL CALL
+
+Ayes: Representative(s) Byron, Campbell, E, Chestek, Clouston, Connolly,
+Davis, Eklund, Erickson, Filer, Geringer, Harshman, Jarvis, Larsen, Larson,
+Lawley, Nicholas, Posey, Provenza, Sherwood, Storer, Thayer, Washut, Williams,
+Wylie
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Campbell, K, Guggenmos, Haroldson, Heiner, Hoeft, Johnson,
+Kelly, Knapp, Lien, Locke, Mccann, Neiman, Ottman, Pendergraft, Riggins,
+Rodriguez-Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver, Wasserburger,
+Webb, Webber, Wharff, Winter, Yin
+Excused: Representative(s) Brown, L, Lucas
+Ayes 24 Nays 36 Excused 2 Absent 0 Conflicts 0
+3/4/2025 H 3rd Reading:Passed 58-2-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, E, Campbell, K, Chestek, Clouston, Connolly,
+Davis, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner,
+Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke,
+Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Provenza, Riggins,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock, Tarver,
+Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie,
+Yin
+Nays: Representative(s) Eklund, Styvar
+Excused: Representative(s) Brown, L, Lucas
+Ayes 58 Nays 2 Excused 2 Absent 0 Conflicts 0
+3/4/2025 Assigned Number SEA No. 0084
+3/4/2025 S President Signed SEA No. 0084
+3/5/2025 H Speaker Signed SEA No. 0084
+3/17/2025 Governor Signed SEA No. 0084
+3/17/2025 Assigned Chapter Number 149
+Chapter No. 149 Session Laws of Wyoming 2025

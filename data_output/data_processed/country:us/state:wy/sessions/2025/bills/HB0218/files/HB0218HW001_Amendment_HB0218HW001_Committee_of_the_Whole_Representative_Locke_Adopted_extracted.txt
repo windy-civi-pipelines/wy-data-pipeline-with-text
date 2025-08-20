@@ -1,0 +1,55 @@
+Title: 3 Page 3-lines 1 through 4 Delete entirely and insert:
+Official Title: 3 Page 3-lines 1 through 4 Delete entirely and insert:
+Number of Sections: 1
+Source: versions - Amendment HB0218HW001 (Committee of the Whole) - Representative Locke (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0218HW001
+1 Page 2-lines 12 through 23 Delete entirely.
+2
+4
+5 "(b) Notwithstanding the requirements of W.S. 37-3-106(b) and
+6 (c), if a public utility seeks judicial review of a general rate
+7 case decision under this section that raises an argument under
+8 W.S. 16-3-114(c)(ii)(A) through (D), the commission may stay each
+9 part of any subsequent general rate case related to the issue under
+10 judicial review until resolution of the judicial review including
+11 any appeal.".
+12
+13 Page 3-line 7 Delete ":".
+14
+15 Page 3-line 9 Delete "(i)".
+16
+17 Page 3-line 12 Delete ";" and insert ".".
+18
+19 Page 3-lines 14 and 15 Delete entirely. LOCKE
+1
+
+
+================================================================================
+
+Raw Text:
+HB0218HW001
+1 Page 2-lines 12 through 23 Delete entirely.
+2
+3 Page 3-lines 1 through 4 Delete entirely and insert:
+4
+5 "(b) Notwithstanding the requirements of W.S. 37-3-106(b) and
+6 (c), if a public utility seeks judicial review of a general rate
+7 case decision under this section that raises an argument under
+8 W.S. 16-3-114(c)(ii)(A) through (D), the commission may stay each
+9 part of any subsequent general rate case related to the issue under
+10 judicial review until resolution of the judicial review including
+11 any appeal.".
+12
+13 Page 3-line 7 Delete ":".
+14
+15 Page 3-line 9 Delete "(i)".
+16
+17 Page 3-line 12 Delete ";" and insert ".".
+18
+19 Page 3-lines 14 and 15 Delete entirely. LOCKE
+1

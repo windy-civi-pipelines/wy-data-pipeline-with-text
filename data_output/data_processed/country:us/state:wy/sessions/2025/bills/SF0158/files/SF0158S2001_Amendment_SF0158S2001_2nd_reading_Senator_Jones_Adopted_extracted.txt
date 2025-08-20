@@ -1,0 +1,33 @@
+Title: 1 Page 5-lines 11 through 17 Delete entirely and insert:
+Official Title: 1 Page 5-lines 11 through 17 Delete entirely and insert:
+Number of Sections: 1
+Source: versions - Amendment SF0158S2001 (2nd reading) - Senator Jones (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0158S2001
+2
+3 "(i) At the time the network contract is entered into,
+4 renewed or material modifications relevant to granting access to
+5 a third party are made, the dental carrier allows any dental care
+6 provider that is part of the dental carrier's provider network to
+7 choose to not participate in third-party access to the dental care
+8 provider's service prices and discounted rates;". JONES
+1
+
+
+================================================================================
+
+Raw Text:
+SF0158S2001
+1 Page 5-lines 11 through 17 Delete entirely and insert:
+2
+3 "(i) At the time the network contract is entered into,
+4 renewed or material modifications relevant to granting access to
+5 a third party are made, the dental carrier allows any dental care
+6 provider that is part of the dental carrier's provider network to
+7 choose to not participate in third-party access to the dental care
+8 provider's service prices and discounted rates;". JONES
+1

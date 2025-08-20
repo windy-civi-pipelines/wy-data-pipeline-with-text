@@ -1,0 +1,33 @@
+Title: 1 Page 2-line 3 Strike "an" and insert "a Wyoming"; after
+Official Title: 1 Page 2-line 3 Strike "an" and insert "a Wyoming"; after
+Number of Sections: 1
+Source: versions - Amendment HB0154S2002 (2nd reading) - Senator Hicks (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0154S2002
+2 "election" delete balance of line and insert
+3 ".".
+4
+5 Page 2-line 4 Delete "Wyoming election or" and insert "(v)".
+6
+7 Page 2-line 9 After "of state" insert "after consultation
+8 with the county clerk". HICKS, PEARSON
+1
+
+
+================================================================================
+
+Raw Text:
+HB0154S2002
+1 Page 2-line 3 Strike "an" and insert "a Wyoming"; after
+2 "election" delete balance of line and insert
+3 ".".
+4
+5 Page 2-line 4 Delete "Wyoming election or" and insert "(v)".
+6
+7 Page 2-line 9 After "of state" insert "after consultation
+8 with the county clerk". HICKS, PEARSON
+1

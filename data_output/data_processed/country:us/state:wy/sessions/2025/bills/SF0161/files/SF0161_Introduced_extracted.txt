@@ -1,0 +1,1157 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0682
+SENATE FILE NO. SF0161
+Residential property-acquisition value.
+Sponsored by: Senator(s) McKeown, Biteman, French,
+Hutchings, Ide, Laursen, D, Pearson, Salazar
+and Smith, D
+for
+1 AN ACT relating to ad valorem taxation; establishing a
+2 rebuttable presumption in favor of acquisition value for
+3 specified real property; establishing fair market value of
+4 residential real property based on the date the property
+5 was last acquired; clarifying the use, disclosure and
+6 confidentiality of sworn statements for specified real
+7 property; providing definitions; making conforming
+8 amendments; requiring rulemaking; and providing for
+9 effective dates.
+10
+11 Be It Enacted by the Legislature of the State of Wyoming:
+12
+13 Section 1. W.S. 34-1-142(d), (e) and by creating a
+14 new subsection (j), 39-11-101(a)(vi), (xvii)(intro), by
+15 creating a new subparagraph (C) and by renumbering
+1 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 subparagraph (C) as (D), 39-11-102(c)(xv) and (d)(i),
+2 39-11-102.1(c)(ii) and (iii), 39-11-109(b)(iv),
+3 39-13-102(n), 39-13-103(b)(ii), (iii)(intro), by creating a
+4 new subparagraph (C), by renumbering subparagraph (C) as
+5 (D), (vi) through (viii) and by creating a new paragraph
+6 (xviii) and 39-13-109(b)(i) are amended to read:
+7
+8 34-1-142. Instrument transferring title to real
+9 property; procedure; exceptions; confidentiality.
+10
+11 (d) Except as provided in subsection (j) of this
+12 section, the sworn statements shall be used by the county
+13 assessors and the state board of equalization and the
+14 department of revenue along with other statements filed
+15 only as data in a collection of statistics which shall be
+16 used collectively in determining sales-price ratios by
+17 county. An individual statement shall not, by itself, be
+18 used by the county assessor to adjust the assessed value of
+19 any individual property.
+20
+21 (e) Except as provided in subsection (j) of this
+22 section, the statement is not a public record and shall be
+23 held confidential by the county clerk, county assessor,
+2 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 county board of equalization, the state board of
+2 equalization and the department of revenue. A statement may
+3 be disclosed pursuant to W.S. 39-13-109(a)(i) to any person
+4 wishing to review or contest his property tax assessment or
+5 valuation. The statement shall not be subject to discovery
+6 in any other county or state proceeding.
+7
+8 (j) Sworn statements regarding real property taxable
+9 under W.S. 39-13-103(b)(iii)(C) shall be available to a
+10 county assessor, a county board of equalization, the
+11 department of revenue and the state board of equalization
+12 for purposes of determining the value of property for
+13 purposes of property taxation. Nothing in this subsection
+14 shall waive the confidentiality requirements as specified
+15 in subsection (e) of this section.
+16
+17 39-11-101. Definitions.
+18
+19 (a) As used in this act unless otherwise specifically
+20 provided:
+21
+22 (vi) "Fair market value" means the amount in
+23 cash, or terms reasonably equivalent to cash, a well
+3 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 informed buyer is justified in paying for a property and a
+2 well informed seller is justified in accepting, assuming
+3 neither party to the transaction is acting under undue
+4 compulsion, and assuming the property has been offered in
+5 the open market for a reasonable time, except, fair market
+6 value of agricultural land shall be determined as provided
+7 by W.S. 39-13-103(b)(x), fair market value of residential
+8 real property shall be determined as provided in W.S.
+9 39-13-103(b)(xviii) and fair market value of mine products
+10 shall be determined as provided by W.S. 39-14-103(b),
+11 39-14-203(b), 39-14-303(b), 39-14-403(b), 39-14-503(b),
+12 39-14-603(b) and 39-14-703(b);
+13
+14 (xvii) "Taxable value" means a percent of the
+15 fair market value or other value required by law of
+16 property in a particular class as follows:
+17
+18 (C) Residential real property, eight and
+19 three-tenths percent (8.3%), provided that the value of
+20 residential real property shall be determined as provided
+21 in W.S. 39-13-103(b)(xviii);
+22
+4 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 (C)(D) All other property, real and
+2 personal, including property valued and assessed under W.S.
+3 39-13-102(m)(vi) and (ix), nine and one-half percent
+4 (9.5%).
+5
+6 39-11-102. Administration; confidentiality;
+7 department of revenue.
+8
+9 (c) In addition to the other powers and duties
+10 imposed by law, the department shall:
+11
+12 (xv) Prescribe the system of establishing the
+13 fair market value or other value required by law of all
+14 property valued for property taxation to ensure that all
+15 property within a class is uniformly valued. The county
+16 assessor and the facilities of his office, together with
+17 the deputy assessors and clerical assistants in each
+18 county, at the direction of the department, shall give full
+19 aid in the installation of the prescribed system in the
+20 county. The county shall also furnish the necessary
+21 supplies and records for installing the system;
+22
+5 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 (d) The following shall be adopted in accordance with
+2 the requirements and procedures of the Wyoming
+3 Administrative Procedure Act:
+4
+5 (i) Adoption of any manual, formula, method or
+6 system to be used to determine the fair market value or
+7 other value required by law of property for tax purposes;
+8
+9 39-11-102.1. Administration; state board of
+10 equalization.
+11
+12 (c) The state board of equalization shall perform the
+13 duties specified in article 15, section 10 of the Wyoming
+14 constitution and shall hear appeals from county boards of
+15 equalization and review final decisions of the department
+16 upon application of any interested person adversely
+17 affected, including boards of county commissioners for the
+18 purposes of this subsection, under the contested case
+19 procedures of the Wyoming Administrative Procedure Act.
+20 Upon request of a county board of equalization providing
+21 compelling reasons to do so, the state board of
+22 equalization may accept a case certified directly to the
+23 state board of equalization pursuant to rules adopted by
+6 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 the state board of equalization. The state board of
+2 equalization shall accept a case certified directly to the
+3 state board of equalization that involves property that may
+4 subject a county to tax liability as provided in W.S.
+5 39-13-102(c)(iv). The board shall also review final
+6 decisions of the department of transportation concerning
+7 the assessment or application of taxes authorized under
+8 this title upon application of any interested person
+9 adversely affected. Any interested person adversely
+10 affected by the adoption, amendment or repeal of a rule
+11 pursuant to W.S. 16-3-103(a) shall be afforded an
+12 opportunity for a hearing before the board. In addition,
+13 the board shall:
+14
+15 (ii) Prescribe the form for the abstract of the
+16 assessment roll, examine and compare the abstracts of the
+17 counties and equalize the same, so that all taxable
+18 property in the state is assessed at its fair market value,
+19 and to that end shall add to or deduct from the aggregate
+20 valuation of the property, or any class or classes of
+21 property, in any county such percent as will bring the same
+22 to its fair market value. When any assessed valuation is to
+23 be increased or decreased, the board shall provide not less
+7 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 than twenty (20) days notice of the proposed action to the
+2 county board of equalization and county assessor of the
+3 county in which the property is situated. If requested, the
+4 state board of equalization shall provide an opportunity
+5 for a hearing for the county board of equalization and
+6 assessor of the affected county. The hearing shall be held
+7 in the affected county. After a hearing, if requested, the
+8 county board of equalization shall take the necessary
+9 action to effectuate the action taken by the state board of
+10 equalization. The state board of equalization shall certify
+11 the valuation to be used for all tax levies on or before
+12 the first Monday in August. The board shall communicate its
+13 equalization actions to the department, along with any
+14 recommendations for improved work practices of county
+15 assessors. This paragraph shall not apply to residential
+16 real property taxable under W.S. 39-13-103(b)(iii)(C);
+17
+18 (iii) When in the opinion of the board, it would
+19 be of assistance in equalizing values under paragraph (ii)
+20 of this subsection, the board may require any county
+21 assessor to furnish statements showing assessments of the
+22 property of any person within the county. The board shall
+23 consider and equalize county assessments under paragraph
+8 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 (ii) of this subsection and may increase or decrease
+2 assessments returned by the county board of equalization
+3 when the property so assessed appears to be over-valued or
+4 under-valued, first giving notice to those persons
+5 affected. The notice shall fix a time and place of hearing.
+6 Any affected person may appeal from the decision of the
+7 board to the district court of the county in which the
+8 property is situated. This paragraph shall not apply to
+9 residential real property taxable under W.S.
+10 39-13-103(b)(iii)(C);
+11
+12 39-11-109. Taxpayer remedies.
+13
+14 (b) Appeals. The following shall apply:
+15
+16 (iv) In any appeal to the board authorized by
+17 this section, the taxpayer may present any credible
+18 evidence, including expert opinion testimony, to rebut the
+19 presumption in favor of a valuation asserted by the
+20 department. The rebuttable presumption in favor of a
+21 valuation asserted by the department shall not apply to the
+22 extent the rebuttable presumption conflicts with the
+23 rebuttable presumption in W.S. 39-13-103(b)(xviii)(A)(III).
+9 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 The board shall make specific findings and conclusions as
+2 to the evidence presented.
+3
+4 39-13-102. Administration; confidentiality.
+5
+6 (n) Following determination of the fair market value
+7 or other value required by law of property the department
+8 shall notify the taxpayer by mail or, if offered by the
+9 department and upon request of the taxpayer, by electronic
+10 transmission of the assessed value. The person assessed may
+11 file written objections to the assessment with the board
+12 within thirty (30) days of the date of postmark or the date
+13 of electronic transmission, whichever is earlier, and
+14 appear before the board at a time specified by the board.
+15 For purposes of this subsection, if a written objection is
+16 mailed or sent by electronic transmission by the person
+17 assessed, it shall be deemed timely filed if it is
+18 postmarked or transmitted not later than thirty (30) days
+19 after the mailing or electronic transmission of the
+20 notification of the assessed value. The person assessed
+21 shall also file a copy of the written objections with the
+22 county treasurer of the county in which the property is
+23 located, who shall notify the county assessor and the board
+10 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 of county commissioners, with an estimate of the tax amount
+2 under appeal based upon the previous year's tax levy.
+3
+4 39-13-103. Imposition.
+5
+6 (b) Basis of tax. The following shall apply:
+7
+8 (ii) All taxable property shall be annually
+9 valued at its fair market value or other value required by
+10 law. Except as otherwise provided by law for specific
+11 property, the department shall prescribe by rule and
+12 regulation the appraisal methods and systems for
+13 determining fair market value using generally accepted
+14 appraisal standards;
+15
+16 (iii) Beginning January 1, 1989, "Taxable value"
+17 means a percent of the fair market value or other value
+18 required by law of property in a particular class as
+19 follows:
+20
+21 (C) Residential real property, eight and
+22 three-tenths percent (8.3%), provided that the value of
+11 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 residential real property shall be determined as provided
+2 in paragraph (xviii) of this subsection;
+3
+4 (C)(D) All other property, real and
+5 personal, nine and one-half percent (9.5%).
+6
+7 (vi) Each deputy county assessor upon completing
+8 the assessment of property within the district assigned to
+9 him shall immediately deliver all books, records, schedules
+10 and lists to the county assessor and make and subscribe the
+11 following oath: "I, ...., deputy assessor in and for
+12 district No. ...., county of ...., State of Wyoming, do
+13 solemnly swear (or affirm), that I have obtained from every
+14 person within the district, the lists and schedules
+15 required by law, and have received the lists and schedules
+16 according to law, from every person in the district; that I
+17 have carefully examined each of the lists and schedules,
+18 and have revised and corrected the lists when necessary;
+19 that I have to the best of my knowledge and ability valued
+20 the property in the lists and schedules at its fair market
+21 value or other value as required by law; that in no case
+22 have I knowingly omitted to perform any duty required of me
+23 by law and have not, in any way, connived at any evasion or
+12 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 violation of any of the requirements of law in relation to
+2 the listing and valuation of property.";
+3
+4 (vii) The county assessor shall enter in books
+5 furnished for that purpose, from the tax schedule, the
+6 enumeration and fair market value or other value as
+7 required by law of all taxable property assessed by him or
+8 his deputies. The county assessor shall enter the names of
+9 persons against whom property is assessed in the county
+10 assessment roll in alphabetical order. On or before the
+11 fourth Monday in April, or as soon thereafter as is
+12 practicable, the county assessor shall send all assessment
+13 schedules to taxpayers by mail at their last known address
+14 or, if offered by the county and upon request of the
+15 taxpayer, by electronic transmission, and return the county
+16 assessment roll enumerating the property and value assessed
+17 by him or his deputies to the board of county commissioners
+18 together with a list stating the assessed value of taxable
+19 property within each school district, municipality or
+20 special district in the county;
+21
+22 (viii) Every assessment schedule sent to a
+23 taxpayer shall contain the property's estimated fair market
+13 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 value or other value required by law for the current and
+2 previous year, or, productive value in the case of
+3 agricultural property. The schedule shall also contain the
+4 assessment ratio as provided by paragraph (b)(iii) of this
+5 section for the taxable property, the amount of taxes
+6 assessed on the taxable property from the previous year,
+7 and an estimate of the taxes which will be due and payable
+8 for the current year based on the previous year's mill
+9 levies and, if the property is a single family residential
+10 structure, an estimate of the taxes that will be avoided if
+11 the property is eligible for the exemptions under W.S.
+12 39-11-105(a)(xliii) and (xliv). The schedule shall contain
+13 a statement of the process to contest assessments as
+14 prescribed by W.S. 39-13-109(b)(i);
+15
+16 (xviii) The following shall apply to the
+17 valuation of residential real property, as made subject to
+18 taxation in subparagraph (iii)(C) of this subsection:
+19
+20 (A) Beginning January 1, 2026, the fair
+21 market value of residential real property shall be
+22 determined as follows:
+23
+14 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 (I) For any residential real property
+2 that was last acquired on or before December 31, 2019, the
+3 base year value for the residential real property shall be
+4 equal to the fair market value of the property on January
+5 1, 2019;
+6
+7 (II) For any residential real property
+8 that was last acquired on or after January 1, 2020 and on
+9 or before December 31, 2025, the base year value for the
+10 residential real property shall be equal to the fair market
+11 value of the property on January 1 of the year the property
+12 was last acquired;
+13
+14 (III) For any residential real
+15 property that is acquired on or after January 1, 2026,
+16 there shall be a rebuttable presumption that the
+17 acquisition value of the property is the fair market value
+18 of the property and the acquisition value shall be used as
+19 the base year value for the property except as provided in
+20 subdivision (IV) of this subparagraph;
+21
+22 (IV) Notwithstanding subdivision (III)
+23 of this subparagraph, for any residential real property
+15 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 that is acquired on or after January 1, 2026, the base year
+2 value for the residential real property shall be equal to
+3 the fair market value of the property on January 1 of the
+4 year the property was acquired if:
+5
+6 (1) The presumption under
+7 subdivision (III) of this subparagraph is rebutted by a
+8 preponderance of the evidence showing that the acquisition
+9 price paid to acquire the property was not fair market
+10 value because a party to the transaction was acting under
+11 undue influence or the terms of the transaction were not
+12 negotiated at arms-length between an informed buyer and
+13 seller; or
+14
+15 (2) The owner of the residential
+16 real property does not submit information that is
+17 sufficient to establish the acquisition value of the
+18 residential real property under subdivision (III) of this
+19 subparagraph. The department shall promulgate rules
+20 regarding the documentation and procedures required to
+21 establish acquisition value under this paragraph.
+22
+16 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 (B) The base year value determined under
+2 subparagraph (A) of this paragraph shall be adjusted as
+3 necessary to account for increases in the value of the
+4 property caused by new construction or significant
+5 additions to the residential real property. The value of
+6 the new construction or significant additions shall be
+7 added to the base year value of the residential real
+8 property. The value of the new construction or significant
+9 additions shall be determined by the construction costs.
+10 The department shall adopt rules specifying how
+11 construction costs are determined. Actual costs may be
+12 submitted to determine construction costs. If actual costs
+13 are not submitted or if the construction costs do not
+14 represent fair value because a party to the transaction was
+15 acting under undue influence or the terms of the
+16 transaction were not negotiated at arms-length, the
+17 construction costs shall be determined based on average
+18 construction costs in the state for the applicable tax
+19 year. The department shall adopt rules specifying how
+20 significant additions to residential real property and
+21 construction costs are reported. As used in this
+22 subdivision, "significant addition" means any construction
+23 of real property that adds habitable square feet to the
+17 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 residential real property and includes construction where
+2 all or a portion of the residential real property is
+3 demolished and reconstructed. "Significant addition" shall
+4 not include finishing an unfinished portion of an existing
+5 residential property;
+6
+7 (C) The amount determined pursuant to
+8 subparagraphs (A) and (B) of this paragraph shall be the
+9 fair market value of the residential real property until
+10 ownership of the property is transferred to a new person.
+11 Each time residential real property is transferred to a new
+12 person, the property shall be valued as provided in
+13 subparagraph (A) of this paragraph to determine the new
+14 base year value of the property. The new base year value of
+15 the property shall be subject to any adjustment required by
+16 subparagraph (B) of this paragraph in subsequent tax years;
+17
+18 (D) As used in this paragraph:
+19
+20 (I) "Acquisition value" means the
+21 actual full amount paid or to be paid to acquire
+22 residential real property;
+23
+18 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 (II) "Residential real property" means
+2 real property improved by a dwelling designed to house not
+3 more than four (4) families and includes a detached garage
+4 owned by the owner of the dwelling and any associated
+5 residential land up to thirty-five (35) acres where the
+6 dwelling is located if the land is owned by the owner of
+7 the dwelling. The dwelling may include any type of
+8 residence including a single family home, an individual
+9 condominium unit, a mobile home or a trailer if the
+10 dwelling is used as a primary residence;
+11
+12 (III) "Transfer" or "acquisition" of
+13 residential real property does not include:
+14
+15 (1) A transfer of property
+16 between spouses;
+17
+18 (2) A transfer of property
+19 pursuant to a court order including to effectuate a
+20 settlement agreement or in compliance with a decree of
+21 divorce or judicial separation;
+22
+19 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 (3) A transfer of property to a
+2 trust established for the benefit of the prior owner;
+3
+4 (4) A transfer of property to a
+5 corporation, partnership or limited liability company if
+6 the prior owner of the property is a shareholder or owner
+7 of the corporation, partnership or limited liability
+8 company;
+9
+10 (5) Any other transfer of
+11 property that the department determines by rule should not
+12 be an acquisition of property due to the relationship of
+13 the parties or other factors.
+14
+15 39-13-109. Taxpayer remedies.
+16
+17 (b) Appeals. The following shall apply:
+18
+19 (i) Any person wishing to contest an assessment
+20 of his property shall file not later than thirty (30) days
+21 after the date of the assessment schedule properly sent
+22 pursuant to W.S. 39-13-103(b)(vii), a statement with the
+23 county assessor specifying the reasons why the assessment
+20 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 is incorrect. For purposes of this paragraph, if a
+2 statement of reasons is mailed or sent by electronic
+3 transmission by the person assessed, it shall be deemed
+4 timely filed if it is postmarked or transmitted not later
+5 than thirty (30) days after the mailing or the electronic
+6 transmission of the notification of the assessment
+7 schedule. The county assessor shall provide a copy to the
+8 county clerk as clerk of the county board of equalization.
+9 The county assessor and the person contesting the
+10 assessment, or his agent, shall disclose witnesses and
+11 exchange information, evidence and documents relevant to
+12 the appeal, including sales information from relevant
+13 statements of consideration if requested, no later than
+14 thirty (30) days prior to the scheduled county board of
+15 equalization hearing. The assessor shall specifically
+16 identify the sales information used to determine market
+17 value of the property under appeal. A county board of
+18 equalization may receive evidence relative to any
+19 assessment and may require the person assessed or his agent
+20 or attorney to appear before it, be examined and produce
+21 any documents relating to the assessment. The appeal may be
+22 dismissed if any person willfully neglects or refuses to
+23 attend a meeting of a county board of equalization and be
+21 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 examined or answer any material question upon the board's
+2 request. The state board of equalization shall adopt rules
+3 to be followed by any county board of equalization when
+4 conducting appeals under this subsection. All hearings
+5 shall be conducted in accordance with the rules adopted by
+6 the state board of equalization. Each hearing shall be
+7 recorded electronically or by a court reporter or a
+8 qualified stenographer or transcriptionist. The taxpayer
+9 may present any evidence that is relevant, material or not
+10 repetitious, including expert opinion testimony, to rebut
+11 the presumption in favor of a valuation asserted by the
+12 county assessor or related to the presumption in W.S.
+13 39-13-103(b)(xviii)(A)(III). The county attorney or his
+14 designee may represent the county board or the assessor,
+15 but not both. The assessor may be represented by an
+16 attorney and the board may hire a hearing officer. All
+17 deliberations of the board shall be in public. The county
+18 board of equalization may affirm the assessor's valuation
+19 or find in favor of the taxpayer and remand the case back
+20 to the assessor. The board shall make specific written
+21 findings and conclusions as to the evidence presented not
+22 later than October 1 of each year;
+23
+22 SF0161
+2025 STATE OF WYOMING 25LSO-0682
+1 Section 2. The state board of equalization and the
+2 department of revenue shall promulgate all rules necessary
+3 to implement this act not later than January 1, 2026.
+4
+5 Section 3.
+6
+7 (a) Except as otherwise provided in subsection (b) of
+8 this section, this act is effective immediately upon
+9 completion of all acts necessary for a bill to become law
+10 as provided by Article 4, Section 8 of the Wyoming
+11 Constitution.
+12
+13 (b) Section 1 of this act is effective January 1,
+14 2026.
+15 (END)
+23 SF0161
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0682
+SENATE FILE NO. SF0161
+Residential property-acquisition value.
+Sponsored by: Senator(s) McKeown, Biteman, French,
+Hutchings, Ide, Laursen, D, Pearson, Salazar
+and Smith, D
+A BILL
+for
+1 AN ACT relating to ad valorem taxation; establishing a
+2 rebuttable presumption in favor of acquisition value for
+3 specified real property; establishing fair market value of
+4 residential real property based on the date the property
+5 was last acquired; clarifying the use, disclosure and
+6 confidentiality of sworn statements for specified real
+7 property; providing definitions; making conforming
+8 amendments; requiring rulemaking; and providing for
+9 effective dates.
+10
+11 Be It Enacted by the Legislature of the State of Wyoming:
+12
+13 Section 1. W.S. 34-1-142(d), (e) and by creating a
+14 new subsection (j), 39-11-101(a)(vi), (xvii)(intro), by
+15 creating a new subparagraph (C) and by renumbering
+1 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 subparagraph (C) as (D), 39-11-102(c)(xv) and (d)(i),
+2 39-11-102.1(c)(ii) and (iii), 39-11-109(b)(iv),
+3 39-13-102(n), 39-13-103(b)(ii), (iii)(intro), by creating a
+4 new subparagraph (C), by renumbering subparagraph (C) as
+5 (D), (vi) through (viii) and by creating a new paragraph
+6 (xviii) and 39-13-109(b)(i) are amended to read:
+7
+8 34-1-142. Instrument transferring title to real
+9 property; procedure; exceptions; confidentiality.
+10
+11 (d) Except as provided in subsection (j) of this
+12 section, the sworn statements shall be used by the county
+13 assessors and the state board of equalization and the
+14 department of revenue along with other statements filed
+15 only as data in a collection of statistics which shall be
+16 used collectively in determining sales-price ratios by
+17 county. An individual statement shall not, by itself, be
+18 used by the county assessor to adjust the assessed value of
+19 any individual property.
+20
+21 (e) Except as provided in subsection (j) of this
+22 section, the statement is not a public record and shall be
+23 held confidential by the county clerk, county assessor,
+2 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 county board of equalization, the state board of
+2 equalization and the department of revenue. A statement may
+3 be disclosed pursuant to W.S. 39-13-109(a)(i) to any person
+4 wishing to review or contest his property tax assessment or
+5 valuation. The statement shall not be subject to discovery
+6 in any other county or state proceeding.
+7
+8 (j) Sworn statements regarding real property taxable
+9 under W.S. 39-13-103(b)(iii)(C) shall be available to a
+10 county assessor, a county board of equalization, the
+11 department of revenue and the state board of equalization
+12 for purposes of determining the value of property for
+13 purposes of property taxation. Nothing in this subsection
+14 shall waive the confidentiality requirements as specified
+15 in subsection (e) of this section.
+16
+17 39-11-101. Definitions.
+18
+19 (a) As used in this act unless otherwise specifically
+20 provided:
+21
+22 (vi) "Fair market value" means the amount in
+23 cash, or terms reasonably equivalent to cash, a well
+3 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 informed buyer is justified in paying for a property and a
+2 well informed seller is justified in accepting, assuming
+3 neither party to the transaction is acting under undue
+4 compulsion, and assuming the property has been offered in
+5 the open market for a reasonable time, except, fair market
+6 value of agricultural land shall be determined as provided
+7 by W.S. 39-13-103(b)(x), fair market value of residential
+8 real property shall be determined as provided in W.S.
+9 39-13-103(b)(xviii) and fair market value of mine products
+10 shall be determined as provided by W.S. 39-14-103(b),
+11 39-14-203(b), 39-14-303(b), 39-14-403(b), 39-14-503(b),
+12 39-14-603(b) and 39-14-703(b);
+13
+14 (xvii) "Taxable value" means a percent of the
+15 fair market value or other value required by law of
+16 property in a particular class as follows:
+17
+18 (C) Residential real property, eight and
+19 three-tenths percent (8.3%), provided that the value of
+20 residential real property shall be determined as provided
+21 in W.S. 39-13-103(b)(xviii);
+22
+4 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 (C)(D) All other property, real and
+2 personal, including property valued and assessed under W.S.
+3 39-13-102(m)(vi) and (ix), nine and one-half percent
+4 (9.5%).
+5
+6 39-11-102. Administration; confidentiality;
+7 department of revenue.
+8
+9 (c) In addition to the other powers and duties
+10 imposed by law, the department shall:
+11
+12 (xv) Prescribe the system of establishing the
+13 fair market value or other value required by law of all
+14 property valued for property taxation to ensure that all
+15 property within a class is uniformly valued. The county
+16 assessor and the facilities of his office, together with
+17 the deputy assessors and clerical assistants in each
+18 county, at the direction of the department, shall give full
+19 aid in the installation of the prescribed system in the
+20 county. The county shall also furnish the necessary
+21 supplies and records for installing the system;
+22
+5 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 (d) The following shall be adopted in accordance with
+2 the requirements and procedures of the Wyoming
+3 Administrative Procedure Act:
+4
+5 (i) Adoption of any manual, formula, method or
+6 system to be used to determine the fair market value or
+7 other value required by law of property for tax purposes;
+8
+9 39-11-102.1. Administration; state board of
+10 equalization.
+11
+12 (c) The state board of equalization shall perform the
+13 duties specified in article 15, section 10 of the Wyoming
+14 constitution and shall hear appeals from county boards of
+15 equalization and review final decisions of the department
+16 upon application of any interested person adversely
+17 affected, including boards of county commissioners for the
+18 purposes of this subsection, under the contested case
+19 procedures of the Wyoming Administrative Procedure Act.
+20 Upon request of a county board of equalization providing
+21 compelling reasons to do so, the state board of
+22 equalization may accept a case certified directly to the
+23 state board of equalization pursuant to rules adopted by
+6 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 the state board of equalization. The state board of
+2 equalization shall accept a case certified directly to the
+3 state board of equalization that involves property that may
+4 subject a county to tax liability as provided in W.S.
+5 39-13-102(c)(iv). The board shall also review final
+6 decisions of the department of transportation concerning
+7 the assessment or application of taxes authorized under
+8 this title upon application of any interested person
+9 adversely affected. Any interested person adversely
+10 affected by the adoption, amendment or repeal of a rule
+11 pursuant to W.S. 16-3-103(a) shall be afforded an
+12 opportunity for a hearing before the board. In addition,
+13 the board shall:
+14
+15 (ii) Prescribe the form for the abstract of the
+16 assessment roll, examine and compare the abstracts of the
+17 counties and equalize the same, so that all taxable
+18 property in the state is assessed at its fair market value,
+19 and to that end shall add to or deduct from the aggregate
+20 valuation of the property, or any class or classes of
+21 property, in any county such percent as will bring the same
+22 to its fair market value. When any assessed valuation is to
+23 be increased or decreased, the board shall provide not less
+7 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 than twenty (20) days notice of the proposed action to the
+2 county board of equalization and county assessor of the
+3 county in which the property is situated. If requested, the
+4 state board of equalization shall provide an opportunity
+5 for a hearing for the county board of equalization and
+6 assessor of the affected county. The hearing shall be held
+7 in the affected county. After a hearing, if requested, the
+8 county board of equalization shall take the necessary
+9 action to effectuate the action taken by the state board of
+10 equalization. The state board of equalization shall certify
+11 the valuation to be used for all tax levies on or before
+12 the first Monday in August. The board shall communicate its
+13 equalization actions to the department, along with any
+14 recommendations for improved work practices of county
+15 assessors. This paragraph shall not apply to residential
+16 real property taxable under W.S. 39-13-103(b)(iii)(C);
+17
+18 (iii) When in the opinion of the board, it would
+19 be of assistance in equalizing values under paragraph (ii)
+20 of this subsection, the board may require any county
+21 assessor to furnish statements showing assessments of the
+22 property of any person within the county. The board shall
+23 consider and equalize county assessments under paragraph
+8 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 (ii) of this subsection and may increase or decrease
+2 assessments returned by the county board of equalization
+3 when the property so assessed appears to be over-valued or
+4 under-valued, first giving notice to those persons
+5 affected. The notice shall fix a time and place of hearing.
+6 Any affected person may appeal from the decision of the
+7 board to the district court of the county in which the
+8 property is situated. This paragraph shall not apply to
+9 residential real property taxable under W.S.
+10 39-13-103(b)(iii)(C);
+11
+12 39-11-109. Taxpayer remedies.
+13
+14 (b) Appeals. The following shall apply:
+15
+16 (iv) In any appeal to the board authorized by
+17 this section, the taxpayer may present any credible
+18 evidence, including expert opinion testimony, to rebut the
+19 presumption in favor of a valuation asserted by the
+20 department. The rebuttable presumption in favor of a
+21 valuation asserted by the department shall not apply to the
+22 extent the rebuttable presumption conflicts with the
+23 rebuttable presumption in W.S. 39-13-103(b)(xviii)(A)(III).
+9 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 The board shall make specific findings and conclusions as
+2 to the evidence presented.
+3
+4 39-13-102. Administration; confidentiality.
+5
+6 (n) Following determination of the fair market value
+7 or other value required by law of property the department
+8 shall notify the taxpayer by mail or, if offered by the
+9 department and upon request of the taxpayer, by electronic
+10 transmission of the assessed value. The person assessed may
+11 file written objections to the assessment with the board
+12 within thirty (30) days of the date of postmark or the date
+13 of electronic transmission, whichever is earlier, and
+14 appear before the board at a time specified by the board.
+15 For purposes of this subsection, if a written objection is
+16 mailed or sent by electronic transmission by the person
+17 assessed, it shall be deemed timely filed if it is
+18 postmarked or transmitted not later than thirty (30) days
+19 after the mailing or electronic transmission of the
+20 notification of the assessed value. The person assessed
+21 shall also file a copy of the written objections with the
+22 county treasurer of the county in which the property is
+23 located, who shall notify the county assessor and the board
+10 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 of county commissioners, with an estimate of the tax amount
+2 under appeal based upon the previous year's tax levy.
+3
+4 39-13-103. Imposition.
+5
+6 (b) Basis of tax. The following shall apply:
+7
+8 (ii) All taxable property shall be annually
+9 valued at its fair market value or other value required by
+10 law. Except as otherwise provided by law for specific
+11 property, the department shall prescribe by rule and
+12 regulation the appraisal methods and systems for
+13 determining fair market value using generally accepted
+14 appraisal standards;
+15
+16 (iii) Beginning January 1, 1989, "Taxable value"
+17 means a percent of the fair market value or other value
+18 required by law of property in a particular class as
+19 follows:
+20
+21 (C) Residential real property, eight and
+22 three-tenths percent (8.3%), provided that the value of
+11 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 residential real property shall be determined as provided
+2 in paragraph (xviii) of this subsection;
+3
+4 (C)(D) All other property, real and
+5 personal, nine and one-half percent (9.5%).
+6
+7 (vi) Each deputy county assessor upon completing
+8 the assessment of property within the district assigned to
+9 him shall immediately deliver all books, records, schedules
+10 and lists to the county assessor and make and subscribe the
+11 following oath: "I, ...., deputy assessor in and for
+12 district No. ...., county of ...., State of Wyoming, do
+13 solemnly swear (or affirm), that I have obtained from every
+14 person within the district, the lists and schedules
+15 required by law, and have received the lists and schedules
+16 according to law, from every person in the district; that I
+17 have carefully examined each of the lists and schedules,
+18 and have revised and corrected the lists when necessary;
+19 that I have to the best of my knowledge and ability valued
+20 the property in the lists and schedules at its fair market
+21 value or other value as required by law; that in no case
+22 have I knowingly omitted to perform any duty required of me
+23 by law and have not, in any way, connived at any evasion or
+12 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 violation of any of the requirements of law in relation to
+2 the listing and valuation of property.";
+3
+4 (vii) The county assessor shall enter in books
+5 furnished for that purpose, from the tax schedule, the
+6 enumeration and fair market value or other value as
+7 required by law of all taxable property assessed by him or
+8 his deputies. The county assessor shall enter the names of
+9 persons against whom property is assessed in the county
+10 assessment roll in alphabetical order. On or before the
+11 fourth Monday in April, or as soon thereafter as is
+12 practicable, the county assessor shall send all assessment
+13 schedules to taxpayers by mail at their last known address
+14 or, if offered by the county and upon request of the
+15 taxpayer, by electronic transmission, and return the county
+16 assessment roll enumerating the property and value assessed
+17 by him or his deputies to the board of county commissioners
+18 together with a list stating the assessed value of taxable
+19 property within each school district, municipality or
+20 special district in the county;
+21
+22 (viii) Every assessment schedule sent to a
+23 taxpayer shall contain the property's estimated fair market
+13 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 value or other value required by law for the current and
+2 previous year, or, productive value in the case of
+3 agricultural property. The schedule shall also contain the
+4 assessment ratio as provided by paragraph (b)(iii) of this
+5 section for the taxable property, the amount of taxes
+6 assessed on the taxable property from the previous year,
+7 and an estimate of the taxes which will be due and payable
+8 for the current year based on the previous year's mill
+9 levies and, if the property is a single family residential
+10 structure, an estimate of the taxes that will be avoided if
+11 the property is eligible for the exemptions under W.S.
+12 39-11-105(a)(xliii) and (xliv). The schedule shall contain
+13 a statement of the process to contest assessments as
+14 prescribed by W.S. 39-13-109(b)(i);
+15
+16 (xviii) The following shall apply to the
+17 valuation of residential real property, as made subject to
+18 taxation in subparagraph (iii)(C) of this subsection:
+19
+20 (A) Beginning January 1, 2026, the fair
+21 market value of residential real property shall be
+22 determined as follows:
+23
+14 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 (I) For any residential real property
+2 that was last acquired on or before December 31, 2019, the
+3 base year value for the residential real property shall be
+4 equal to the fair market value of the property on January
+5 1, 2019;
+6
+7 (II) For any residential real property
+8 that was last acquired on or after January 1, 2020 and on
+9 or before December 31, 2025, the base year value for the
+10 residential real property shall be equal to the fair market
+11 value of the property on January 1 of the year the property
+12 was last acquired;
+13
+14 (III) For any residential real
+15 property that is acquired on or after January 1, 2026,
+16 there shall be a rebuttable presumption that the
+17 acquisition value of the property is the fair market value
+18 of the property and the acquisition value shall be used as
+19 the base year value for the property except as provided in
+20 subdivision (IV) of this subparagraph;
+21
+22 (IV) Notwithstanding subdivision (III)
+23 of this subparagraph, for any residential real property
+15 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 that is acquired on or after January 1, 2026, the base year
+2 value for the residential real property shall be equal to
+3 the fair market value of the property on January 1 of the
+4 year the property was acquired if:
+5
+6 (1) The presumption under
+7 subdivision (III) of this subparagraph is rebutted by a
+8 preponderance of the evidence showing that the acquisition
+9 price paid to acquire the property was not fair market
+10 value because a party to the transaction was acting under
+11 undue influence or the terms of the transaction were not
+12 negotiated at arms-length between an informed buyer and
+13 seller; or
+14
+15 (2) The owner of the residential
+16 real property does not submit information that is
+17 sufficient to establish the acquisition value of the
+18 residential real property under subdivision (III) of this
+19 subparagraph. The department shall promulgate rules
+20 regarding the documentation and procedures required to
+21 establish acquisition value under this paragraph.
+22
+16 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 (B) The base year value determined under
+2 subparagraph (A) of this paragraph shall be adjusted as
+3 necessary to account for increases in the value of the
+4 property caused by new construction or significant
+5 additions to the residential real property. The value of
+6 the new construction or significant additions shall be
+7 added to the base year value of the residential real
+8 property. The value of the new construction or significant
+9 additions shall be determined by the construction costs.
+10 The department shall adopt rules specifying how
+11 construction costs are determined. Actual costs may be
+12 submitted to determine construction costs. If actual costs
+13 are not submitted or if the construction costs do not
+14 represent fair value because a party to the transaction was
+15 acting under undue influence or the terms of the
+16 transaction were not negotiated at arms-length, the
+17 construction costs shall be determined based on average
+18 construction costs in the state for the applicable tax
+19 year. The department shall adopt rules specifying how
+20 significant additions to residential real property and
+21 construction costs are reported. As used in this
+22 subdivision, "significant addition" means any construction
+23 of real property that adds habitable square feet to the
+17 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 residential real property and includes construction where
+2 all or a portion of the residential real property is
+3 demolished and reconstructed. "Significant addition" shall
+4 not include finishing an unfinished portion of an existing
+5 residential property;
+6
+7 (C) The amount determined pursuant to
+8 subparagraphs (A) and (B) of this paragraph shall be the
+9 fair market value of the residential real property until
+10 ownership of the property is transferred to a new person.
+11 Each time residential real property is transferred to a new
+12 person, the property shall be valued as provided in
+13 subparagraph (A) of this paragraph to determine the new
+14 base year value of the property. The new base year value of
+15 the property shall be subject to any adjustment required by
+16 subparagraph (B) of this paragraph in subsequent tax years;
+17
+18 (D) As used in this paragraph:
+19
+20 (I) "Acquisition value" means the
+21 actual full amount paid or to be paid to acquire
+22 residential real property;
+23
+18 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 (II) "Residential real property" means
+2 real property improved by a dwelling designed to house not
+3 more than four (4) families and includes a detached garage
+4 owned by the owner of the dwelling and any associated
+5 residential land up to thirty-five (35) acres where the
+6 dwelling is located if the land is owned by the owner of
+7 the dwelling. The dwelling may include any type of
+8 residence including a single family home, an individual
+9 condominium unit, a mobile home or a trailer if the
+10 dwelling is used as a primary residence;
+11
+12 (III) "Transfer" or "acquisition" of
+13 residential real property does not include:
+14
+15 (1) A transfer of property
+16 between spouses;
+17
+18 (2) A transfer of property
+19 pursuant to a court order including to effectuate a
+20 settlement agreement or in compliance with a decree of
+21 divorce or judicial separation;
+22
+19 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 (3) A transfer of property to a
+2 trust established for the benefit of the prior owner;
+3
+4 (4) A transfer of property to a
+5 corporation, partnership or limited liability company if
+6 the prior owner of the property is a shareholder or owner
+7 of the corporation, partnership or limited liability
+8 company;
+9
+10 (5) Any other transfer of
+11 property that the department determines by rule should not
+12 be an acquisition of property due to the relationship of
+13 the parties or other factors.
+14
+15 39-13-109. Taxpayer remedies.
+16
+17 (b) Appeals. The following shall apply:
+18
+19 (i) Any person wishing to contest an assessment
+20 of his property shall file not later than thirty (30) days
+21 after the date of the assessment schedule properly sent
+22 pursuant to W.S. 39-13-103(b)(vii), a statement with the
+23 county assessor specifying the reasons why the assessment
+20 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 is incorrect. For purposes of this paragraph, if a
+2 statement of reasons is mailed or sent by electronic
+3 transmission by the person assessed, it shall be deemed
+4 timely filed if it is postmarked or transmitted not later
+5 than thirty (30) days after the mailing or the electronic
+6 transmission of the notification of the assessment
+7 schedule. The county assessor shall provide a copy to the
+8 county clerk as clerk of the county board of equalization.
+9 The county assessor and the person contesting the
+10 assessment, or his agent, shall disclose witnesses and
+11 exchange information, evidence and documents relevant to
+12 the appeal, including sales information from relevant
+13 statements of consideration if requested, no later than
+14 thirty (30) days prior to the scheduled county board of
+15 equalization hearing. The assessor shall specifically
+16 identify the sales information used to determine market
+17 value of the property under appeal. A county board of
+18 equalization may receive evidence relative to any
+19 assessment and may require the person assessed or his agent
+20 or attorney to appear before it, be examined and produce
+21 any documents relating to the assessment. The appeal may be
+22 dismissed if any person willfully neglects or refuses to
+23 attend a meeting of a county board of equalization and be
+21 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 examined or answer any material question upon the board's
+2 request. The state board of equalization shall adopt rules
+3 to be followed by any county board of equalization when
+4 conducting appeals under this subsection. All hearings
+5 shall be conducted in accordance with the rules adopted by
+6 the state board of equalization. Each hearing shall be
+7 recorded electronically or by a court reporter or a
+8 qualified stenographer or transcriptionist. The taxpayer
+9 may present any evidence that is relevant, material or not
+10 repetitious, including expert opinion testimony, to rebut
+11 the presumption in favor of a valuation asserted by the
+12 county assessor or related to the presumption in W.S.
+13 39-13-103(b)(xviii)(A)(III). The county attorney or his
+14 designee may represent the county board or the assessor,
+15 but not both. The assessor may be represented by an
+16 attorney and the board may hire a hearing officer. All
+17 deliberations of the board shall be in public. The county
+18 board of equalization may affirm the assessor's valuation
+19 or find in favor of the taxpayer and remand the case back
+20 to the assessor. The board shall make specific written
+21 findings and conclusions as to the evidence presented not
+22 later than October 1 of each year;
+23
+22 SF0161
+
+2025 STATE OF WYOMING 25LSO-0682
+1 Section 2. The state board of equalization and the
+2 department of revenue shall promulgate all rules necessary
+3 to implement this act not later than January 1, 2026.
+4
+5 Section 3.
+6
+7 (a) Except as otherwise provided in subsection (b) of
+8 this section, this act is effective immediately upon
+9 completion of all acts necessary for a bill to become law
+10 as provided by Article 4, Section 8 of the Wyoming
+11 Constitution.
+12
+13 (b) Section 1 of this act is effective January 1,
+14 2026.
+15 (END)
+23 SF0161

@@ -1,0 +1,63 @@
+Title: Wyoming telecommunications act revisions. 25LSO-0203, 1.0
+Official Title: Wyoming telecommunications act revisions. 25LSO-0203, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase
+SPECIAL REVENUE FUND $0 $532,000 $532,000
+Source of revenue increase:
+Universal Service Fund (USF) charge on the retail sales of prepaid wireless
+communication access, beginning July 1, 2026 (FY 2027).
+Assumptions:
+According to the Public Service Commission, the USF rate would be 1.90 percent,
+upon the sales of prepaid wireless communication access.
+The Department of Revenue already administers a 911 emergency tax of 1.5 percent
+on the same sales of prepaid wireless communication access per W.S. 16-9-109.
+This tax is primarily collected and reported by retail outlets and convenience
+stores. Based on FY 2024 sales of approximately $28.0 million, the revenue
+increase to the Universal Service Fund is estimated at $532,000 per year ($28.0
+million in Wyoming prepaid wireless sales x 1.90 percent = $532,000).
+This bill also extends the sunset date of the Wyoming Telecommunications Act to
+July 1, 2031. Under current law, The Wyoming Telecommunications Act is repealed
+July 1, 2025.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5200; John
+Burbridge, Public Service Commission, 777-7429)
+SF0051
+
+
+================================================================================
+
+Raw Text:
+Wyoming telecommunications act revisions. 25LSO-0203, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase
+SPECIAL REVENUE FUND $0 $532,000 $532,000
+Source of revenue increase:
+Universal Service Fund (USF) charge on the retail sales of prepaid wireless
+communication access, beginning July 1, 2026 (FY 2027).
+Assumptions:
+According to the Public Service Commission, the USF rate would be 1.90 percent,
+upon the sales of prepaid wireless communication access.
+The Department of Revenue already administers a 911 emergency tax of 1.5 percent
+on the same sales of prepaid wireless communication access per W.S. 16-9-109.
+This tax is primarily collected and reported by retail outlets and convenience
+stores. Based on FY 2024 sales of approximately $28.0 million, the revenue
+increase to the Universal Service Fund is estimated at $532,000 per year ($28.0
+million in Wyoming prepaid wireless sales x 1.90 percent = $532,000).
+This bill also extends the sunset date of the Wyoming Telecommunications Act to
+July 1, 2031. Under current law, The Wyoming Telecommunications Act is repealed
+July 1, 2025.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5200; John
+Burbridge, Public Service Commission, 777-7429)
+SF0051

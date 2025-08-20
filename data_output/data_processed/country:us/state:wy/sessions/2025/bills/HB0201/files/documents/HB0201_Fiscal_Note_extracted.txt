@@ -1,0 +1,83 @@
+Title: The fiscal impact, in the form of changes in investment revenues, is
+Official Title: The fiscal impact, in the form of changes in investment revenues, is
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+State funds-investment in Bitcoin. 25LSO-0488, 1.2
+FISCAL NOTE
+indeterminable.
+This bill would permit the State Treasurer’s Office (STO) to invest funds from
+the General Fund, the Permanent Wyoming Mineral Trust Fund (PWMTF) and the
+Permanent Land Fund in Bitcoin. The investments in Bitcoin would not be permitted
+to exceed 3 percent of the respective fund.
+Based on the market values reported as of November 30, 2024, 3 percent of the
+PWMTF would be approximately $353.5 million, and 3 percent of the Permanent Land
+Fund would be approximately $182.0 million.
+Assuming these maximum amounts were invested in Bitcoin, the State could see a
+significant impact on returns, but the precise impact is not known. Bitcoin has
+historically seen relatively high volatility. The STO currently looks to balance
+the functions of each fund with the overarching goal of achieving the highest
+risk-adjusted rate of return.
+The STO projects yields in FY26 through FY28 to be 2.98%, 3.07%, and 3.02%
+respectively for permanent funds and 4.28%, 4.12%, and 4.02% respectively for
+State Agency Pool funds. Yield is defined as the interest and dividend income
+from the investment.
+Over the long term, total returns for permanent funds are expected to be 6.75%,
+while total returns for State Agency Pool funds are expected to be 4.05%. Total
+return is defined as growth in the value of the investment, including both yield
+and realized & unrealized gains.
+The STO would acquire and hold Bitcoin in one or more of the following methods:
+• directly through the use of a secure custody solution;
+• through a qualified custodian; or
+• through ownership or holding of an exchange-traded product issued by a
+registered investment company or manager.
+According to the STO, acquiring and holding Bitcoin would generate additional
+expense including the costs of finding and retaining the appropriate custodial
+safeguards required in the bill.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Samantha Dailey, State Treasurer's Office, 307-777-7408)
+HB0201
+
+
+================================================================================
+
+Raw Text:
+State funds-investment in Bitcoin. 25LSO-0488, 1.2
+FISCAL NOTE
+The fiscal impact, in the form of changes in investment revenues, is
+indeterminable.
+This bill would permit the State Treasurer’s Office (STO) to invest funds from
+the General Fund, the Permanent Wyoming Mineral Trust Fund (PWMTF) and the
+Permanent Land Fund in Bitcoin. The investments in Bitcoin would not be permitted
+to exceed 3 percent of the respective fund.
+Based on the market values reported as of November 30, 2024, 3 percent of the
+PWMTF would be approximately $353.5 million, and 3 percent of the Permanent Land
+Fund would be approximately $182.0 million.
+Assuming these maximum amounts were invested in Bitcoin, the State could see a
+significant impact on returns, but the precise impact is not known. Bitcoin has
+historically seen relatively high volatility. The STO currently looks to balance
+the functions of each fund with the overarching goal of achieving the highest
+risk-adjusted rate of return.
+The STO projects yields in FY26 through FY28 to be 2.98%, 3.07%, and 3.02%
+respectively for permanent funds and 4.28%, 4.12%, and 4.02% respectively for
+State Agency Pool funds. Yield is defined as the interest and dividend income
+from the investment.
+Over the long term, total returns for permanent funds are expected to be 6.75%,
+while total returns for State Agency Pool funds are expected to be 4.05%. Total
+return is defined as growth in the value of the investment, including both yield
+and realized & unrealized gains.
+The STO would acquire and hold Bitcoin in one or more of the following methods:
+• directly through the use of a secure custody solution;
+• through a qualified custodian; or
+• through ownership or holding of an exchange-traded product issued by a
+registered investment company or manager.
+According to the STO, acquiring and holding Bitcoin would generate additional
+expense including the costs of finding and retaining the appropriate custodial
+safeguards required in the bill.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Samantha Dailey, State Treasurer's Office, 307-777-7408)
+HB0201

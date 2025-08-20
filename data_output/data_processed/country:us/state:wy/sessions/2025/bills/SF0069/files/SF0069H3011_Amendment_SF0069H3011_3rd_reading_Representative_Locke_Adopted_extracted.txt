@@ -1,0 +1,176 @@
+Title: 1 Delete the first Locke second reading amendment (SF0069H2001/ACE),
+Official Title: 1 Delete the first Locke second reading amendment (SF0069H2001/ACE),
+Number of Sections: 1
+Source: versions - Amendment SF0069H3011 (3rd reading) - Representative Locke (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0069H3011 (TO ENGROSSED COPY)
+2 the second Locke second reading amendment (SF0069H2002/ACE), the
+3 fourth Locke second reading amendment (SF0069H2004.02/ACE), the
+4 Clouston second reading amendment (SF0069H2005/ACE), the first
+5 Clouston third reading amendment (SF0069H3002/AE), the second
+6 Clouston third reading amendment (SF0069H3003/ACE), the third
+7 Clouston third reading amendment (SF0069H3004/ACE), the fourth
+8 Clouston third reading amendment (SF0069H3005/ACE), the first
+9 Harshman third reading amendment (SF0069H3006/AE), the Lawley
+10 third reading amendment (SF0069H3007/AE), the fifth Clouston third
+11 reading amendment (SF0069H3008/AE) and the Larson, JT third
+12 reading amendment (SF0069H3009/AE) entirely and further amend as
+13 follows:
+14
+15 Page 1-line 2 After "applicability;" insert "requiring
+16 reporting; providing an appropriation;".
+17
+18 Page 2-after line 20 Insert and renumber as necessary:
+19
+20 "(C) The county treasurer for each county shall
+21 keep accurate records of the reduction in tax revenues caused by
+22 the homeowner tax exemption provided by this paragraph for the
+23 county and for each governmental entity for which notification is
+24 made pursuant to W.S. 39-13-104(k) and shall report that
+25 information to the department. The department shall compile and
+26 verify the information received from each county and shall verify
+27 any reductions in the distribution of mill levies to the school
+28 foundation program account under W.S. 21-13-303. Subject to
+29 appropriation of funds by the legislature, the department shall
+30 distribute verified amounts to each county treasurer for
+31 distribution as provided in W.S. 39-13-111 in an amount necessary
+32 to compensate each government entity for the reduction in tax
+33 revenues due to the exemption under this paragraph. If funds
+34 appropriated by the legislature for distribution under this
+35 subparagraph are insufficient to complete all necessary
+36 distributions, there is appropriated to the department of revenue
+37 from the legislative stabilization reserve account an amount equal
+38 to the amount by which legislative appropriations are insufficient
+39 to make distributions necessary under this subparagraph for the
+40 current tax year. The department shall transfer this legislative
+41 stabilization reserve account appropriation to each county for
+42 distribution to each government entity in an amount necessary to
+43 compensate each government entity for the reduction in tax
+44 revenues. The department shall not distribute more than fifty
+1
+1 percent (50%) of the funds available in tax year 2025 and shall
+2 distribute the remainder of any funds available in tax year 2026.
+3 No appropriation from the legislative stabilization reserve
+4 account shall be authorized under this paragraph after June 30,
+5 2027 and total appropriations from the legislative stabilization
+6 reserve account under this subparagraph shall not exceed one
+7 hundred million dollars ($100,000,000.00). If funds appropriated
+8 by the legislature for distribution under this subparagraph are
+9 insufficient to complete all necessary distributions, the
+10 department shall distribute funds to each government entity on a
+11 pro rata basis;".
+12
+13 Page 2-line 22 Delete "(C)" and insert "(D)".
+14
+15 Page 3-line 2 Delete "(D)" and insert "(E)".
+16
+17 Page 3-after line 8 Insert and renumber as necessary:
+18
+19 "Section 3. There is appropriated one hundred twenty-five
+20 million dollars ($125,000,000.00) from the general fund to the
+21 department of revenue for the purposes of reimbursing government
+22 entities, including school districts, for losses in revenue
+23 resulting from the homeowner tax exemption as provided in this
+24 act. This appropriation shall be for the period beginning with the
+25 effective date of this act and ending June 30, 2027. This
+26 appropriation shall not be transferred or expended for any other
+27 purpose and any unexpended, unobligated funds remaining from this
+28 appropriation shall revert as provided by law on June 30, 2027. It
+29 is the intent of the legislature that this appropriation not be
+30 included in the department's standard budget for the immediately
+31 succeeding fiscal biennium.".
+32
+33 Page 3-line 10 Delete "Section 3." and insert "Section 4.".
+34 LOCKE
+2
+
+
+================================================================================
+
+Raw Text:
+SF0069H3011 (TO ENGROSSED COPY)
+1 Delete the first Locke second reading amendment (SF0069H2001/ACE),
+2 the second Locke second reading amendment (SF0069H2002/ACE), the
+3 fourth Locke second reading amendment (SF0069H2004.02/ACE), the
+4 Clouston second reading amendment (SF0069H2005/ACE), the first
+5 Clouston third reading amendment (SF0069H3002/AE), the second
+6 Clouston third reading amendment (SF0069H3003/ACE), the third
+7 Clouston third reading amendment (SF0069H3004/ACE), the fourth
+8 Clouston third reading amendment (SF0069H3005/ACE), the first
+9 Harshman third reading amendment (SF0069H3006/AE), the Lawley
+10 third reading amendment (SF0069H3007/AE), the fifth Clouston third
+11 reading amendment (SF0069H3008/AE) and the Larson, JT third
+12 reading amendment (SF0069H3009/AE) entirely and further amend as
+13 follows:
+14
+15 Page 1-line 2 After "applicability;" insert "requiring
+16 reporting; providing an appropriation;".
+17
+18 Page 2-after line 20 Insert and renumber as necessary:
+19
+20 "(C) The county treasurer for each county shall
+21 keep accurate records of the reduction in tax revenues caused by
+22 the homeowner tax exemption provided by this paragraph for the
+23 county and for each governmental entity for which notification is
+24 made pursuant to W.S. 39-13-104(k) and shall report that
+25 information to the department. The department shall compile and
+26 verify the information received from each county and shall verify
+27 any reductions in the distribution of mill levies to the school
+28 foundation program account under W.S. 21-13-303. Subject to
+29 appropriation of funds by the legislature, the department shall
+30 distribute verified amounts to each county treasurer for
+31 distribution as provided in W.S. 39-13-111 in an amount necessary
+32 to compensate each government entity for the reduction in tax
+33 revenues due to the exemption under this paragraph. If funds
+34 appropriated by the legislature for distribution under this
+35 subparagraph are insufficient to complete all necessary
+36 distributions, there is appropriated to the department of revenue
+37 from the legislative stabilization reserve account an amount equal
+38 to the amount by which legislative appropriations are insufficient
+39 to make distributions necessary under this subparagraph for the
+40 current tax year. The department shall transfer this legislative
+41 stabilization reserve account appropriation to each county for
+42 distribution to each government entity in an amount necessary to
+43 compensate each government entity for the reduction in tax
+44 revenues. The department shall not distribute more than fifty
+1
+
+1 percent (50%) of the funds available in tax year 2025 and shall
+2 distribute the remainder of any funds available in tax year 2026.
+3 No appropriation from the legislative stabilization reserve
+4 account shall be authorized under this paragraph after June 30,
+5 2027 and total appropriations from the legislative stabilization
+6 reserve account under this subparagraph shall not exceed one
+7 hundred million dollars ($100,000,000.00). If funds appropriated
+8 by the legislature for distribution under this subparagraph are
+9 insufficient to complete all necessary distributions, the
+10 department shall distribute funds to each government entity on a
+11 pro rata basis;".
+12
+13 Page 2-line 22 Delete "(C)" and insert "(D)".
+14
+15 Page 3-line 2 Delete "(D)" and insert "(E)".
+16
+17 Page 3-after line 8 Insert and renumber as necessary:
+18
+19 "Section 3. There is appropriated one hundred twenty-five
+20 million dollars ($125,000,000.00) from the general fund to the
+21 department of revenue for the purposes of reimbursing government
+22 entities, including school districts, for losses in revenue
+23 resulting from the homeowner tax exemption as provided in this
+24 act. This appropriation shall be for the period beginning with the
+25 effective date of this act and ending June 30, 2027. This
+26 appropriation shall not be transferred or expended for any other
+27 purpose and any unexpended, unobligated funds remaining from this
+28 appropriation shall revert as provided by law on June 30, 2027. It
+29 is the intent of the legislature that this appropriation not be
+30 included in the department's standard budget for the immediately
+31 succeeding fiscal biennium.".
+32
+33 Page 3-line 10 Delete "Section 3." and insert "Section 4.".
+34 LOCKE
+2

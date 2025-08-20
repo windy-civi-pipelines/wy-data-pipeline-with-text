@@ -1,0 +1,49 @@
+Title: 1 Page 1-line 6 After "specified;" insert "providing for
+Official Title: 1 Page 1-line 6 After "specified;" insert "providing for
+Number of Sections: 1
+Source: versions - Amendment HB0164HS001 (Standing Committee) - House Labor, Health and Social Services Committee (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0164HS001
+2 severability of provisions as specified;".
+3
+4 Page 1-line 11 Delete "33-1-403" and insert "33-1-404".
+5
+6 Page 5-after line 10 Insert:
+7
+8 "33-1-404. Severability of provisions.
+9
+10 The provisions of this article shall be severable and if any
+11 phrase, clause, sentence or provision of this article is declared
+12 to be unconstitutional or the applicability of this article to any
+13 state, agency, person or circumstance is held invalid, the
+14 constitutionality of this act and the applicability to any other
+15 state, agency person or circumstance shall, with respect to all
+16 severable matters, not be affected.". RODRIGUEZ-WILLIAMS, CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0164HS001
+1 Page 1-line 6 After "specified;" insert "providing for
+2 severability of provisions as specified;".
+3
+4 Page 1-line 11 Delete "33-1-403" and insert "33-1-404".
+5
+6 Page 5-after line 10 Insert:
+7
+8 "33-1-404. Severability of provisions.
+9
+10 The provisions of this article shall be severable and if any
+11 phrase, clause, sentence or provision of this article is declared
+12 to be unconstitutional or the applicability of this article to any
+13 state, agency, person or circumstance is held invalid, the
+14 constitutionality of this act and the applicability to any other
+15 state, agency person or circumstance shall, with respect to all
+16 severable matters, not be affected.". RODRIGUEZ-WILLIAMS, CHAIRMAN
+1

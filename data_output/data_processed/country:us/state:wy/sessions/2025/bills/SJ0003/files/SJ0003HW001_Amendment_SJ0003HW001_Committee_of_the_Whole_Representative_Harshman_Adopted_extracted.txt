@@ -1,0 +1,47 @@
+Title: 1 Page 2-line 9 After "after" insert "Governor"; delete "a
+Official Title: 1 Page 2-line 9 After "after" insert "Governor"; delete "a
+Number of Sections: 1
+Source: versions - Amendment SJ0003HW001 (Committee of the Whole) - Representative Harshman (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SJ0003HW001
+2 month".
+3
+4 Page 2-line 10 Delete entirely and insert "on October 2,
+5 1924; and".
+6
+7 Page 2-line 17 Delete "gubernatorial election" and insert
+8 "special election for governor".
+9
+10 Page 2-line 18 After "1924," delete balance of line.
+11
+12 Page 2-line 19 Delete entirely and insert "with fifty-five
+13 and twelve-hundredths percent (55.12%) of the
+14 votes; and". HARSHMAN, CAMPBELL, E, CONNOLLY,
+15 THAYER
+1
+
+
+================================================================================
+
+Raw Text:
+SJ0003HW001
+1 Page 2-line 9 After "after" insert "Governor"; delete "a
+2 month".
+3
+4 Page 2-line 10 Delete entirely and insert "on October 2,
+5 1924; and".
+6
+7 Page 2-line 17 Delete "gubernatorial election" and insert
+8 "special election for governor".
+9
+10 Page 2-line 18 After "1924," delete balance of line.
+11
+12 Page 2-line 19 Delete entirely and insert "with fifty-five
+13 and twelve-hundredths percent (55.12%) of the
+14 votes; and". HARSHMAN, CAMPBELL, E, CONNOLLY,
+15 THAYER
+1

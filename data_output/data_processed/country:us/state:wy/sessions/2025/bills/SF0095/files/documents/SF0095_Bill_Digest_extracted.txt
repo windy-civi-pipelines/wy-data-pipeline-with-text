@@ -1,0 +1,401 @@
+Title: Sponsored By: Senator(s) Rothfuss, Nethercott and Olsen and
+Official Title: Sponsored By: Senator(s) Rothfuss, Nethercott and Olsen and
+Number of Sections: 2
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Special purpose depository institution-
+SF0095
+amendments.
+Representative(s) Andrew, Filer, Singh and Yin
+AN ACT relating to banks, banking and finance; providing for the conversion of
+special purpose depository institutions into public trust companies; amending
+capital startup requirements for special purpose depository institutions;
+amending deposit requirements; repealing requirements limiting depositors of
+special purpose depository institutions to legal entities and requirements of
+legal entities as specified; repealing a supervision fee for banks providing
+digital asset custodial services; providing for unexpended fees; requiring
+rulemaking; and providing for effective dates.
+1/7/2025 Bill Number Assigned
+1/10/2025 S Received for Introduction
+1/17/2025 S Introduced and Referred to S08 - Transportation
+1/21/2025 :Refer to S09 - Minerals
+1/22/2025 S09 - Minerals:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Cooper, Jones, Nethercott, Rothfuss
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/22/2025 S Placed on General File
+1/23/2025 S COW:Passed
+1/24/2025 S 2nd Reading:Passed
+1/27/2025 S 3rd Reading:Passed 28-3-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Rothfuss, Salazar,
+Schuler, Scott, Smith
+Nays: Senator(s) Hutchings, Pearson, Steinmetz
+Ayes 28 Nays 3 Excused 0 Absent 0 Conflicts 0
+1/27/2025 H Received for Introduction
+2/18/2025 H Introduced and Referred to H07 - Corporations
+2/27/2025 H07 - Corporations:Recommend Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber, Yin
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/27/2025 H Placed on General File
+SF0095HW001/ADOPTED
+Page 1-line 10 After "fees;" insert "providing an appropriation for
+the University of Wyoming center for blockchain and
+digital innovation to develop software for the
+secretary of state's office;".
+Page 7-after line 13 Insert and renumber as necessary:
+"Section 4. There is appropriated five hundred thousand dollars
+($500,000.00) from the general fund to the University of Wyoming center for
+blockchain and digital innovation. Funds from this general fund appropriation
+shall be expended by the University of Wyoming center for blockchain and digital
+innovation, provided that the center develops software for the secretary of
+state's office that would allow for initial business entity formation and
+amendments, notary registration and renewal, apostille or authentication
+certification requests, lobbyist registration and renewal and all initial and
+additional filing types, as well as amendments, to be filed online. This
+appropriation shall be for the period beginning with the effective date of this
+act and ending June 30, 2026. This appropriation shall not be transferred or
+expended for any other purpose and any unexpended, unobligated funds remaining
+from this appropriation shall revert as provided by law on June 30, 2026. It is
+the intent of the legislature that this appropriation not be included in the
+University of Wyoming's standard budget for the immediately succeeding fiscal
+biennium.".
+Page 7-line 15 Delete "Section 4." and insert "Section 5.".
+Page 8-line 1 Delete "Section 5." and insert "Section 6.".
+Page 8-line 5 Delete "Section 6." and insert "Section 7.".
+Page 8-line 10 Delete "5 and 6" and insert "4, 6 and 7". FILER,
+WASSERBURGER, YIN
+2/28/2025 H COW:Passed
+SF0095H2001/ADOPTED
+Delete the Filer, et al. committee of the whole amendment (SF0095HW001/A)
+entirely. LUCAS
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Campbell, E, Campbell, K, Chestek, Connolly, Guggenmos,
+Haroldson, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Lawley, Lien, Locke,
+Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Provenza, Rodriguez-
+Williams, Sherwood, Smith, Storer, Strock, Styvar, Tarver, Webb, Webber, Winter
+Nays: Representative(s) Brown, L, Byron, Clouston, Davis, Eklund, Erickson,
+Filer, Geringer, Harshman, Larsen, Larson, Nicholas, Singh, Thayer, Washut,
+Wasserburger, Williams, Wylie, Yin
+Excused: Representative(s) Riggins, Schmid, Wharff
+Ayes 40 Nays 19 Excused 3 Absent 0 Conflicts 0
+3/3/2025 H 2nd Reading:Passed
+SF0095H3001/FAILED
+Page 1-line 3 After "companies" insert "or state banks".
+Page 1-line 15 Before "13-5-523" insert "13-2-216 and"; delete "is"
+and insert "are".
+Page 1-after line 15 Insert:
+"13-2-216. Conversion of special purpose depository institution into
+state bank.
+(a) The commissioner, with approval of the board, may convert the charter
+of a special purpose depository institution chartered under W.S. 13‑12‑115 to a
+state bank chartered under this article. A conversion shall occur as follows:
+(i) A special purpose depository institution seeking to convert
+its charter to a state bank shall file an application to convert that contains
+a comprehensive plan for conversion as required by this section and rules
+promulgated by the commissioner. The application shall include a certificate
+signed by the institution's president and a majority of the board of directors
+setting forth the action taken to support the proposed conversion in compliance
+with this section. The plan of conversion and a proposed organizational
+instrument that includes the information required by W.S. 13‑2-202 shall be
+approved by the shareholders of the special purpose depository institution prior
+to submitting an application for conversion;
+(ii) The application to convert shall include a comprehensive plan
+for conversion setting forth any necessary disposition of assets and liabilities
+in reasonable detail to effect the conversion, and any other plans required by
+the commissioner. The application shall be accompanied by a fee consistent with
+W.S. 13-2-208. The plan of conversion shall provide for the discharge or
+assumption of all known and unknown claims and liabilities of the special
+purpose depository institution. Additionally, the application for conversion
+shall include other evidence, certifications, affidavits, documents or
+information as the commissioner may require, including demonstration of how
+assets and liabilities will be disposed, the timetable for effecting disposition
+or transfer of the assets and liabilities and a proposal for addressing any
+claims that are asserted after conversion has been completed;
+(iii) The commissioner shall examine the application for compliance
+with this section, W.S. 13‑2-207 through 13-2-212 and applicable rules.
+(b) Upon receipt of a complete application, the commissioner shall notify
+the board. The board, in its discretion, may allow the commissioner to proceed
+with approval of an application on an expedited basis without further oversight
+or approval by the board or, if deemed necessary by the board, the board may
+require a process consistent with W.S. 13‑2-207, 13-2-209 and 13‑2-211. Where
+an expedited review is allowed by the board, the commissioner shall approve or
+deny a conversion application under this section not more than ninety (90) days
+after receipt of a complete application.
+(c) The application shall not be approved under this section until the
+board or commissioner, as applicable, has ascertained to the board's or
+commissioner's satisfaction that the proposed state bank satisfies all criteria
+under W.S. 13-2-212(a), meets all applicable requirements and any applicable
+rules to operate in all respects as a state bank. If the application is to be
+approved by the board, the board shall take action consistent with W.S. 13-2-
+212(b).
+(d) If the application is approved and a charter granted by the board,
+the converting state bank shall not commence business before receiving a
+certificate of authority to operate from the state banking commissioner. The
+application for a certificate of authority shall be made to the state banking
+commissioner and shall certify that the capital and surplus have been paid in,
+the address at which the institution will operate and that all of the bylaws
+adopted have been attached as an exhibit to the application. The application
+shall state who the officers, directors and stockholders are at that time and
+have attached evidence that appropriate federal insurance of deposits has been
+obtained, where applicable. The state banking commissioner shall approve or
+deny an application for a certificate of authority not more than thirty (30)
+days after a complete application has been filed. If the state banking
+commissioner approves the application, he shall issue a certificate of authority
+to the converted state bank within twenty (20) days. If the state banking
+commissioner denies the application, he shall mail a notice of denial to the
+converting state bank within twenty (20) days, stating the reasons for denying
+the application, and grant to the converting state bank a maximum period of
+ninety (90) days to resubmit the application with the necessary corrections. If
+the converting state bank fails to comply with requirements of the notice of
+denial within ninety (90) days from the receipt of the notice, the approval of
+the application and articles of incorporation previously issued to the
+converting state bank shall be revoked by the state banking commissioner. The
+failure of the state banking commissioner to act upon a complete application
+for a certificate of authority within thirty (30) days shall be deemed an
+approval. If the approved converting state bank fails to commence business in
+good faith within one (1) year after the issuance of a certificate of authority
+by the state banking commissioner or any required federal approval, whichever
+is later, the charter and certificate of authority shall expire.
+(e) A state bank that results from a conversion under this section shall
+be deemed to have been in existence for the same period of time as the special
+purpose depository institution from which it converted and shall surrender its
+certificate of authority under W.S. 13‑12‑116. Upon completion of the conversion
+the state bank shall not use the term "special purpose depository institution"
+in its business name or in connection with its ongoing business.
+(f) The commissioner shall adopt all rules necessary to implement this
+
+Section 2:
+section.".
+Page 5-line 17 Delete "13-12-102(b)(xiv)" and insert "13-12-
+102(b)(iv) and (xiv)".
+Page 5-after line 23 Insert:
+"(iv) W.S. 13-2-201 through 13-2-214 except as otherwise provided
+in W.S. 13-2-216;". FILER
+3/4/2025 H 3rd Reading:Passed 60-0-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, E, Campbell, K, Chestek, Clouston, Connolly,
+Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman,
+Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien,
+Locke, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Provenza, Riggins,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock, Styvar,
+Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter,
+Wylie, Yin
+Excused: Representative(s) Brown, L, Lucas
+Ayes 60 Nays 0 Excused 2 Absent 0 Conflicts 0
+3/5/2025 Assigned Number SEA No. 0093
+3/5/2025 S President Signed SEA No. 0093
+3/5/2025 H Speaker Signed SEA No. 0093
+3/17/2025 Governor Signed SEA No. 0093
+3/17/2025 Assigned Chapter Number 150
+Chapter No. 150 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+Special purpose depository institution-
+SF0095
+amendments.
+Sponsored By: Senator(s) Rothfuss, Nethercott and Olsen and
+Representative(s) Andrew, Filer, Singh and Yin
+AN ACT relating to banks, banking and finance; providing for the conversion of
+special purpose depository institutions into public trust companies; amending
+capital startup requirements for special purpose depository institutions;
+amending deposit requirements; repealing requirements limiting depositors of
+special purpose depository institutions to legal entities and requirements of
+legal entities as specified; repealing a supervision fee for banks providing
+digital asset custodial services; providing for unexpended fees; requiring
+rulemaking; and providing for effective dates.
+1/7/2025 Bill Number Assigned
+1/10/2025 S Received for Introduction
+1/17/2025 S Introduced and Referred to S08 - Transportation
+1/21/2025 :Refer to S09 - Minerals
+1/22/2025 S09 - Minerals:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Cooper, Jones, Nethercott, Rothfuss
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/22/2025 S Placed on General File
+1/23/2025 S COW:Passed
+1/24/2025 S 2nd Reading:Passed
+1/27/2025 S 3rd Reading:Passed 28-3-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Rothfuss, Salazar,
+Schuler, Scott, Smith
+Nays: Senator(s) Hutchings, Pearson, Steinmetz
+Ayes 28 Nays 3 Excused 0 Absent 0 Conflicts 0
+1/27/2025 H Received for Introduction
+2/18/2025 H Introduced and Referred to H07 - Corporations
+2/27/2025 H07 - Corporations:Recommend Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber, Yin
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/27/2025 H Placed on General File
+SF0095HW001/ADOPTED
+Page 1-line 10 After "fees;" insert "providing an appropriation for
+the University of Wyoming center for blockchain and
+digital innovation to develop software for the
+secretary of state's office;".
+Page 7-after line 13 Insert and renumber as necessary:
+
+"Section 4. There is appropriated five hundred thousand dollars
+($500,000.00) from the general fund to the University of Wyoming center for
+blockchain and digital innovation. Funds from this general fund appropriation
+shall be expended by the University of Wyoming center for blockchain and digital
+innovation, provided that the center develops software for the secretary of
+state's office that would allow for initial business entity formation and
+amendments, notary registration and renewal, apostille or authentication
+certification requests, lobbyist registration and renewal and all initial and
+additional filing types, as well as amendments, to be filed online. This
+appropriation shall be for the period beginning with the effective date of this
+act and ending June 30, 2026. This appropriation shall not be transferred or
+expended for any other purpose and any unexpended, unobligated funds remaining
+from this appropriation shall revert as provided by law on June 30, 2026. It is
+the intent of the legislature that this appropriation not be included in the
+University of Wyoming's standard budget for the immediately succeeding fiscal
+biennium.".
+Page 7-line 15 Delete "Section 4." and insert "Section 5.".
+Page 8-line 1 Delete "Section 5." and insert "Section 6.".
+Page 8-line 5 Delete "Section 6." and insert "Section 7.".
+Page 8-line 10 Delete "5 and 6" and insert "4, 6 and 7". FILER,
+WASSERBURGER, YIN
+2/28/2025 H COW:Passed
+SF0095H2001/ADOPTED
+Delete the Filer, et al. committee of the whole amendment (SF0095HW001/A)
+entirely. LUCAS
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Campbell, E, Campbell, K, Chestek, Connolly, Guggenmos,
+Haroldson, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Lawley, Lien, Locke,
+Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Provenza, Rodriguez-
+Williams, Sherwood, Smith, Storer, Strock, Styvar, Tarver, Webb, Webber, Winter
+Nays: Representative(s) Brown, L, Byron, Clouston, Davis, Eklund, Erickson,
+Filer, Geringer, Harshman, Larsen, Larson, Nicholas, Singh, Thayer, Washut,
+Wasserburger, Williams, Wylie, Yin
+Excused: Representative(s) Riggins, Schmid, Wharff
+Ayes 40 Nays 19 Excused 3 Absent 0 Conflicts 0
+3/3/2025 H 2nd Reading:Passed
+SF0095H3001/FAILED
+Page 1-line 3 After "companies" insert "or state banks".
+Page 1-line 15 Before "13-5-523" insert "13-2-216 and"; delete "is"
+and insert "are".
+Page 1-after line 15 Insert:
+
+"13-2-216. Conversion of special purpose depository institution into
+state bank.
+(a) The commissioner, with approval of the board, may convert the charter
+of a special purpose depository institution chartered under W.S. 13‑12‑115 to a
+state bank chartered under this article. A conversion shall occur as follows:
+(i) A special purpose depository institution seeking to convert
+its charter to a state bank shall file an application to convert that contains
+a comprehensive plan for conversion as required by this section and rules
+promulgated by the commissioner. The application shall include a certificate
+signed by the institution's president and a majority of the board of directors
+setting forth the action taken to support the proposed conversion in compliance
+with this section. The plan of conversion and a proposed organizational
+instrument that includes the information required by W.S. 13‑2-202 shall be
+approved by the shareholders of the special purpose depository institution prior
+to submitting an application for conversion;
+(ii) The application to convert shall include a comprehensive plan
+for conversion setting forth any necessary disposition of assets and liabilities
+in reasonable detail to effect the conversion, and any other plans required by
+the commissioner. The application shall be accompanied by a fee consistent with
+W.S. 13-2-208. The plan of conversion shall provide for the discharge or
+assumption of all known and unknown claims and liabilities of the special
+purpose depository institution. Additionally, the application for conversion
+shall include other evidence, certifications, affidavits, documents or
+information as the commissioner may require, including demonstration of how
+assets and liabilities will be disposed, the timetable for effecting disposition
+or transfer of the assets and liabilities and a proposal for addressing any
+claims that are asserted after conversion has been completed;
+(iii) The commissioner shall examine the application for compliance
+with this section, W.S. 13‑2-207 through 13-2-212 and applicable rules.
+(b) Upon receipt of a complete application, the commissioner shall notify
+the board. The board, in its discretion, may allow the commissioner to proceed
+with approval of an application on an expedited basis without further oversight
+or approval by the board or, if deemed necessary by the board, the board may
+require a process consistent with W.S. 13‑2-207, 13-2-209 and 13‑2-211. Where
+an expedited review is allowed by the board, the commissioner shall approve or
+deny a conversion application under this section not more than ninety (90) days
+after receipt of a complete application.
+(c) The application shall not be approved under this section until the
+board or commissioner, as applicable, has ascertained to the board's or
+commissioner's satisfaction that the proposed state bank satisfies all criteria
+under W.S. 13-2-212(a), meets all applicable requirements and any applicable
+rules to operate in all respects as a state bank. If the application is to be
+approved by the board, the board shall take action consistent with W.S. 13-2-
+212(b).
+(d) If the application is approved and a charter granted by the board,
+the converting state bank shall not commence business before receiving a
+certificate of authority to operate from the state banking commissioner. The
+application for a certificate of authority shall be made to the state banking
+commissioner and shall certify that the capital and surplus have been paid in,
+
+the address at which the institution will operate and that all of the bylaws
+adopted have been attached as an exhibit to the application. The application
+shall state who the officers, directors and stockholders are at that time and
+have attached evidence that appropriate federal insurance of deposits has been
+obtained, where applicable. The state banking commissioner shall approve or
+deny an application for a certificate of authority not more than thirty (30)
+days after a complete application has been filed. If the state banking
+commissioner approves the application, he shall issue a certificate of authority
+to the converted state bank within twenty (20) days. If the state banking
+commissioner denies the application, he shall mail a notice of denial to the
+converting state bank within twenty (20) days, stating the reasons for denying
+the application, and grant to the converting state bank a maximum period of
+ninety (90) days to resubmit the application with the necessary corrections. If
+the converting state bank fails to comply with requirements of the notice of
+denial within ninety (90) days from the receipt of the notice, the approval of
+the application and articles of incorporation previously issued to the
+converting state bank shall be revoked by the state banking commissioner. The
+failure of the state banking commissioner to act upon a complete application
+for a certificate of authority within thirty (30) days shall be deemed an
+approval. If the approved converting state bank fails to commence business in
+good faith within one (1) year after the issuance of a certificate of authority
+by the state banking commissioner or any required federal approval, whichever
+is later, the charter and certificate of authority shall expire.
+(e) A state bank that results from a conversion under this section shall
+be deemed to have been in existence for the same period of time as the special
+purpose depository institution from which it converted and shall surrender its
+certificate of authority under W.S. 13‑12‑116. Upon completion of the conversion
+the state bank shall not use the term "special purpose depository institution"
+in its business name or in connection with its ongoing business.
+(f) The commissioner shall adopt all rules necessary to implement this
+section.".
+Page 5-line 17 Delete "13-12-102(b)(xiv)" and insert "13-12-
+102(b)(iv) and (xiv)".
+Page 5-after line 23 Insert:
+"(iv) W.S. 13-2-201 through 13-2-214 except as otherwise provided
+in W.S. 13-2-216;". FILER
+3/4/2025 H 3rd Reading:Passed 60-0-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, E, Campbell, K, Chestek, Clouston, Connolly,
+Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman,
+Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien,
+Locke, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Provenza, Riggins,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock, Styvar,
+Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter,
+Wylie, Yin
+Excused: Representative(s) Brown, L, Lucas
+Ayes 60 Nays 0 Excused 2 Absent 0 Conflicts 0
+3/5/2025 Assigned Number SEA No. 0093
+
+3/5/2025 S President Signed SEA No. 0093
+3/5/2025 H Speaker Signed SEA No. 0093
+3/17/2025 Governor Signed SEA No. 0093
+3/17/2025 Assigned Chapter Number 150
+Chapter No. 150 Session Laws of Wyoming 2025

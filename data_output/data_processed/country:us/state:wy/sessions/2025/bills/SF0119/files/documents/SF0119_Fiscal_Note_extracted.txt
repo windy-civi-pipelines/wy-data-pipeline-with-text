@@ -1,0 +1,71 @@
+Title: Expedited professional licensure for 25LSO-0532, 1.0
+Official Title: Expedited professional licensure for 25LSO-0532, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+military members.
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase and (decrease)
+SPECIAL REVENUE FUND (0800 Fund Shift Fiscal) $50,000 $0 $0
+SPECIAL REVENUE FUND (0900 Contractual Services) ($50,000) $0 $0
+Source of expenditure increase(decrease):
+This legislation requires the implementation of online applications for licensure
+for military service members and military spouses. A&I Professional Licensing
+Boards is working with a vendor to provide online services for all supported
+boards. Because temporary licenses for military service members or military
+spouses are not within the scope of work, this would be considered an enhancement
+to add this type of application for all twenty (20) boards.
+The Professional Licensing Board initially pays for the software from its budget
+and will be reimbursed by the boards.
+Assumptions:
+Costs are associated with online software enhancements split evenly between the
+individual boards at a cost of $2,500 per unit.
+No significant fiscal or personnel impact to the Board of Pharmacy, the Board of
+Nursing, or the Board of Medicine.
+Prepared by: Catherine Camarotte, LSO Phone: 777-7881
+(Information provided by JoAnn Reid, Dept. of A&I, Professional Licensing Boards,
+307-777-3507;
+Matthew R. Martineau, Board of Pharmacy, 307-634-9636;
+Rachael Fillbrandt, Board of Nursing, 307-777-8504;
+Kevin Bohnenblust, Board of Medicine, 307-777-7053)
+SF0119
+
+
+================================================================================
+
+Raw Text:
+Expedited professional licensure for 25LSO-0532, 1.0
+military members.
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase and (decrease)
+SPECIAL REVENUE FUND (0800 Fund Shift Fiscal) $50,000 $0 $0
+SPECIAL REVENUE FUND (0900 Contractual Services) ($50,000) $0 $0
+Source of expenditure increase(decrease):
+This legislation requires the implementation of online applications for licensure
+for military service members and military spouses. A&I Professional Licensing
+Boards is working with a vendor to provide online services for all supported
+boards. Because temporary licenses for military service members or military
+spouses are not within the scope of work, this would be considered an enhancement
+to add this type of application for all twenty (20) boards.
+The Professional Licensing Board initially pays for the software from its budget
+and will be reimbursed by the boards.
+Assumptions:
+Costs are associated with online software enhancements split evenly between the
+individual boards at a cost of $2,500 per unit.
+No significant fiscal or personnel impact to the Board of Pharmacy, the Board of
+Nursing, or the Board of Medicine.
+Prepared by: Catherine Camarotte, LSO Phone: 777-7881
+(Information provided by JoAnn Reid, Dept. of A&I, Professional Licensing Boards,
+307-777-3507;
+Matthew R. Martineau, Board of Pharmacy, 307-634-9636;
+Rachael Fillbrandt, Board of Nursing, 307-777-8504;
+Kevin Bohnenblust, Board of Medicine, 307-777-7053)
+SF0119

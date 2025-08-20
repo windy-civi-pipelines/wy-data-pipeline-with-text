@@ -1,0 +1,118 @@
+Title: 1 Page 1-line 2 Delete "in" and insert "for review of".
+Official Title: 1 Page 1-line 2 Delete "in" and insert "for review of".
+Number of Sections: 1
+Source: versions - Amendment HB0120HS001 (Standing Committee)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0120HS001
+2
+3 Page 1-lines 13 through 15 Delete entirely.
+4
+5 Pages 2 through 4 Delete entirely.
+6
+7 Page 5-lines 1 through 3 Delete entirely and insert:
+8
+9 "After any contested case under this act where a person is subject
+10 to any sanction of not less than one thousand dollars ($1,000.00),
+11 is subject to the loss or deprivation of a significant liberty
+12 interest or is subject to a denial, suspension, annulment,
+13 withdrawal or revocation of a professional or occupational license
+14 and the person is aggrieved or adversely affected in fact by a
+15 final decision of an agency in the contested case, the person may
+16 seek review of the decision in the district court for de novo
+17 review of the agency decision, action or inaction in the district
+18 court of the county where the administrative decision was taken.
+19 For purposes of this section, a person seeking review may request
+20 a jury trial in the district court. Upon making a request for a
+21 jury trial under this section, the district court shall empanel a
+22 jury and hold a jury trial in accordance with the Code of Civil
+23 Procedure and the Wyoming Rules of Civil Procedure.
+24
+25 Section 2. W.S. 16-3-101(b)(xiii), 16-3-114 by creating a new
+26 subsection (d) and 16-3-115 are amended to read:".
+27
+28 Page 5-lines 12 through 23 Delete entirely.
+29
+30 Pages 6 through 10 Delete entirely.
+31
+32 Page 11-lines 1 and 2 Delete entirely and insert:
+33
+34 "16-3-114. Judicial review of agency actions; district
+35 courts.
+36
+37 (d) This section shall not apply to agency actions for which
+38 review is sought, and for which a jury trial is requested and
+39 completed, under W.S. 16-3-116.
+40
+41 16-3-115. Judicial review of agency actions; supreme court.
+42
+43 An aggrieved party may obtain a review of any final judgment of
+44 the district court under this act by appeal to the supreme court.
+1
+1 For purposes of this section, an aggrieved party may obtain a
+2 review by appeal to the supreme court of any final judgment of the
+3 district court for which a jury trial is held under W.S. 16-3-116.
+4 The appeal shall be taken as in other civil cases.". ANDREW,
+5 CHAIRMAN
+2
+
+
+================================================================================
+
+Raw Text:
+HB0120HS001
+1 Page 1-line 2 Delete "in" and insert "for review of".
+2
+3 Page 1-lines 13 through 15 Delete entirely.
+4
+5 Pages 2 through 4 Delete entirely.
+6
+7 Page 5-lines 1 through 3 Delete entirely and insert:
+8
+9 "After any contested case under this act where a person is subject
+10 to any sanction of not less than one thousand dollars ($1,000.00),
+11 is subject to the loss or deprivation of a significant liberty
+12 interest or is subject to a denial, suspension, annulment,
+13 withdrawal or revocation of a professional or occupational license
+14 and the person is aggrieved or adversely affected in fact by a
+15 final decision of an agency in the contested case, the person may
+16 seek review of the decision in the district court for de novo
+17 review of the agency decision, action or inaction in the district
+18 court of the county where the administrative decision was taken.
+19 For purposes of this section, a person seeking review may request
+20 a jury trial in the district court. Upon making a request for a
+21 jury trial under this section, the district court shall empanel a
+22 jury and hold a jury trial in accordance with the Code of Civil
+23 Procedure and the Wyoming Rules of Civil Procedure.
+24
+25 Section 2. W.S. 16-3-101(b)(xiii), 16-3-114 by creating a new
+26 subsection (d) and 16-3-115 are amended to read:".
+27
+28 Page 5-lines 12 through 23 Delete entirely.
+29
+30 Pages 6 through 10 Delete entirely.
+31
+32 Page 11-lines 1 and 2 Delete entirely and insert:
+33
+34 "16-3-114. Judicial review of agency actions; district
+35 courts.
+36
+37 (d) This section shall not apply to agency actions for which
+38 review is sought, and for which a jury trial is requested and
+39 completed, under W.S. 16-3-116.
+40
+41 16-3-115. Judicial review of agency actions; supreme court.
+42
+43 An aggrieved party may obtain a review of any final judgment of
+44 the district court under this act by appeal to the supreme court.
+1
+
+1 For purposes of this section, an aggrieved party may obtain a
+2 review by appeal to the supreme court of any final judgment of the
+3 district court for which a jury trial is held under W.S. 16-3-116.
+4 The appeal shall be taken as in other civil cases.". ANDREW,
+5 CHAIRMAN
+2

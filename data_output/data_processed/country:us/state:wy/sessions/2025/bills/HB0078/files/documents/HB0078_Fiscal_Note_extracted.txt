@@ -1,0 +1,69 @@
+Title: Newborn safety device funding for safe haven 25LSO-0507, 1.0
+Official Title: Newborn safety device funding for safe haven 25LSO-0507, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+providers.
+FISCAL NOTE
+This bill contains an appropriation of $300,000 from the GENERAL FUND to the
+Department of Family Services (DFS).
+DETAIL OF APPROPRIATION
+Agency #: 049 Agency Name: Department of Family Services
+Unit: 5904 (Protective Servcices and Juvenile Justice)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $0 $300,000 $0
+Total Expenditure Per Year: $0 $300,000 $0
+Grand Total Expenditure: $300,000
+Total Appropriated to Agency: $300,000
+Total Appropriated by Fund:
+GENERAL FUND $300,000
+Description of appropriation:
+The DFS indicates it will expend $300,000 in FY 2026 to provide grants to safe
+haven providers, as defined in Section 1(a)(iii) of this bill, to purchase newborn
+safety devices through the temporary program created by this bill.
+The DFS assumes the demand for these devices may exceed the appropriation,
+estimating there are approximately 152 potential safe haven sites across Wyoming
+and newborn safety devices cost an estimated $15,000 with up to $7,000 in additional
+expenses, for initial costs of $22,000 per device. The DFS indicates an annual
+upkeep cost of $500 per device. The DFS estimates the appropriation would fund
+approximately 13 devices, if each device costs $22,000, totaling $286,000.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Kristie Gordy, Department of Family Services, 777-6031)
+HB0078
+
+
+================================================================================
+
+Raw Text:
+Newborn safety device funding for safe haven 25LSO-0507, 1.0
+providers.
+FISCAL NOTE
+This bill contains an appropriation of $300,000 from the GENERAL FUND to the
+Department of Family Services (DFS).
+DETAIL OF APPROPRIATION
+Agency #: 049 Agency Name: Department of Family Services
+Unit: 5904 (Protective Servcices and Juvenile Justice)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $0 $300,000 $0
+Total Expenditure Per Year: $0 $300,000 $0
+Grand Total Expenditure: $300,000
+Total Appropriated to Agency: $300,000
+Total Appropriated by Fund:
+GENERAL FUND $300,000
+Description of appropriation:
+The DFS indicates it will expend $300,000 in FY 2026 to provide grants to safe
+haven providers, as defined in Section 1(a)(iii) of this bill, to purchase newborn
+safety devices through the temporary program created by this bill.
+The DFS assumes the demand for these devices may exceed the appropriation,
+estimating there are approximately 152 potential safe haven sites across Wyoming
+and newborn safety devices cost an estimated $15,000 with up to $7,000 in additional
+expenses, for initial costs of $22,000 per device. The DFS indicates an annual
+upkeep cost of $500 per device. The DFS estimates the appropriation would fund
+approximately 13 devices, if each device costs $22,000, totaling $286,000.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Kristie Gordy, Department of Family Services, 777-6031)
+HB0078

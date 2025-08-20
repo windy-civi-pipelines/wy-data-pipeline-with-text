@@ -1,0 +1,93 @@
+Title: This bill contains an appropriation of $79,000,000 from the GENERAL FUND to the
+Official Title: This bill contains an appropriation of $79,000,000 from the GENERAL FUND to the
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Veterans' home of Wyoming capital 25LSO-0599, 1.1
+construction.
+FISCAL NOTE
+State Construction Department. This appropriation is effective immediately.
+DETAIL OF APPROPRIATION
+Agency #: 027 Agency Name: State Construction Department
+Unit: (new)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $117,912 $117,949 $176,924
+0700 Capital Expenditures $19,632,088 $39,382,051 $19,573,076
+Total Expenditure Per Year: $19,750,000 $39,500,000 $19,750,000
+Grand Total Expenditure: $79,000,000
+Total Appropriated to Agency: $79,000,000
+Total Appropriated by Fund:
+GENERAL FUND $79,000,000
+Description of Appropriation:
+This bill allows the State Construction Department to conduct Level III
+construction to remodel the veterans’ home of Wyoming. A portion of this
+appropriation shall be used as necessary to fund one existing at-will employee
+contract position for administrating and managing design and construction
+activities.
+FEDERAL FUNDS received by the state for the veterans’ home shall be deposited
+into the GENERAL FUND in an equivalent amount to the extent funds from this
+appropriation have been expended. In addition, FEDERAL FUNDS received shall
+reduce this general fund appropriation in a ratio of $1.00 for each $1.00.
+The total expenditure for Level III construction of the veterans’ home shall not
+exceed $103,850,000 in aggregate of all funds (authorized by the governor,
+appropriations, and federal funds).
+The Legislature previously appropriated $24,850,000 for this project. To date,
+$5,461,870 has already been expended leaving $19,388,120. The balance has been
+projected as a phased project, with the balance of the previously appropriated
+funds projected to be spent as follows: year 1 at 25%, year 2 at 50%, and year 3
+at 25%. Actual expenditures may vary from projections as the project progresses.
+Funds are being spent in accordance to the legislation authorizing the
+appropriation.
+Prepared by: Catherine Camarotte, LSO Phone: 777-7881
+(Information provided by Laura Anderson, State Construction Department, 307-777-
+2901)
+SF0142
+
+
+================================================================================
+
+Raw Text:
+Veterans' home of Wyoming capital 25LSO-0599, 1.1
+construction.
+FISCAL NOTE
+This bill contains an appropriation of $79,000,000 from the GENERAL FUND to the
+State Construction Department. This appropriation is effective immediately.
+DETAIL OF APPROPRIATION
+Agency #: 027 Agency Name: State Construction Department
+Unit: (new)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $117,912 $117,949 $176,924
+0700 Capital Expenditures $19,632,088 $39,382,051 $19,573,076
+Total Expenditure Per Year: $19,750,000 $39,500,000 $19,750,000
+Grand Total Expenditure: $79,000,000
+Total Appropriated to Agency: $79,000,000
+Total Appropriated by Fund:
+GENERAL FUND $79,000,000
+Description of Appropriation:
+This bill allows the State Construction Department to conduct Level III
+construction to remodel the veterans’ home of Wyoming. A portion of this
+appropriation shall be used as necessary to fund one existing at-will employee
+contract position for administrating and managing design and construction
+activities.
+FEDERAL FUNDS received by the state for the veterans’ home shall be deposited
+into the GENERAL FUND in an equivalent amount to the extent funds from this
+appropriation have been expended. In addition, FEDERAL FUNDS received shall
+reduce this general fund appropriation in a ratio of $1.00 for each $1.00.
+The total expenditure for Level III construction of the veterans’ home shall not
+exceed $103,850,000 in aggregate of all funds (authorized by the governor,
+appropriations, and federal funds).
+The Legislature previously appropriated $24,850,000 for this project. To date,
+$5,461,870 has already been expended leaving $19,388,120. The balance has been
+projected as a phased project, with the balance of the previously appropriated
+funds projected to be spent as follows: year 1 at 25%, year 2 at 50%, and year 3
+at 25%. Actual expenditures may vary from projections as the project progresses.
+Funds are being spent in accordance to the legislation authorizing the
+appropriation.
+Prepared by: Catherine Camarotte, LSO Phone: 777-7881
+(Information provided by Laura Anderson, State Construction Department, 307-777-
+2901)
+SF0142

@@ -1,0 +1,27 @@
+Title: 1 Page 1-line 3 After "tender" insert "and bitcoin".
+Official Title: 1 Page 1-line 3 After "tender" insert "and bitcoin".
+Number of Sections: 1
+Source: versions - Amendment SF0096HW001 (Committee of the Whole) - Representative Wasserburger (Withdrawn)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0096HW001 (TO ENGROSSED COPY)
+2
+3 Page 2-line 3 After "tender" insert "and not less than one
+4 million dollars ($1,000,000.00) in bitcoin".
+5 WASSERBURGER
+1
+
+
+================================================================================
+
+Raw Text:
+SF0096HW001 (TO ENGROSSED COPY)
+1 Page 1-line 3 After "tender" insert "and bitcoin".
+2
+3 Page 2-line 3 After "tender" insert "and not less than one
+4 million dollars ($1,000,000.00) in bitcoin".
+5 WASSERBURGER
+1

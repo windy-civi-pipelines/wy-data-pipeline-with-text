@@ -1,0 +1,71 @@
+Title: Sponsored By: Senator(s) Case and Driskill and Representative(s)
+Official Title: Sponsored By: Senator(s) Case and Driskill and Representative(s)
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0111 Net metering revisions.
+Larsen, L
+AN ACT relating to net metering; revising how net metering compensation applies
+to new small customer‑generators; authorizing the public service commission to
+authorize a different system of compensation for excess energy production if
+service is being subsidized by other customers; clarifying how net metering
+compensation applies to existing small customer-generators; providing
+definitions; making conforming amendments; requiring rulemaking; and providing
+for an effective date.
+1/13/2025 Bill Number Assigned
+1/14/2025 S Received for Introduction
+1/21/2025 S Introduced and Referred to S07 - Corporations
+1/27/2025 S07 - Corporations:Recommend Do Pass 4-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Case, Dockstader, Landen, Steinmetz
+Nays: Senator Boner
+Ayes 4 Nays 1 Excused 0 Absent 0 Conflicts 0
+1/27/2025 S Placed on General File
+2/3/2025 S COW:Passed
+2/4/2025 S 2nd Reading:Passed
+2/5/2025 S 3rd Reading:Failed 10-17-4-0-0
+ROLL CALL
+Ayes: Senator(s) Brennan, Case, Cooper, Dockstader, Hicks, Kolb, Landen,
+Rothfuss, Scott, Steinmetz
+Nays: Senator(s) Anderson, Biteman, Boner, Crago, Driskill, Gierau, Hutchings,
+Ide, Jones, Mckeown, Nethercott, Olsen, Pappas, Pearson, Salazar, Schuler, Smith
+Excused: Senator(s) Barlow, Crum, French, Laursen
+Ayes 10 Nays 17 Excused 4 Absent 0 Conflicts 0
+
+
+================================================================================
+
+Raw Text:
+SF0111 Net metering revisions.
+Sponsored By: Senator(s) Case and Driskill and Representative(s)
+Larsen, L
+AN ACT relating to net metering; revising how net metering compensation applies
+to new small customer‑generators; authorizing the public service commission to
+authorize a different system of compensation for excess energy production if
+service is being subsidized by other customers; clarifying how net metering
+compensation applies to existing small customer-generators; providing
+definitions; making conforming amendments; requiring rulemaking; and providing
+for an effective date.
+1/13/2025 Bill Number Assigned
+1/14/2025 S Received for Introduction
+1/21/2025 S Introduced and Referred to S07 - Corporations
+1/27/2025 S07 - Corporations:Recommend Do Pass 4-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Case, Dockstader, Landen, Steinmetz
+Nays: Senator Boner
+Ayes 4 Nays 1 Excused 0 Absent 0 Conflicts 0
+1/27/2025 S Placed on General File
+2/3/2025 S COW:Passed
+2/4/2025 S 2nd Reading:Passed
+2/5/2025 S 3rd Reading:Failed 10-17-4-0-0
+ROLL CALL
+Ayes: Senator(s) Brennan, Case, Cooper, Dockstader, Hicks, Kolb, Landen,
+Rothfuss, Scott, Steinmetz
+Nays: Senator(s) Anderson, Biteman, Boner, Crago, Driskill, Gierau, Hutchings,
+Ide, Jones, Mckeown, Nethercott, Olsen, Pappas, Pearson, Salazar, Schuler, Smith
+Excused: Senator(s) Barlow, Crum, French, Laursen
+Ayes 10 Nays 17 Excused 4 Absent 0 Conflicts 0

@@ -1,0 +1,29 @@
+Title: 1 Page 2-line 3 After "drop box." insert "If a ballot is
+Official Title: 1 Page 2-line 3 After "drop box." insert "If a ballot is
+Number of Sections: 1
+Source: versions - Amendment HB0131H2002 (2nd reading) - Representative Storer (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0131H2002
+2 improperly delivered to the county clerk in
+3 violation of this section, the clerk may
+4 provide notice to the qualified elector that
+5 the qualified elector's ballot is spoiled.".
+6 STORER
+1
+
+
+================================================================================
+
+Raw Text:
+HB0131H2002
+1 Page 2-line 3 After "drop box." insert "If a ballot is
+2 improperly delivered to the county clerk in
+3 violation of this section, the clerk may
+4 provide notice to the qualified elector that
+5 the qualified elector's ballot is spoiled.".
+6 STORER
+1

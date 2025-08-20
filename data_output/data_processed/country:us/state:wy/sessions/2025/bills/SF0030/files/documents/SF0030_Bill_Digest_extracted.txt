@@ -1,0 +1,154 @@
+Title: Sponsored By: Joint Transportation, Highways & Military Affairs
+Official Title: Sponsored By: Joint Transportation, Highways & Military Affairs
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Wyoming's investment in veteran's mental
+SF0030
+health.
+Interim Committee
+AN ACT relating to education; establishing the Wyoming veteran loan repayment
+program; specifying eligibility; providing for loan repayment for veterans who
+provide mental health services within this state to veterans; providing a
+definition; requiring reporting; providing an appropriation; and providing for
+an effective date.
+12/9/2024 Bill Number Assigned
+12/19/2024 S Received for Introduction
+1/15/2025 S Introduced and Referred to S08 - Transportation
+1/23/2025 S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Brennan, Cooper, Kolb, Pappas
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/23/2025 :Rerefer to S02 - Appropriations
+1/28/2025 S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Gierau, Laursen, Salazar, Smith
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/28/2025 S Placed on General File
+SF0030SS001/ADOPTED
+Page 1-line 5 Delete "amending a".
+Page 1-line 6 Delete "prior appropriation;".
+Page 6-line 6 Delete "school foundation program account" and insert
+"general fund".
+Pages 7 through 15 Delete entirely.
+Page 16-line 2 Delete "Section 4." and insert "Section 2.". PAPPAS,
+CHAIRMAN
+SF0030SS002.01/ADOPTED [DIVIDED AMENDMENT]
+(CORRECTED COPY)
+Page 1-line 6 Before "and providing" insert "providing an
+appropriation;".
+Page 6-line 6 Delete "school foundation program account" and insert
+"general fund".
+Page 15-after line 22 Insert and renumber as necessary:
+"Section 2. There is appropriated two hundred fifty thousand dollars
+($250,000.00) from the general fund to the University of Wyoming for purposes
+of the Wyoming veteran loan repayment program established under W.S. 21-16-
+2001, as created by section 1 of this act. This appropriation shall be for the
+period beginning with the effective date of this act and ending June 30, 2026.
+This appropriation shall not be transferred or expended for any other purpose
+and any unexpended, unobligated funds remaining from this appropriation shall
+revert as provided by law on June 30, 2026. It is the intent of the legislature
+that this appropriation be included and doubled in the standard budget of the
+University of Wyoming for the immediately succeeding fiscal biennium but not be
+included in any subsequent fiscal biennium.".
+Page 16-line 2 Delete the first Senate standing committee amendment
+(SF0030SS001/A) to this line; delete "Section 4." and
+insert "Section 3.". SALAZAR, CHAIRMAN
+SF0030SS002.02/FAILED [DIVIDED AMENDMENT]
+(CORRECTED COPY)
+Page 6-line 17 Delete "2035" and insert "2028". SALAZAR, CHAIRMAN
+1/28/2025 S COW:Passed
+1/29/2025 S 2nd Reading:Passed
+1/30/2025 S 3rd Reading:Passed 20-10-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Cooper, Crago,
+Crum, Dockstader, Driskill, Gierau, Jones, Landen, Nethercott, Olsen, Pappas,
+Rothfuss, Salazar, Schuler, Scott
+Nays: Senator(s) Case, French, Hicks, Hutchings, Ide, Kolb, Laursen, Mckeown,
+Pearson, Steinmetz
+Excused: Senator Smith
+Ayes 20 Nays 10 Excused 1 Absent 0 Conflicts 0
+1/30/2025 H Received for Introduction
+2/12/2025 H Introduced and Referred to H02 - Appropriations
+2/28/2025 H No report prior to CoW Cutoff
+3/3/2025 H:Died in Committee Returned Bill Pursuant to HR 5-4
+
+
+================================================================================
+
+Raw Text:
+Wyoming's investment in veteran's mental
+SF0030
+health.
+Sponsored By: Joint Transportation, Highways & Military Affairs
+Interim Committee
+AN ACT relating to education; establishing the Wyoming veteran loan repayment
+program; specifying eligibility; providing for loan repayment for veterans who
+provide mental health services within this state to veterans; providing a
+definition; requiring reporting; providing an appropriation; and providing for
+an effective date.
+12/9/2024 Bill Number Assigned
+12/19/2024 S Received for Introduction
+1/15/2025 S Introduced and Referred to S08 - Transportation
+1/23/2025 S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Brennan, Cooper, Kolb, Pappas
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/23/2025 :Rerefer to S02 - Appropriations
+1/28/2025 S02 - Appropriations:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Driskill, Gierau, Laursen, Salazar, Smith
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/28/2025 S Placed on General File
+SF0030SS001/ADOPTED
+Page 1-line 5 Delete "amending a".
+Page 1-line 6 Delete "prior appropriation;".
+Page 6-line 6 Delete "school foundation program account" and insert
+"general fund".
+Pages 7 through 15 Delete entirely.
+Page 16-line 2 Delete "Section 4." and insert "Section 2.". PAPPAS,
+CHAIRMAN
+SF0030SS002.01/ADOPTED [DIVIDED AMENDMENT]
+(CORRECTED COPY)
+Page 1-line 6 Before "and providing" insert "providing an
+appropriation;".
+Page 6-line 6 Delete "school foundation program account" and insert
+"general fund".
+Page 15-after line 22 Insert and renumber as necessary:
+
+"Section 2. There is appropriated two hundred fifty thousand dollars
+($250,000.00) from the general fund to the University of Wyoming for purposes
+of the Wyoming veteran loan repayment program established under W.S. 21-16-
+2001, as created by section 1 of this act. This appropriation shall be for the
+period beginning with the effective date of this act and ending June 30, 2026.
+This appropriation shall not be transferred or expended for any other purpose
+and any unexpended, unobligated funds remaining from this appropriation shall
+revert as provided by law on June 30, 2026. It is the intent of the legislature
+that this appropriation be included and doubled in the standard budget of the
+University of Wyoming for the immediately succeeding fiscal biennium but not be
+included in any subsequent fiscal biennium.".
+Page 16-line 2 Delete the first Senate standing committee amendment
+(SF0030SS001/A) to this line; delete "Section 4." and
+insert "Section 3.". SALAZAR, CHAIRMAN
+SF0030SS002.02/FAILED [DIVIDED AMENDMENT]
+(CORRECTED COPY)
+Page 6-line 17 Delete "2035" and insert "2028". SALAZAR, CHAIRMAN
+1/28/2025 S COW:Passed
+1/29/2025 S 2nd Reading:Passed
+1/30/2025 S 3rd Reading:Passed 20-10-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Cooper, Crago,
+Crum, Dockstader, Driskill, Gierau, Jones, Landen, Nethercott, Olsen, Pappas,
+Rothfuss, Salazar, Schuler, Scott
+Nays: Senator(s) Case, French, Hicks, Hutchings, Ide, Kolb, Laursen, Mckeown,
+Pearson, Steinmetz
+Excused: Senator Smith
+Ayes 20 Nays 10 Excused 1 Absent 0 Conflicts 0
+1/30/2025 H Received for Introduction
+2/12/2025 H Introduced and Referred to H02 - Appropriations
+2/28/2025 H No report prior to CoW Cutoff
+3/3/2025 H:Died in Committee Returned Bill Pursuant to HR 5-4

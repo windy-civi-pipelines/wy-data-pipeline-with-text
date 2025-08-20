@@ -1,0 +1,67 @@
+Title: 1 Page 29-line 6 After "1." insert ", 19."; under GENERAL
+Official Title: 1 Page 29-line 6 After "1." insert ", 19."; under GENERAL
+Number of Sections: 3
+Source: versions - Amendment HB0001H2018 (2nd reading) - Representative Provenza (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0001H2018
+[BUDGET(s) AFFECTED]
+
+Section 2:
+Section Under Consideration:
+
+Section 3:
+Section 048. DEPARTMENT OF HEALTH
+(Director's Office)
+* * * * * * * * * *
+2 FUND increase amount by "18,000,000".
+3
+4 Page 36-after line 2 Insert:
+5
+6 "19. Of this general fund appropriation eighteen million dollars
+7 ($18,000,000.00) is appropriated to provide grants to public
+8 hospitals formed and licensed under the laws of the state,
+9 including county memorial hospitals, rural health care district
+10 hospitals and special hospital district, for the support of
+11 delivery and maternity care. This appropriation shall not be
+12 transferred or expended for any other purpose. It is the intent
+13 of the legislature that this appropriation not be include in the
+14 department of health's standard budget for the immediately
+15 succeeding fiscal biennium.".
+16
+17 To the extent required by this amendment: adjust totals; and
+18 renumber as necessary. PROVENZA, POSEY
+1
+
+
+================================================================================
+
+Raw Text:
+HB0001H2018
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 048. DEPARTMENT OF HEALTH
+(Director's Office)
+* * * * * * * * * *
+1 Page 29-line 6 After "1." insert ", 19."; under GENERAL
+2 FUND increase amount by "18,000,000".
+3
+4 Page 36-after line 2 Insert:
+5
+6 "19. Of this general fund appropriation eighteen million dollars
+7 ($18,000,000.00) is appropriated to provide grants to public
+8 hospitals formed and licensed under the laws of the state,
+9 including county memorial hospitals, rural health care district
+10 hospitals and special hospital district, for the support of
+11 delivery and maternity care. This appropriation shall not be
+12 transferred or expended for any other purpose. It is the intent
+13 of the legislature that this appropriation not be include in the
+14 department of health's standard budget for the immediately
+15 succeeding fiscal biennium.".
+16
+17 To the extent required by this amendment: adjust totals; and
+18 renumber as necessary. PROVENZA, POSEY
+1

@@ -1,0 +1,1243 @@
+Title: HOUSE BILL NO. HB0162
+Official Title: HOUSE BILL NO. HB0162
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0292
+Interactive gaming.
+Sponsored by: Representative(s) Davis, Brown, L, Larson, JT
+and Tarver and Senator(s) Barlow, Pappas and
+Schuler
+A BILL
+for
+1 AN ACT relating to gaming; authorizing interactive gaming;
+2 providing for regulation by the Wyoming gaming commission;
+3 imposing fees; providing for the collection and
+4 distribution of revenues from interactive gaming; providing
+5 for the distribution of interactive gaming revenues;
+6 requiring rulemaking; creating criminal offenses and
+7 providing criminal penalties; and providing for effective
+8 dates.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 9-24-201 through 9-24-207 are created
+13 to read:
+14
+15 ARTICLE 2
+1 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 INTERACTIVE GAMING
+2
+3 9-24-201. Definitions.
+4
+5 (a) As used in this article:
+6
+7 (i) "Commission" means the Wyoming gaming
+8 commission;
+9
+10 (ii) "Interactive game" means an internet based
+11 version or variation of poker, blackjack or any other card,
+12 slot or gambling game typically offered in a casino and
+13 approved by the commission, in which:
+14
+15 (A) A person wagers money or something of
+16 monetary value for the opportunity to win money or a thing
+17 of monetary value;
+18
+19 (B) The outcome of the game may be
+20 determined by a random number generator, or a skill element
+21 may be essential to the game's outcome, depending on the
+22 type of game utilized; and
+23
+2 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (C) The game is accessed by the player
+2 using a computer, digital platform or mobile application on
+3 a mobile device that is connected to the internet.
+4
+5 (iii) "Interactive gaming" means engaging in
+6 interactive games conducted by an interactive gaming
+7 operator over the internet by use of a computer, digital
+8 platform or mobile application on a mobile device, that
+9 uses communications technology to accept wagers.
+10 Interactive gaming shall not include any of the following
+11 gaming activities:
+12
+13 (A) Activities, other than interactive
+14 gaming, that are exempted from criminal penalties under
+15 W.S. 6-7-101 through 6-7-104;
+16
+17 (B) Activities outside of this article
+18 authorized or regulated by the commission;
+19
+20 (C) Lotteries authorized by law;
+21
+22 (D) Fantasy sports contests;
+23
+3 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (E) Interactive games offered exclusively
+2 on Indian lands by an Indian tribe operating in accordance
+3 with a Tribal-State gaming compact and authorized to
+4 conduct class III gaming pursuant to federal law. For
+5 purposes of this article, an interactive game is conducted
+6 exclusively on Indian lands only if the person
+7 participating in interactive gaming is physically present
+8 on Indian lands when the interactive game is initiated and
+9 the game is offered by an Indian tribe operating on the
+10 same Indian lands as an intratribal transaction under 31
+11 U.S.C. § 5362(10)(c).
+12
+13 (iv) "Interactive gaming operator" means any
+14 qualified gaming entity permitted by the commission to
+15 accept interactive gaming wagers;
+16
+17 (v) "Interactive gaming revenue" means the total
+18 amount of all wagers placed by persons with an interactive
+19 gaming operator using cash or cash equivalents, excluding
+20 free wagers and promotional play, minus all payments to
+21 patrons and minus any applicable federal excise taxes.
+22 Payments to patrons include all payments of cash, cash
+4 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 equivalents, merchandise and any other thing of monetary
+2 value;
+3
+4 (vi) "Interactive gaming vendor" means a vendor
+5 that provides services to an interactive gaming operator
+6 which directly affect wagering, play or results of
+7 interactive gaming including geolocation services, know
+8 your customer services, payment processors and game
+9 providers;
+10
+11 (vii) "Live game simulcast" means an interactive
+12 live feed of an interactive game that is conducted at a
+13 live interactive game studio and in which participants have
+14 the ability to wager in real time;
+15
+16 (viii) "Live interactive game studio" means a
+17 physical location that utilizes live video and audio
+18 streaming technology to provide an interactive gaming
+19 operator with a live game simulcast;
+20
+21 (ix) "Patron" means a person who places an
+22 interactive gaming wager;
+23
+5 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (x) "Permissible jurisdiction" means a
+2 jurisdiction other than Wyoming where wagers on interactive
+3 gaming may be accepted pursuant to an interactive gaming
+4 reciprocal agreement;
+5
+6 (xi) "Qualified gaming entity" means a gaming
+7 entity that offers interactive gaming through computers,
+8 digital platforms or mobile applications on a mobile device
+9 in not less than three (3) states in the United States
+10 pursuant to a state regulatory structure.
+11
+12 9-24-202. Interactive gaming regulation; rulemaking.
+13
+14 (a) The commission shall regulate interactive gaming
+15 and interactive gaming operators and vendors.
+16
+17 (b) The commission shall promulgate rules to
+18 implement this article. The rules the commission
+19 promulgates shall establish standards and procedures for
+20 interactive gaming and associated interactive gaming
+21 platforms. The rules shall include:
+22
+6 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (i) Governance of the conduct of interactive
+2 gaming and the system of wagering associated with
+3 interactive gaming, including all of the following:
+4
+5 (A) Terms and conditions for interactive
+6 gaming that are compliant with all applicable federal laws;
+7
+8 (B) Identification of the types of
+9 interactive games upon which wagers may be accepted;
+10
+11 (C) The manner in which interactive gaming
+12 wagers are received and payoffs are remitted;
+13
+14 (D) Procedures for managing and resolving
+15 suspected cheating, irregularities and complaints;
+16
+17 (E) A requirement that a patron shall be
+18 physically present in Wyoming when making a wager unless
+19 the patron is physically present in a permissible
+20 jurisdiction;
+21
+22 (F) A requirement for each interactive
+23 gaming operator to use a geolocation system to ensure that
+7 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 a patron making an interactive gaming wager is physically
+2 present in the state when making the wager unless the
+3 patron is physically present in a permissible jurisdiction;
+4
+5 (G) Internal controls for all aspects of
+6 interactive gaming, including procedures for system
+7 integrity, system security, operations and accounting;
+8
+9 (H) Operational controls for interactive
+10 gaming accounts;
+11
+12 (J) Procedures to ensure that interactive
+13 gaming operators do not offer prohibited interactive games;
+14
+15 (K) Requirements for the offering of live
+16 game simulcasting, which shall be permitted to be conducted
+17 from live interactive game studio premises in any location
+18 and shall not be located in Wyoming.
+19
+20 (ii) Methods for calculating interactive gaming
+21 revenue and standards for the counting and recording of
+22 money and things of monetary value received in the conduct
+8 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 of interactive gaming, including requirements for internal
+2 controls, financial records and audits;
+3
+4 (iii) Reasonable minimum qualifications for
+5 interactive gaming operators and vendors;
+6
+7 (iv) Any other matters necessary for overseeing
+8 interactive gaming and interactive gaming operators and
+9 vendors.
+10
+11 (c) In promulgating rules pursuant to this section,
+12 the commission shall examine the regulations implemented in
+13 Wyoming for online sports wagering and regulations
+14 promulgated in other states where interactive gaming is
+15 conducted and shall, as far as practicable, adopt a similar
+16 regulatory framework to maximize revenue generated to the
+17 state.
+18
+19 (d) Interactive gaming shall not be conducted from
+20 any physical location designed for a patron to physically
+21 visit to place a wager. Interactive gaming shall be deemed
+22 to take place at the location of the patron participating
+9 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 in an interactive game and not the location of the server
+2 of an interactive gaming permittee or any other location.
+3
+4 (e) The commission shall develop a compliance program
+5 that includes establishing procedures to review interactive
+6 gaming and related activities occurring in the state to
+7 ensure compliance with and enforcement of this article. The
+8 program shall include review and evaluation of the conduct
+9 of:
+10
+11 (i) Interactive gaming operators, interactive
+12 gaming vendors, qualified gaming entities, patrons and any
+13 other person permitted or authorized to engage in
+14 activities under this article; and
+15
+16 (ii) Persons operating without a valid permit
+17 under this article, engaging in activities not authorized
+18 or regulated under this article or pursuing or engaging in
+19 activities otherwise in violation of this article.
+20
+21 9-24-203. Permits; fees; application.
+22
+10 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (a) An interactive gaming operator shall possess a
+2 permit issued by the commission to accept interactive
+3 gaming wagers. No operator shall accept interactive gaming
+4 wagers without holding a valid permit issued by the
+5 commission.
+6
+7 (b) A qualified gaming entity applying for an
+8 interactive gaming operator permit shall do so on an
+9 application furnished by the commission. The commission
+10 shall offer an abbreviated application for a qualified
+11 gaming entity that holds an online sports wagering operator
+12 permit in Wyoming pursuant to W.S. 9-24-103, and the
+13 commission may consider an online sports wagering operator
+14 permitholder fully qualified to hold an interactive gaming
+15 operator permit under this section without additional
+16 investigation. The fee for both an initial application and
+17 renewal application shall be two thousand five hundred
+18 dollars ($2,500.00). The application shall require an
+19 applicant, at a minimum, to provide all information
+20 required by W.S. 9-24-103(b) and any additional information
+21 required by commission rules.
+22
+11 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (c) The commission shall charge a permit fee of one
+2 hundred thousand dollars ($100,000.00) for an initial
+3 interactive gaming operator permit. An initial permit and
+4 any renewal permit shall each be valid for five (5) years.
+5 The commission shall charge a fee of fifty thousand dollars
+6 ($50,000.00) for renewal of an interactive gaming operator
+7 permit.
+8
+9 (d) An interactive gaming vendor shall possess a
+10 permit issued by the commission to conduct business in the
+11 state. No person shall provide vendor services to an
+12 interactive gaming operator without holding a valid permit
+13 issued by the commission.
+14
+15 (e) The commission shall charge a fee of ten thousand
+16 dollars ($10,000.00) for an initial interactive gaming
+17 vendor permit. An initial permit and any renewal permit
+18 shall each be valid for five (5) years. The commission
+19 shall charge a fee of five thousand dollars ($5,000.00) for
+20 renewal of an interactive gaming vendor permit.
+21
+22 (f) Interactive gaming operator and interactive
+23 gaming vendor permit fees charged pursuant to subsections
+12 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (c) and (e) of this section shall be deposited in the
+2 commission gaming account. Subject to legislative
+3 appropriation, amounts within the account may be used by
+4 the commission for all expenses incurred in administering
+5 this article. On a quarterly basis, the commission shall
+6 transfer amounts within the account in excess of five
+7 hundred thousand dollars ($500,000.00) to the state
+8 treasurer for credit to the general fund.
+9
+10 (g) The following persons are considered to be
+11 interactive gaming operator permit applicants or permit
+12 holders:
+13
+14 (i) Each holding company, parent company or
+15 subsidiary company of the applicant or permit holder;
+16
+17 (ii) Each person, except for a bank or other
+18 licensed lending institution that holds a mortgage or other
+19 lien acquired in the ordinary course of business, who owns
+20 fifteen percent (15%) or more of an applicant or permit
+21 holder and has the ability to:
+22
+13 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (A) Control the activities of the applicant
+2 or permit holder; or
+3
+4 (B) Elect a majority of the board of the
+5 applicant or permit holder.
+6
+7 (iii) Any person the commission otherwise
+8 determines has the ability to control the noncorporate
+9 applicant or permit holder;
+10
+11 (iv) Key personnel of an applicant or permit
+12 holder, including any executive, employee or agent having
+13 the power to exercise ultimate decision making authority
+14 over the applicant's or permit holder's interactive gaming
+15 operations in this state.
+16
+17 (h) The commission shall, not more than ninety (90)
+18 days after the date of receipt of an application for a
+19 permit or renewal of a permit, either:
+20
+21 (i) Issue the permit; or
+22
+14 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (ii) Deny the application based on the grounds
+2 that the applicant failed to qualify as provided by
+3 subsection (j) of this section.
+4
+5 (j) The commission shall deny an application under
+6 this section to anyone, including persons listed under
+7 subsection (g) of this section, upon finding any of the
+8 following:
+9
+10 (i) The applicant or permit holder has been
+11 convicted of, forfeited bail on or pleaded guilty or nolo
+12 contendere to:
+13
+14 (A) A crime involving theft, dishonesty or
+15 fraud;
+16
+17 (B) The crime of bribery or unlawfully
+18 influencing a public official;
+19
+20 (C) A felony crime involving physical harm
+21 to a person; or
+22
+15 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (D) Any other crime identified by rule of
+2 the commission that negatively impacts the applicant's
+3 credibility or the security, integrity or fairness of
+4 interactive gaming.
+5
+6 (ii) The applicant intentionally tampered with
+7 submitted documentation or concealed, failed to disclose or
+8 otherwise attempted to mislead the commission with respect
+9 to any material fact contained in the application or
+10 contained in any other information required of or submitted
+11 by an applicant to the commission;
+12
+13 (iii) The applicant or permit holder failed or
+14 refused to cooperate in the investigation of a crime
+15 related to gambling, corruption of a public official or any
+16 organized criminal activity;
+17
+18 (iv) The applicant or permit holder
+19 intentionally failed to disclose the existence or identity
+20 of other persons who have control of the applicant or
+21 permit holder as required by this section;
+22
+16 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (v) The applicant or permit holder does not
+2 demonstrate financial responsibility sufficient to
+3 adequately meet the requirements of this article, as
+4 specified by rule of the commission; or
+5
+6 (vi) The applicant or permit holder has not met
+7 the requirements of this section, any other provision of
+8 this article or commission rules.
+9
+10 (k) Given a sufficient number of qualified
+11 applicants, at any one (1) time the commission shall issue
+12 not less than five (5) interactive gaming operator permits
+13 to applicants that satisfy the requirements of this
+14 article. If an insufficient number of applicants apply for
+15 an interactive gaming operator permit, this provision shall
+16 not be interpreted to direct the commission to issue a
+17 permit to an unqualified applicant.
+18
+19 (m) Subject to subsection (k) of this section and the
+20 requirements of this article, the commission may give
+21 preference to an interactive gaming vendor that is
+22 currently operating in good standing in a similar role in
+23 at least three (3) states in the United States under a
+17 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 state regulatory structure and that has paid all required
+2 fees under subsection (e) of this section when making
+3 interactive gaming operator permit application
+4 determinations.
+5
+6 (n) Permit holders under this article shall have an
+7 ongoing obligation to disclose in writing any material
+8 change in the information provided in the application to
+9 the commission, including:
+10
+11 (i) Changes to names and contact information;
+12
+13 (ii) Arrests, convictions, guilty or nolo
+14 contendere pleas, disciplinary actions or permit denials in
+15 Wyoming or any other jurisdiction;
+16
+17 (iii) Any civil action brought against the
+18 permit holder related to gaming; and
+19
+20 (iv) Any other information specified by rule of
+21 the commission.
+22
+18 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (o) If the commission denies an application or
+2 intends to revoke or suspend a permit issued under this
+3 article, it shall notify the applicant or permittee in
+4 writing, stating the grounds for denial, revocation or
+5 suspension and inform the person of a right to submit,
+6 within thirty (30) days, any additional documentation
+7 relating to the grounds for denial, revocation or
+8 suspension. Upon receiving any additional documentation,
+9 the commission shall reconsider its decision and inform the
+10 applicant of its decision within not more than twenty (20)
+11 days of the submission of information for reconsideration.
+12 If the commission finds that public safety or welfare
+13 requires emergency action, and incorporates a finding to
+14 that effect in its order, summary suspension of a permit
+15 may be ordered pending proceedings for revocation or other
+16 action. A denial of an application or a revocation or
+17 suspension of a permit under this article shall be subject
+18 to the contested case procedures of the Wyoming
+19 Administrative Procedure Act.
+20
+21 9-24-204. Distribution of revenue.
+22
+19 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (a) Not later than the fifteenth day of each month,
+2 in accordance with commission rules, an interactive gaming
+3 operator shall remit sixteen percent (16%) of its
+4 interactive gaming revenue from the prior month to the
+5 commission. The first three hundred thousand dollars
+6 ($300,000.00) of interactive gaming revenue collected under
+7 this section shall be continuously appropriated to the
+8 department of health to be distributed to the counties for
+9 the purpose of funding county health programs to prevent
+10 and treat problematic gaming behavior. Of the remaining
+11 revenue, the commission shall remit these monies to the
+12 state treasurer for distribution as follows:
+13
+14 (i) Forty percent (40%) to the counties whose
+15 shares shall be based upon population;
+16
+17 (ii) Fifty percent (50%) to the school
+18 foundation program account;
+19
+20 (iii) Ten percent (10%) to the commission gaming
+21 account, a portion of which shall cover administrative
+22 costs and expenses.
+23
+20 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 9-24-205. Age to engage in interactive gaming.
+2
+3 No person under the age of twenty-one (21) years shall
+4 engage in interactive gaming.
+5
+6 9-24-206. Reciprocal agreements.
+7
+8 (a) The state may enter into reciprocal agreements
+9 with permissible jurisdictions for the conduct of
+10 interactive gaming, provided the agreements are not
+11 inconsistent with federal law and the law of the
+12 jurisdiction in which the person placing a wager is
+13 located.
+14
+15 (b) An interactive gaming operator in this state may
+16 accept interactive gaming wagers from persons physically
+17 located in a permissible jurisdiction pursuant to a
+18 reciprocal agreement.
+19
+20 (c) A reciprocal agreement with a permissible
+21 jurisdiction may allow a person physically located in this
+22 state to place a wager on an interactive game offered
+21 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 pursuant to a regulatory structure in the permissible
+2 jurisdiction.
+3
+4 9-24-207. Penalties; compliance.
+5
+6 (a) Any person who knowingly accepts an interactive
+7 gaming wager or otherwise operates a business of
+8 interactive gaming and does not possess a valid permit
+9 issued by the commission under this article shall be
+10 subject to the following, in addition to any penalty
+11 imposed under W.S. 6-7-102:
+12
+13 (i) For a first offense, a civil penalty of
+14 fifty thousand dollars ($50,000.00);
+15
+16 (ii) For a second or subsequent offense, a civil
+17 penalty of one hundred thousand dollars ($100,000.00).
+18
+19 (b) Any person that allows a person under the age of
+20 twenty‑one (21) years to engage in interactive gaming or who
+21 does not possess a valid permit issued by the commission
+22 under this article and that provides or makes available
+23 computers or devices to enable members of the public to
+22 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 participate in interactive gaming in a specific place, or
+2 that establishes or maintains a facility for the conduct of
+3 interactive gaming by members of the public, shall be
+4 subject to the following, in addition to any penalty
+5 imposed under W.S. 6-7-102:
+6
+7 (i) For a first offense, a civil penalty of
+8 twenty-five thousand dollars ($25,000.00);
+9
+10 (ii) For a second or subsequent offense, a civil
+11 penalty of fifty thousand dollars ($50,000.00).
+12
+13 (c) If a series of similar events result in a
+14 violation under this article, those events that occur
+15 within the same month shall be treated as one (1) offense
+16 and not separate and distinct offenses.
+17
+18 Section 2. W.S. 6-7-101(a)(iii) by creating a new
+19 subparagraph (P) and 11-25-104(o) by creating a new
+20 paragraph (iii) are amended to read:
+21
+22 6-7-101. Definitions.
+23
+23 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 (a) As used in this article:
+2
+3 (iii) "Gambling" means risking any property for
+4 gain contingent in whole or in part upon lot, chance, the
+5 operation of a gambling device or the happening or outcome
+6 of an event, including a sporting event, over which the
+7 person taking a risk has no control, but does not include
+8 any of the following:
+9
+10 (P) Interactive gaming regulated under W.S.
+11 9-24-201 through 9-24-207.
+12
+13 11-25-104. Gaming commission; officers; director;
+14 meetings; quorum; records; licenses generally; effect of
+15 financial interest in events.
+16
+17 (o) In addition to all other duties, the commission,
+18 in the reasonable exercise of its discretion, shall:
+19
+20 (iii) Regulate online interactive gaming and
+21 interactive gaming operators and vendors under W.S.
+22 9-24-201 through 9-24-207.
+23
+24 HB0162
+2025 STATE OF WYOMING 25LSO-0292
+1 Section 3. Not later than December 31, 2025 the
+2 gaming commission shall promulgate rules required by this
+3 act.
+4
+5 Section 4.
+6
+7 (a) Except as provided in subsection (b) of this
+8 section, this act is effective immediately upon completion
+9 of all acts necessary for a bill to become law as provided
+10 by Article 4, Section 8 of the Wyoming Constitution.
+11
+12 (b) Sections 1 and 2 of this act are effective
+13 January 1, 2026.
+14
+15 (END)
+25 HB0162
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0292
+HOUSE BILL NO. HB0162
+Interactive gaming.
+Sponsored by: Representative(s) Davis, Brown, L, Larson, JT
+and Tarver and Senator(s) Barlow, Pappas and
+Schuler
+A BILL
+for
+1 AN ACT relating to gaming; authorizing interactive gaming;
+2 providing for regulation by the Wyoming gaming commission;
+3 imposing fees; providing for the collection and
+4 distribution of revenues from interactive gaming; providing
+5 for the distribution of interactive gaming revenues;
+6 requiring rulemaking; creating criminal offenses and
+7 providing criminal penalties; and providing for effective
+8 dates.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 9-24-201 through 9-24-207 are created
+13 to read:
+14
+15 ARTICLE 2
+1 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 INTERACTIVE GAMING
+2
+3 9-24-201. Definitions.
+4
+5 (a) As used in this article:
+6
+7 (i) "Commission" means the Wyoming gaming
+8 commission;
+9
+10 (ii) "Interactive game" means an internet based
+11 version or variation of poker, blackjack or any other card,
+12 slot or gambling game typically offered in a casino and
+13 approved by the commission, in which:
+14
+15 (A) A person wagers money or something of
+16 monetary value for the opportunity to win money or a thing
+17 of monetary value;
+18
+19 (B) The outcome of the game may be
+20 determined by a random number generator, or a skill element
+21 may be essential to the game's outcome, depending on the
+22 type of game utilized; and
+23
+2 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (C) The game is accessed by the player
+2 using a computer, digital platform or mobile application on
+3 a mobile device that is connected to the internet.
+4
+5 (iii) "Interactive gaming" means engaging in
+6 interactive games conducted by an interactive gaming
+7 operator over the internet by use of a computer, digital
+8 platform or mobile application on a mobile device, that
+9 uses communications technology to accept wagers.
+10 Interactive gaming shall not include any of the following
+11 gaming activities:
+12
+13 (A) Activities, other than interactive
+14 gaming, that are exempted from criminal penalties under
+15 W.S. 6-7-101 through 6-7-104;
+16
+17 (B) Activities outside of this article
+18 authorized or regulated by the commission;
+19
+20 (C) Lotteries authorized by law;
+21
+22 (D) Fantasy sports contests;
+23
+3 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (E) Interactive games offered exclusively
+2 on Indian lands by an Indian tribe operating in accordance
+3 with a Tribal-State gaming compact and authorized to
+4 conduct class III gaming pursuant to federal law. For
+5 purposes of this article, an interactive game is conducted
+6 exclusively on Indian lands only if the person
+7 participating in interactive gaming is physically present
+8 on Indian lands when the interactive game is initiated and
+9 the game is offered by an Indian tribe operating on the
+10 same Indian lands as an intratribal transaction under 31
+11 U.S.C. § 5362(10)(c).
+12
+13 (iv) "Interactive gaming operator" means any
+14 qualified gaming entity permitted by the commission to
+15 accept interactive gaming wagers;
+16
+17 (v) "Interactive gaming revenue" means the total
+18 amount of all wagers placed by persons with an interactive
+19 gaming operator using cash or cash equivalents, excluding
+20 free wagers and promotional play, minus all payments to
+21 patrons and minus any applicable federal excise taxes.
+22 Payments to patrons include all payments of cash, cash
+4 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 equivalents, merchandise and any other thing of monetary
+2 value;
+3
+4 (vi) "Interactive gaming vendor" means a vendor
+5 that provides services to an interactive gaming operator
+6 which directly affect wagering, play or results of
+7 interactive gaming including geolocation services, know
+8 your customer services, payment processors and game
+9 providers;
+10
+11 (vii) "Live game simulcast" means an interactive
+12 live feed of an interactive game that is conducted at a
+13 live interactive game studio and in which participants have
+14 the ability to wager in real time;
+15
+16 (viii) "Live interactive game studio" means a
+17 physical location that utilizes live video and audio
+18 streaming technology to provide an interactive gaming
+19 operator with a live game simulcast;
+20
+21 (ix) "Patron" means a person who places an
+22 interactive gaming wager;
+23
+5 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (x) "Permissible jurisdiction" means a
+2 jurisdiction other than Wyoming where wagers on interactive
+3 gaming may be accepted pursuant to an interactive gaming
+4 reciprocal agreement;
+5
+6 (xi) "Qualified gaming entity" means a gaming
+7 entity that offers interactive gaming through computers,
+8 digital platforms or mobile applications on a mobile device
+9 in not less than three (3) states in the United States
+10 pursuant to a state regulatory structure.
+11
+12 9-24-202. Interactive gaming regulation; rulemaking.
+13
+14 (a) The commission shall regulate interactive gaming
+15 and interactive gaming operators and vendors.
+16
+17 (b) The commission shall promulgate rules to
+18 implement this article. The rules the commission
+19 promulgates shall establish standards and procedures for
+20 interactive gaming and associated interactive gaming
+21 platforms. The rules shall include:
+22
+6 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (i) Governance of the conduct of interactive
+2 gaming and the system of wagering associated with
+3 interactive gaming, including all of the following:
+4
+5 (A) Terms and conditions for interactive
+6 gaming that are compliant with all applicable federal laws;
+7
+8 (B) Identification of the types of
+9 interactive games upon which wagers may be accepted;
+10
+11 (C) The manner in which interactive gaming
+12 wagers are received and payoffs are remitted;
+13
+14 (D) Procedures for managing and resolving
+15 suspected cheating, irregularities and complaints;
+16
+17 (E) A requirement that a patron shall be
+18 physically present in Wyoming when making a wager unless
+19 the patron is physically present in a permissible
+20 jurisdiction;
+21
+22 (F) A requirement for each interactive
+23 gaming operator to use a geolocation system to ensure that
+7 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 a patron making an interactive gaming wager is physically
+2 present in the state when making the wager unless the
+3 patron is physically present in a permissible jurisdiction;
+4
+5 (G) Internal controls for all aspects of
+6 interactive gaming, including procedures for system
+7 integrity, system security, operations and accounting;
+8
+9 (H) Operational controls for interactive
+10 gaming accounts;
+11
+12 (J) Procedures to ensure that interactive
+13 gaming operators do not offer prohibited interactive games;
+14
+15 (K) Requirements for the offering of live
+16 game simulcasting, which shall be permitted to be conducted
+17 from live interactive game studio premises in any location
+18 and shall not be located in Wyoming.
+19
+20 (ii) Methods for calculating interactive gaming
+21 revenue and standards for the counting and recording of
+22 money and things of monetary value received in the conduct
+8 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 of interactive gaming, including requirements for internal
+2 controls, financial records and audits;
+3
+4 (iii) Reasonable minimum qualifications for
+5 interactive gaming operators and vendors;
+6
+7 (iv) Any other matters necessary for overseeing
+8 interactive gaming and interactive gaming operators and
+9 vendors.
+10
+11 (c) In promulgating rules pursuant to this section,
+12 the commission shall examine the regulations implemented in
+13 Wyoming for online sports wagering and regulations
+14 promulgated in other states where interactive gaming is
+15 conducted and shall, as far as practicable, adopt a similar
+16 regulatory framework to maximize revenue generated to the
+17 state.
+18
+19 (d) Interactive gaming shall not be conducted from
+20 any physical location designed for a patron to physically
+21 visit to place a wager. Interactive gaming shall be deemed
+22 to take place at the location of the patron participating
+9 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 in an interactive game and not the location of the server
+2 of an interactive gaming permittee or any other location.
+3
+4 (e) The commission shall develop a compliance program
+5 that includes establishing procedures to review interactive
+6 gaming and related activities occurring in the state to
+7 ensure compliance with and enforcement of this article. The
+8 program shall include review and evaluation of the conduct
+9 of:
+10
+11 (i) Interactive gaming operators, interactive
+12 gaming vendors, qualified gaming entities, patrons and any
+13 other person permitted or authorized to engage in
+14 activities under this article; and
+15
+16 (ii) Persons operating without a valid permit
+17 under this article, engaging in activities not authorized
+18 or regulated under this article or pursuing or engaging in
+19 activities otherwise in violation of this article.
+20
+21 9-24-203. Permits; fees; application.
+22
+10 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (a) An interactive gaming operator shall possess a
+2 permit issued by the commission to accept interactive
+3 gaming wagers. No operator shall accept interactive gaming
+4 wagers without holding a valid permit issued by the
+5 commission.
+6
+7 (b) A qualified gaming entity applying for an
+8 interactive gaming operator permit shall do so on an
+9 application furnished by the commission. The commission
+10 shall offer an abbreviated application for a qualified
+11 gaming entity that holds an online sports wagering operator
+12 permit in Wyoming pursuant to W.S. 9-24-103, and the
+13 commission may consider an online sports wagering operator
+14 permitholder fully qualified to hold an interactive gaming
+15 operator permit under this section without additional
+16 investigation. The fee for both an initial application and
+17 renewal application shall be two thousand five hundred
+18 dollars ($2,500.00). The application shall require an
+19 applicant, at a minimum, to provide all information
+20 required by W.S. 9-24-103(b) and any additional information
+21 required by commission rules.
+22
+11 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (c) The commission shall charge a permit fee of one
+2 hundred thousand dollars ($100,000.00) for an initial
+3 interactive gaming operator permit. An initial permit and
+4 any renewal permit shall each be valid for five (5) years.
+5 The commission shall charge a fee of fifty thousand dollars
+6 ($50,000.00) for renewal of an interactive gaming operator
+7 permit.
+8
+9 (d) An interactive gaming vendor shall possess a
+10 permit issued by the commission to conduct business in the
+11 state. No person shall provide vendor services to an
+12 interactive gaming operator without holding a valid permit
+13 issued by the commission.
+14
+15 (e) The commission shall charge a fee of ten thousand
+16 dollars ($10,000.00) for an initial interactive gaming
+17 vendor permit. An initial permit and any renewal permit
+18 shall each be valid for five (5) years. The commission
+19 shall charge a fee of five thousand dollars ($5,000.00) for
+20 renewal of an interactive gaming vendor permit.
+21
+22 (f) Interactive gaming operator and interactive
+23 gaming vendor permit fees charged pursuant to subsections
+12 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (c) and (e) of this section shall be deposited in the
+2 commission gaming account. Subject to legislative
+3 appropriation, amounts within the account may be used by
+4 the commission for all expenses incurred in administering
+5 this article. On a quarterly basis, the commission shall
+6 transfer amounts within the account in excess of five
+7 hundred thousand dollars ($500,000.00) to the state
+8 treasurer for credit to the general fund.
+9
+10 (g) The following persons are considered to be
+11 interactive gaming operator permit applicants or permit
+12 holders:
+13
+14 (i) Each holding company, parent company or
+15 subsidiary company of the applicant or permit holder;
+16
+17 (ii) Each person, except for a bank or other
+18 licensed lending institution that holds a mortgage or other
+19 lien acquired in the ordinary course of business, who owns
+20 fifteen percent (15%) or more of an applicant or permit
+21 holder and has the ability to:
+22
+13 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (A) Control the activities of the applicant
+2 or permit holder; or
+3
+4 (B) Elect a majority of the board of the
+5 applicant or permit holder.
+6
+7 (iii) Any person the commission otherwise
+8 determines has the ability to control the noncorporate
+9 applicant or permit holder;
+10
+11 (iv) Key personnel of an applicant or permit
+12 holder, including any executive, employee or agent having
+13 the power to exercise ultimate decision making authority
+14 over the applicant's or permit holder's interactive gaming
+15 operations in this state.
+16
+17 (h) The commission shall, not more than ninety (90)
+18 days after the date of receipt of an application for a
+19 permit or renewal of a permit, either:
+20
+21 (i) Issue the permit; or
+22
+14 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (ii) Deny the application based on the grounds
+2 that the applicant failed to qualify as provided by
+3 subsection (j) of this section.
+4
+5 (j) The commission shall deny an application under
+6 this section to anyone, including persons listed under
+7 subsection (g) of this section, upon finding any of the
+8 following:
+9
+10 (i) The applicant or permit holder has been
+11 convicted of, forfeited bail on or pleaded guilty or nolo
+12 contendere to:
+13
+14 (A) A crime involving theft, dishonesty or
+15 fraud;
+16
+17 (B) The crime of bribery or unlawfully
+18 influencing a public official;
+19
+20 (C) A felony crime involving physical harm
+21 to a person; or
+22
+15 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (D) Any other crime identified by rule of
+2 the commission that negatively impacts the applicant's
+3 credibility or the security, integrity or fairness of
+4 interactive gaming.
+5
+6 (ii) The applicant intentionally tampered with
+7 submitted documentation or concealed, failed to disclose or
+8 otherwise attempted to mislead the commission with respect
+9 to any material fact contained in the application or
+10 contained in any other information required of or submitted
+11 by an applicant to the commission;
+12
+13 (iii) The applicant or permit holder failed or
+14 refused to cooperate in the investigation of a crime
+15 related to gambling, corruption of a public official or any
+16 organized criminal activity;
+17
+18 (iv) The applicant or permit holder
+19 intentionally failed to disclose the existence or identity
+20 of other persons who have control of the applicant or
+21 permit holder as required by this section;
+22
+16 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (v) The applicant or permit holder does not
+2 demonstrate financial responsibility sufficient to
+3 adequately meet the requirements of this article, as
+4 specified by rule of the commission; or
+5
+6 (vi) The applicant or permit holder has not met
+7 the requirements of this section, any other provision of
+8 this article or commission rules.
+9
+10 (k) Given a sufficient number of qualified
+11 applicants, at any one (1) time the commission shall issue
+12 not less than five (5) interactive gaming operator permits
+13 to applicants that satisfy the requirements of this
+14 article. If an insufficient number of applicants apply for
+15 an interactive gaming operator permit, this provision shall
+16 not be interpreted to direct the commission to issue a
+17 permit to an unqualified applicant.
+18
+19 (m) Subject to subsection (k) of this section and the
+20 requirements of this article, the commission may give
+21 preference to an interactive gaming vendor that is
+22 currently operating in good standing in a similar role in
+23 at least three (3) states in the United States under a
+17 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 state regulatory structure and that has paid all required
+2 fees under subsection (e) of this section when making
+3 interactive gaming operator permit application
+4 determinations.
+5
+6 (n) Permit holders under this article shall have an
+7 ongoing obligation to disclose in writing any material
+8 change in the information provided in the application to
+9 the commission, including:
+10
+11 (i) Changes to names and contact information;
+12
+13 (ii) Arrests, convictions, guilty or nolo
+14 contendere pleas, disciplinary actions or permit denials in
+15 Wyoming or any other jurisdiction;
+16
+17 (iii) Any civil action brought against the
+18 permit holder related to gaming; and
+19
+20 (iv) Any other information specified by rule of
+21 the commission.
+22
+18 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (o) If the commission denies an application or
+2 intends to revoke or suspend a permit issued under this
+3 article, it shall notify the applicant or permittee in
+4 writing, stating the grounds for denial, revocation or
+5 suspension and inform the person of a right to submit,
+6 within thirty (30) days, any additional documentation
+7 relating to the grounds for denial, revocation or
+8 suspension. Upon receiving any additional documentation,
+9 the commission shall reconsider its decision and inform the
+10 applicant of its decision within not more than twenty (20)
+11 days of the submission of information for reconsideration.
+12 If the commission finds that public safety or welfare
+13 requires emergency action, and incorporates a finding to
+14 that effect in its order, summary suspension of a permit
+15 may be ordered pending proceedings for revocation or other
+16 action. A denial of an application or a revocation or
+17 suspension of a permit under this article shall be subject
+18 to the contested case procedures of the Wyoming
+19 Administrative Procedure Act.
+20
+21 9-24-204. Distribution of revenue.
+22
+19 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (a) Not later than the fifteenth day of each month,
+2 in accordance with commission rules, an interactive gaming
+3 operator shall remit sixteen percent (16%) of its
+4 interactive gaming revenue from the prior month to the
+5 commission. The first three hundred thousand dollars
+6 ($300,000.00) of interactive gaming revenue collected under
+7 this section shall be continuously appropriated to the
+8 department of health to be distributed to the counties for
+9 the purpose of funding county health programs to prevent
+10 and treat problematic gaming behavior. Of the remaining
+11 revenue, the commission shall remit these monies to the
+12 state treasurer for distribution as follows:
+13
+14 (i) Forty percent (40%) to the counties whose
+15 shares shall be based upon population;
+16
+17 (ii) Fifty percent (50%) to the school
+18 foundation program account;
+19
+20 (iii) Ten percent (10%) to the commission gaming
+21 account, a portion of which shall cover administrative
+22 costs and expenses.
+23
+20 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 9-24-205. Age to engage in interactive gaming.
+2
+3 No person under the age of twenty-one (21) years shall
+4 engage in interactive gaming.
+5
+6 9-24-206. Reciprocal agreements.
+7
+8 (a) The state may enter into reciprocal agreements
+9 with permissible jurisdictions for the conduct of
+10 interactive gaming, provided the agreements are not
+11 inconsistent with federal law and the law of the
+12 jurisdiction in which the person placing a wager is
+13 located.
+14
+15 (b) An interactive gaming operator in this state may
+16 accept interactive gaming wagers from persons physically
+17 located in a permissible jurisdiction pursuant to a
+18 reciprocal agreement.
+19
+20 (c) A reciprocal agreement with a permissible
+21 jurisdiction may allow a person physically located in this
+22 state to place a wager on an interactive game offered
+21 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 pursuant to a regulatory structure in the permissible
+2 jurisdiction.
+3
+4 9-24-207. Penalties; compliance.
+5
+6 (a) Any person who knowingly accepts an interactive
+7 gaming wager or otherwise operates a business of
+8 interactive gaming and does not possess a valid permit
+9 issued by the commission under this article shall be
+10 subject to the following, in addition to any penalty
+11 imposed under W.S. 6-7-102:
+12
+13 (i) For a first offense, a civil penalty of
+14 fifty thousand dollars ($50,000.00);
+15
+16 (ii) For a second or subsequent offense, a civil
+17 penalty of one hundred thousand dollars ($100,000.00).
+18
+19 (b) Any person that allows a person under the age of
+20 twenty‑one (21) years to engage in interactive gaming or who
+21 does not possess a valid permit issued by the commission
+22 under this article and that provides or makes available
+23 computers or devices to enable members of the public to
+22 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 participate in interactive gaming in a specific place, or
+2 that establishes or maintains a facility for the conduct of
+3 interactive gaming by members of the public, shall be
+4 subject to the following, in addition to any penalty
+5 imposed under W.S. 6-7-102:
+6
+7 (i) For a first offense, a civil penalty of
+8 twenty-five thousand dollars ($25,000.00);
+9
+10 (ii) For a second or subsequent offense, a civil
+11 penalty of fifty thousand dollars ($50,000.00).
+12
+13 (c) If a series of similar events result in a
+14 violation under this article, those events that occur
+15 within the same month shall be treated as one (1) offense
+16 and not separate and distinct offenses.
+17
+18 Section 2. W.S. 6-7-101(a)(iii) by creating a new
+19 subparagraph (P) and 11-25-104(o) by creating a new
+20 paragraph (iii) are amended to read:
+21
+22 6-7-101. Definitions.
+23
+23 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 (a) As used in this article:
+2
+3 (iii) "Gambling" means risking any property for
+4 gain contingent in whole or in part upon lot, chance, the
+5 operation of a gambling device or the happening or outcome
+6 of an event, including a sporting event, over which the
+7 person taking a risk has no control, but does not include
+8 any of the following:
+9
+10 (P) Interactive gaming regulated under W.S.
+11 9-24-201 through 9-24-207.
+12
+13 11-25-104. Gaming commission; officers; director;
+14 meetings; quorum; records; licenses generally; effect of
+15 financial interest in events.
+16
+17 (o) In addition to all other duties, the commission,
+18 in the reasonable exercise of its discretion, shall:
+19
+20 (iii) Regulate online interactive gaming and
+21 interactive gaming operators and vendors under W.S.
+22 9-24-201 through 9-24-207.
+23
+24 HB0162
+
+2025 STATE OF WYOMING 25LSO-0292
+1 Section 3. Not later than December 31, 2025 the
+2 gaming commission shall promulgate rules required by this
+3 act.
+4
+5 Section 4.
+6
+7 (a) Except as provided in subsection (b) of this
+8 section, this act is effective immediately upon completion
+9 of all acts necessary for a bill to become law as provided
+10 by Article 4, Section 8 of the Wyoming Constitution.
+11
+12 (b) Sections 1 and 2 of this act are effective
+13 January 1, 2026.
+14
+15 (END)
+25 HB0162

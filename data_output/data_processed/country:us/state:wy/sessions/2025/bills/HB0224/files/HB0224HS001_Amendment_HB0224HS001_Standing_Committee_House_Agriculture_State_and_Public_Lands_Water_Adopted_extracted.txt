@@ -1,0 +1,122 @@
+Title: 1 Page 1-line 8 Delete "an" and insert "a contingent".
+Official Title: 1 Page 1-line 8 Delete "an" and insert "a contingent".
+Number of Sections: 1
+Source: versions - Amendment HB0224HS001 (Standing Committee) - House Agriculture, State and Public Lands & Water  (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0224HS001
+2
+3 Page 2-line 15 After "government" delete ";" and insert
+4 "defined as:"
+5
+6 Page 2-lines 17 through 21 Delete entirely.
+7
+8 Page 3-line 1 Delete "(III)" and insert "(I)".
+9
+10 Page 3-line 3 After "law;" insert "or".
+11
+12 Pagd 3-lines 5 through 7 Delete entirely.
+13
+14 Page 3-line 9 Delete "(V)" and insert "(II)"; delete
+15 "county" and insert "country".
+16
+17 Page 3-line 12 Delete "(C)" and insert "(B)".
+18
+19 Page 3-lines 15 through 17 Delete entirely.
+20
+21 Page 3-line 19 Delete "(III)" and insert "(I)".
+22
+23 Page 3-line 21 After "law;" insert "or".
+24
+25 Page 4-lines 1 through 3 Delete entirely.
+26
+27 Page 4-line 5 Delete "(V)" and insert "(II)"; delete
+28 "county" and insert "country".
+29
+30 Page 6-line 2 After "security" insert "and the division of
+31 criminal investigation".
+32
+33 Page 6-line 5 After "section" insert "within fifteen (15)
+34 days of the purchase or acquirement of the
+35 interest in land".
+36
+37 Page 6-line 7 After "security" insert "and the division of
+38 criminal investigation".
+39
+40 Page 6-line 9 After "security" insert "or the division of
+41 criminal investigation".
+42
+43 Page 10-line 4 After "security" insert "and the division of
+44 criminal investigation".
+1
+1
+2 Page 10-lines 8 through 11 Delete entirely and insert:
+3
+4 "Section 5. This act is effective upon passage of an
+5 amendment to Article 1, Section 29 of the Wyoming Constitution, as
+6 proposed by 2025 House Joint Resolution 2 or a similar future
+7 resolution.". WINTER, CHAIRMAN
+2
+
+
+================================================================================
+
+Raw Text:
+HB0224HS001
+1 Page 1-line 8 Delete "an" and insert "a contingent".
+2
+3 Page 2-line 15 After "government" delete ";" and insert
+4 "defined as:"
+5
+6 Page 2-lines 17 through 21 Delete entirely.
+7
+8 Page 3-line 1 Delete "(III)" and insert "(I)".
+9
+10 Page 3-line 3 After "law;" insert "or".
+11
+12 Pagd 3-lines 5 through 7 Delete entirely.
+13
+14 Page 3-line 9 Delete "(V)" and insert "(II)"; delete
+15 "county" and insert "country".
+16
+17 Page 3-line 12 Delete "(C)" and insert "(B)".
+18
+19 Page 3-lines 15 through 17 Delete entirely.
+20
+21 Page 3-line 19 Delete "(III)" and insert "(I)".
+22
+23 Page 3-line 21 After "law;" insert "or".
+24
+25 Page 4-lines 1 through 3 Delete entirely.
+26
+27 Page 4-line 5 Delete "(V)" and insert "(II)"; delete
+28 "county" and insert "country".
+29
+30 Page 6-line 2 After "security" insert "and the division of
+31 criminal investigation".
+32
+33 Page 6-line 5 After "section" insert "within fifteen (15)
+34 days of the purchase or acquirement of the
+35 interest in land".
+36
+37 Page 6-line 7 After "security" insert "and the division of
+38 criminal investigation".
+39
+40 Page 6-line 9 After "security" insert "or the division of
+41 criminal investigation".
+42
+43 Page 10-line 4 After "security" insert "and the division of
+44 criminal investigation".
+1
+
+1
+2 Page 10-lines 8 through 11 Delete entirely and insert:
+3
+4 "Section 5. This act is effective upon passage of an
+5 amendment to Article 1, Section 29 of the Wyoming Constitution, as
+6 proposed by 2025 House Joint Resolution 2 or a similar future
+7 resolution.". WINTER, CHAIRMAN
+2

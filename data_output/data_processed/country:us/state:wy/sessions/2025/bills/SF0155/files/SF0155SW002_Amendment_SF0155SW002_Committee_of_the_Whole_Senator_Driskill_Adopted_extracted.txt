@@ -1,0 +1,39 @@
+Title: 1 Page 3-line 22 After "this paragraph;" insert "and".
+Official Title: 1 Page 3-line 22 After "this paragraph;" insert "and".
+Number of Sections: 1
+Source: versions - Amendment SF0155SW002 (Committee of the Whole) - Senator Driskill (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0155SW002
+2
+3 Page 4-lines 1 and 2 Delete entirely and renumber as
+4 necessary.
+5
+6 Page 4-line 4 Delete "(F)" and insert "(E)".
+7
+8 Page 5-lines 10 through 13 Delete entirely and renumber as
+9 necessary.
+10
+11 Page 5-line 15 Delete "(iii)" and insert "(ii)". DRISKILL
+1
+
+
+================================================================================
+
+Raw Text:
+SF0155SW002
+1 Page 3-line 22 After "this paragraph;" insert "and".
+2
+3 Page 4-lines 1 and 2 Delete entirely and renumber as
+4 necessary.
+5
+6 Page 4-line 4 Delete "(F)" and insert "(E)".
+7
+8 Page 5-lines 10 through 13 Delete entirely and renumber as
+9 necessary.
+10
+11 Page 5-line 15 Delete "(iii)" and insert "(ii)". DRISKILL
+1

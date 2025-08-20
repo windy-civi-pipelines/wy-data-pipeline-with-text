@@ -1,0 +1,186 @@
+Title: Property tax reduction and replacement act. 25LSO-0626, 1.1
+Official Title: Property tax reduction and replacement act. 25LSO-0626, 1.1
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue
+increase/(decrease)
+PROPERTY TAX REDUCTION AND $487,200,000 $500,700,000 $513,300,000
+REPLACEMENT ACCOUNT
+SCHOOL FOUNDATION FUND ($128,500,000) ($231,200,000) ($235,800,000)
+AD VALOREM TAX ($76,200,000) ($137,100,000) ($139,800,000)
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+PROPERY TAX REDUCTION AND $204,700,000 $368,300,000 $375,600,000
+REPLACEMENT ACCOUNT
+Source of revenue increase (decrease) and expenditure increase:
+This bill creates a property tax exemption for property owners that reside in
+single family residential property not less than 6 months of the year. The
+exemption is on the first $200,000 of fair market value in tax year 2025 (paid in
+FY 2026) and on the first $1,000,000 of fair market value in tax year 2026 (paid
+in FY 2027) and each tax year thereafter. The amount of the exemption shall be
+inflated on an annual basis beginning in tax year 2027 from $1,000,000 by the
+rate of inflation determined by the Department of Revenue (DOR) using the
+Consumer Price Index or 2 percent, whichever is less. The exemption shall only
+apply to privately owned single family residential property, including a detached
+garage and associated residential improved land.
+The estimated decreases in property tax revenues to the School Foundation Program
+(SFP) and to other local taxing entities are provided in the above table. The SFP
+will experience a revenue decrease from the 43 mills supporting K-12 public
+education, which include the statewide 12 mill levy, the school district 25 mill
+levy, and the countywide 6 mill levy. For purposes of this analysis, the decrease
+in property tax revenues to the SFP is shown as an absolute revenue decrease in
+lieu of estimating the school district recapture revenue decrease and school
+district entitlement expenditure increase separately.
+The bill also imposes an additional statewide sales and use tax of 2 percent,
+beginning July 1, 2025. An amount equal to the proposed sales and use tax shall
+be transferred to the proposed Property Tax Reduction and Replacement Account
+(Account). An amount in the Account equal to the tax collected from January 1
+through December 31 of each year will be distributed to county treasurers in the
+same manner property taxes are distributed, to reimburse each county and
+governmental entity for property tax revenue decreases from the proposed property
+tax exemption. If the amount available to distribute is insufficient to fully
+reimburse all governmental entities, the amount provided shall be proportionately
+reduced based on the revenue available. The additional sales and use tax rate may
+be reduced in intervals of one-quarter of 1 percent if the Governor certifies to
+the DOR that the amount of the tax together with the funds in the Account are
+sufficient to provide all reimbursements to local governments.
+HB0290
+Property tax reduction and replacement act. 25LSO-0626, 1.1
+Assumptions:
+The above estimate is based on tax year 2024 residential data from the statewide
+Computer Assisted Mass Appraisal System (CAMA) and the tax year 2024 statewide
+average mill levy of 68.504 mills. The January 2025 Consensus Revenue Estimating
+Group (CREG) forecast projects a zero percent growth rate in the assessed valuation
+of non-mineral property for tax years 2025 through 2027 (FY 2026 through FY 2028).
+Based on the information above, this bill would decrease total property taxes by
+approximately $204.7 million in tax year 2025 (FY 2026), $368.3 million in tax
+year 2026 (FY 2027) and $375.6 million in tax year 2027 (FY 2028). Of the
+estimated total impact, the decreased revenue from the 43 mills supporting the
+SFP is approximately $128.5 million in tax year 2025 (FY 2026), $231.2 million in
+tax year 2026 (FY 2027) and $235.8 million in tax year 2027 (FY 2028). It is
+estimated that the revenue increases from the proposed 2 percent sales and use
+tax will offset the revenue decreases in tax years 2025 through 2027 (FY 2026
+through FY 2028).
+If 2025 Senate File 48, 2025 Senate file 49 or both are enacted into law, the DOR
+shall determine the reduction in revenues to local governments from 2025 Senate
+File 48 and 2025 Senate File 49. These revenue reductions shall be reimbursed to
+counties in the same manner as provided in this bill, to the extent funds are
+available.
+Note: According to the DOR, this proposed exemption cannot be applied for the 2025
+tax year due to the application process that will be required to confirm the owner-
+occupied residency requirement. The application process would need to be in place
+for an estimated 170,000 households and could not be administered for the 2025 tax
+year.
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements. As introduced, the bill does not modify any state agency
+budget or current personnel authorizations.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Department of Revenue
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Kenneth Guille, Department of Revenue, 777-5235)
+HB0290
+
+
+================================================================================
+
+Raw Text:
+Property tax reduction and replacement act. 25LSO-0626, 1.1
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue
+increase/(decrease)
+PROPERTY TAX REDUCTION AND $487,200,000 $500,700,000 $513,300,000
+REPLACEMENT ACCOUNT
+SCHOOL FOUNDATION FUND ($128,500,000) ($231,200,000) ($235,800,000)
+AD VALOREM TAX ($76,200,000) ($137,100,000) ($139,800,000)
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+PROPERY TAX REDUCTION AND $204,700,000 $368,300,000 $375,600,000
+REPLACEMENT ACCOUNT
+Source of revenue increase (decrease) and expenditure increase:
+This bill creates a property tax exemption for property owners that reside in
+single family residential property not less than 6 months of the year. The
+exemption is on the first $200,000 of fair market value in tax year 2025 (paid in
+FY 2026) and on the first $1,000,000 of fair market value in tax year 2026 (paid
+in FY 2027) and each tax year thereafter. The amount of the exemption shall be
+inflated on an annual basis beginning in tax year 2027 from $1,000,000 by the
+rate of inflation determined by the Department of Revenue (DOR) using the
+Consumer Price Index or 2 percent, whichever is less. The exemption shall only
+apply to privately owned single family residential property, including a detached
+garage and associated residential improved land.
+The estimated decreases in property tax revenues to the School Foundation Program
+(SFP) and to other local taxing entities are provided in the above table. The SFP
+will experience a revenue decrease from the 43 mills supporting K-12 public
+education, which include the statewide 12 mill levy, the school district 25 mill
+levy, and the countywide 6 mill levy. For purposes of this analysis, the decrease
+in property tax revenues to the SFP is shown as an absolute revenue decrease in
+lieu of estimating the school district recapture revenue decrease and school
+district entitlement expenditure increase separately.
+The bill also imposes an additional statewide sales and use tax of 2 percent,
+beginning July 1, 2025. An amount equal to the proposed sales and use tax shall
+be transferred to the proposed Property Tax Reduction and Replacement Account
+(Account). An amount in the Account equal to the tax collected from January 1
+through December 31 of each year will be distributed to county treasurers in the
+same manner property taxes are distributed, to reimburse each county and
+governmental entity for property tax revenue decreases from the proposed property
+tax exemption. If the amount available to distribute is insufficient to fully
+reimburse all governmental entities, the amount provided shall be proportionately
+reduced based on the revenue available. The additional sales and use tax rate may
+be reduced in intervals of one-quarter of 1 percent if the Governor certifies to
+the DOR that the amount of the tax together with the funds in the Account are
+sufficient to provide all reimbursements to local governments.
+HB0290
+
+Property tax reduction and replacement act. 25LSO-0626, 1.1
+Assumptions:
+The above estimate is based on tax year 2024 residential data from the statewide
+Computer Assisted Mass Appraisal System (CAMA) and the tax year 2024 statewide
+average mill levy of 68.504 mills. The January 2025 Consensus Revenue Estimating
+Group (CREG) forecast projects a zero percent growth rate in the assessed valuation
+of non-mineral property for tax years 2025 through 2027 (FY 2026 through FY 2028).
+Based on the information above, this bill would decrease total property taxes by
+approximately $204.7 million in tax year 2025 (FY 2026), $368.3 million in tax
+year 2026 (FY 2027) and $375.6 million in tax year 2027 (FY 2028). Of the
+estimated total impact, the decreased revenue from the 43 mills supporting the
+SFP is approximately $128.5 million in tax year 2025 (FY 2026), $231.2 million in
+tax year 2026 (FY 2027) and $235.8 million in tax year 2027 (FY 2028). It is
+estimated that the revenue increases from the proposed 2 percent sales and use
+tax will offset the revenue decreases in tax years 2025 through 2027 (FY 2026
+through FY 2028).
+If 2025 Senate File 48, 2025 Senate file 49 or both are enacted into law, the DOR
+shall determine the reduction in revenues to local governments from 2025 Senate
+File 48 and 2025 Senate File 49. These revenue reductions shall be reimbursed to
+counties in the same manner as provided in this bill, to the extent funds are
+available.
+Note: According to the DOR, this proposed exemption cannot be applied for the 2025
+tax year due to the application process that will be required to confirm the owner-
+occupied residency requirement. The application process would need to be in place
+for an estimated 170,000 households and could not be administered for the 2025 tax
+year.
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements. As introduced, the bill does not modify any state agency
+budget or current personnel authorizations.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Department of Revenue
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Kenneth Guille, Department of Revenue, 777-5235)
+HB0290

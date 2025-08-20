@@ -1,0 +1,126 @@
+Title: This bill contains an appropriation of $25,000 from the GENERAL FUND to the
+Official Title: This bill contains an appropriation of $25,000 from the GENERAL FUND to the
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Wyoming state guard-amendments. 25LSO-0245, 1.0
+FISCAL NOTE
+Governor's Office.
+DETAIL OF APPROPRIATION
+Agency #: 001 Agency Name: Governor's Office
+Unit: 0125 Gov.'s Office Task Forces
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0200 Supportive Services Costs $0 $18,750 $0
+0900 Contractual Services Costs $0 $6,250 $0
+Total Expenditure Per Year: $0 $25,000 $0
+Grand Total Expenditure: $25,000
+Total Appropriated to Agency: $25,000
+Total Appropriated by Fund:
+GENERAL FUND $25,000
+Description of appropriation:
+The appropriation will be expended for purposes of appointing and convening a
+Wyoming State Council of Defense (Council) for establishing and equipping the
+Wyoming State Guard (Guard) as the Governor deems necessary. This appropriation
+is only effective for one fiscal year.
+It is assumed the appropriation will be expended on travel related costs for
+members of the Council during Council business. It is assumed equipment, such as
+laptops will be needed for Council members. The estimated expenditure of $6,250
+is for the potential need for contracting with a professional services vendor by
+the Council to establish the Guard.
+Any additional fiscal impact, in the form of an expenditure increase, is
+indeterminable. The cost to set up a Guard cannot be determined at this time
+since it is dependent upon the size of the unit established and what, if any,
+equipment is needed.
+Members of the Guard, when serving under orders of the Governor, would receive
+pay and allowances of not more than 75 percent of the same pay and allowances
+authorized for personnel of equal rank in the national guard. These pay and
+allowances would be funded by the legislature from General Fund appropriation or
+by the Governor from the continuous appropriation for public welfare emergencies
+under W.S. 9-2-1014.3.
+To provide a cost estimate using the Wyoming National Guard pay and training days
+as a baseline, the cost to establish a platoon (52 personnel) size force is
+estimated to be at least $250,000 per year for pay and benefits, with minimal
+training and only personal uniform/equipment, while excluding any other startup
+costs. Startup costs would be dependent on the scope and scale of the force
+capacity and desired functions of the force, and as such are indeterminable.
+SF0045
+Wyoming state guard-amendments. 25LSO-0245, 1.0
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements. As introduced, the bill does not modify any current
+personnel authorizations.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Military Department
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Rory L. Horsley, Governor's Office, 777-5010;
+Christopher L. Smith, Military Department, 307-772-5027)
+SF0045
+
+
+================================================================================
+
+Raw Text:
+Wyoming state guard-amendments. 25LSO-0245, 1.0
+FISCAL NOTE
+This bill contains an appropriation of $25,000 from the GENERAL FUND to the
+Governor's Office.
+DETAIL OF APPROPRIATION
+Agency #: 001 Agency Name: Governor's Office
+Unit: 0125 Gov.'s Office Task Forces
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0200 Supportive Services Costs $0 $18,750 $0
+0900 Contractual Services Costs $0 $6,250 $0
+Total Expenditure Per Year: $0 $25,000 $0
+Grand Total Expenditure: $25,000
+Total Appropriated to Agency: $25,000
+Total Appropriated by Fund:
+GENERAL FUND $25,000
+Description of appropriation:
+The appropriation will be expended for purposes of appointing and convening a
+Wyoming State Council of Defense (Council) for establishing and equipping the
+Wyoming State Guard (Guard) as the Governor deems necessary. This appropriation
+is only effective for one fiscal year.
+It is assumed the appropriation will be expended on travel related costs for
+members of the Council during Council business. It is assumed equipment, such as
+laptops will be needed for Council members. The estimated expenditure of $6,250
+is for the potential need for contracting with a professional services vendor by
+the Council to establish the Guard.
+Any additional fiscal impact, in the form of an expenditure increase, is
+indeterminable. The cost to set up a Guard cannot be determined at this time
+since it is dependent upon the size of the unit established and what, if any,
+equipment is needed.
+Members of the Guard, when serving under orders of the Governor, would receive
+pay and allowances of not more than 75 percent of the same pay and allowances
+authorized for personnel of equal rank in the national guard. These pay and
+allowances would be funded by the legislature from General Fund appropriation or
+by the Governor from the continuous appropriation for public welfare emergencies
+under W.S. 9-2-1014.3.
+To provide a cost estimate using the Wyoming National Guard pay and training days
+as a baseline, the cost to establish a platoon (52 personnel) size force is
+estimated to be at least $250,000 per year for pay and benefits, with minimal
+training and only personal uniform/equipment, while excluding any other startup
+costs. Startup costs would be dependent on the scope and scale of the force
+capacity and desired functions of the force, and as such are indeterminable.
+SF0045
+
+Wyoming state guard-amendments. 25LSO-0245, 1.0
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements. As introduced, the bill does not modify any current
+personnel authorizations.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Military Department
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Rory L. Horsley, Governor's Office, 777-5010;
+Christopher L. Smith, Military Department, 307-772-5027)
+SF0045

@@ -1,0 +1,94 @@
+Title: HOUSE BILL NO. HB0251
+Official Title: HOUSE BILL NO. HB0251
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0606
+Trespass by drone.
+Sponsored by: Representative(s) Neiman, Allemand, Angelos,
+Connolly, Davis, Eklund and Schmid and
+Senator(s) Crago, Driskill, Ide and Kolb
+A BILL
+for
+1 AN ACT relating to crimes and offenses; creating the crime
+2 of trespass by drone; providing penalties; and providing
+3 for an effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1. W.S. 6-3-308 is created to read:
+8
+9 6-3-308. Criminal trespass by drone; penalties.
+10
+11 (a) Except as otherwise permitted by law, a person is
+12 guilty of criminal trespass by drone if the person causes a
+13 drone to operate at an altitude of two hundred (200) feet
+14 or lower over the private land or residence of another
+15 person without authorization by the landowner or resident
+1 HB0251
+2025 STATE OF WYOMING 25LSO-0606
+1 or pursuant to a court order. For purposes of this section,
+2 "drone" means an unmanned aircraft weighing not more than
+3 fifty-five (55) pounds on takeoff, including everything
+4 that is on board or otherwise attached to the unmanned
+5 aircraft.
+6
+7 (b) Criminal trespass by drone is a misdemeanor
+8 punishable by imprisonment for not more than six (6)
+9 months, a fine of not more than seven hundred fifty dollars
+10 ($750.00), or both.
+11
+12 Section 2. This act is effective July 1, 2025.
+13
+14 (END)
+2 HB0251
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0606
+HOUSE BILL NO. HB0251
+Trespass by drone.
+Sponsored by: Representative(s) Neiman, Allemand, Angelos,
+Connolly, Davis, Eklund and Schmid and
+Senator(s) Crago, Driskill, Ide and Kolb
+A BILL
+for
+1 AN ACT relating to crimes and offenses; creating the crime
+2 of trespass by drone; providing penalties; and providing
+3 for an effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1. W.S. 6-3-308 is created to read:
+8
+9 6-3-308. Criminal trespass by drone; penalties.
+10
+11 (a) Except as otherwise permitted by law, a person is
+12 guilty of criminal trespass by drone if the person causes a
+13 drone to operate at an altitude of two hundred (200) feet
+14 or lower over the private land or residence of another
+15 person without authorization by the landowner or resident
+1 HB0251
+
+2025 STATE OF WYOMING 25LSO-0606
+1 or pursuant to a court order. For purposes of this section,
+2 "drone" means an unmanned aircraft weighing not more than
+3 fifty-five (55) pounds on takeoff, including everything
+4 that is on board or otherwise attached to the unmanned
+5 aircraft.
+6
+7 (b) Criminal trespass by drone is a misdemeanor
+8 punishable by imprisonment for not more than six (6)
+9 months, a fine of not more than seven hundred fifty dollars
+10 ($750.00), or both.
+11
+12 Section 2. This act is effective July 1, 2025.
+13
+14 (END)
+2 HB0251

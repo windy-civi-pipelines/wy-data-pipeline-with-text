@@ -1,0 +1,79 @@
+Title: Centralized electronic notice system. 25LSO-0590, 1.0
+Official Title: Centralized electronic notice system. 25LSO-0590, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+FISCAL NOTE
+This bill contains an appropriation of $250,000 from the GENERAL FUND to the
+Secretary of State's Office. This appropriation is effective immediately.
+DETAIL OF APPROPRIATION
+Agency #: 002 Agency Name: Secretary of State's Office
+Unit: (new) Centralized electronic notice system)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0900 Contractual Services Costs $0 $225,000 $0
+Total Expenditure Per Year: $0 $225,000 $0
+Grand Total Expenditure: $225,000
+Total Appropriated to Agency: $250,000
+Total Appropriated by Fund:
+GENERAL FUND $250,000
+Description of appropriation:
+The Secretary of State’s Office estimates the cost to build the system described
+in the bill will be between $175,000 and $225,000, based on conversations with
+their vendor.
+The fiscal impact, in the form of an increase in revenues from fees, is
+indeterminable. The revenue from fees would depend on the fee amount established.
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements. As introduced, the bill does not modify any state agency
+budget or current personnel authorizations.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Enterprise Technology Services
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Jesse Naiman, Secretary of State's Office, 777-5873;
+Kristin Burkart, Enterprise Technology Services, 307-287-0879)
+HB0298
+
+
+================================================================================
+
+Raw Text:
+Centralized electronic notice system. 25LSO-0590, 1.0
+FISCAL NOTE
+This bill contains an appropriation of $250,000 from the GENERAL FUND to the
+Secretary of State's Office. This appropriation is effective immediately.
+DETAIL OF APPROPRIATION
+Agency #: 002 Agency Name: Secretary of State's Office
+Unit: (new) Centralized electronic notice system)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0900 Contractual Services Costs $0 $225,000 $0
+Total Expenditure Per Year: $0 $225,000 $0
+Grand Total Expenditure: $225,000
+Total Appropriated to Agency: $250,000
+Total Appropriated by Fund:
+GENERAL FUND $250,000
+Description of appropriation:
+The Secretary of State’s Office estimates the cost to build the system described
+in the bill will be between $175,000 and $225,000, based on conversations with
+their vendor.
+The fiscal impact, in the form of an increase in revenues from fees, is
+indeterminable. The revenue from fees would depend on the fee amount established.
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements. As introduced, the bill does not modify any state agency
+budget or current personnel authorizations.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Enterprise Technology Services
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Jesse Naiman, Secretary of State's Office, 777-5873;
+Kristin Burkart, Enterprise Technology Services, 307-287-0879)
+HB0298

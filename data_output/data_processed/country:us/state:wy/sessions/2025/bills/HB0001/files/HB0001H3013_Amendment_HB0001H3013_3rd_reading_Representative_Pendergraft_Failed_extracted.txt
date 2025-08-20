@@ -1,0 +1,61 @@
+Title: 1 Page 26-line 1 After "1." delete balance of line.
+Official Title: 1 Page 26-line 1 After "1." delete balance of line.
+Number of Sections: 3
+Source: versions - Amendment HB0001H3013 (3rd reading) - Representative Pendergraft (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0001H3013
+[BUDGET(s) AFFECTED]
+
+Section 2:
+Section Under Consideration:
+
+Section 3:
+Section 027. STATE CONSTRUCTION DEPARTMENT
+(School Facilities Div.)
+* * * * * * * * * *
+2
+3 Page 26-lines 2 through 3 Delete entirely.
+4
+5 Page 26-line 4 Delete "facility plan.".
+6
+7 Page 26-line 6 After "W.S. 21-15-109(f)." insert
+8 "Notwithstanding any other provision of law,
+9 this footnote shall not apply to expenditures
+10 by school districts comprised of less than two
+11 hundred forty-three (243) total K-12 average
+12 daily membership (ADM).".
+13
+14 To the extent required by this amendment: adjust totals; and
+15 renumber as necessary. PENDERGRAFT
+1
+
+
+================================================================================
+
+Raw Text:
+HB0001H3013
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 027. STATE CONSTRUCTION DEPARTMENT
+(School Facilities Div.)
+* * * * * * * * * *
+1 Page 26-line 1 After "1." delete balance of line.
+2
+3 Page 26-lines 2 through 3 Delete entirely.
+4
+5 Page 26-line 4 Delete "facility plan.".
+6
+7 Page 26-line 6 After "W.S. 21-15-109(f)." insert
+8 "Notwithstanding any other provision of law,
+9 this footnote shall not apply to expenditures
+10 by school districts comprised of less than two
+11 hundred forty-three (243) total K-12 average
+12 daily membership (ADM).".
+13
+14 To the extent required by this amendment: adjust totals; and
+15 renumber as necessary. PENDERGRAFT
+1

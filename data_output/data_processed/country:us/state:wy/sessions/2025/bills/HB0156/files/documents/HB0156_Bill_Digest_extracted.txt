@@ -1,0 +1,431 @@
+Title: Sponsored By: Representative(s) Bear, Andrew, Angelos, Bratten,
+Official Title: Sponsored By: Representative(s) Bear, Andrew, Angelos, Bratten,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Proof of voter residency-registration
+HB0156
+qualifications.
+Brown, G, Campbell, K, Clouston, Geringer, Guggenmos,
+Haroldson, Heiner, Hoeft, Knapp, Lawley, Locke,
+Lucas, McCann, Neiman, Rodriguez-Williams, Webb,
+Webber and Winter and Senator(s) Boner, Ide, Laursen,
+D, Pearson, Smith, D and Steinmetz
+AN ACT relating to elections; requiring a qualified elector to be a bona fide
+resident of the state of Wyoming for not less than thirty (30) days before the
+date of the election in which they offer to vote; requiring documentation
+proving residence to register to vote; prohibiting registration based on
+documentation showing noncitizen status; making conforming amendments;
+requiring rulemaking; and providing for effective dates.
+1/13/2025 Bill Number Assigned
+1/14/2025 H Received for Introduction
+1/14/2025 H Introduced and Referred to H07 - Corporations
+1/16/2025 H07 - Corporations:Recommend Do Pass 8-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber
+Nays: Representative Yin
+Ayes 8 Nays 1 Excused 0 Absent 0 Conflicts 0
+1/16/2025 H Placed on General File
+HB0156HW001/FAILED
+Page 1-line 2 After "Wyoming" insert "and the county where the
+qualified elector is voting".
+Page 2-line 21 After "Wyoming" insert "and the county where he will
+be voting".
+Page 3-line 11 After "Wyoming" insert "and the county where he will
+be voting".
+Page 5-line 4 After "Wyoming" insert "and the county where he will
+be voting".
+Page 6-line 2 After "state" insert "and the county where I will be
+voting".
+Page 9-line 3 After "Wyoming" insert "and the county where he will
+be voting". BROWN, L
+1/16/2025 H COW:Passed
+HB0156H2001/FAILED
+Page 1-line 7 After "status;" insert "requiring bona fide residents
+to intend to reside in Wyoming for a majority of the
+year;".
+Page 1-line 13 After "(xxvii)" insert ", (xxx) by creating a new
+subparagraph (H)".
+Page 4-after line 2 Insert:
+"(xxx) "Residence" is the place of a person's actual habitation.
+The construction of this term shall be governed by the following rules:
+(H) A person shall not be a bona fide resident of Wyoming if
+the person does not intend to reside in Wyoming for a majority of the year.".
+YIN
+ROLL CALL
+Ayes: Representative(s) Brown, L, Byron, Campbell, E, Chestek, Connolly,
+Nicholas, Posey, Provenza, Sherwood, Storer, Yin
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Campbell, K, Clouston, Davis, Eklund, Erickson, Filer,
+Geringer, Guggenmos, Haroldson, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp,
+Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft,
+Riggins, Rodriguez-Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver,
+Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie
+Excused: Representative Harshman
+Ayes 11 Nays 50 Excused 1 Absent 0 Conflicts 0
+HB0156H2002/WITHDRAWN
+HB0156H2003/FAILED
+Page 1-line 7 Before "making;" insert "requiring a statement of
+intent to make Wyoming the person's bona fide resident;
+providing definitions;".
+Page 2-line 1 Delete "a new paragraph" and insert "new paragraphs";
+after "(lv)" insert "and (lvi)".
+Page 2-line 3 After "(ix)" delete "and" and insert ","; after "(b)"
+delete "," and insert "and by creating a new subsection
+(d),".
+Page 4-after line 7 Insert:
+"(lvi) "Bona fide resident" means a person who intends to make
+Wyoming the person's fixed, principal place of residence.".
+Page 5-line 23 Strike "am a bona fide resident of the".
+Page 6-line 1 Strike "state of Wyoming and this county" and insert
+"intend to make Wyoming and this county my fixed,
+principal place of residence".
+Page 6-after line 21 Insert:
+"(d) The applicant's statement of the applicant's intent to make Wyoming
+and the county where the applicant is applying for registration the applicant's
+fixed, principal place of residence shall be conclusive and shall not be
+challenged by the registry agent approving the application.". CHESTEK
+1/17/2025 H 2nd Reading:Passed
+HB0156H3001/FAILED
+Page 1-line 13 After "(xxvii)" insert ", (xxxix)(B)(intro) and by
+creating a new subparagraph (C)".
+Page 4-after line 2 Insert:
+"(xxxix) "Acceptable identification" means:
+(B) For purposes of in person voter identification
+immediately before voting at a polling place or absentee polling place, and for
+proof of residence subject to subparagraph (C) of this paragraph, any of the
+following:
+(C) For purposes of proof of residence:
+(I) Any acceptable identification under subsection (B)
+of this section that includes the elector's address or a post office box;
+(II) Two (2) pieces of mail that include the name of
+the elector and the elector's residential address or a post office box;
+(III) Any other proof of residency approved by rule of
+the secretary of state's office.". YIN
+1/20/2025 H 3rd Reading:Passed 51-8-3-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, K, Clouston, Connolly, Davis,
+Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner,
+Hoeft, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Lucas,
+Mccann, Neiman, Ottman, Pendergraft, Rodriguez-Williams, Schmid, Singh, Smith,
+Strock, Styvar, Tarver, Thayer, Washut, Wasserburger, Webb, Wharff, Williams,
+Winter, Wylie
+Nays: Representative(s) Campbell, E, Chestek, Jarvis, Nicholas, Provenza,
+Sherwood, Storer, Yin
+Excused: Representative(s) Posey, Riggins, Webber
+Ayes 51 Nays 8 Excused 3 Absent 0 Conflicts 0
+1/20/2025 S Received for Introduction
+2/10/2025 S Introduced and Referred to S07 - Corporations
+2/20/2025 S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/20/2025 S Placed on General File
+HB0156SS001/ADOPTED
+Page 2-line 1 After "creating" delete "a"; delete "paragraph" and
+insert "paragraphs"; after "(lv)" insert "and (lvi)".
+Page 2-line 2 After "by creating" delete "a".
+Page 2-line 3 Delete "paragraph" and insert "paragraphs"; after
+"(ix)" insert "and (x)".
+Page 3-line 23 After "residence" insert ", citizenship".
+Page 4-line 7 After "residency." insert "If a person does not have
+the documents or other proof of residency specified by
+rule of the secretary of state, "proof of residence"
+may be established by a signed attestation of the person
+that the person is a bona fide resident of the state of
+Wyoming. The attestation shall be subject to
+verification by the county clerk or the secretary of
+state.
+Page 4-after line 7 Insert and renumber as necessary:
+"(lvi) "Proof of United States citizenship" means, for purposes of
+voter registration, any of the following:
+(A) A valid Wyoming driver's license as defined by W.S. 31-
+7-102(a)(xxv) or a valid Wyoming identification card issued under W.S. 31-8-
+101, provided that the license or identification card does not contain any
+indication that the person is not a United States citizen;
+(B) A valid tribal identification card issued by the governing
+body of the Eastern Shoshone Tribe or the Northern Arapaho Tribe of the Wind
+River Indian Reservation or any other federally recognized Indian tribe,
+provided that the identification card does not contain any indication that the
+person is not a United States citizen;
+(C) A valid driver's license or identification card issued by
+any other state that is consistent with the Real ID Act as defined by W.S. 31-7-
+102(a)(lii), provided that the driver's license or identification card does not
+include any indication that the person is not a United States citizen;
+(D) A valid United States passport;
+(E) A certificate of United States citizenship;
+(F) A certificate of naturalization;
+(G) A United States military draft record or a selective
+service registration acknowledgment card;
+(H) A consular report of birth abroad issued by the United
+States department of state;
+(J) An original or certified copy of a birth certificate in
+the United States bearing an official seal.".
+Page 4-lines 17 through 22 Delete entirely.
+Page 5-lines 1 and 2 Delete entirely and insert:
+"(i) He is a citizen of the United States, as evidenced by providing
+proof of United States citizenship as defined by W.S. 22-1-102(a)(lvi);".
+Page 5-after line 15 Insert:
+"(x) Proof of United States citizenship as defined by W.S. 22-1-
+102(a)(lvi).".
+Page 7-line 8 Before "and" insert ", proof of United States
+citizenship".
+Page 7-line 9 Before "completing" insert "by"; strike ",".
+Page 8-line 6 Before "and" insert ", proof of United States
+citizenship as defined by W.S. 22-1-102(a)(lvi)";
+strike ",". CASE, CHAIRMAN
+2/26/2025 S COW:Passed
+2/27/2025 S 2nd Reading:Passed
+HB0156S3001/FAILED
+Page 4-line 7 In the Senate standing committee amendment
+(HB0156SS001/A) to this line, delete "or the secretary
+of state". COOPER
+2/28/2025 S 3rd Reading:Passed 26-4-1-0-0
+ROLL CALL
+Ayes: Senator(s) Barlow, Biteman, Boner, Brennan, Case, Cooper, Crago, Crum,
+Dockstader, Driskill, French, Hicks, Hutchings, Ide, Jones, Landen, Laursen,
+Mckeown, Nethercott, Olsen, Pappas, Pearson, Salazar, Schuler, Smith, Steinmetz
+Nays: Senator(s) Anderson, Gierau, Rothfuss, Scott
+Excused: Senator Kolb
+Ayes 26 Nays 4 Excused 1 Absent 0 Conflicts 0
+2/28/2025 H Received for Concurrence
+2/28/2025 H Concur:Passed 54-3-5-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, K, Clouston, Connolly, Davis, Eklund,
+Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Jarvis,
+Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann,
+Neiman, Ottman, Pendergraft, Posey, Riggins, Rodriguez-Williams, Schmid, Singh,
+Smith, Storer, Strock, Styvar, Tarver, Thayer, Washut, Wasserburger, Webb,
+Webber, Wharff, Williams, Wylie, Yin
+Nays: Representative(s) Chestek, Provenza, Sherwood
+Excused: Representative(s) Brown, L, Campbell, E, Hoeft, Nicholas, Winter
+Ayes 54 Nays 3 Excused 5 Absent 0 Conflicts 0
+2/28/2025 Assigned Number HEA No. 0057
+3/3/2025 H Speaker Signed HEA No. 0057
+3/3/2025 S President Signed HEA No. 0057
+3/21/2025 Became Law without Signature
+3/21/2025 Assigned Chapter Number 172
+Chapter No. 172 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+Proof of voter residency-registration
+HB0156
+qualifications.
+Sponsored By: Representative(s) Bear, Andrew, Angelos, Bratten,
+Brown, G, Campbell, K, Clouston, Geringer, Guggenmos,
+Haroldson, Heiner, Hoeft, Knapp, Lawley, Locke,
+Lucas, McCann, Neiman, Rodriguez-Williams, Webb,
+Webber and Winter and Senator(s) Boner, Ide, Laursen,
+D, Pearson, Smith, D and Steinmetz
+AN ACT relating to elections; requiring a qualified elector to be a bona fide
+resident of the state of Wyoming for not less than thirty (30) days before the
+date of the election in which they offer to vote; requiring documentation
+proving residence to register to vote; prohibiting registration based on
+documentation showing noncitizen status; making conforming amendments;
+requiring rulemaking; and providing for effective dates.
+1/13/2025 Bill Number Assigned
+1/14/2025 H Received for Introduction
+1/14/2025 H Introduced and Referred to H07 - Corporations
+1/16/2025 H07 - Corporations:Recommend Do Pass 8-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber
+Nays: Representative Yin
+Ayes 8 Nays 1 Excused 0 Absent 0 Conflicts 0
+1/16/2025 H Placed on General File
+HB0156HW001/FAILED
+Page 1-line 2 After "Wyoming" insert "and the county where the
+qualified elector is voting".
+Page 2-line 21 After "Wyoming" insert "and the county where he will
+be voting".
+Page 3-line 11 After "Wyoming" insert "and the county where he will
+be voting".
+Page 5-line 4 After "Wyoming" insert "and the county where he will
+be voting".
+Page 6-line 2 After "state" insert "and the county where I will be
+voting".
+Page 9-line 3 After "Wyoming" insert "and the county where he will
+be voting". BROWN, L
+1/16/2025 H COW:Passed
+HB0156H2001/FAILED
+Page 1-line 7 After "status;" insert "requiring bona fide residents
+to intend to reside in Wyoming for a majority of the
+year;".
+
+Page 1-line 13 After "(xxvii)" insert ", (xxx) by creating a new
+subparagraph (H)".
+Page 4-after line 2 Insert:
+"(xxx) "Residence" is the place of a person's actual habitation.
+The construction of this term shall be governed by the following rules:
+(H) A person shall not be a bona fide resident of Wyoming if
+the person does not intend to reside in Wyoming for a majority of the year.".
+YIN
+ROLL CALL
+Ayes: Representative(s) Brown, L, Byron, Campbell, E, Chestek, Connolly,
+Nicholas, Posey, Provenza, Sherwood, Storer, Yin
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Campbell, K, Clouston, Davis, Eklund, Erickson, Filer,
+Geringer, Guggenmos, Haroldson, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp,
+Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft,
+Riggins, Rodriguez-Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver,
+Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie
+Excused: Representative Harshman
+Ayes 11 Nays 50 Excused 1 Absent 0 Conflicts 0
+HB0156H2002/WITHDRAWN
+HB0156H2003/FAILED
+Page 1-line 7 Before "making;" insert "requiring a statement of
+intent to make Wyoming the person's bona fide resident;
+providing definitions;".
+Page 2-line 1 Delete "a new paragraph" and insert "new paragraphs";
+after "(lv)" insert "and (lvi)".
+Page 2-line 3 After "(ix)" delete "and" and insert ","; after "(b)"
+delete "," and insert "and by creating a new subsection
+(d),".
+Page 4-after line 7 Insert:
+"(lvi) "Bona fide resident" means a person who intends to make
+Wyoming the person's fixed, principal place of residence.".
+Page 5-line 23 Strike "am a bona fide resident of the".
+Page 6-line 1 Strike "state of Wyoming and this county" and insert
+"intend to make Wyoming and this county my fixed,
+principal place of residence".
+Page 6-after line 21 Insert:
+"(d) The applicant's statement of the applicant's intent to make Wyoming
+and the county where the applicant is applying for registration the applicant's
+fixed, principal place of residence shall be conclusive and shall not be
+challenged by the registry agent approving the application.". CHESTEK
+
+1/17/2025 H 2nd Reading:Passed
+HB0156H3001/FAILED
+Page 1-line 13 After "(xxvii)" insert ", (xxxix)(B)(intro) and by
+creating a new subparagraph (C)".
+Page 4-after line 2 Insert:
+"(xxxix) "Acceptable identification" means:
+(B) For purposes of in person voter identification
+immediately before voting at a polling place or absentee polling place, and for
+proof of residence subject to subparagraph (C) of this paragraph, any of the
+following:
+(C) For purposes of proof of residence:
+(I) Any acceptable identification under subsection (B)
+of this section that includes the elector's address or a post office box;
+(II) Two (2) pieces of mail that include the name of
+the elector and the elector's residential address or a post office box;
+(III) Any other proof of residency approved by rule of
+the secretary of state's office.". YIN
+1/20/2025 H 3rd Reading:Passed 51-8-3-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, K, Clouston, Connolly, Davis,
+Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner,
+Hoeft, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Lucas,
+Mccann, Neiman, Ottman, Pendergraft, Rodriguez-Williams, Schmid, Singh, Smith,
+Strock, Styvar, Tarver, Thayer, Washut, Wasserburger, Webb, Wharff, Williams,
+Winter, Wylie
+Nays: Representative(s) Campbell, E, Chestek, Jarvis, Nicholas, Provenza,
+Sherwood, Storer, Yin
+Excused: Representative(s) Posey, Riggins, Webber
+Ayes 51 Nays 8 Excused 3 Absent 0 Conflicts 0
+1/20/2025 S Received for Introduction
+2/10/2025 S Introduced and Referred to S07 - Corporations
+2/20/2025 S07 - Corporations:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/20/2025 S Placed on General File
+HB0156SS001/ADOPTED
+Page 2-line 1 After "creating" delete "a"; delete "paragraph" and
+insert "paragraphs"; after "(lv)" insert "and (lvi)".
+Page 2-line 2 After "by creating" delete "a".
+
+Page 2-line 3 Delete "paragraph" and insert "paragraphs"; after
+"(ix)" insert "and (x)".
+Page 3-line 23 After "residence" insert ", citizenship".
+Page 4-line 7 After "residency." insert "If a person does not have
+the documents or other proof of residency specified by
+rule of the secretary of state, "proof of residence"
+may be established by a signed attestation of the person
+that the person is a bona fide resident of the state of
+Wyoming. The attestation shall be subject to
+verification by the county clerk or the secretary of
+state.
+Page 4-after line 7 Insert and renumber as necessary:
+"(lvi) "Proof of United States citizenship" means, for purposes of
+voter registration, any of the following:
+(A) A valid Wyoming driver's license as defined by W.S. 31-
+7-102(a)(xxv) or a valid Wyoming identification card issued under W.S. 31-8-
+101, provided that the license or identification card does not contain any
+indication that the person is not a United States citizen;
+(B) A valid tribal identification card issued by the governing
+body of the Eastern Shoshone Tribe or the Northern Arapaho Tribe of the Wind
+River Indian Reservation or any other federally recognized Indian tribe,
+provided that the identification card does not contain any indication that the
+person is not a United States citizen;
+(C) A valid driver's license or identification card issued by
+any other state that is consistent with the Real ID Act as defined by W.S. 31-7-
+102(a)(lii), provided that the driver's license or identification card does not
+include any indication that the person is not a United States citizen;
+(D) A valid United States passport;
+(E) A certificate of United States citizenship;
+(F) A certificate of naturalization;
+(G) A United States military draft record or a selective
+service registration acknowledgment card;
+(H) A consular report of birth abroad issued by the United
+States department of state;
+(J) An original or certified copy of a birth certificate in
+the United States bearing an official seal.".
+Page 4-lines 17 through 22 Delete entirely.
+Page 5-lines 1 and 2 Delete entirely and insert:
+"(i) He is a citizen of the United States, as evidenced by providing
+proof of United States citizenship as defined by W.S. 22-1-102(a)(lvi);".
+
+Page 5-after line 15 Insert:
+"(x) Proof of United States citizenship as defined by W.S. 22-1-
+102(a)(lvi).".
+Page 7-line 8 Before "and" insert ", proof of United States
+citizenship".
+Page 7-line 9 Before "completing" insert "by"; strike ",".
+Page 8-line 6 Before "and" insert ", proof of United States
+citizenship as defined by W.S. 22-1-102(a)(lvi)";
+strike ",". CASE, CHAIRMAN
+2/26/2025 S COW:Passed
+2/27/2025 S 2nd Reading:Passed
+HB0156S3001/FAILED
+Page 4-line 7 In the Senate standing committee amendment
+(HB0156SS001/A) to this line, delete "or the secretary
+of state". COOPER
+2/28/2025 S 3rd Reading:Passed 26-4-1-0-0
+ROLL CALL
+Ayes: Senator(s) Barlow, Biteman, Boner, Brennan, Case, Cooper, Crago, Crum,
+Dockstader, Driskill, French, Hicks, Hutchings, Ide, Jones, Landen, Laursen,
+Mckeown, Nethercott, Olsen, Pappas, Pearson, Salazar, Schuler, Smith, Steinmetz
+Nays: Senator(s) Anderson, Gierau, Rothfuss, Scott
+Excused: Senator Kolb
+Ayes 26 Nays 4 Excused 1 Absent 0 Conflicts 0
+2/28/2025 H Received for Concurrence
+2/28/2025 H Concur:Passed 54-3-5-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, K, Clouston, Connolly, Davis, Eklund,
+Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Jarvis,
+Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann,
+Neiman, Ottman, Pendergraft, Posey, Riggins, Rodriguez-Williams, Schmid, Singh,
+Smith, Storer, Strock, Styvar, Tarver, Thayer, Washut, Wasserburger, Webb,
+Webber, Wharff, Williams, Wylie, Yin
+Nays: Representative(s) Chestek, Provenza, Sherwood
+Excused: Representative(s) Brown, L, Campbell, E, Hoeft, Nicholas, Winter
+Ayes 54 Nays 3 Excused 5 Absent 0 Conflicts 0
+2/28/2025 Assigned Number HEA No. 0057
+3/3/2025 H Speaker Signed HEA No. 0057
+3/3/2025 S President Signed HEA No. 0057
+3/21/2025 Became Law without Signature
+3/21/2025 Assigned Chapter Number 172
+Chapter No. 172 Session Laws of Wyoming 2025

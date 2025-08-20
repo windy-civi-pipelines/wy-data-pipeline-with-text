@@ -1,0 +1,79 @@
+Title: 1 Page 3-line 12 After "sealed." insert "Sealing of machines
+Official Title: 1 Page 3-line 12 After "sealed." insert "Sealing of machines
+Number of Sections: 1
+Source: versions - Amendment HB0278HS001 (Standing Committee)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0278HS001
+2 shall not prevent the county clerk from
+3 breaking the seal to print reports or data
+4 requested by the public, the secretary of
+5 state or a court and then resealing the
+6 machines.".
+7
+8 Page 3-line 20 Strike "This" and insert "A copy of this".
+9
+10 Page 3-line 22 Delete "a copy" and insert "the certificate".
+11
+12 Page 4-line 4 After "section" insert ", unless otherwise
+13 authorized by the secretary of state".
+14
+15 Page 7-line 2 After "precinct" insert "ballot style"; after
+16 "county" insert "for each machine type capable
+17 of recording an undervote or overvote".
+18
+19 Page 7-line 7 Delete "results" and insert "detailed reports
+20 by precinct, complete audit logs and proof of
+21 testing".
+22
+23 Page 7-line 12 After "required" insert ", or complete audit
+24 logs, proof of testing or general or detailed
+25 test results are requested,".
+26
+27 Page 7-line 18 Delete "July 1, 2025" and insert "immediately
+28 upon completion of all acts necessary for a
+29 bill to become law as provided by Article 4,
+30 Section 8 of the Wyoming Constitution". KNAPP,
+31 CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0278HS001
+1 Page 3-line 12 After "sealed." insert "Sealing of machines
+2 shall not prevent the county clerk from
+3 breaking the seal to print reports or data
+4 requested by the public, the secretary of
+5 state or a court and then resealing the
+6 machines.".
+7
+8 Page 3-line 20 Strike "This" and insert "A copy of this".
+9
+10 Page 3-line 22 Delete "a copy" and insert "the certificate".
+11
+12 Page 4-line 4 After "section" insert ", unless otherwise
+13 authorized by the secretary of state".
+14
+15 Page 7-line 2 After "precinct" insert "ballot style"; after
+16 "county" insert "for each machine type capable
+17 of recording an undervote or overvote".
+18
+19 Page 7-line 7 Delete "results" and insert "detailed reports
+20 by precinct, complete audit logs and proof of
+21 testing".
+22
+23 Page 7-line 12 After "required" insert ", or complete audit
+24 logs, proof of testing or general or detailed
+25 test results are requested,".
+26
+27 Page 7-line 18 Delete "July 1, 2025" and insert "immediately
+28 upon completion of all acts necessary for a
+29 bill to become law as provided by Article 4,
+30 Section 8 of the Wyoming Constitution". KNAPP,
+31 CHAIRMAN
+1

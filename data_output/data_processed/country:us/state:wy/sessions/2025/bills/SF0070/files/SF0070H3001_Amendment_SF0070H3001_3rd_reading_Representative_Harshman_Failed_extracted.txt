@@ -1,0 +1,283 @@
+Title: 1 Page 1-line 1 After "funds;" insert "creating the income tax
+Official Title: 1 Page 1-line 1 After "funds;" insert "creating the income tax
+Number of Sections: 1
+Source: versions - Amendment SF0070H3001 (3rd reading) - Representative Harshman (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0070H3001
+2 prevention account; providing for
+3 administration of the account;".
+4
+5 Page 1-line 11 After "deposits;" insert "requiring
+6 reports;".
+7
+8 Page 1-after line 13 Insert and renumber as necessary:
+9
+10 "Section 1. W.S. 9-4-227 is created to read:
+11
+12 9-4-227. Income tax prevention account.
+13
+14 (a) There is created the income tax prevention account. The
+15 account shall consist of all funds transferred or appropriated to
+16 the account by law. All monies deposited or transferred into the
+17 account are inviolate and constitute a permanent or perpetual trust
+18 fund, subject to the provisions for the withdrawal of funds
+19 provided by this section.
+20
+21 (b) The state treasurer shall invest all funds within the
+22 income tax prevention account in accordance with W.S. 9-4-715(a)
+23 and (c) through (e) and 9-4-716. W.S. 9-4-716(e) shall not apply
+24 to the account. The state treasurer, or the treasurer's designee,
+25 which shall be registered under the federal Investment Advisor's
+26 Act of 1940, as amended and if required to be registered by the
+27 terms of that act, may invest the unobligated, unencumbered balance
+28 of the account in equities, including stocks of corporations. The
+29 account shall be invested so that the overall risk profile of the
+30 account's investments shall not materially exceed the risk profile
+31 of a reference portfolio that consists of eighty-five percent (85%)
+32 private equity and fifteen percent (15%) private credit
+33 investments. In adopting investment policy statements for the
+34 account, the board shall seek to preserve the balance of the
+35 account in a manner that strives for the highest possible
+36 risk-adjusted total net return consistent with an appropriate
+37 level of safety and liquidity, giving consideration to the
+38 account's potential extended investment period and the extended
+39 period during which monies in the account may be ineligible for
+40 withdrawal.
+41
+42 (c) On July 1, 2025, if there is not less than two billion
+43 dollars ($2,000,000,000.00) in the legislative stabilization
+44 reserve account on that date, the state auditor shall transfer one
+1
+1 hundred million dollars ($100,000,000.00) from the legislative
+2 stabilization reserve account to the income tax prevention
+3 account. The transfer under this subsection shall occur after all
+4 other transfers and appropriations from the legislative
+5 stabilization reserve account required by law are made. Additional
+6 transfers to the income tax prevention account in future years
+7 shall be subject to legislative appropriation.
+8
+9 (d) Transfers made under subsection (c) of this section, and
+10 the investment of those transfers, shall be in accordance with all
+11 of the following:
+12
+13 (i) The state treasurer shall separately account for
+14 each transfer made under subsection (c) of this section and shall
+15 separately account for all earnings from each transfer;
+16
+17 (ii) Transfers shall not be withdrawn from the account;
+18
+19 (iii) Investment earnings from each transfer shall not
+20 be withdrawn except in accordance with subsection (e) of this
+21 section.
+22
+23 (e) On July 1 of each fiscal year after fourteen (14) fiscal
+24 years have elapsed, all investment earnings in the income tax
+25 prevention account arising from the transfer to the account made
+26 fourteen (14) fiscal years earlier shall be deposited in the
+27 general fund. For purposes of this subsection:
+28
+29 (i) "Investment earnings" mean all interest income,
+30 dividends, realized capital gains and returned capital;
+31
+32 (ii) Investment earnings shall be distributed under
+33 this subsection as the earnings are received or when the fund from
+34 which earnings are derived matures;
+35
+36 (iii) The state treasurer may liquidate or sell
+37 investments in order to maximize earnings or minimize costs
+38 associated with making the deposit required under this subsection.
+39
+40 (f) Not later than October 1 of each year, the state
+41 treasurer shall report to the joint appropriations committee and
+42 the select committee on capital financing and investments
+43 regarding the investment of funds in the income tax prevention
+44 account. The report shall include information on the annual review
+45 of the account's investment policy statement and an estimate of
+46 investment earnings available for deposit to the general fund for
+47 the immediately succeeding fiscal year.".
+2
+1
+2 Page 2-line 1 Delete "Section 1." and insert "Section 2.".
+3
+4 Page 2-line 4 Before "9-15-103(a)," insert
+5 "9-4-203(a)(xiii), 9-4-716(e),".
+6
+7 Page 8-after line 12 Insert:
+8
+9 "9-4-203. Definitions.
+10
+11 (a) As used in this act:
+12
+13 (xiii) "This act" means W.S. 9-4-202 through 9-4-226
+14 9-4-227.
+15
+16 9-4-716. State investment policy; investment consultant.
+17
+18 (e) In investing monies of a fund or account which may be
+19 invested in stock of a corporation or other equities, the overall
+20 risk profile of the investments, excluding any specific public
+21 purpose investment authorized or directed by the
+22 legislature, shall not materially exceed the risk profile of a
+23 reference portfolio that consists of seventy percent (70%) global
+24 equities and thirty percent (30%) domestic fixed income
+25 investments. The state treasurer after consultation with the
+26 investment funds committee shall submit to the board the
+27 committee's recommendations of specific benchmarks for the
+28 measurement of the portfolio risk characteristics. The specific
+29 benchmarks shall be determined by the board. Any provision of law
+30 which restricts or expands the investment of a specific fund or
+31 account to a greater degree than the provisions of this subsection
+32 shall control over this subsection.".
+33
+34 Page 17-line 18 Delete "Section 2." and insert "Section 3.".
+35
+36 Page 17-line 21 Delete "Section 3." and insert "Section 4.".
+37
+38 Page 18-line 8 Delete "Section 4." and insert "Section 5.".
+39 HARSHMAN
+3
+
+
+================================================================================
+
+Raw Text:
+SF0070H3001
+1 Page 1-line 1 After "funds;" insert "creating the income tax
+2 prevention account; providing for
+3 administration of the account;".
+4
+5 Page 1-line 11 After "deposits;" insert "requiring
+6 reports;".
+7
+8 Page 1-after line 13 Insert and renumber as necessary:
+9
+10 "Section 1. W.S. 9-4-227 is created to read:
+11
+12 9-4-227. Income tax prevention account.
+13
+14 (a) There is created the income tax prevention account. The
+15 account shall consist of all funds transferred or appropriated to
+16 the account by law. All monies deposited or transferred into the
+17 account are inviolate and constitute a permanent or perpetual trust
+18 fund, subject to the provisions for the withdrawal of funds
+19 provided by this section.
+20
+21 (b) The state treasurer shall invest all funds within the
+22 income tax prevention account in accordance with W.S. 9-4-715(a)
+23 and (c) through (e) and 9-4-716. W.S. 9-4-716(e) shall not apply
+24 to the account. The state treasurer, or the treasurer's designee,
+25 which shall be registered under the federal Investment Advisor's
+26 Act of 1940, as amended and if required to be registered by the
+27 terms of that act, may invest the unobligated, unencumbered balance
+28 of the account in equities, including stocks of corporations. The
+29 account shall be invested so that the overall risk profile of the
+30 account's investments shall not materially exceed the risk profile
+31 of a reference portfolio that consists of eighty-five percent (85%)
+32 private equity and fifteen percent (15%) private credit
+33 investments. In adopting investment policy statements for the
+34 account, the board shall seek to preserve the balance of the
+35 account in a manner that strives for the highest possible
+36 risk-adjusted total net return consistent with an appropriate
+37 level of safety and liquidity, giving consideration to the
+38 account's potential extended investment period and the extended
+39 period during which monies in the account may be ineligible for
+40 withdrawal.
+41
+42 (c) On July 1, 2025, if there is not less than two billion
+43 dollars ($2,000,000,000.00) in the legislative stabilization
+44 reserve account on that date, the state auditor shall transfer one
+1
+
+1 hundred million dollars ($100,000,000.00) from the legislative
+2 stabilization reserve account to the income tax prevention
+3 account. The transfer under this subsection shall occur after all
+4 other transfers and appropriations from the legislative
+5 stabilization reserve account required by law are made. Additional
+6 transfers to the income tax prevention account in future years
+7 shall be subject to legislative appropriation.
+8
+9 (d) Transfers made under subsection (c) of this section, and
+10 the investment of those transfers, shall be in accordance with all
+11 of the following:
+12
+13 (i) The state treasurer shall separately account for
+14 each transfer made under subsection (c) of this section and shall
+15 separately account for all earnings from each transfer;
+16
+17 (ii) Transfers shall not be withdrawn from the account;
+18
+19 (iii) Investment earnings from each transfer shall not
+20 be withdrawn except in accordance with subsection (e) of this
+21 section.
+22
+23 (e) On July 1 of each fiscal year after fourteen (14) fiscal
+24 years have elapsed, all investment earnings in the income tax
+25 prevention account arising from the transfer to the account made
+26 fourteen (14) fiscal years earlier shall be deposited in the
+27 general fund. For purposes of this subsection:
+28
+29 (i) "Investment earnings" mean all interest income,
+30 dividends, realized capital gains and returned capital;
+31
+32 (ii) Investment earnings shall be distributed under
+33 this subsection as the earnings are received or when the fund from
+34 which earnings are derived matures;
+35
+36 (iii) The state treasurer may liquidate or sell
+37 investments in order to maximize earnings or minimize costs
+38 associated with making the deposit required under this subsection.
+39
+40 (f) Not later than October 1 of each year, the state
+41 treasurer shall report to the joint appropriations committee and
+42 the select committee on capital financing and investments
+43 regarding the investment of funds in the income tax prevention
+44 account. The report shall include information on the annual review
+45 of the account's investment policy statement and an estimate of
+46 investment earnings available for deposit to the general fund for
+47 the immediately succeeding fiscal year.".
+2
+
+1
+2 Page 2-line 1 Delete "Section 1." and insert "Section 2.".
+3
+4 Page 2-line 4 Before "9-15-103(a)," insert
+5 "9-4-203(a)(xiii), 9-4-716(e),".
+6
+7 Page 8-after line 12 Insert:
+8
+9 "9-4-203. Definitions.
+10
+11 (a) As used in this act:
+12
+13 (xiii) "This act" means W.S. 9-4-202 through 9-4-226
+14 9-4-227.
+15
+16 9-4-716. State investment policy; investment consultant.
+17
+18 (e) In investing monies of a fund or account which may be
+19 invested in stock of a corporation or other equities, the overall
+20 risk profile of the investments, excluding any specific public
+21 purpose investment authorized or directed by the
+22 legislature, shall not materially exceed the risk profile of a
+23 reference portfolio that consists of seventy percent (70%) global
+24 equities and thirty percent (30%) domestic fixed income
+25 investments. The state treasurer after consultation with the
+26 investment funds committee shall submit to the board the
+27 committee's recommendations of specific benchmarks for the
+28 measurement of the portfolio risk characteristics. The specific
+29 benchmarks shall be determined by the board. Any provision of law
+30 which restricts or expands the investment of a specific fund or
+31 account to a greater degree than the provisions of this subsection
+32 shall control over this subsection.".
+33
+34 Page 17-line 18 Delete "Section 2." and insert "Section 3.".
+35
+36 Page 17-line 21 Delete "Section 3." and insert "Section 4.".
+37
+38 Page 18-line 8 Delete "Section 4." and insert "Section 5.".
+39 HARSHMAN
+3

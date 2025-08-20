@@ -1,0 +1,87 @@
+Title: Investment modernization-state nonpermanent 25LSO-0153, 1.0
+Official Title: Investment modernization-state nonpermanent 25LSO-0153, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+funds.
+FISCAL NOTE
+The fiscal impact is indeterminable.
+The Wildlife-Natural Resources Trust and Wyoming Cultural Trust are both currently
+invested by the State Treasurer’s Office (STO) in Pool A and the annual yield,
+defined as interest, dividends and realized capital gains, is used to award project
+grants. This legislation establishes an annual spending policy percentage based on
+each trust’s five-year rolling average market value; the spending policy is 3.0
+percent for the Cultural Trust and 4.0 percent for the Wildlife-Natural Resources
+Trust. The legislation phases in the five-year rolling average market over five
+years.
+For both trusts, this legislation removes them from Pool A to allow STO to invest
+them into a long-term focused investment strategy with the potential for higher
+return over the long run and the potential for increased volatility. However, STO
+reports the potential increase is indeterminable.
+The legislation removes the statutorily inviolate restriction for both trusts,
+allowing annual spending needs to be met with both yield and unrealized gains and
+losses in the portfolio.
+The table shown estimates the FY 26 annual spending policy amount in dollars for
+each trust.
+Trust Fund Balance and Estimated Spending Policy Amount in Dollars.
+Estimated
+FY 26
+Annual
+Trust Cash Spending Spending
+Balance Policy Policy
+6/30/2024 Amount Amount in
+(rounded) in bill Dollars
+Wyoming Cultural Trust Fund (fund 605) $ 28,000,000 3.0% $840,000
+Wildlife-Natural Resources Trust (fund 529) $200,000,000 4.0% $8,000,000
+Source: Wyoming Online Financial System (WOLFS)
+Prepared by: Polly Scott, LSO Phone: 777-7881
+(Information provided by Samantha Dailey, State Treasurer's Office, 777-7408; Bob
+Budd, Wildlife and Natural Resource Trust Bd, 777-8024; Caryn Erickson,
+Department of Parks and Cultural Resources, 777-6538)
+SF0070
+
+
+================================================================================
+
+Raw Text:
+Investment modernization-state nonpermanent 25LSO-0153, 1.0
+funds.
+FISCAL NOTE
+The fiscal impact is indeterminable.
+The Wildlife-Natural Resources Trust and Wyoming Cultural Trust are both currently
+invested by the State Treasurer’s Office (STO) in Pool A and the annual yield,
+defined as interest, dividends and realized capital gains, is used to award project
+grants. This legislation establishes an annual spending policy percentage based on
+each trust’s five-year rolling average market value; the spending policy is 3.0
+percent for the Cultural Trust and 4.0 percent for the Wildlife-Natural Resources
+Trust. The legislation phases in the five-year rolling average market over five
+years.
+For both trusts, this legislation removes them from Pool A to allow STO to invest
+them into a long-term focused investment strategy with the potential for higher
+return over the long run and the potential for increased volatility. However, STO
+reports the potential increase is indeterminable.
+The legislation removes the statutorily inviolate restriction for both trusts,
+allowing annual spending needs to be met with both yield and unrealized gains and
+losses in the portfolio.
+The table shown estimates the FY 26 annual spending policy amount in dollars for
+each trust.
+Trust Fund Balance and Estimated Spending Policy Amount in Dollars.
+Estimated
+FY 26
+Annual
+Trust Cash Spending Spending
+Balance Policy Policy
+6/30/2024 Amount Amount in
+(rounded) in bill Dollars
+Wyoming Cultural Trust Fund (fund 605) $ 28,000,000 3.0% $840,000
+Wildlife-Natural Resources Trust (fund 529) $200,000,000 4.0% $8,000,000
+Source: Wyoming Online Financial System (WOLFS)
+Prepared by: Polly Scott, LSO Phone: 777-7881
+(Information provided by Samantha Dailey, State Treasurer's Office, 777-7408; Bob
+Budd, Wildlife and Natural Resource Trust Bd, 777-8024; Caryn Erickson,
+Department of Parks and Cultural Resources, 777-6538)
+SF0070

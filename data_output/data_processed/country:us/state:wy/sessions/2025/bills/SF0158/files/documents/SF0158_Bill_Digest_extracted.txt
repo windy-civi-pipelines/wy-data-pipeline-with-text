@@ -1,0 +1,184 @@
+Title: Sponsored By: Senator(s) Jones, Barlow, Cooper and Crago and
+Official Title: Sponsored By: Senator(s) Jones, Barlow, Cooper and Crago and
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Virtual credit cards and network leasing-
+SF0158
+dental services.
+Representative(s) Brown, L, Larson, JT and Wylie
+AN ACT relating to the insurance code; specifying requirements for third party
+access to dental network contracts; providing requirements for the use of
+virtual credit card payments and other methods of payments for dental services;
+providing contractual requirements; providing definitions; specifying
+applicability; requiring rulemaking; and providing for effective dates.
+1/22/2025 Bill Number Assigned
+1/23/2025 S Received for Introduction
+1/28/2025 S Introduced and Referred to S10 - Labor
+1/31/2025 S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Barlow, Crum, Hutchings, Scott, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/31/2025 S Placed on General File
+SF0158SS001/ADOPTED
+Page 2-lines 3 and 4 Delete entirely and renumber as necessary.
+Page 2-line 6 Delete "(ii)" and insert "(i)".
+Page 2-line 10 Delete "(iii)" and insert "(ii)".
+Page 2-line 15 Delete "(iv)" and insert "(iii)".
+Page 2-line 20 Delete "(v)" and insert "(iv)".
+Page 3-line 4 Delete "(vi)" and insert "(v)".
+Page 3-line 9 Delete "(vii)" and insert "(vi)".
+Page 3-line 15 Delete "(viii)" and insert "(vii)".
+Page 4-line 2 Delete "(ix)" and insert "(viii)".
+Page 4-line 8 Delete "(x)" and insert "(ix)".
+Page 4-line 16 Delete "(xi)" and insert "(x)".
+Page 8-lines 12 through 17 Delete entirely and insert:
+"(d) This section shall not apply if access to a provider network contract
+is granted to a dental carrier or an entity operating in accordance with the
+same brand licensee program as the contracting entity or to an entity that is
+an affiliate of the contracting entity. A list of the contracting entity's
+affiliates shall be made available to a provider on the contracting entity's
+website.". BARLOW, CHAIRMAN
+2/4/2025 S COW:Passed
+SF0158S2001/ADOPTED
+Page 5-lines 11 through 17 Delete entirely and insert:
+"(i) At the time the network contract is entered into, renewed or
+material modifications relevant to granting access to a third party are made,
+the dental carrier allows any dental care provider that is part of the dental
+carrier's provider network to choose to not participate in third-party access
+to the dental care provider's service prices and discounted rates;". JONES
+2/5/2025 S 2nd Reading:Passed
+2/6/2025 S 3rd Reading:Passed 27-3-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, Gierau, Hicks, Hutchings, Jones, Kolb,
+Landen, Nethercott, Olsen, Pappas, Pearson, Rothfuss, Salazar, Schuler, Scott,
+Smith, Steinmetz
+Nays: Senator(s) Ide, Laursen, Mckeown
+Excused: Senator French
+Ayes 27 Nays 3 Excused 1 Absent 0 Conflicts 0
+2/6/2025 H Received for Introduction
+2/12/2025 H Introduced and Referred to H10 - Labor
+2/24/2025 H10 - Labor:Recommend Do Pass 6-1-2-0-0
+ROLL CALL
+Ayes: Representative(s) Clouston, Guggenmos, Mccann, Ottman, Wasserburger, Yin
+Nays: Representative Hoeft
+Excused: Representative(s) Rodriguez-Williams, Styvar
+Ayes 6 Nays 1 Excused 2 Absent 0 Conflicts 0
+2/24/2025 H Placed on General File
+2/27/2025 H COW:Passed
+2/28/2025 H 2nd Reading:Passed
+3/3/2025 H 3rd Reading:Passed 40-20-2-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Angelos, Banks, Bratten, Byron, Campbell, E,
+Campbell, K, Chestek, Clouston, Connolly, Davis, Eklund, Erickson, Filer,
+Geringer, Harshman, Jarvis, Kelly, Larsen, Larson, Lawley, Lucas, Nicholas,
+Ottman, Pendergraft, Posey, Provenza, Rodriguez-Williams, Sherwood, Storer,
+Strock, Tarver, Thayer, Washut, Wasserburger, Webb, Wharff, Williams, Wylie,
+Yin
+Nays: Representative(s) Allemand, Bear, Brady, Brown, G, Guggenmos, Haroldson,
+Heiner, Hoeft, Johnson, Knapp, Lien, Locke, Mccann, Neiman, Schmid, Singh,
+Smith, Styvar, Webber, Winter
+Excused: Representative(s) Brown, L, Riggins
+Ayes 40 Nays 20 Excused 2 Absent 0 Conflicts 0
+3/3/2025 Assigned Number SEA No. 0069
+3/3/2025 S President Signed SEA No. 0069
+3/3/2025 H Speaker Signed SEA No. 0069
+3/5/2025 Governor Signed SEA No. 0069
+3/5/2025 Assigned Chapter Number 117
+Chapter No. 117 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+Virtual credit cards and network leasing-
+SF0158
+dental services.
+Sponsored By: Senator(s) Jones, Barlow, Cooper and Crago and
+Representative(s) Brown, L, Larson, JT and Wylie
+AN ACT relating to the insurance code; specifying requirements for third party
+access to dental network contracts; providing requirements for the use of
+virtual credit card payments and other methods of payments for dental services;
+providing contractual requirements; providing definitions; specifying
+applicability; requiring rulemaking; and providing for effective dates.
+1/22/2025 Bill Number Assigned
+1/23/2025 S Received for Introduction
+1/28/2025 S Introduced and Referred to S10 - Labor
+1/31/2025 S10 - Labor:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Barlow, Crum, Hutchings, Scott, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/31/2025 S Placed on General File
+SF0158SS001/ADOPTED
+Page 2-lines 3 and 4 Delete entirely and renumber as necessary.
+Page 2-line 6 Delete "(ii)" and insert "(i)".
+Page 2-line 10 Delete "(iii)" and insert "(ii)".
+Page 2-line 15 Delete "(iv)" and insert "(iii)".
+Page 2-line 20 Delete "(v)" and insert "(iv)".
+Page 3-line 4 Delete "(vi)" and insert "(v)".
+Page 3-line 9 Delete "(vii)" and insert "(vi)".
+Page 3-line 15 Delete "(viii)" and insert "(vii)".
+Page 4-line 2 Delete "(ix)" and insert "(viii)".
+Page 4-line 8 Delete "(x)" and insert "(ix)".
+Page 4-line 16 Delete "(xi)" and insert "(x)".
+Page 8-lines 12 through 17 Delete entirely and insert:
+"(d) This section shall not apply if access to a provider network contract
+is granted to a dental carrier or an entity operating in accordance with the
+same brand licensee program as the contracting entity or to an entity that is
+an affiliate of the contracting entity. A list of the contracting entity's
+affiliates shall be made available to a provider on the contracting entity's
+website.". BARLOW, CHAIRMAN
+2/4/2025 S COW:Passed
+
+SF0158S2001/ADOPTED
+Page 5-lines 11 through 17 Delete entirely and insert:
+"(i) At the time the network contract is entered into, renewed or
+material modifications relevant to granting access to a third party are made,
+the dental carrier allows any dental care provider that is part of the dental
+carrier's provider network to choose to not participate in third-party access
+to the dental care provider's service prices and discounted rates;". JONES
+2/5/2025 S 2nd Reading:Passed
+2/6/2025 S 3rd Reading:Passed 27-3-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, Gierau, Hicks, Hutchings, Jones, Kolb,
+Landen, Nethercott, Olsen, Pappas, Pearson, Rothfuss, Salazar, Schuler, Scott,
+Smith, Steinmetz
+Nays: Senator(s) Ide, Laursen, Mckeown
+Excused: Senator French
+Ayes 27 Nays 3 Excused 1 Absent 0 Conflicts 0
+2/6/2025 H Received for Introduction
+2/12/2025 H Introduced and Referred to H10 - Labor
+2/24/2025 H10 - Labor:Recommend Do Pass 6-1-2-0-0
+ROLL CALL
+Ayes: Representative(s) Clouston, Guggenmos, Mccann, Ottman, Wasserburger, Yin
+Nays: Representative Hoeft
+Excused: Representative(s) Rodriguez-Williams, Styvar
+Ayes 6 Nays 1 Excused 2 Absent 0 Conflicts 0
+2/24/2025 H Placed on General File
+2/27/2025 H COW:Passed
+2/28/2025 H 2nd Reading:Passed
+3/3/2025 H 3rd Reading:Passed 40-20-2-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Angelos, Banks, Bratten, Byron, Campbell, E,
+Campbell, K, Chestek, Clouston, Connolly, Davis, Eklund, Erickson, Filer,
+Geringer, Harshman, Jarvis, Kelly, Larsen, Larson, Lawley, Lucas, Nicholas,
+Ottman, Pendergraft, Posey, Provenza, Rodriguez-Williams, Sherwood, Storer,
+Strock, Tarver, Thayer, Washut, Wasserburger, Webb, Wharff, Williams, Wylie,
+Yin
+Nays: Representative(s) Allemand, Bear, Brady, Brown, G, Guggenmos, Haroldson,
+Heiner, Hoeft, Johnson, Knapp, Lien, Locke, Mccann, Neiman, Schmid, Singh,
+Smith, Styvar, Webber, Winter
+Excused: Representative(s) Brown, L, Riggins
+Ayes 40 Nays 20 Excused 2 Absent 0 Conflicts 0
+3/3/2025 Assigned Number SEA No. 0069
+3/3/2025 S President Signed SEA No. 0069
+3/3/2025 H Speaker Signed SEA No. 0069
+3/5/2025 Governor Signed SEA No. 0069
+3/5/2025 Assigned Chapter Number 117
+Chapter No. 117 Session Laws of Wyoming 2025

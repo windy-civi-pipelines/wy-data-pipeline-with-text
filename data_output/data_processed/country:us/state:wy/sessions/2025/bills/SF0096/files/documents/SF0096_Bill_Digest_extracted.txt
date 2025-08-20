@@ -1,0 +1,351 @@
+Title: Sponsored By: Senator(s) Ide, French, Hutchings, Laursen, D,
+Official Title: Sponsored By: Senator(s) Ide, French, Hutchings, Laursen, D,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0096 Wyoming Gold Act.
+Salazar, Smith, D and Steinmetz and Representative(s)
+Allemand, Heiner, Lien, Locke and Smith, S
+AN ACT relating to the Wyoming Legal Tender Act; requiring the state treasurer
+to hold and invest specie and specie legal tender; authorizing the state
+treasurer to hire consultants; requiring a study and report; and providing for
+effective dates.
+1/7/2025 Bill Number Assigned
+1/10/2025 S Received for Introduction
+1/16/2025 S Introduced and Referred to S03 - Revenue
+1/24/2025 S03 - Revenue:Recommend Amend and Do Pass 3-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) French, Ide, Mckeown
+Nays: Senator(s) Case, Pappas
+Ayes 3 Nays 2 Excused 0 Absent 0 Conflicts 0
+1/24/2025 S Placed on General File
+SF0096SS001/ADOPTED
+Page 2-line 3 Delete "between".
+Page 2-line 4 Delete "and across all state managed accounts" and
+insert "in the permanent Wyoming mineral trust fund".
+Page 3-line 19 After "committee on" insert "capital". MCKEOWN,
+CHAIRMAN
+1/29/2025 S COW:Passed
+1/30/2025 S 2nd Reading:Passed
+SF0096S3001/ADOPTED
+Page 1-line 4 Delete "providing rulemaking authority;".
+Page 2-lines 20 and 21 Delete entirely.
+Page 3-lines 1 through 3 Delete entirely.
+Page 3-line 5 Delete "Section 3." and insert "Section 2.".
+Page 3-lines 7 through 13 Delete entirely and insert:
+"(a) The state treasurer shall conduct a study that reviews methods for
+the state to begin accepting gold and silver as a payment medium.".
+Page 4-line 1 Delete "Section 4." and insert "Section 3.".
+NETHERCOTT
+1/31/2025 S 3rd Reading:Passed 25-6-0-0-0
+ROLL CALL
+Ayes: Senator(s) Biteman, Boner, Brennan, Cooper, Crago, Crum, Dockstader,
+Driskill, French, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen, Mckeown,
+Nethercott, Olsen, Pearson, Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Anderson, Barlow, Case, Gierau, Pappas, Rothfuss
+Ayes 25 Nays 6 Excused 0 Absent 0 Conflicts 0
+1/31/2025 H Received for Introduction
+2/10/2025 H Introduced and Referred to H02 - Appropriations
+2/13/2025 H02 - Appropriations:Recommend Amend and Do Pass 5-1-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft
+Nays: Representative Sherwood
+Excused: Representative Smith
+Ayes 5 Nays 1 Excused 1 Absent 0 Conflicts 0
+2/13/2025 H Placed on General File
+SF0096HS001/ADOPTED (TO ENGROSSED COPY)
+Page 3-line 1 Delete "state treasurer" and insert "department of
+revenue".
+Page 3-line 5 Delete "state treasurer" and insert "department of
+revenue". BEAR, CHAIRMAN
+SF0096HW001/WITHDRAWN
+2/14/2025 H COW:Passed
+SF0096H2001/FAILED (TO ENGROSSED COPY)
+Page 1-line 4 After "report;" insert "providing an appropriation;".
+Page 3-after line 10 Insert:
+"(c) There is appropriated fifty thousand dollars ($50,000.00) from the
+general fund to the department of revenue for purposes of conducting the study
+required under subsection (a) of this section for the period beginning with the
+effective date of this act and ending June 30, 2026. This appropriation shall
+not be transferred or expended for any other purpose and any unexpended,
+unobligated funds remaining from this appropriation on June 30, 2026 shall
+revert as provided by law. It is the intent of the legislature that this
+appropriation not be included in the department of revenue's standard budget
+request for the immediately succeeding fiscal biennium.". LARSEN, L
+SF0096H2002/FAILED (TO ENGROSSED COPY)
+Page 1-line 3 After "tender;" delete balance of line.
+Page 1-line 4 Delete "consultants;".
+Page 2-line 2 After "Holding" insert "the rights to".
+Page 2-lines 12 through 18 Delete entirely. YIN
+ROLL CALL
+Ayes: Representative(s) Byron, Campbell, E, Chestek, Connolly, Eklund,
+Harshman, Jarvis, Larsen, Nicholas, Posey, Provenza, Sherwood, Storer, Yin
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Campbell, K, Clouston, Davis, Erickson, Filer,
+Geringer, Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly, Knapp, Larson,
+Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Rodriguez-
+Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver, Thayer, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Winter
+Excused: Representative(s) Riggins, Wylie
+Ayes 14 Nays 46 Excused 2 Absent 0 Conflicts 0
+SF0096H2003/FAILED (TO ENGROSSED COPY)
+Page 1-line 3 After "tender" insert ", treasury inflation protected
+securities, gold exchange traded funds, real estate and
+gold and silver mineral-producing companies".
+Page 1-line 14 Delete "shall" and insert "may".
+Page 2-line 2 After "(i)" insert "If market conditions warrant,".
+Page 2-line 3 After "tender" insert ", treasury inflation protected
+securities, gold exchange traded funds, real estate and
+gold and silver mineral-producing companies".
+Page 2-line 7 After "risks" insert ", including a black swan event".
+STORER, NICHOLAS
+SF0096H2004/FAILED (TO ENGROSSED COPY)
+Delete the Storer et al. second reading amendment (SF0096H2003/AE) entirely and
+further amend as follows:
+Page 1-line 3 After "tender" insert "and bitcoin".
+Page 2-line 3 After "tender" insert "and not less than one million
+dollars ($1,000,000.00) in bitcoin". WASSERBURGER
+SF0096H2005/FAILED (TO ENGROSSED COPY)
+Page 2-line 3 Delete the Wasserburger second reading amendment
+(SF0096H2004/A) to this line; after "tender" insert
+"and gold futures or funds that enable the owner to
+take delivery of the gold". NICHOLAS
+2/18/2025 H 2nd Reading:Passed
+SF0096H3001/FAILED (TO ENGROSSED COPY)
+Page 1-line 4 After "report;" insert "providing an appropriation;".
+Page 3-after line 10 Insert:
+"(c) There is appropriated forty-five thousand dollars ($45,000.00) from
+the general fund to the department of revenue for purposes of conducting the
+study required under subsection (a) of this section for the period beginning
+with the effective date of this act and ending June 30, 2026. This appropriation
+shall not be transferred or expended for any other purpose and any unexpended,
+unobligated funds remaining from this appropriation on June 30, 2026 shall
+revert as provided by law. It is the intent of the legislature that this
+appropriation not be included in the department of revenue's standard budget
+request for the immediately succeeding fiscal biennium.". LARSEN, L
+SF0096H3002/FAILED (TO ENGROSSED COPY)
+Page 2-line 4 Delete "permanent Wyoming mineral trust" and insert
+"general". FILER
+SF0096H3003/FAILED (TO ENGROSSED COPY)
+Delete the House standing committee amendment (SF0096HS001/AE) and the first
+Larsen, L third reading amendment (SF0096H3001/AE) entirely and further amend
+as follows:
+Page 1-line 4 Delete "requiring a study and report;".
+Page 1-line 5 Delete "effective dates" and insert "an effective
+date".
+Page 2-line 20 Delete entirely and renumber as necessary.
+Page 3-lines 1 through 10 Delete entirely.
+Page 3-lines 12 through 20 Delete entirely and insert:
+"Section 2. This act is effective January 1, 2026.". LARSEN, L
+SF0096H3004/FAILED (TO ENGROSSED COPY)
+Page 1-line 14 After "article" insert "only if the price of gold,
+measured in United States dollars per ounce, is equal
+to or less than the average price of gold in 2019 and".
+YIN
+2/19/2025 H 3rd Reading:Passed 44-17-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Campbell, K, Clouston, Eklund, Erickson, Filer, Geringer,
+Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly, Knapp, Larson, Lawley,
+Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Rodriguez-Williams,
+Schmid, Singh, Smith, Strock, Styvar, Tarver, Thayer, Wasserburger, Webb,
+Webber, Wharff, Williams, Winter
+Nays: Representative(s) Brown, L, Byron, Campbell, E, Chestek, Connolly, Davis,
+Harshman, Jarvis, Larsen, Nicholas, Posey, Provenza, Sherwood, Storer, Washut,
+Wylie, Yin
+Excused: Representative Riggins
+Ayes 44 Nays 17 Excused 1 Absent 0 Conflicts 0
+2/19/2025 S Received for Concurrence
+2/19/2025 S Concur:Passed 23-8-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Dockstader, French,
+Gierau, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen, Mckeown,
+Nethercott, Olsen, Pearson, Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Barlow, Case, Cooper, Crago, Crum, Driskill, Pappas, Rothfuss
+Ayes 23 Nays 8 Excused 0 Absent 0 Conflicts 0
+2/19/2025 Assigned Number SEA No. 0013
+2/19/2025 S President Signed SEA No. 0013
+2/20/2025 H Speaker Signed SEA No. 0013
+2/24/2025 Became Law without Signature
+2/24/2025 Assigned Chapter Number 42
+Chapter No. 42 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+SF0096 Wyoming Gold Act.
+Sponsored By: Senator(s) Ide, French, Hutchings, Laursen, D,
+Salazar, Smith, D and Steinmetz and Representative(s)
+Allemand, Heiner, Lien, Locke and Smith, S
+AN ACT relating to the Wyoming Legal Tender Act; requiring the state treasurer
+to hold and invest specie and specie legal tender; authorizing the state
+treasurer to hire consultants; requiring a study and report; and providing for
+effective dates.
+1/7/2025 Bill Number Assigned
+1/10/2025 S Received for Introduction
+1/16/2025 S Introduced and Referred to S03 - Revenue
+1/24/2025 S03 - Revenue:Recommend Amend and Do Pass 3-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) French, Ide, Mckeown
+Nays: Senator(s) Case, Pappas
+Ayes 3 Nays 2 Excused 0 Absent 0 Conflicts 0
+1/24/2025 S Placed on General File
+SF0096SS001/ADOPTED
+Page 2-line 3 Delete "between".
+Page 2-line 4 Delete "and across all state managed accounts" and
+insert "in the permanent Wyoming mineral trust fund".
+Page 3-line 19 After "committee on" insert "capital". MCKEOWN,
+CHAIRMAN
+1/29/2025 S COW:Passed
+1/30/2025 S 2nd Reading:Passed
+SF0096S3001/ADOPTED
+Page 1-line 4 Delete "providing rulemaking authority;".
+Page 2-lines 20 and 21 Delete entirely.
+Page 3-lines 1 through 3 Delete entirely.
+Page 3-line 5 Delete "Section 3." and insert "Section 2.".
+Page 3-lines 7 through 13 Delete entirely and insert:
+"(a) The state treasurer shall conduct a study that reviews methods for
+the state to begin accepting gold and silver as a payment medium.".
+Page 4-line 1 Delete "Section 4." and insert "Section 3.".
+NETHERCOTT
+1/31/2025 S 3rd Reading:Passed 25-6-0-0-0
+ROLL CALL
+
+Ayes: Senator(s) Biteman, Boner, Brennan, Cooper, Crago, Crum, Dockstader,
+Driskill, French, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen, Mckeown,
+Nethercott, Olsen, Pearson, Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Anderson, Barlow, Case, Gierau, Pappas, Rothfuss
+Ayes 25 Nays 6 Excused 0 Absent 0 Conflicts 0
+1/31/2025 H Received for Introduction
+2/10/2025 H Introduced and Referred to H02 - Appropriations
+2/13/2025 H02 - Appropriations:Recommend Amend and Do Pass 5-1-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft
+Nays: Representative Sherwood
+Excused: Representative Smith
+Ayes 5 Nays 1 Excused 1 Absent 0 Conflicts 0
+2/13/2025 H Placed on General File
+SF0096HS001/ADOPTED (TO ENGROSSED COPY)
+Page 3-line 1 Delete "state treasurer" and insert "department of
+revenue".
+Page 3-line 5 Delete "state treasurer" and insert "department of
+revenue". BEAR, CHAIRMAN
+SF0096HW001/WITHDRAWN
+2/14/2025 H COW:Passed
+SF0096H2001/FAILED (TO ENGROSSED COPY)
+Page 1-line 4 After "report;" insert "providing an appropriation;".
+Page 3-after line 10 Insert:
+"(c) There is appropriated fifty thousand dollars ($50,000.00) from the
+general fund to the department of revenue for purposes of conducting the study
+required under subsection (a) of this section for the period beginning with the
+effective date of this act and ending June 30, 2026. This appropriation shall
+not be transferred or expended for any other purpose and any unexpended,
+unobligated funds remaining from this appropriation on June 30, 2026 shall
+revert as provided by law. It is the intent of the legislature that this
+appropriation not be included in the department of revenue's standard budget
+request for the immediately succeeding fiscal biennium.". LARSEN, L
+SF0096H2002/FAILED (TO ENGROSSED COPY)
+Page 1-line 3 After "tender;" delete balance of line.
+Page 1-line 4 Delete "consultants;".
+Page 2-line 2 After "Holding" insert "the rights to".
+Page 2-lines 12 through 18 Delete entirely. YIN
+ROLL CALL
+Ayes: Representative(s) Byron, Campbell, E, Chestek, Connolly, Eklund,
+Harshman, Jarvis, Larsen, Nicholas, Posey, Provenza, Sherwood, Storer, Yin
+
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Campbell, K, Clouston, Davis, Erickson, Filer,
+Geringer, Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly, Knapp, Larson,
+Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Rodriguez-
+Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver, Thayer, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Winter
+Excused: Representative(s) Riggins, Wylie
+Ayes 14 Nays 46 Excused 2 Absent 0 Conflicts 0
+SF0096H2003/FAILED (TO ENGROSSED COPY)
+Page 1-line 3 After "tender" insert ", treasury inflation protected
+securities, gold exchange traded funds, real estate and
+gold and silver mineral-producing companies".
+Page 1-line 14 Delete "shall" and insert "may".
+Page 2-line 2 After "(i)" insert "If market conditions warrant,".
+Page 2-line 3 After "tender" insert ", treasury inflation protected
+securities, gold exchange traded funds, real estate and
+gold and silver mineral-producing companies".
+Page 2-line 7 After "risks" insert ", including a black swan event".
+STORER, NICHOLAS
+SF0096H2004/FAILED (TO ENGROSSED COPY)
+Delete the Storer et al. second reading amendment (SF0096H2003/AE) entirely and
+further amend as follows:
+Page 1-line 3 After "tender" insert "and bitcoin".
+Page 2-line 3 After "tender" insert "and not less than one million
+dollars ($1,000,000.00) in bitcoin". WASSERBURGER
+SF0096H2005/FAILED (TO ENGROSSED COPY)
+Page 2-line 3 Delete the Wasserburger second reading amendment
+(SF0096H2004/A) to this line; after "tender" insert
+"and gold futures or funds that enable the owner to
+take delivery of the gold". NICHOLAS
+2/18/2025 H 2nd Reading:Passed
+SF0096H3001/FAILED (TO ENGROSSED COPY)
+Page 1-line 4 After "report;" insert "providing an appropriation;".
+Page 3-after line 10 Insert:
+"(c) There is appropriated forty-five thousand dollars ($45,000.00) from
+the general fund to the department of revenue for purposes of conducting the
+study required under subsection (a) of this section for the period beginning
+with the effective date of this act and ending June 30, 2026. This appropriation
+shall not be transferred or expended for any other purpose and any unexpended,
+unobligated funds remaining from this appropriation on June 30, 2026 shall
+revert as provided by law. It is the intent of the legislature that this
+appropriation not be included in the department of revenue's standard budget
+request for the immediately succeeding fiscal biennium.". LARSEN, L
+
+SF0096H3002/FAILED (TO ENGROSSED COPY)
+Page 2-line 4 Delete "permanent Wyoming mineral trust" and insert
+"general". FILER
+SF0096H3003/FAILED (TO ENGROSSED COPY)
+Delete the House standing committee amendment (SF0096HS001/AE) and the first
+Larsen, L third reading amendment (SF0096H3001/AE) entirely and further amend
+as follows:
+Page 1-line 4 Delete "requiring a study and report;".
+Page 1-line 5 Delete "effective dates" and insert "an effective
+date".
+Page 2-line 20 Delete entirely and renumber as necessary.
+Page 3-lines 1 through 10 Delete entirely.
+Page 3-lines 12 through 20 Delete entirely and insert:
+"Section 2. This act is effective January 1, 2026.". LARSEN, L
+SF0096H3004/FAILED (TO ENGROSSED COPY)
+Page 1-line 14 After "article" insert "only if the price of gold,
+measured in United States dollars per ounce, is equal
+to or less than the average price of gold in 2019 and".
+YIN
+2/19/2025 H 3rd Reading:Passed 44-17-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Campbell, K, Clouston, Eklund, Erickson, Filer, Geringer,
+Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly, Knapp, Larson, Lawley,
+Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Rodriguez-Williams,
+Schmid, Singh, Smith, Strock, Styvar, Tarver, Thayer, Wasserburger, Webb,
+Webber, Wharff, Williams, Winter
+Nays: Representative(s) Brown, L, Byron, Campbell, E, Chestek, Connolly, Davis,
+Harshman, Jarvis, Larsen, Nicholas, Posey, Provenza, Sherwood, Storer, Washut,
+Wylie, Yin
+Excused: Representative Riggins
+Ayes 44 Nays 17 Excused 1 Absent 0 Conflicts 0
+2/19/2025 S Received for Concurrence
+2/19/2025 S Concur:Passed 23-8-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Dockstader, French,
+Gierau, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen, Mckeown,
+Nethercott, Olsen, Pearson, Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Barlow, Case, Cooper, Crago, Crum, Driskill, Pappas, Rothfuss
+Ayes 23 Nays 8 Excused 0 Absent 0 Conflicts 0
+2/19/2025 Assigned Number SEA No. 0013
+2/19/2025 S President Signed SEA No. 0013
+2/20/2025 H Speaker Signed SEA No. 0013
+2/24/2025 Became Law without Signature
+
+2/24/2025 Assigned Chapter Number 42
+Chapter No. 42 Session Laws of Wyoming 2025

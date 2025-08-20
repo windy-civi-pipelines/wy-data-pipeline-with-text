@@ -1,0 +1,69 @@
+Title: School finance-model recalibration-2. 25LSO-0674, 1.1
+Official Title: School finance-model recalibration-2. 25LSO-0674, 1.1
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+FISCAL NOTE
+This bill contains an appropriation of $800,000 from the GENERAL FUND to the
+Legislative Service Office. This appropriation is effective immediately.
+This bill contains an appropriation of $120,000 from the GENERAL FUND to the
+Legislative Service Office. This appropriation is effective immediately.
+DETAIL OF APPROPRIATION
+Agency #: 201 Agency Name: Legislative Service Office
+Unit: 0101 Administration
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $14,900 $29,700 $0
+0200 Supportive Services Costs $25,400 $49,400 $0
+0900 Contractual Services Costs $0 $800,000 $0
+Total Expenditure Per Year: $40,300 $879,100 $0
+Grand Total Expenditure: $919,400
+Total Appropriated to Agency: $920,000
+Total Appropriated by Fund:
+GENERAL FUND $800,000
+GENERAL FUND $120,000
+Description of appropriation:
+The $800,000 appropriation will fund the model recalibration study in accordance
+with section 1 of the bill. It is anticipated this appropriation would be
+expended in FY 2026.
+The $120,000 appropriation will be expended for the payment of salary, per diem
+and mileage for the twelve legislators appointed to the task force. The above
+estimate assumes two meetings in FY 2025 and four meetings in FY 2026.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+HB0316
+
+
+================================================================================
+
+Raw Text:
+School finance-model recalibration-2. 25LSO-0674, 1.1
+FISCAL NOTE
+This bill contains an appropriation of $800,000 from the GENERAL FUND to the
+Legislative Service Office. This appropriation is effective immediately.
+This bill contains an appropriation of $120,000 from the GENERAL FUND to the
+Legislative Service Office. This appropriation is effective immediately.
+DETAIL OF APPROPRIATION
+Agency #: 201 Agency Name: Legislative Service Office
+Unit: 0101 Administration
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $14,900 $29,700 $0
+0200 Supportive Services Costs $25,400 $49,400 $0
+0900 Contractual Services Costs $0 $800,000 $0
+Total Expenditure Per Year: $40,300 $879,100 $0
+Grand Total Expenditure: $919,400
+Total Appropriated to Agency: $920,000
+Total Appropriated by Fund:
+GENERAL FUND $800,000
+GENERAL FUND $120,000
+Description of appropriation:
+The $800,000 appropriation will fund the model recalibration study in accordance
+with section 1 of the bill. It is anticipated this appropriation would be
+expended in FY 2026.
+The $120,000 appropriation will be expended for the payment of salary, per diem
+and mileage for the twelve legislators appointed to the task force. The above
+estimate assumes two meetings in FY 2025 and four meetings in FY 2026.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+HB0316

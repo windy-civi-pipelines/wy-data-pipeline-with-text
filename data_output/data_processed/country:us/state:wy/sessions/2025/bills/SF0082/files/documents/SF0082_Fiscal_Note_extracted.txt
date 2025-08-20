@@ -1,0 +1,89 @@
+Title: Omnibus water bill-planning. 25LSO-0451, 1.0
+Official Title: Omnibus water bill-planning. 25LSO-0451, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+FISCAL NOTE
+This bill contains appropriations totaling $534,998 from WATER DEVELOPMENT
+ACCOUNT I to the Water Development Commission. These appropriations are
+effective immediately.
+This bill contains appropriations totaling $980,000 from WATER DEVELOPMENT
+ACCOUNT II to the Water Development Commission. These appropriations are
+effective immediately.
+This bill contains an appropriation of $551,000 from WATER DEVELOPMENT ACCOUNT
+III to the Water Development Commission. This appropriation is effective
+immediately.
+DETAIL OF APPROPRIATION
+Agency #: 029 Agency Name: Water Development Commission
+Unit: (new) numerous
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $368,998 $0 $0
+0900 Contractual Services Costs $33,940 $1,103,050 $560,010
+Total Expenditure Per Year: $402,938 $1,103,050 $560,010
+Grand Total Expenditure: $2,065,998
+Total Appropriated to Agency: $2,065,998
+Total Appropriated by Fund:
+WATER DEVELOPMENT I $534,998
+WATER DEVELOPMENT II $980,000
+WATER DEVELOPMENT III $551,000
+Description of appropriation:
+The 900 series expenditures will be used for contract services to complete Level
+I Reconnaissance Studies and Level II Feasibility Studies for New Development,
+Rehabilitation and Dam Reservoir Projects.
+The 600 series expenditures will be used for a grant to the University of Wyoming
+to administer and conduct water research. These funds are augmented with those
+from the United States Geological Survey and the University of Wyoming.
+This bill is effective immediately. As reflected above, it is anticipated that a
+total of $402,938 will be expended before July 1, 2025 ($372,318 from Water
+Development Account I, $19,600 from Water Development Account II, and $11,020
+from Water Development Account III).
+Prepared by: Catherine Camarotte, LSO Phone: 777-7881
+(Information provided by Jason Mead, Water Development Commission, 307-777-7626)
+SF0082
+
+
+================================================================================
+
+Raw Text:
+Omnibus water bill-planning. 25LSO-0451, 1.0
+FISCAL NOTE
+This bill contains appropriations totaling $534,998 from WATER DEVELOPMENT
+ACCOUNT I to the Water Development Commission. These appropriations are
+effective immediately.
+This bill contains appropriations totaling $980,000 from WATER DEVELOPMENT
+ACCOUNT II to the Water Development Commission. These appropriations are
+effective immediately.
+This bill contains an appropriation of $551,000 from WATER DEVELOPMENT ACCOUNT
+III to the Water Development Commission. This appropriation is effective
+immediately.
+DETAIL OF APPROPRIATION
+Agency #: 029 Agency Name: Water Development Commission
+Unit: (new) numerous
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $368,998 $0 $0
+0900 Contractual Services Costs $33,940 $1,103,050 $560,010
+Total Expenditure Per Year: $402,938 $1,103,050 $560,010
+Grand Total Expenditure: $2,065,998
+Total Appropriated to Agency: $2,065,998
+Total Appropriated by Fund:
+WATER DEVELOPMENT I $534,998
+WATER DEVELOPMENT II $980,000
+WATER DEVELOPMENT III $551,000
+Description of appropriation:
+The 900 series expenditures will be used for contract services to complete Level
+I Reconnaissance Studies and Level II Feasibility Studies for New Development,
+Rehabilitation and Dam Reservoir Projects.
+The 600 series expenditures will be used for a grant to the University of Wyoming
+to administer and conduct water research. These funds are augmented with those
+from the United States Geological Survey and the University of Wyoming.
+This bill is effective immediately. As reflected above, it is anticipated that a
+total of $402,938 will be expended before July 1, 2025 ($372,318 from Water
+Development Account I, $19,600 from Water Development Account II, and $11,020
+from Water Development Account III).
+Prepared by: Catherine Camarotte, LSO Phone: 777-7881
+(Information provided by Jason Mead, Water Development Commission, 307-777-7626)
+SF0082

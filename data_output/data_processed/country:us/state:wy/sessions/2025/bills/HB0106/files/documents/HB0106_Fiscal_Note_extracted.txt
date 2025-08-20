@@ -1,0 +1,99 @@
+Title: This bill contains an appropriation of $40,000 from the GENERAL FUND to the
+Official Title: This bill contains an appropriation of $40,000 from the GENERAL FUND to the
+Number of Sections: 2
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Monument to America. 25LSO-0194, 1.0
+FISCAL NOTE
+Legislative Service Office. This appropriation is effective immediately.
+This bill contains an appropriation of $40,000 from the GENERAL FUND to the
+Governor's Office. This appropriation is effective immediately.
+DETAIL OF APPROPRIATION
+Agency #: 201 Agency Name: Legislative Service Office
+Unit: 0101 Administration
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $1,500 $5,800 $5,800
+0200 Supportive Services Costs $2,700 $11,000 $11,000
+Total Expenditure Per Year: $4,200 $16,800 $16,800
+Grand Total Expenditure: $37,800
+Total Appropriated to Agency: $40,000
+Total Appropriated by Fund:
+GENERAL FUND $40,000
+Description of appropriation:
+This appropriation would be expended for the payment of salary, per diem and
+mileage for the two legislators appointed to the task force. The above estimate
+assumes one meeting in FY 2025, four meetings in FY 2026 and four meetings in FY
+
+Section 2:
+2027. If there are no meetings after task force recommendations by July 4, 2026,
+there would be no expenditures in FY 2027.
+DETAIL OF APPROPRIATION
+Agency #: 001 Agency Name: Governor's Office
+Unit: 0125 Governor's Office Task Forces
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $450 $1,800 $1,800
+0200 Supportive Services Costs $3,994 $15,980 $15,976
+Total Expenditure Per Year: $4,444 $17,780 $17,776
+Grand Total Expenditure: $40,000
+Total Appropriated to Agency: $40,000
+Total Appropriated by Fund:
+GENERAL FUND $40,000
+Description of appropriation:
+The appropriation would be expended for compensation, mileage and per diem for
+nonlegislative members of the task force. The above estimates assume one meeting
+per quarter. If there are no meetings after task force recommendations by July 4,
+2026, there would be no expenditures in FY 2027.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Rory L. Horsley, Governor's Office, 777-5010)
+HB0106
+
+
+================================================================================
+
+Raw Text:
+Monument to America. 25LSO-0194, 1.0
+FISCAL NOTE
+This bill contains an appropriation of $40,000 from the GENERAL FUND to the
+Legislative Service Office. This appropriation is effective immediately.
+This bill contains an appropriation of $40,000 from the GENERAL FUND to the
+Governor's Office. This appropriation is effective immediately.
+DETAIL OF APPROPRIATION
+Agency #: 201 Agency Name: Legislative Service Office
+Unit: 0101 Administration
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $1,500 $5,800 $5,800
+0200 Supportive Services Costs $2,700 $11,000 $11,000
+Total Expenditure Per Year: $4,200 $16,800 $16,800
+Grand Total Expenditure: $37,800
+Total Appropriated to Agency: $40,000
+Total Appropriated by Fund:
+GENERAL FUND $40,000
+Description of appropriation:
+This appropriation would be expended for the payment of salary, per diem and
+mileage for the two legislators appointed to the task force. The above estimate
+assumes one meeting in FY 2025, four meetings in FY 2026 and four meetings in FY
+2027. If there are no meetings after task force recommendations by July 4, 2026,
+there would be no expenditures in FY 2027.
+DETAIL OF APPROPRIATION
+Agency #: 001 Agency Name: Governor's Office
+Unit: 0125 Governor's Office Task Forces
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $450 $1,800 $1,800
+0200 Supportive Services Costs $3,994 $15,980 $15,976
+Total Expenditure Per Year: $4,444 $17,780 $17,776
+Grand Total Expenditure: $40,000
+Total Appropriated to Agency: $40,000
+Total Appropriated by Fund:
+GENERAL FUND $40,000
+Description of appropriation:
+The appropriation would be expended for compensation, mileage and per diem for
+nonlegislative members of the task force. The above estimates assume one meeting
+per quarter. If there are no meetings after task force recommendations by July 4,
+2026, there would be no expenditures in FY 2027.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Rory L. Horsley, Governor's Office, 777-5010)
+HB0106

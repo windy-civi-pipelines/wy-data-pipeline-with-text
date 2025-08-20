@@ -1,0 +1,77 @@
+Title: 1 Page 7-line 12 After "by the NAIC." insert "The following
+Official Title: 1 Page 7-line 12 After "by the NAIC." insert "The following
+Number of Sections: 1
+Source: versions - Amendment SF0050S3001 (3rd reading) - Senator Barlow (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0050S3001
+2 shall apply to this subsection: (i)".
+3
+4 Page 7-line 16 Delete "(i)" and insert "(A)".
+5
+6 Page 7-line 22 Delete "(ii)" and insert "(B)".
+7
+8 Page 8-line 9 Delete "(iii)" and insert "(C)".
+9
+10 Page 8-line 15 Delete "(iv)" and insert "(D)".
+11
+12 Page 8-line 17 Delete "(A)" and insert "(I)".
+13
+14 Page 9-line 4 Delete "(B)" and insert "(II)".
+15
+16 Page 9-line 11 Delete entirely and insert "(ii)
+17 Notwithstanding subparagraphs (i)(C) and (D)
+18 of".
+19
+20 Page 9-line 21 Delete "(vi)" and insert "(iii)".
+21
+22 Page 9-line 22 Delete "paragraphs (i)".
+23
+24 Page 9-line 23 Delete "through (iv)" and insert
+25 "subparagraphs (i)(A) through (D)".
+26
+27 Page 10-line 7 Delete "(vii)" and insert "(iv)".
+28
+29 To the extent required by this amendment, renumber as necessary.
+30 BARLOW
+1
+
+
+================================================================================
+
+Raw Text:
+SF0050S3001
+1 Page 7-line 12 After "by the NAIC." insert "The following
+2 shall apply to this subsection: (i)".
+3
+4 Page 7-line 16 Delete "(i)" and insert "(A)".
+5
+6 Page 7-line 22 Delete "(ii)" and insert "(B)".
+7
+8 Page 8-line 9 Delete "(iii)" and insert "(C)".
+9
+10 Page 8-line 15 Delete "(iv)" and insert "(D)".
+11
+12 Page 8-line 17 Delete "(A)" and insert "(I)".
+13
+14 Page 9-line 4 Delete "(B)" and insert "(II)".
+15
+16 Page 9-line 11 Delete entirely and insert "(ii)
+17 Notwithstanding subparagraphs (i)(C) and (D)
+18 of".
+19
+20 Page 9-line 21 Delete "(vi)" and insert "(iii)".
+21
+22 Page 9-line 22 Delete "paragraphs (i)".
+23
+24 Page 9-line 23 Delete "through (iv)" and insert
+25 "subparagraphs (i)(A) through (D)".
+26
+27 Page 10-line 7 Delete "(vii)" and insert "(iv)".
+28
+29 To the extent required by this amendment, renumber as necessary.
+30 BARLOW
+1

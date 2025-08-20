@@ -1,0 +1,219 @@
+Title: HOUSE BILL NO. HB0161
+Official Title: HOUSE BILL NO. HB0161
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0634
+Hydrogen severance tax.
+Sponsored by: Representative(s) Tarver, Clouston, Davis,
+Larson, JT and Lawley and Senator(s) Barlow
+and Boner
+A BILL
+for
+1 AN ACT relating to mine product taxes; providing for the
+2 taxation of certain hydrogen production; specifying tax
+3 rates for different types of hydrogen production; providing
+4 for the administration of the tax; specifying
+5 applicability; and providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 39-14-213 is created to read:
+10
+11 39-14-213. Taxation of certain hydrogen production.
+12
+13 (a) As used in this section:
+14
+1 HB0161
+2025 STATE OF WYOMING 25LSO-0634
+1 (i) "Hydrogen" means hydrogen subject to
+2 taxation pursuant to the provisions of this section;
+3
+4 (ii) "Hydrogen production" means the separation
+5 of hydrogen from water that is produced from the ground;
+6
+7 (iii) All other definitions in W.S. 39-14-201
+8 are incorporated herein by reference to the extent that
+9 they may apply.
+10
+11 (b) Administration; confidentiality: The department
+12 shall annually value and assess hydrogen production at its
+13 fair market value for taxation in accordance with the
+14 applicable provisions of W.S. 39-14-202.
+15
+16 (c) Taxable event: There is levied a severance tax
+17 on the value of the gross product resulting from hydrogen
+18 production in this state. The tax imposed by this
+19 subsection shall be in addition to all other taxes imposed
+20 by law.
+21
+22 (d) Basis of tax: Hydrogen shall be valued for
+23 taxation as natural gas as provided in W.S. 39-14-203(b).
+2 HB0161
+2025 STATE OF WYOMING 25LSO-0634
+1
+2 (e) Taxpayer: Any person engaging in hydrogen
+3 production; or, to the extent of his ownership interest,
+4 any person owning an interest in the hydrogen, is liable
+5 for the payment of the severance tax together with any
+6 penalties and interest. Nothing in this subsection shall
+7 be deemed to require the tax to be paid more than one (1)
+8 time as provided in this section.
+9
+10 (f) Tax rate: Hydrogen resulting from hydrogen
+11 production shall be subject to the following severance tax
+12 rates:
+13
+14 (i) Hydrogen produced from by-product water as
+15 defined in W.S. 41-3-903 shall be subject to a severance
+16 tax rate of three percent (3%);
+17
+18 (ii) All other hydrogen produced from water
+19 shall be subject to a severance tax rate of six percent
+20 (6%).
+21
+3 HB0161
+2025 STATE OF WYOMING 25LSO-0634
+1 (g) Exemptions: The exemptions from taxation
+2 provided by W.S. 39-14-205 for natural gas shall apply to
+3 hydrogen under this section.
+4
+5 (h) Compliance; collection procedures: The severance
+6 tax related provisions of W.S. 39-14-207 shall apply to
+7 hydrogen production.
+8
+9 (j) Enforcement: All severance tax related
+10 provisions of W.S. 39-14-208 shall apply to hydrogen
+11 production.
+12
+13 (k) Taxpayer remedies: All severance tax related
+14 provisions of W.S. 39-14-209 shall apply to hydrogen
+15 production.
+16
+17 (m) Distribution: Severance tax revenues from
+18 hydrogen production shall be distributed as provided by
+19 W.S. 39-14-211.
+20
+21 Section 2. This act shall apply to any hydrogen
+22 production on or after July 1, 2025.
+23
+4 HB0161
+2025 STATE OF WYOMING 25LSO-0634
+1 Section 3. This act is effective July 1, 2025.
+2
+3 (END)
+5 HB0161
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0634
+HOUSE BILL NO. HB0161
+Hydrogen severance tax.
+Sponsored by: Representative(s) Tarver, Clouston, Davis,
+Larson, JT and Lawley and Senator(s) Barlow
+and Boner
+A BILL
+for
+1 AN ACT relating to mine product taxes; providing for the
+2 taxation of certain hydrogen production; specifying tax
+3 rates for different types of hydrogen production; providing
+4 for the administration of the tax; specifying
+5 applicability; and providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 39-14-213 is created to read:
+10
+11 39-14-213. Taxation of certain hydrogen production.
+12
+13 (a) As used in this section:
+14
+1 HB0161
+
+2025 STATE OF WYOMING 25LSO-0634
+1 (i) "Hydrogen" means hydrogen subject to
+2 taxation pursuant to the provisions of this section;
+3
+4 (ii) "Hydrogen production" means the separation
+5 of hydrogen from water that is produced from the ground;
+6
+7 (iii) All other definitions in W.S. 39-14-201
+8 are incorporated herein by reference to the extent that
+9 they may apply.
+10
+11 (b) Administration; confidentiality: The department
+12 shall annually value and assess hydrogen production at its
+13 fair market value for taxation in accordance with the
+14 applicable provisions of W.S. 39-14-202.
+15
+16 (c) Taxable event: There is levied a severance tax
+17 on the value of the gross product resulting from hydrogen
+18 production in this state. The tax imposed by this
+19 subsection shall be in addition to all other taxes imposed
+20 by law.
+21
+22 (d) Basis of tax: Hydrogen shall be valued for
+23 taxation as natural gas as provided in W.S. 39-14-203(b).
+2 HB0161
+
+2025 STATE OF WYOMING 25LSO-0634
+1
+2 (e) Taxpayer: Any person engaging in hydrogen
+3 production; or, to the extent of his ownership interest,
+4 any person owning an interest in the hydrogen, is liable
+5 for the payment of the severance tax together with any
+6 penalties and interest. Nothing in this subsection shall
+7 be deemed to require the tax to be paid more than one (1)
+8 time as provided in this section.
+9
+10 (f) Tax rate: Hydrogen resulting from hydrogen
+11 production shall be subject to the following severance tax
+12 rates:
+13
+14 (i) Hydrogen produced from by-product water as
+15 defined in W.S. 41-3-903 shall be subject to a severance
+16 tax rate of three percent (3%);
+17
+18 (ii) All other hydrogen produced from water
+19 shall be subject to a severance tax rate of six percent
+20 (6%).
+21
+3 HB0161
+
+2025 STATE OF WYOMING 25LSO-0634
+1 (g) Exemptions: The exemptions from taxation
+2 provided by W.S. 39-14-205 for natural gas shall apply to
+3 hydrogen under this section.
+4
+5 (h) Compliance; collection procedures: The severance
+6 tax related provisions of W.S. 39-14-207 shall apply to
+7 hydrogen production.
+8
+9 (j) Enforcement: All severance tax related
+10 provisions of W.S. 39-14-208 shall apply to hydrogen
+11 production.
+12
+13 (k) Taxpayer remedies: All severance tax related
+14 provisions of W.S. 39-14-209 shall apply to hydrogen
+15 production.
+16
+17 (m) Distribution: Severance tax revenues from
+18 hydrogen production shall be distributed as provided by
+19 W.S. 39-14-211.
+20
+21 Section 2. This act shall apply to any hydrogen
+22 production on or after July 1, 2025.
+23
+4 HB0161
+
+2025 STATE OF WYOMING 25LSO-0634
+1 Section 3. This act is effective July 1, 2025.
+2
+3 (END)
+5 HB0161

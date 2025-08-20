@@ -1,0 +1,557 @@
+Title: HOUSE BILL NO. HB0325
+Official Title: HOUSE BILL NO. HB0325
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0728
+Industrial power consumption freedom act.
+Sponsored by: Representative(s) Filer, Brown, L, Johnson,
+Singh, Wasserburger and Wylie and Senator(s)
+Rothfuss
+A BILL
+for
+1 AN ACT relating to public utilities; authorizing large-
+2 scale industrial power users to procure electricity from
+3 any person or utility; specifying requirements for the
+4 procurement of electricity; providing exemptions from rate
+5 regulation and service territory requirements for electric
+6 service as specified; making conforming amendments;
+7 providing definitions; requiring rulemaking; and providing
+8 for effective dates.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 37-2-205.2 is created to read:
+13
+14 37-2-205.2. Large-scale industrial power users;
+15 procurement of electricity; requirements.
+1 HB0325
+2025 STATE OF WYOMING 25LSO-0728
+1
+2 (a) As used in this section:
+3
+4 (i) "Large-scale industrial power user" means an
+5 electric customer located in Wyoming with annual demand of
+6 not less than one (1) megawatt hour;
+7
+8 (ii) "Person" includes an electric public
+9 utility or other person performing the functions specified
+10 in W.S. 37-1-101(a)(vi)(C), an electric utility operated by
+11 a city or town, a cooperative electric utility as defined
+12 in W.S. 37-17-101(a)(i) and a power district organized
+13 under chapter 7 of this title.
+14
+15 (b) Notwithstanding the requirements of W.S.
+16 37-2-205, 37-2-205.1 and any other provision of this act
+17 establishing or regulating certificated service
+18 territories, each large-scale industrial power user may
+19 procure electric power from any person, subject to all of
+20 the following:
+21
+22 (i) Nothing in this section shall be construed
+23 to require the person providing electricity to a
+2 HB0325
+2025 STATE OF WYOMING 25LSO-0728
+1 large-scale industrial power user under this section to
+2 compensate the public utility that has a certificate of
+3 convenience and necessity for the location of the
+4 large-scale industrial power user;
+5
+6 (ii) Electricity purchased by a large-scale
+7 industrial power user under this section shall:
+8
+9 (A) Be received and consumed by the
+10 large-scale industrial power user on the site where the
+11 electricity is received by the large-scale industrial power
+12 user;
+13
+14 (B) Be consumed only for commercial or
+15 industrial use;
+16
+17 (C) Not be sold or otherwise transferred to
+18 another customer or electricity user.
+19
+20 (iii) Before providing electricity to a
+21 large-scale industrial power user under this section, the
+22 person shall file a notice with the commission informing
+23 the commission of the agreement to provide electric service
+3 HB0325
+2025 STATE OF WYOMING 25LSO-0728
+1 to a large-scale industrial power user and the estimated
+2 amount of electricity to be provided on an annual basis.
+3 The notice required under this paragraph shall be served on
+4 the public utility holding the certificate of convenience
+5 and necessity for the location of the large-scale
+6 industrial power user. The commission shall not charge a
+7 fee or require a hearing, and no decision of the commission
+8 shall be required, before the person providing notice may
+9 proceed with providing electric service to the large-scale
+10 industrial user under this section;
+11
+12 (iv) The person providing electricity to the
+13 large-scale industrial power user may:
+14
+15 (A) Enter into an agreement with a public
+16 utility or other entity to utilize the transmission and
+17 storage infrastructure of the public utility or other
+18 entity. Nothing in this subparagraph shall be construed to
+19 require a public utility or other entity to enter into an
+20 agreement with a person for the use of existing
+21 transmission or storage infrastructure;
+22
+4 HB0325
+2025 STATE OF WYOMING 25LSO-0728
+1 (B) Develop and construct its own
+2 transmission or storage infrastructure. The construction of
+3 transmission or storage infrastructure under this
+4 subparagraph shall be subject to this act, except that a
+5 certificate of convenience and necessity under W.S.
+6 37-2-205 and 37-2-205.1 shall not be required for
+7 infrastructure constructed under this subparagraph.
+8
+9 (v) Rates charged by a person providing electric
+10 service to a large-scale industrial power user under this
+11 section and rates charged by a person that develops and
+12 constructs its own transmission or storage infrastructure
+13 under subparagraph (iv)(B) of this subsection shall not be
+14 subject to regulation of rates under this act;
+15
+16 (vi) Rates charged by an electric utility to a
+17 person providing electric service to a large-scale
+18 industrial power user under this section for the use of
+19 transmission lines regulated by the commission shall be
+20 regulated by the commission, provided that the commission
+21 shall establish rates that ensure that other retail
+22 customers not receiving the benefits of electric service
+23 under this section are not disproportionately paying joint
+5 HB0325
+2025 STATE OF WYOMING 25LSO-0728
+1 and common costs of electricity transmission to a
+2 large-scale industrial power user;
+3
+4 (vii) Electric service provided by a person to a
+5 large-scale industrial power user under this section shall
+6 not reduce or otherwise adversely affect the service
+7 provided to other customers located in the same
+8 certificated service territory as the large-scale
+9 industrial power user.
+10
+11 (c) Nothing in this section shall be construed to
+12 relieve a person providing electric service to a
+13 large-scale industrial power user under this section from
+14 complying with applicable federal laws governing the
+15 generation and transmission of electricity.
+16
+17 Section 2. W.S. 37-2-205(a), (b) and by creating a
+18 new subsection (k), 37-2-205.1 by creating a new subsection
+19 (f), 37-7-101 by creating a new subsection (c) and
+20 37-17-102(b) and by creating new subsections (c) and (d)
+21 are amended to read:
+22
+6 HB0325
+2025 STATE OF WYOMING 25LSO-0728
+1 37-2-205. Certificate of convenience and necessity;
+2 hearings.
+3
+4 (a) Except as provided in this subsection and W.S.
+5 37-2-205.2, no public utility shall begin construction or
+6 complete the purchase of a line or plant, or of any
+7 extension of a line or material addition to a plant,
+8 without having first obtained from the commission a
+9 certificate that the present or future public convenience
+10 and necessity require or will require such construction or
+11 purchase. This act shall not be construed to require any
+12 public utility operating outside of a city or town to
+13 secure a certificate for an extension into an area within
+14 which it has lawfully commenced operation, or for an
+15 extension into territory contiguous to its line or plant
+16 for which no certificate is in force and is not served by a
+17 public utility of like character or for any extension
+18 within or to territory already served by it, necessary in
+19 the ordinary course of its business. If any public
+20 utility, in constructing or extending its line or plant
+21 interferes or is about to interfere with the operation of
+22 the line or plant of any other public utility already
+23 authorized or constructed, the commission on complaint of
+7 HB0325
+2025 STATE OF WYOMING 25LSO-0728
+1 the public utility claiming to be injuriously affected, may
+2 after hearing make such order and prescribe the terms and
+3 conditions for the location of the lines or plants
+4 affected, as to it are just and reasonable. The power
+5 companies may, without the certificate, increase capacity
+6 of existing plants. For purposes of this subsection,
+7 "material addition" shall not include an addition to a
+8 plant that is necessary to serve load growth, provided that
+9 the capital investment in the addition shall not exceed one
+10 percent (1%) of the total capital investment in the plant
+11 on which return is earned, that is assigned or allocated to
+12 Wyoming customers, based on the public utility's most
+13 recent rate case determination.
+14
+15 (b) Except as provided by W.S. 37-2-205.2, no public
+16 utility shall henceforth exercise any right or privilege or
+17 obtain a franchise or permit to exercise such right or
+18 privilege from a municipality or county, without having
+19 first obtained from the commission a certificate that
+20 public convenience and necessity require the exercise of
+21 such right and privilege; provided, that when the
+22 commission shall find, after hearing, that a public utility
+23 has heretofore begun actual construction work and is
+8 HB0325
+2025 STATE OF WYOMING 25LSO-0728
+1 prosecuting such work in good faith, uninterruptedly and
+2 with reasonable diligence in proportion to the magnitude of
+3 the undertaking, under any franchise or permit heretofore
+4 granted but not heretofore actually exercised, such public
+5 utility may proceed to the completion of such work, and
+6 may, after such completion exercise such right or
+7 privilege; and provided, further, that this section shall
+8 not be construed to validate any right or privilege now
+9 invalid or hereafter becoming invalid under any law of this
+10 state, nor impair any vested right in any franchise or
+11 permit heretofore granted.
+12
+13 (k) This section shall not apply to persons defined
+14 in W.S. 37-2-205.2(a)(ii) that provide electric service to
+15 large-scale industrial power users under W.S. 37-2-205.2.
+16
+17 37-2-205.1. Nonsitus certificate of public
+18 convenience and necessity.
+19
+20 (f) This section shall not apply to persons defined
+21 in W.S. 37-2-205.2(a)(ii) that provide electric service to
+22 large-scale industrial power users under W.S. 37-2-205.2.
+23
+9 HB0325
+2025 STATE OF WYOMING 25LSO-0728
+1 37-7-101. Formation; petition for organization.
+2
+3 (c) A certificate of necessity specified in
+4 subsection (a) of this section shall not be required for a
+5 power district that provides electric service to
+6 large-scale industrial power users in accordance with W.S.
+7 37-2-205.2.
+8
+9 37-17-102. Retail rate regulation; exemption.
+10
+11 (b) Nothing in this article shall be construed to
+12 alter the certificated service territory of a cooperative
+13 electric utility, except as provided in subsections (c) and
+14 (d) of this section.
+15
+16 (c) Electric service may be provided by a person
+17 defined under W.S. 37-2-205.2(a)(ii) to a large-scale
+18 industrial power user in accordance with W.S. 37-2-205.2
+19 regardless of the certificated service territory of the
+20 cooperative electric utility where the large-scale
+21 industrial power user is located.
+22
+10 HB0325
+2025 STATE OF WYOMING 25LSO-0728
+1 (d) A certificate of necessity shall not be required
+2 for a cooperative electric utility that provides electric
+3 service to large-scale industrial power users in accordance
+4 with W.S. 37-2-205.2.
+5
+6 Section 3. The public service commission shall
+7 promulgate all rules necessary to implement this act.
+8
+9 Section 4.
+10
+11 (a) Except as provided in subsection (b) of this
+12 section, this act is effective July 1, 2025.
+13
+14 (b) Sections 3 and 4 of this act are effective
+15 immediately upon completion of all acts necessary for a
+16 bill to become law as provided by Article 4, Section 8 of
+17 the Wyoming Constitution.
+18
+19 (END)
+11 HB0325
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0728
+HOUSE BILL NO. HB0325
+Industrial power consumption freedom act.
+Sponsored by: Representative(s) Filer, Brown, L, Johnson,
+Singh, Wasserburger and Wylie and Senator(s)
+Rothfuss
+A BILL
+for
+1 AN ACT relating to public utilities; authorizing large-
+2 scale industrial power users to procure electricity from
+3 any person or utility; specifying requirements for the
+4 procurement of electricity; providing exemptions from rate
+5 regulation and service territory requirements for electric
+6 service as specified; making conforming amendments;
+7 providing definitions; requiring rulemaking; and providing
+8 for effective dates.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 37-2-205.2 is created to read:
+13
+14 37-2-205.2. Large-scale industrial power users;
+15 procurement of electricity; requirements.
+1 HB0325
+
+2025 STATE OF WYOMING 25LSO-0728
+1
+2 (a) As used in this section:
+3
+4 (i) "Large-scale industrial power user" means an
+5 electric customer located in Wyoming with annual demand of
+6 not less than one (1) megawatt hour;
+7
+8 (ii) "Person" includes an electric public
+9 utility or other person performing the functions specified
+10 in W.S. 37-1-101(a)(vi)(C), an electric utility operated by
+11 a city or town, a cooperative electric utility as defined
+12 in W.S. 37-17-101(a)(i) and a power district organized
+13 under chapter 7 of this title.
+14
+15 (b) Notwithstanding the requirements of W.S.
+16 37-2-205, 37-2-205.1 and any other provision of this act
+17 establishing or regulating certificated service
+18 territories, each large-scale industrial power user may
+19 procure electric power from any person, subject to all of
+20 the following:
+21
+22 (i) Nothing in this section shall be construed
+23 to require the person providing electricity to a
+2 HB0325
+
+2025 STATE OF WYOMING 25LSO-0728
+1 large-scale industrial power user under this section to
+2 compensate the public utility that has a certificate of
+3 convenience and necessity for the location of the
+4 large-scale industrial power user;
+5
+6 (ii) Electricity purchased by a large-scale
+7 industrial power user under this section shall:
+8
+9 (A) Be received and consumed by the
+10 large-scale industrial power user on the site where the
+11 electricity is received by the large-scale industrial power
+12 user;
+13
+14 (B) Be consumed only for commercial or
+15 industrial use;
+16
+17 (C) Not be sold or otherwise transferred to
+18 another customer or electricity user.
+19
+20 (iii) Before providing electricity to a
+21 large-scale industrial power user under this section, the
+22 person shall file a notice with the commission informing
+23 the commission of the agreement to provide electric service
+3 HB0325
+
+2025 STATE OF WYOMING 25LSO-0728
+1 to a large-scale industrial power user and the estimated
+2 amount of electricity to be provided on an annual basis.
+3 The notice required under this paragraph shall be served on
+4 the public utility holding the certificate of convenience
+5 and necessity for the location of the large-scale
+6 industrial power user. The commission shall not charge a
+7 fee or require a hearing, and no decision of the commission
+8 shall be required, before the person providing notice may
+9 proceed with providing electric service to the large-scale
+10 industrial user under this section;
+11
+12 (iv) The person providing electricity to the
+13 large-scale industrial power user may:
+14
+15 (A) Enter into an agreement with a public
+16 utility or other entity to utilize the transmission and
+17 storage infrastructure of the public utility or other
+18 entity. Nothing in this subparagraph shall be construed to
+19 require a public utility or other entity to enter into an
+20 agreement with a person for the use of existing
+21 transmission or storage infrastructure;
+22
+4 HB0325
+
+2025 STATE OF WYOMING 25LSO-0728
+1 (B) Develop and construct its own
+2 transmission or storage infrastructure. The construction of
+3 transmission or storage infrastructure under this
+4 subparagraph shall be subject to this act, except that a
+5 certificate of convenience and necessity under W.S.
+6 37-2-205 and 37-2-205.1 shall not be required for
+7 infrastructure constructed under this subparagraph.
+8
+9 (v) Rates charged by a person providing electric
+10 service to a large-scale industrial power user under this
+11 section and rates charged by a person that develops and
+12 constructs its own transmission or storage infrastructure
+13 under subparagraph (iv)(B) of this subsection shall not be
+14 subject to regulation of rates under this act;
+15
+16 (vi) Rates charged by an electric utility to a
+17 person providing electric service to a large-scale
+18 industrial power user under this section for the use of
+19 transmission lines regulated by the commission shall be
+20 regulated by the commission, provided that the commission
+21 shall establish rates that ensure that other retail
+22 customers not receiving the benefits of electric service
+23 under this section are not disproportionately paying joint
+5 HB0325
+
+2025 STATE OF WYOMING 25LSO-0728
+1 and common costs of electricity transmission to a
+2 large-scale industrial power user;
+3
+4 (vii) Electric service provided by a person to a
+5 large-scale industrial power user under this section shall
+6 not reduce or otherwise adversely affect the service
+7 provided to other customers located in the same
+8 certificated service territory as the large-scale
+9 industrial power user.
+10
+11 (c) Nothing in this section shall be construed to
+12 relieve a person providing electric service to a
+13 large-scale industrial power user under this section from
+14 complying with applicable federal laws governing the
+15 generation and transmission of electricity.
+16
+17 Section 2. W.S. 37-2-205(a), (b) and by creating a
+18 new subsection (k), 37-2-205.1 by creating a new subsection
+19 (f), 37-7-101 by creating a new subsection (c) and
+20 37-17-102(b) and by creating new subsections (c) and (d)
+21 are amended to read:
+22
+6 HB0325
+
+2025 STATE OF WYOMING 25LSO-0728
+1 37-2-205. Certificate of convenience and necessity;
+2 hearings.
+3
+4 (a) Except as provided in this subsection and W.S.
+5 37-2-205.2, no public utility shall begin construction or
+6 complete the purchase of a line or plant, or of any
+7 extension of a line or material addition to a plant,
+8 without having first obtained from the commission a
+9 certificate that the present or future public convenience
+10 and necessity require or will require such construction or
+11 purchase. This act shall not be construed to require any
+12 public utility operating outside of a city or town to
+13 secure a certificate for an extension into an area within
+14 which it has lawfully commenced operation, or for an
+15 extension into territory contiguous to its line or plant
+16 for which no certificate is in force and is not served by a
+17 public utility of like character or for any extension
+18 within or to territory already served by it, necessary in
+19 the ordinary course of its business. If any public
+20 utility, in constructing or extending its line or plant
+21 interferes or is about to interfere with the operation of
+22 the line or plant of any other public utility already
+23 authorized or constructed, the commission on complaint of
+7 HB0325
+
+2025 STATE OF WYOMING 25LSO-0728
+1 the public utility claiming to be injuriously affected, may
+2 after hearing make such order and prescribe the terms and
+3 conditions for the location of the lines or plants
+4 affected, as to it are just and reasonable. The power
+5 companies may, without the certificate, increase capacity
+6 of existing plants. For purposes of this subsection,
+7 "material addition" shall not include an addition to a
+8 plant that is necessary to serve load growth, provided that
+9 the capital investment in the addition shall not exceed one
+10 percent (1%) of the total capital investment in the plant
+11 on which return is earned, that is assigned or allocated to
+12 Wyoming customers, based on the public utility's most
+13 recent rate case determination.
+14
+15 (b) Except as provided by W.S. 37-2-205.2, no public
+16 utility shall henceforth exercise any right or privilege or
+17 obtain a franchise or permit to exercise such right or
+18 privilege from a municipality or county, without having
+19 first obtained from the commission a certificate that
+20 public convenience and necessity require the exercise of
+21 such right and privilege; provided, that when the
+22 commission shall find, after hearing, that a public utility
+23 has heretofore begun actual construction work and is
+8 HB0325
+
+2025 STATE OF WYOMING 25LSO-0728
+1 prosecuting such work in good faith, uninterruptedly and
+2 with reasonable diligence in proportion to the magnitude of
+3 the undertaking, under any franchise or permit heretofore
+4 granted but not heretofore actually exercised, such public
+5 utility may proceed to the completion of such work, and
+6 may, after such completion exercise such right or
+7 privilege; and provided, further, that this section shall
+8 not be construed to validate any right or privilege now
+9 invalid or hereafter becoming invalid under any law of this
+10 state, nor impair any vested right in any franchise or
+11 permit heretofore granted.
+12
+13 (k) This section shall not apply to persons defined
+14 in W.S. 37-2-205.2(a)(ii) that provide electric service to
+15 large-scale industrial power users under W.S. 37-2-205.2.
+16
+17 37-2-205.1. Nonsitus certificate of public
+18 convenience and necessity.
+19
+20 (f) This section shall not apply to persons defined
+21 in W.S. 37-2-205.2(a)(ii) that provide electric service to
+22 large-scale industrial power users under W.S. 37-2-205.2.
+23
+9 HB0325
+
+2025 STATE OF WYOMING 25LSO-0728
+1 37-7-101. Formation; petition for organization.
+2
+3 (c) A certificate of necessity specified in
+4 subsection (a) of this section shall not be required for a
+5 power district that provides electric service to
+6 large-scale industrial power users in accordance with W.S.
+7 37-2-205.2.
+8
+9 37-17-102. Retail rate regulation; exemption.
+10
+11 (b) Nothing in this article shall be construed to
+12 alter the certificated service territory of a cooperative
+13 electric utility, except as provided in subsections (c) and
+14 (d) of this section.
+15
+16 (c) Electric service may be provided by a person
+17 defined under W.S. 37-2-205.2(a)(ii) to a large-scale
+18 industrial power user in accordance with W.S. 37-2-205.2
+19 regardless of the certificated service territory of the
+20 cooperative electric utility where the large-scale
+21 industrial power user is located.
+22
+10 HB0325
+
+2025 STATE OF WYOMING 25LSO-0728
+1 (d) A certificate of necessity shall not be required
+2 for a cooperative electric utility that provides electric
+3 service to large-scale industrial power users in accordance
+4 with W.S. 37-2-205.2.
+5
+6 Section 3. The public service commission shall
+7 promulgate all rules necessary to implement this act.
+8
+9 Section 4.
+10
+11 (a) Except as provided in subsection (b) of this
+12 section, this act is effective July 1, 2025.
+13
+14 (b) Sections 3 and 4 of this act are effective
+15 immediately upon completion of all acts necessary for a
+16 bill to become law as provided by Article 4, Section 8 of
+17 the Wyoming Constitution.
+18
+19 (END)
+11 HB0325

@@ -1,0 +1,179 @@
+Title: Sponsored By: Joint Corporations, Elections & Political
+Official Title: Sponsored By: Joint Corporations, Elections & Political
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Insurance holding company regulations-
+SF0050
+amendments.
+Subdivisions Interim Committee
+AN ACT relating to the insurance holding company system regulatory act;
+specifying requirements regarding group capital calculations, group capital
+ratios, liquidity stress tests, liquidity stress test results, and related
+information; amending confidentiality provisions; providing definitions;
+requiring rulemaking; and providing for effective dates.
+12/20/2024 Bill Number Assigned
+1/2/2025 S Received for Introduction
+1/14/2025 S Introduced and Referred to S07 - Corporations
+1/15/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/15/2025 S Placed on General File
+1/16/2025 S COW:Passed
+SF0050S2001/ADOPTED
+Page 2-line 14 Delete ":".
+Page 2-line 16 Delete "(i)".
+Page 2-line 19 Delete ";".
+Page 2-line 21 Delete "(ii)".
+Page 3-line 2 Delete ";".
+Page 3-line 4 Delete "(iii)". CRAGO
+1/17/2025 S 2nd Reading:Passed
+SF0050S3001/ADOPTED
+Page 7-line 12 After "by the NAIC." insert "The following shall apply
+to this subsection: (i)".
+Page 7-line 16 Delete "(i)" and insert "(A)".
+Page 7-line 22 Delete "(ii)" and insert "(B)".
+Page 8-line 9 Delete "(iii)" and insert "(C)".
+Page 8-line 15 Delete "(iv)" and insert "(D)".
+Page 8-line 17 Delete "(A)" and insert "(I)".
+Page 9-line 4 Delete "(B)" and insert "(II)".
+Page 9-line 11 Delete entirely and insert "(ii) Notwithstanding
+subparagraphs (i)(C) and (D) of".
+Page 9-line 21 Delete "(vi)" and insert "(iii)".
+Page 9-line 22 Delete "paragraphs (i)".
+Page 9-line 23 Delete "through (iv)" and insert "subparagraphs (i)(A)
+through (D)".
+Page 10-line 7 Delete "(vii)" and insert "(iv)".
+To the extent required by this amendment, renumber as necessary. BARLOW
+1/20/2025 S 3rd Reading:Passed 20-7-4-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Boner, Brennan, Case, Cooper, Crago, Crum,
+Dockstader, Driskill, Gierau, Hicks, Hutchings, Landen, Nethercott, Olsen,
+Pappas, Rothfuss, Schuler, Scott
+Nays: Senator(s) French, Ide, Laursen, Mckeown, Pearson, Salazar, Smith
+Excused: Senator(s) Biteman, Jones, Kolb, Steinmetz
+Ayes 20 Nays 7 Excused 4 Absent 0 Conflicts 0
+1/20/2025 H Received for Introduction
+2/18/2025 H Introduced and Referred to H07 - Corporations
+2/24/2025 H07 - Corporations:Recommend Do Pass 8-0-0-0-1
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Locke, Lucas, Webb, Webber, Yin
+Conflicts: Representative Knapp
+Ayes 8 Nays 0 Excused 0 Absent 0 Conflicts 1
+2/24/2025 H Placed on General File
+2/27/2025 H COW:Passed
+2/28/2025 H 2nd Reading:Passed
+3/3/2025 H 3rd Reading:Passed 49-10-2-0-1
+ROLL CALL
+Ayes: Representative(s) Andrew, Angelos, Banks, Bear, Brown, G, Byron,
+Campbell, E, Campbell, K, Chestek, Clouston, Connolly, Davis, Eklund, Erickson,
+Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Hoeft, Jarvis,
+Johnson, Kelly, Larsen, Larson, Lawley, Mccann, Neiman, Nicholas, Ottman,
+Pendergraft, Posey, Provenza, Rodriguez-Williams, Schmid, Sherwood, Singh,
+Storer, Tarver, Thayer, Washut, Webb, Webber, Wharff, Williams, Winter, Wylie,
+Yin
+Nays: Representative(s) Allemand, Brady, Bratten, Lien, Locke, Lucas, Smith,
+Strock, Styvar, Wasserburger
+Excused: Representative(s) Brown, L, Riggins
+Conflicts: Representative Knapp
+Ayes 49 Nays 10 Excused 2 Absent 0 Conflicts 1
+3/3/2025 Assigned Number SEA No. 0064
+3/3/2025 S President Signed SEA No. 0064
+3/3/2025 H Speaker Signed SEA No. 0064
+3/5/2025 Governor Signed SEA No. 0064
+3/5/2025 Assigned Chapter Number 113
+Chapter No. 113 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+Insurance holding company regulations-
+SF0050
+amendments.
+Sponsored By: Joint Corporations, Elections & Political
+Subdivisions Interim Committee
+AN ACT relating to the insurance holding company system regulatory act;
+specifying requirements regarding group capital calculations, group capital
+ratios, liquidity stress tests, liquidity stress test results, and related
+information; amending confidentiality provisions; providing definitions;
+requiring rulemaking; and providing for effective dates.
+12/20/2024 Bill Number Assigned
+1/2/2025 S Received for Introduction
+1/14/2025 S Introduced and Referred to S07 - Corporations
+1/15/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/15/2025 S Placed on General File
+1/16/2025 S COW:Passed
+SF0050S2001/ADOPTED
+Page 2-line 14 Delete ":".
+Page 2-line 16 Delete "(i)".
+Page 2-line 19 Delete ";".
+Page 2-line 21 Delete "(ii)".
+Page 3-line 2 Delete ";".
+Page 3-line 4 Delete "(iii)". CRAGO
+1/17/2025 S 2nd Reading:Passed
+SF0050S3001/ADOPTED
+Page 7-line 12 After "by the NAIC." insert "The following shall apply
+to this subsection: (i)".
+Page 7-line 16 Delete "(i)" and insert "(A)".
+Page 7-line 22 Delete "(ii)" and insert "(B)".
+Page 8-line 9 Delete "(iii)" and insert "(C)".
+Page 8-line 15 Delete "(iv)" and insert "(D)".
+Page 8-line 17 Delete "(A)" and insert "(I)".
+Page 9-line 4 Delete "(B)" and insert "(II)".
+
+Page 9-line 11 Delete entirely and insert "(ii) Notwithstanding
+subparagraphs (i)(C) and (D) of".
+Page 9-line 21 Delete "(vi)" and insert "(iii)".
+Page 9-line 22 Delete "paragraphs (i)".
+Page 9-line 23 Delete "through (iv)" and insert "subparagraphs (i)(A)
+through (D)".
+Page 10-line 7 Delete "(vii)" and insert "(iv)".
+To the extent required by this amendment, renumber as necessary. BARLOW
+1/20/2025 S 3rd Reading:Passed 20-7-4-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Boner, Brennan, Case, Cooper, Crago, Crum,
+Dockstader, Driskill, Gierau, Hicks, Hutchings, Landen, Nethercott, Olsen,
+Pappas, Rothfuss, Schuler, Scott
+Nays: Senator(s) French, Ide, Laursen, Mckeown, Pearson, Salazar, Smith
+Excused: Senator(s) Biteman, Jones, Kolb, Steinmetz
+Ayes 20 Nays 7 Excused 4 Absent 0 Conflicts 0
+1/20/2025 H Received for Introduction
+2/18/2025 H Introduced and Referred to H07 - Corporations
+2/24/2025 H07 - Corporations:Recommend Do Pass 8-0-0-0-1
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Locke, Lucas, Webb, Webber, Yin
+Conflicts: Representative Knapp
+Ayes 8 Nays 0 Excused 0 Absent 0 Conflicts 1
+2/24/2025 H Placed on General File
+2/27/2025 H COW:Passed
+2/28/2025 H 2nd Reading:Passed
+3/3/2025 H 3rd Reading:Passed 49-10-2-0-1
+ROLL CALL
+Ayes: Representative(s) Andrew, Angelos, Banks, Bear, Brown, G, Byron,
+Campbell, E, Campbell, K, Chestek, Clouston, Connolly, Davis, Eklund, Erickson,
+Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Hoeft, Jarvis,
+Johnson, Kelly, Larsen, Larson, Lawley, Mccann, Neiman, Nicholas, Ottman,
+Pendergraft, Posey, Provenza, Rodriguez-Williams, Schmid, Sherwood, Singh,
+Storer, Tarver, Thayer, Washut, Webb, Webber, Wharff, Williams, Winter, Wylie,
+Yin
+Nays: Representative(s) Allemand, Brady, Bratten, Lien, Locke, Lucas, Smith,
+Strock, Styvar, Wasserburger
+Excused: Representative(s) Brown, L, Riggins
+Conflicts: Representative Knapp
+Ayes 49 Nays 10 Excused 2 Absent 0 Conflicts 1
+3/3/2025 Assigned Number SEA No. 0064
+3/3/2025 S President Signed SEA No. 0064
+3/3/2025 H Speaker Signed SEA No. 0064
+3/5/2025 Governor Signed SEA No. 0064
+3/5/2025 Assigned Chapter Number 113
+
+Chapter No. 113 Session Laws of Wyoming 2025

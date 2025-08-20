@@ -1,0 +1,288 @@
+Title: Sponsored by: Senator(s) Nethercott, Anderson, Boner,
+Official Title: Sponsored by: Senator(s) Nethercott, Anderson, Boner,
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0413
+SENATE FILE NO. SF0116
+Anti-money laundering.
+Crago, Crum, Dockstader and Olsen and
+Representative(s) Davis, Heiner and Washut
+A BILL
+for
+1 AN ACT relating to crimes and offenses; creating the
+2 offenses of money laundering and illegal investments;
+3 providing definitions; providing penalties; and providing
+4 for an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 6-3-1101 and 6-3-1102 are created to
+9 read:
+10
+11 ARTICLE 11
+12 MONEY LAUNDERING AND ILLEGAL INVESTMENT
+13
+14 6-3-1101. Money laundering; penalties.
+15
+1 SF0116
+2025 STATE OF WYOMING 25LSO-0413
+1 (a) As used in this section:
+2
+3 (i) "Derived from" means obtained directly or
+4 indirectly from, maintained by or realized through;
+5
+6 (ii) "Property" means anything of value,
+7 including real estate, tangible and intangible personal
+8 property, trade secrets, contract rights, choses in action
+9 and other interests in or claims to wealth, admission or
+10 transportation tickets, captured or domestic animals, food
+11 and drink, electric, gas, steam or other power, financial
+12 instruments, information, data and computer software, in
+13 either human readable or computer readable form, copies or
+14 originals, and includes any benefit or interest without
+15 reduction for expenses incurred for acquisition,
+16 maintenance or any other purpose.
+17
+18 (b) A person is guilty of a money laundering if the
+19 person:
+20
+21 (i) Transports or possesses property the person
+22 knows or reasonably should know to be derived from criminal
+23 activity;
+2 SF0116
+2025 STATE OF WYOMING 25LSO-0413
+1
+2 (ii) Directs, organizes, finances, plans,
+3 manages, supervises or controls the transportation of or
+4 transactions in property he knows or reasonably should know
+5 to be derived from criminal activity; or
+6
+7 (iii) Engages in a transaction involving
+8 property the person knows or reasonably should know to be
+9 derived from criminal activity:
+10
+11 (A) With the intent to facilitate or
+12 promote the criminal activity; or
+13
+14 (B) Knowing that the transaction is
+15 designed, in whole or in part:
+16
+17 (I) To conceal or disguise the nature,
+18 location, source, ownership or control of the property
+19 derived from criminal activity; or
+20
+21 (II) To avoid a transaction reporting
+22 requirement under the laws of this state, any other state
+23 or of the United States. The transaction or transactions
+3 SF0116
+2025 STATE OF WYOMING 25LSO-0413
+1 need not exceed the transaction reporting threshold at any
+2 single financial institution on any single day in order to
+3 constitute a violation of this subdivision.
+4
+5 (c) For purposes of this article, property is known
+6 to be derived from criminal activity if the person knows or
+7 reasonably should know that the property represents
+8 proceeds from some form of criminal activity.
+9
+10 (d) Money laundering is a felony punishable by
+11 imprisonment for not more than ten (10) years, a fine of
+12 not more than ten thousand dollars ($10,000.00), or both.
+13
+14 6-3-1102. Illegal investment; penalties.
+15
+16 (a) A person is guilty of illegal investment if, with
+17 the intent to evade a transaction reporting requirement of
+18 this state or of 31 U.S.C. § 5311 et seq. or 31 C.F.R. §
+19 103 et seq., or any rules or regulations adopted under
+20 those chapters and sections, the person:
+21
+22 (i) Causes a financial institution, including a
+23 foreign or domestic money transmitter or an authorized
+4 SF0116
+2025 STATE OF WYOMING 25LSO-0413
+1 agent thereof, casino, check casher, person engaged in a
+2 trade or business or any other person required to report
+3 regarding currency transactions or suspicious transactions
+4 to fail to report or to file a report that contains a
+5 material omission or misstatement of fact; or
+6
+7 (ii) Structures or assists in structuring any
+8 transaction with one (1) or more financial institutions,
+9 including foreign or domestic money transmitters or an
+10 authorized agent thereof, casinos, check cashers, persons
+11 engaged in a trade or business or any other person required
+12 to report regarding currency transactions or suspicious
+13 transactions. For purposes of this paragraph, "structure"
+14 or "structuring" means that a person, acting alone, or in
+15 conjunction with or on behalf of, other persons, conducts
+16 one (1) or more transactions in currency, in any amount, at
+17 one (1) or more financial institutions, on one (1) or more
+18 days, in any manner, for the purpose of evading currency
+19 transaction reporting requirements provided by state or
+20 federal law. The transaction or transactions need not
+21 exceed the reporting threshold at any single financial
+22 institution on any single day in order to meet the
+5 SF0116
+2025 STATE OF WYOMING 25LSO-0413
+1 definition of "structure" or "structuring" provided in this
+2 paragraph.
+3
+4 (b) Illegal investment is a felony punishable by
+5 imprisonment for not more than ten (10) years, a fine of
+6 not more than ten thousand dollars ($10,000.00), or both.
+7
+8 Section 2. This act is effective July 1, 2025.
+9
+10 (END)
+6 SF0116
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0413
+SENATE FILE NO. SF0116
+Anti-money laundering.
+Sponsored by: Senator(s) Nethercott, Anderson, Boner,
+Crago, Crum, Dockstader and Olsen and
+Representative(s) Davis, Heiner and Washut
+A BILL
+for
+1 AN ACT relating to crimes and offenses; creating the
+2 offenses of money laundering and illegal investments;
+3 providing definitions; providing penalties; and providing
+4 for an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 6-3-1101 and 6-3-1102 are created to
+9 read:
+10
+11 ARTICLE 11
+12 MONEY LAUNDERING AND ILLEGAL INVESTMENT
+13
+14 6-3-1101. Money laundering; penalties.
+15
+1 SF0116
+
+2025 STATE OF WYOMING 25LSO-0413
+1 (a) As used in this section:
+2
+3 (i) "Derived from" means obtained directly or
+4 indirectly from, maintained by or realized through;
+5
+6 (ii) "Property" means anything of value,
+7 including real estate, tangible and intangible personal
+8 property, trade secrets, contract rights, choses in action
+9 and other interests in or claims to wealth, admission or
+10 transportation tickets, captured or domestic animals, food
+11 and drink, electric, gas, steam or other power, financial
+12 instruments, information, data and computer software, in
+13 either human readable or computer readable form, copies or
+14 originals, and includes any benefit or interest without
+15 reduction for expenses incurred for acquisition,
+16 maintenance or any other purpose.
+17
+18 (b) A person is guilty of a money laundering if the
+19 person:
+20
+21 (i) Transports or possesses property the person
+22 knows or reasonably should know to be derived from criminal
+23 activity;
+2 SF0116
+
+2025 STATE OF WYOMING 25LSO-0413
+1
+2 (ii) Directs, organizes, finances, plans,
+3 manages, supervises or controls the transportation of or
+4 transactions in property he knows or reasonably should know
+5 to be derived from criminal activity; or
+6
+7 (iii) Engages in a transaction involving
+8 property the person knows or reasonably should know to be
+9 derived from criminal activity:
+10
+11 (A) With the intent to facilitate or
+12 promote the criminal activity; or
+13
+14 (B) Knowing that the transaction is
+15 designed, in whole or in part:
+16
+17 (I) To conceal or disguise the nature,
+18 location, source, ownership or control of the property
+19 derived from criminal activity; or
+20
+21 (II) To avoid a transaction reporting
+22 requirement under the laws of this state, any other state
+23 or of the United States. The transaction or transactions
+3 SF0116
+
+2025 STATE OF WYOMING 25LSO-0413
+1 need not exceed the transaction reporting threshold at any
+2 single financial institution on any single day in order to
+3 constitute a violation of this subdivision.
+4
+5 (c) For purposes of this article, property is known
+6 to be derived from criminal activity if the person knows or
+7 reasonably should know that the property represents
+8 proceeds from some form of criminal activity.
+9
+10 (d) Money laundering is a felony punishable by
+11 imprisonment for not more than ten (10) years, a fine of
+12 not more than ten thousand dollars ($10,000.00), or both.
+13
+14 6-3-1102. Illegal investment; penalties.
+15
+16 (a) A person is guilty of illegal investment if, with
+17 the intent to evade a transaction reporting requirement of
+18 this state or of 31 U.S.C. § 5311 et seq. or 31 C.F.R. §
+19 103 et seq., or any rules or regulations adopted under
+20 those chapters and sections, the person:
+21
+22 (i) Causes a financial institution, including a
+23 foreign or domestic money transmitter or an authorized
+4 SF0116
+
+2025 STATE OF WYOMING 25LSO-0413
+1 agent thereof, casino, check casher, person engaged in a
+2 trade or business or any other person required to report
+3 regarding currency transactions or suspicious transactions
+4 to fail to report or to file a report that contains a
+5 material omission or misstatement of fact; or
+6
+7 (ii) Structures or assists in structuring any
+8 transaction with one (1) or more financial institutions,
+9 including foreign or domestic money transmitters or an
+10 authorized agent thereof, casinos, check cashers, persons
+11 engaged in a trade or business or any other person required
+12 to report regarding currency transactions or suspicious
+13 transactions. For purposes of this paragraph, "structure"
+14 or "structuring" means that a person, acting alone, or in
+15 conjunction with or on behalf of, other persons, conducts
+16 one (1) or more transactions in currency, in any amount, at
+17 one (1) or more financial institutions, on one (1) or more
+18 days, in any manner, for the purpose of evading currency
+19 transaction reporting requirements provided by state or
+20 federal law. The transaction or transactions need not
+21 exceed the reporting threshold at any single financial
+22 institution on any single day in order to meet the
+5 SF0116
+
+2025 STATE OF WYOMING 25LSO-0413
+1 definition of "structure" or "structuring" provided in this
+2 paragraph.
+3
+4 (b) Illegal investment is a felony punishable by
+5 imprisonment for not more than ten (10) years, a fine of
+6 not more than ten thousand dollars ($10,000.00), or both.
+7
+8 Section 2. This act is effective July 1, 2025.
+9
+10 (END)
+6 SF0116

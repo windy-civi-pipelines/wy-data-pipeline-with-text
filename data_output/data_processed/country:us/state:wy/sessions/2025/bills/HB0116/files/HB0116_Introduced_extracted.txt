@@ -1,0 +1,241 @@
+Title: HOUSE BILL NO. HB0116
+Official Title: HOUSE BILL NO. HB0116
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0325
+Driver's licenses-unauthorized alien restrictions.
+Sponsored by: Representative(s) Ottman, Bear, Heiner,
+Pendergraft, Webber and Winter and
+Senator(s) Kolb, Laursen, D and McKeown
+A BILL
+for
+1 AN ACT relating to driver's licenses; specifying that
+2 driver's licenses and driving operating privilege cards
+3 issued by other jurisdictions to unauthorized aliens are
+4 invalid in Wyoming; providing definitions; providing a
+5 penalty; making conforming amendments; requiring
+6 rulemaking; and provide for effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 31-7-143 is created to read:
+11
+12 31-7-143. Unauthorized aliens; invalid out-of-state
+13 driver's licenses and nonresident operating privileges.
+14
+1 HB0116
+2025 STATE OF WYOMING 25LSO-0325
+1 (a) Any driver's license or nonresident operating
+2 privilege document issued by a jurisdiction outside Wyoming
+3 to an unauthorized alien or any driver's license or
+4 nonresident operating privilege document that is
+5 substantially similar to a driver's license or driving
+6 operating privilege card that has markings establishing
+7 that the license or card holder did not provide proof of
+8 lawful presence in the United States shall be deemed
+9 invalid as a driver's license or operating privilege
+10 document under the laws of this state.
+11
+12 (b) As used in this section, "unauthorized alien"
+13 means a person who is not a United States citizen and is
+14 not lawfully admitted in the United States.
+15
+16 Section 2. W.S. 31-7-107(a)(i) through (iii) and (v)
+17 and 31-7-134(a) are amended to read:
+18
+19 31-7-107. Persons exempted.
+20
+21 (a) The following persons are exempt from the
+22 licensing requirement under this act:
+23
+2 HB0116
+2025 STATE OF WYOMING 25LSO-0325
+1 (i) Any employee of the United States government
+2 while operating a motor vehicle owned by or leased to the
+3 United States government and being operated on official
+4 business unless the employee is required by the United
+5 States government or any agency thereof to have a state
+6 driver's license and the state driver's license is not
+7 invalid under W.S. 31-7-143(a);
+8
+9 (ii) A nonresident who has in his immediate
+10 possession a valid license issued to him by the licensing
+11 authority in his place of residence, if the nonresident's
+12 license is not invalid under W.S. 31-7-143(a);
+13
+14 (iii) A nonresident on active duty in the armed
+15 forces of the United States who has a valid license issued
+16 by his state of residence and the nonresident's spouse or
+17 dependent son or daughter who has a valid license issued by
+18 the person's state of residence, if the nonresident's
+19 license is not invalid under W.S. 31-7-143(a);
+20
+21 (v) A nonresident full-time student at the
+22 University of Wyoming, a Wyoming community college, a
+23 school licensed in this state offering post-secondary
+3 HB0116
+2025 STATE OF WYOMING 25LSO-0325
+1 education or at a parochial, church or religious school as
+2 defined by W.S. 21-4-101(a)(iv) offering post secondary
+3 post-secondary education, who has in his immediate
+4 possession a valid license issued to him by the licensing
+5 authority of his place of residence, if the nonresident's
+6 license is not invalid under W.S. 31-7-143(a);
+7
+8 31-7-134. Driving while license cancelled, suspended,
+9 invalid or revoked.
+10
+11 (a) No person shall drive a motor vehicle on any
+12 public highway in this state at a time when his driver's
+13 license, from this or any other jurisdiction, or
+14 nonresident operating privileges are cancelled, suspended,
+15 deemed invalid or revoked under this act or any other law.
+16 Except as provided in subsection (c) of this section, a
+17 person convicted of violating this section is guilty of a
+18 misdemeanor punishable by a fine of not more than seven
+19 hundred fifty dollars ($750.00), by imprisonment for not
+20 more than six (6) months, or both.
+21
+22 Section 3. The department of transportation shall
+23 promulgate any rules necessary to implement this act.
+4 HB0116
+2025 STATE OF WYOMING 25LSO-0325
+1
+2 Section 4.
+3
+4 (a) Except as otherwise provided in subsection (b) of
+5 this section, this act is effective July 1, 2025.
+6
+7 (b) Sections 3 and 4 of this act are effective
+8 immediately upon completion of all acts necessary for a
+9 bill to become law as provided by Article 4, Section 8 of
+10 the Wyoming Constitution.
+11
+12 (END)
+5 HB0116
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0325
+HOUSE BILL NO. HB0116
+Driver's licenses-unauthorized alien restrictions.
+Sponsored by: Representative(s) Ottman, Bear, Heiner,
+Pendergraft, Webber and Winter and
+Senator(s) Kolb, Laursen, D and McKeown
+A BILL
+for
+1 AN ACT relating to driver's licenses; specifying that
+2 driver's licenses and driving operating privilege cards
+3 issued by other jurisdictions to unauthorized aliens are
+4 invalid in Wyoming; providing definitions; providing a
+5 penalty; making conforming amendments; requiring
+6 rulemaking; and provide for effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 31-7-143 is created to read:
+11
+12 31-7-143. Unauthorized aliens; invalid out-of-state
+13 driver's licenses and nonresident operating privileges.
+14
+1 HB0116
+
+2025 STATE OF WYOMING 25LSO-0325
+1 (a) Any driver's license or nonresident operating
+2 privilege document issued by a jurisdiction outside Wyoming
+3 to an unauthorized alien or any driver's license or
+4 nonresident operating privilege document that is
+5 substantially similar to a driver's license or driving
+6 operating privilege card that has markings establishing
+7 that the license or card holder did not provide proof of
+8 lawful presence in the United States shall be deemed
+9 invalid as a driver's license or operating privilege
+10 document under the laws of this state.
+11
+12 (b) As used in this section, "unauthorized alien"
+13 means a person who is not a United States citizen and is
+14 not lawfully admitted in the United States.
+15
+16 Section 2. W.S. 31-7-107(a)(i) through (iii) and (v)
+17 and 31-7-134(a) are amended to read:
+18
+19 31-7-107. Persons exempted.
+20
+21 (a) The following persons are exempt from the
+22 licensing requirement under this act:
+23
+2 HB0116
+
+2025 STATE OF WYOMING 25LSO-0325
+1 (i) Any employee of the United States government
+2 while operating a motor vehicle owned by or leased to the
+3 United States government and being operated on official
+4 business unless the employee is required by the United
+5 States government or any agency thereof to have a state
+6 driver's license and the state driver's license is not
+7 invalid under W.S. 31-7-143(a);
+8
+9 (ii) A nonresident who has in his immediate
+10 possession a valid license issued to him by the licensing
+11 authority in his place of residence, if the nonresident's
+12 license is not invalid under W.S. 31-7-143(a);
+13
+14 (iii) A nonresident on active duty in the armed
+15 forces of the United States who has a valid license issued
+16 by his state of residence and the nonresident's spouse or
+17 dependent son or daughter who has a valid license issued by
+18 the person's state of residence, if the nonresident's
+19 license is not invalid under W.S. 31-7-143(a);
+20
+21 (v) A nonresident full-time student at the
+22 University of Wyoming, a Wyoming community college, a
+23 school licensed in this state offering post-secondary
+3 HB0116
+
+2025 STATE OF WYOMING 25LSO-0325
+1 education or at a parochial, church or religious school as
+2 defined by W.S. 21-4-101(a)(iv) offering post secondary
+3 post-secondary education, who has in his immediate
+4 possession a valid license issued to him by the licensing
+5 authority of his place of residence, if the nonresident's
+6 license is not invalid under W.S. 31-7-143(a);
+7
+8 31-7-134. Driving while license cancelled, suspended,
+9 invalid or revoked.
+10
+11 (a) No person shall drive a motor vehicle on any
+12 public highway in this state at a time when his driver's
+13 license, from this or any other jurisdiction, or
+14 nonresident operating privileges are cancelled, suspended,
+15 deemed invalid or revoked under this act or any other law.
+16 Except as provided in subsection (c) of this section, a
+17 person convicted of violating this section is guilty of a
+18 misdemeanor punishable by a fine of not more than seven
+19 hundred fifty dollars ($750.00), by imprisonment for not
+20 more than six (6) months, or both.
+21
+22 Section 3. The department of transportation shall
+23 promulgate any rules necessary to implement this act.
+4 HB0116
+
+2025 STATE OF WYOMING 25LSO-0325
+1
+2 Section 4.
+3
+4 (a) Except as otherwise provided in subsection (b) of
+5 this section, this act is effective July 1, 2025.
+6
+7 (b) Sections 3 and 4 of this act are effective
+8 immediately upon completion of all acts necessary for a
+9 bill to become law as provided by Article 4, Section 8 of
+10 the Wyoming Constitution.
+11
+12 (END)
+5 HB0116

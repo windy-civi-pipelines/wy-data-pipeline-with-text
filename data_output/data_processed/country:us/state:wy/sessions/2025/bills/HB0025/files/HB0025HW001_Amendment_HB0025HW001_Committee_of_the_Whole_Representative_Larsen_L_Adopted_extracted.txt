@@ -1,0 +1,39 @@
+Title: 1 Page 3-line 18 Delete "(B) T" and strike remainder of line.
+Official Title: 1 Page 3-line 18 Delete "(B) T" and strike remainder of line.
+Number of Sections: 1
+Source: versions - Amendment HB0025HW001 (Committee of the Whole) - Representative Larsen, L (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0025HW001
+2
+3 Page 3-line 19 Strike "participants or witnesses"; delete
+4 ".".
+5
+6 Page 3-after line 21 Insert:
+7
+8 "(B) After the motor vehicle has been moved from
+9 the scene of the accident and the police officer is informed by
+10 the participants or witnesses of the accident that the motor
+11 vehicle is no longer operable.". LARSEN, L, BROWN, L
+1
+
+
+================================================================================
+
+Raw Text:
+HB0025HW001
+1 Page 3-line 18 Delete "(B) T" and strike remainder of line.
+2
+3 Page 3-line 19 Strike "participants or witnesses"; delete
+4 ".".
+5
+6 Page 3-after line 21 Insert:
+7
+8 "(B) After the motor vehicle has been moved from
+9 the scene of the accident and the police officer is informed by
+10 the participants or witnesses of the accident that the motor
+11 vehicle is no longer operable.". LARSEN, L, BROWN, L
+1

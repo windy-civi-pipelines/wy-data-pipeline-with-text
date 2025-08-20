@@ -1,0 +1,65 @@
+Title: The fiscal impact, in the form or increased revenues from severance taxes and ad
+Official Title: The fiscal impact, in the form or increased revenues from severance taxes and ad
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Hydrogen severance tax. 25LSO-0634, 1.0
+FISCAL NOTE
+valorem taxes, is indeterminable.
+The fiscal impact is indeterminable because the specific timing and volumes of
+future hydrogen production cannot be estimated at this time.
+This bill creates a severance tax on hydrogen production. The bill defines
+“Hydrogen production” as “…the separation of hydrogen from water that is produced
+from the ground;”.
+Hydrogen production will be subject to two severance tax rates:
+• Hydrogen produced from by-product water as defined in W.S. 41-3-903 shall be
+subject to a severance tax rate of 3 percent.
+• All other hydrogen produced from water shall be subject to a severance tax
+rate of 6 percent.
+The Department of Revenue (DOR) shall annually value and assess hydrogen
+production at its fair market value for taxation in accordance with the
+applicable provisions of W.S. 39-14-202. It is assumed that this annual valuation
+and assessment will result in the assessment of ad valorem taxes.
+According to the University of Wyoming School of Energy Resources, in the next
+five years, if announced facilities are operational, 1-2 million tonnes (metric
+tons) of hydrogen are expected to be produced in Wyoming.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Matt Sachse, Department of Revenue, 777-5310;
+Mike Smith, University of Wyoming, 307-766-3937;
+Jami Blosmo, Energy Authority, 777-3521)
+HB0161
+
+
+================================================================================
+
+Raw Text:
+Hydrogen severance tax. 25LSO-0634, 1.0
+FISCAL NOTE
+The fiscal impact, in the form or increased revenues from severance taxes and ad
+valorem taxes, is indeterminable.
+The fiscal impact is indeterminable because the specific timing and volumes of
+future hydrogen production cannot be estimated at this time.
+This bill creates a severance tax on hydrogen production. The bill defines
+“Hydrogen production” as “…the separation of hydrogen from water that is produced
+from the ground;”.
+Hydrogen production will be subject to two severance tax rates:
+• Hydrogen produced from by-product water as defined in W.S. 41-3-903 shall be
+subject to a severance tax rate of 3 percent.
+• All other hydrogen produced from water shall be subject to a severance tax
+rate of 6 percent.
+The Department of Revenue (DOR) shall annually value and assess hydrogen
+production at its fair market value for taxation in accordance with the
+applicable provisions of W.S. 39-14-202. It is assumed that this annual valuation
+and assessment will result in the assessment of ad valorem taxes.
+According to the University of Wyoming School of Energy Resources, in the next
+five years, if announced facilities are operational, 1-2 million tonnes (metric
+tons) of hydrogen are expected to be produced in Wyoming.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Matt Sachse, Department of Revenue, 777-5310;
+Mike Smith, University of Wyoming, 307-766-3937;
+Jami Blosmo, Energy Authority, 777-3521)
+HB0161

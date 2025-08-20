@@ -1,0 +1,276 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0171
+SENATE FILE NO. SF0069
+Homeowner property tax exemption.
+Sponsored by: Joint Revenue Interim Committee
+for
+1 AN ACT relating to taxation; establishing a homeowner
+2 property tax exemption; specifying applicability; providing
+3 a sunset date; providing an appropriation; and providing
+4 for an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 39-11-105(a) by creating a new
+9 paragraph (xlvi) and 39-13-102(k) are amended to read:
+10
+11 39-11-105. Exemptions.
+12
+13 (a) The following property is exempt from property
+14 taxation:
+15
+1 SF0069
+2025 STATE OF WYOMING 25LSO-0171
+1 (xlvi) A portion of a single family residential
+2 structure and the associated improved land as a homeowner
+3 tax exemption as provided in this paragraph. The following
+4 shall apply to this exemption:
+5
+6 (A) The amount of the exemption under this
+7 paragraph shall be twenty-five percent (25%) of the fair
+8 market value of a single family residential structure and
+9 the associated improved land, provided that the exemption
+10 shall only apply to the first two million dollars
+11 ($2,000,000.00) of the fair market value of the single
+12 family residential structure and associated improved land;
+13
+14 (B) As used in this paragraph, "single
+15 family residential structure" means a structure intended
+16 for human habitation including a house, modular home,
+17 mobile home, townhouse or condominium that is a privately
+18 owned single family dwelling unit;
+19
+20 (C) The county treasurer for each county
+21 shall keep accurate records of the reduction in tax
+22 revenues caused by the homeowner tax exemption provided by
+23 this paragraph for the county and for each governmental
+2 SF0069
+2025 STATE OF WYOMING 25LSO-0171
+1 entity for which notification is made pursuant to W.S.
+2 39‑13‑104(k) and shall report that information to the
+3 department. The department shall compile and verify the
+4 information received from each county and shall verify any
+5 reductions in the distribution of mill levies to the school
+6 foundation program account under W.S. 21-13-303. Subject to
+7 appropriation of funds by the legislature, the department
+8 shall distribute verified amounts to each county treasurer
+9 for distribution as provided in W.S. 39‑13‑111 in an amount
+10 necessary to fully compensate each government entity for
+11 the reduction in tax revenues. If funds appropriated by the
+12 legislature for distribution under this subparagraph are
+13 insufficient to complete all necessary distributions, there
+14 is appropriated to the department of revenue from the
+15 legislative stabilization reserve account an amount equal
+16 to the amount by which legislative appropriations are
+17 insufficient to make distributions necessary under this
+18 subparagraph for the current tax year. The department shall
+19 transfer this legislative stabilization reserve account
+20 appropriation to each county for distribution to each
+21 government entity in an amount necessary to fully
+22 compensate each government entity for the reduction in tax
+23 revenues. No appropriation from the legislative
+3 SF0069
+2025 STATE OF WYOMING 25LSO-0171
+1 stabilization reserve account shall be authorized under
+2 this paragraph after June 30, 2027 and total appropriations
+3 from the legislative stabilization reserve account under
+4 this subparagraph shall not exceed one hundred million
+5 dollars ($100,000,000.00). If the amount available under
+6 this subparagraph is insufficient to fully compensate each
+7 government entity for the reduction in tax revenues, the
+8 department shall distribute funds to each government entity
+9 on a pro rata basis;
+10
+11 (D) The exemption under this paragraph
+12 shall not apply for tax year 2027 and thereafter.
+13
+14 39-13-102. Administration; confidentiality.
+15
+16 (k) On or before September 1, county assessors shall
+17 certify the exemptions granted pursuant to W.S.
+18 39-11-105(a)(xxiv) and (xlvi) to the department. On or
+19 before October 1 the state treasurer out of funds
+20 appropriated for that purpose shall reimburse each county
+21 treasurer for the amount of taxes which would have been
+22 collected if the property was not exempt. The county
+23 treasurer shall distribute the revenue to each governmental
+4 SF0069
+2025 STATE OF WYOMING 25LSO-0171
+1 entity in the actual amount of taxes lost due to the
+2 exemption.
+3
+4 Section 2. The exemption provided by this act shall
+5 first apply to the tax year beginning January 1, 2025.
+6
+7 Section 3. There is appropriated one hundred
+8 twenty-five million dollars ($125,000,000.00) from the
+9 general fund to the department of revenue for the purposes
+10 of reimbursing government entities, including school
+11 districts, for losses in revenue resulting from the
+12 homeowner tax exemption as provided in this act. This
+13 appropriation shall be for the period beginning with the
+14 effective date of this act and ending June 30, 2027. This
+15 appropriation shall not be transferred or expended for any
+16 other purpose and any unexpended, unobligated funds
+17 remaining from this appropriation shall revert as provided
+18 by law on June 30, 2027. It is the intent of the
+19 legislature that this appropriation not be included in the
+20 department's standard budget for the immediately succeeding
+21 fiscal biennium.
+22
+5 SF0069
+2025 STATE OF WYOMING 25LSO-0171
+1 Section 4. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+6 SF0069
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0171
+SENATE FILE NO. SF0069
+Homeowner property tax exemption.
+Sponsored by: Joint Revenue Interim Committee
+A BILL
+for
+1 AN ACT relating to taxation; establishing a homeowner
+2 property tax exemption; specifying applicability; providing
+3 a sunset date; providing an appropriation; and providing
+4 for an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 39-11-105(a) by creating a new
+9 paragraph (xlvi) and 39-13-102(k) are amended to read:
+10
+11 39-11-105. Exemptions.
+12
+13 (a) The following property is exempt from property
+14 taxation:
+15
+1 SF0069
+
+2025 STATE OF WYOMING 25LSO-0171
+1 (xlvi) A portion of a single family residential
+2 structure and the associated improved land as a homeowner
+3 tax exemption as provided in this paragraph. The following
+4 shall apply to this exemption:
+5
+6 (A) The amount of the exemption under this
+7 paragraph shall be twenty-five percent (25%) of the fair
+8 market value of a single family residential structure and
+9 the associated improved land, provided that the exemption
+10 shall only apply to the first two million dollars
+11 ($2,000,000.00) of the fair market value of the single
+12 family residential structure and associated improved land;
+13
+14 (B) As used in this paragraph, "single
+15 family residential structure" means a structure intended
+16 for human habitation including a house, modular home,
+17 mobile home, townhouse or condominium that is a privately
+18 owned single family dwelling unit;
+19
+20 (C) The county treasurer for each county
+21 shall keep accurate records of the reduction in tax
+22 revenues caused by the homeowner tax exemption provided by
+23 this paragraph for the county and for each governmental
+2 SF0069
+
+2025 STATE OF WYOMING 25LSO-0171
+1 entity for which notification is made pursuant to W.S.
+2 39‑13‑104(k) and shall report that information to the
+3 department. The department shall compile and verify the
+4 information received from each county and shall verify any
+5 reductions in the distribution of mill levies to the school
+6 foundation program account under W.S. 21-13-303. Subject to
+7 appropriation of funds by the legislature, the department
+8 shall distribute verified amounts to each county treasurer
+9 for distribution as provided in W.S. 39‑13‑111 in an amount
+10 necessary to fully compensate each government entity for
+11 the reduction in tax revenues. If funds appropriated by the
+12 legislature for distribution under this subparagraph are
+13 insufficient to complete all necessary distributions, there
+14 is appropriated to the department of revenue from the
+15 legislative stabilization reserve account an amount equal
+16 to the amount by which legislative appropriations are
+17 insufficient to make distributions necessary under this
+18 subparagraph for the current tax year. The department shall
+19 transfer this legislative stabilization reserve account
+20 appropriation to each county for distribution to each
+21 government entity in an amount necessary to fully
+22 compensate each government entity for the reduction in tax
+23 revenues. No appropriation from the legislative
+3 SF0069
+
+2025 STATE OF WYOMING 25LSO-0171
+1 stabilization reserve account shall be authorized under
+2 this paragraph after June 30, 2027 and total appropriations
+3 from the legislative stabilization reserve account under
+4 this subparagraph shall not exceed one hundred million
+5 dollars ($100,000,000.00). If the amount available under
+6 this subparagraph is insufficient to fully compensate each
+7 government entity for the reduction in tax revenues, the
+8 department shall distribute funds to each government entity
+9 on a pro rata basis;
+10
+11 (D) The exemption under this paragraph
+12 shall not apply for tax year 2027 and thereafter.
+13
+14 39-13-102. Administration; confidentiality.
+15
+16 (k) On or before September 1, county assessors shall
+17 certify the exemptions granted pursuant to W.S.
+18 39-11-105(a)(xxiv) and (xlvi) to the department. On or
+19 before October 1 the state treasurer out of funds
+20 appropriated for that purpose shall reimburse each county
+21 treasurer for the amount of taxes which would have been
+22 collected if the property was not exempt. The county
+23 treasurer shall distribute the revenue to each governmental
+4 SF0069
+
+2025 STATE OF WYOMING 25LSO-0171
+1 entity in the actual amount of taxes lost due to the
+2 exemption.
+3
+4 Section 2. The exemption provided by this act shall
+5 first apply to the tax year beginning January 1, 2025.
+6
+7 Section 3. There is appropriated one hundred
+8 twenty-five million dollars ($125,000,000.00) from the
+9 general fund to the department of revenue for the purposes
+10 of reimbursing government entities, including school
+11 districts, for losses in revenue resulting from the
+12 homeowner tax exemption as provided in this act. This
+13 appropriation shall be for the period beginning with the
+14 effective date of this act and ending June 30, 2027. This
+15 appropriation shall not be transferred or expended for any
+16 other purpose and any unexpended, unobligated funds
+17 remaining from this appropriation shall revert as provided
+18 by law on June 30, 2027. It is the intent of the
+19 legislature that this appropriation not be included in the
+20 department's standard budget for the immediately succeeding
+21 fiscal biennium.
+22
+5 SF0069
+
+2025 STATE OF WYOMING 25LSO-0171
+1 Section 4. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+6 SF0069

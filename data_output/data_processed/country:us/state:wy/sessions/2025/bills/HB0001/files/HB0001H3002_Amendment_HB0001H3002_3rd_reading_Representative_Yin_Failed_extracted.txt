@@ -1,0 +1,81 @@
+Title: 1 Delete the Nicholas third reading amendment (HB0001H3001/A)
+Official Title: 1 Delete the Nicholas third reading amendment (HB0001H3001/A)
+Number of Sections: 3
+Source: versions - Amendment HB0001H3002 (3rd reading) - Representative Yin (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0001H3002
+[BUDGET(s) AFFECTED]
+
+Section 2:
+Section Under Consideration:
+
+Section 3:
+Section 001. OFFICE OF THE GOVERNOR
+(Homeland Security)
+* * * * * * * * * *
+2 entirely and further amend as follows:
+3
+4 Page 5-line 9 After "13." insert ", 17.".
+5
+6 Page 5-line 10 Under GENERAL FUND increase amount by
+7 "250,000"; under OTHER FUNDS increase amount
+8 by "150,000 S0".
+9
+10 Page 12-after line 6 Insert:
+11
+12 "17. Of this general fund and other funds appropriations, two
+13 hundred fifty thousand dollars ($250,000.00) is appropriated from
+14 the general fund and one hundred fifty thousand dollars
+15 ($150,000.00)S0 is appropriated from the Wyoming tourism reserve
+16 and projects account to the office of homeland security within the
+17 governor's office for the Wyoming search and rescue council to
+18 conduct search and rescue operations. It is the intent of the
+19 legislature that this appropriation be included in the office of
+20 the governor's standard budget for the immediately succeeding
+21 fiscal biennium. This appropriation shall not be transferred or
+22 expended for any other purpose.".
+23
+24 To the extent required by this amendment: adjust totals; and
+25 renumber as necessary. YIN, BYRON, CONNOLLY, SCHMID
+1
+
+
+================================================================================
+
+Raw Text:
+HB0001H3002
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 001. OFFICE OF THE GOVERNOR
+(Homeland Security)
+* * * * * * * * * *
+1 Delete the Nicholas third reading amendment (HB0001H3001/A)
+2 entirely and further amend as follows:
+3
+4 Page 5-line 9 After "13." insert ", 17.".
+5
+6 Page 5-line 10 Under GENERAL FUND increase amount by
+7 "250,000"; under OTHER FUNDS increase amount
+8 by "150,000 S0".
+9
+10 Page 12-after line 6 Insert:
+11
+12 "17. Of this general fund and other funds appropriations, two
+13 hundred fifty thousand dollars ($250,000.00) is appropriated from
+14 the general fund and one hundred fifty thousand dollars
+15 ($150,000.00)S0 is appropriated from the Wyoming tourism reserve
+16 and projects account to the office of homeland security within the
+17 governor's office for the Wyoming search and rescue council to
+18 conduct search and rescue operations. It is the intent of the
+19 legislature that this appropriation be included in the office of
+20 the governor's standard budget for the immediately succeeding
+21 fiscal biennium. This appropriation shall not be transferred or
+22 expended for any other purpose.".
+23
+24 To the extent required by this amendment: adjust totals; and
+25 renumber as necessary. YIN, BYRON, CONNOLLY, SCHMID
+1

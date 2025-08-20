@@ -1,0 +1,188 @@
+Title: School finance-routine and major maintenance 25LSO-0155, 1.0
+Official Title: School finance-routine and major maintenance 25LSO-0155, 1.0
+Number of Sections: 2
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+calculations.
+FISCAL NOTE
+This bill contains an appropriation of $38,100,000 from the PUBLIC SCHOOL FOUNDATION
+PROGRAM ACCOUNT (SFP) to the State Construction Department. This bill contains an
+appropriation of $5,500,000 from the SFP to the Department of Education - School
+Finance.
+DETAIL OF APPROPRIATION
+Agency #: 027 Agency Name: State Construction Department
+Unit: 1501 (Major Maintenance)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $0 $38,100,000 $0
+Total Expenditure Per Year: $0 $38,100,000 $0
+Grand Total Expenditure: $38,100,000
+Total Appropriated to Agency: $38,100,000
+Total Appropriated by Fund:
+SCHOOL FOUNDATION PROGRAM ACCOUNT $38,100,000
+DETAIL OF APPROPRIATION
+Agency #: 205 Agency Name: Department of Education - School Finance
+Unit: 4101 (Foundation Basic)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $0 $5,500,000 $0
+Total Expenditure Per Year: $0 $5,500,000 $0
+Grand Total Expenditure: $5,500,000
+Total Appropriated to Agency: $5,500,000
+Total Appropriated by Fund:
+SCHOOL FOUNDATION PROGRAM ACCOUNT $5,500,000
+Description of appropriations:
+The appropriations will be used to fund the anticipated expenditure increases for
+major maintenance payments and entitlement expenditure increases and corresponding
+recapture revenue decreases that will take place in FY 2026.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+SCHOOL FOUNDATION PROGRAM ACCOUNT $0 ($1,400,000) ($1,300,000)
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+SCHOOL FOUNDATION PROGRAM ACCOUNT $0 $44,100,000 $45,300,000
+SF0034
+School finance-routine and major maintenance 25LSO-0155, 1.0
+calculations.
+Source of revenue decrease and expenditure increase:
+Under current law, K-12 education resource block grant model (K-12 funding model)
+and the K-12 major maintenance formula allocate educational gross square footage
+(GSF) based on the lesser of the actual educational GSF or 115 percent of the School
+Facilities Commission’s (SFC) allowable educational GSF. The K-12 funding model
+determines this amount at the school level and the K-12 major maintenance formula
+determines this at the district level. The K-12 major maintenance formula, under
+current law, allocates funding at a rate of 2 percent factor of the total cost
+replacement value.
+This bill modifies the allowable educational GSF calculation in the K-12 funding
+model and the K-12 major maintenance formula by providing the lesser of the actual
+educational GSF or 135 percent of the SFC’s allowable educational GSF. This bill
+also increases the K-12 major maintenance formula’s cost replacement value factor
+from 2 percent to 2.5 percent.
+The estimated absolute impact to the K-12 funding model’s foundation program
+guarantee is $5,500,000 in FY 2026, $5,600,000 in FY 2027, and $5,600,000 in FY
+2028, as a result of the educational GSF funded increases approximately 2 million
+GSF. An increase to the K-12 funding model’s foundation program guarantee amount
+will have a corresponding expenditure increase from the SFP in the form of school
+district entitlement payments and a corresponding revenue decrease to the SFP in
+the form of school district recapture payments. The entitlement expenditure increase
+and recapture revenue decrease anticipated in FY 2026 will be funded by the
+appropriation in the bill.
+The estimated impact to the K-12 major maintenance formula with both modifications
+is an expenditure increase from the SFP in the form of major maintenance payments
+to school districts totaling $38,700,000 in FY 2026, $39,900,000 in FY 2027, and
+$41,000,000 in FY 2028. The allowable educational GSF change increases the K-12
+major maintenance formula’s educational GSF by approximately 2.7 million GSF,
+resulting in a corresponding increase in major maintenance payments of $15,500,000
+in FY 2026, $16,000,000 in FY 2027, and $16,400,000 in FY 2028. The estimated impact
+to the K-12 major maintenance formula from the cost replacement value factor
+increasing to 2.5 percent results in a corresponding increase in major maintenance
+payments of $23,200,000 in FY 2026, $23,900,000 in FY 2027, and $24,600,000 in FY
+
+Section 2:
+2028.
+Assumptions:
+The above estimates were determined through the use of forecast K-12 funding models
+and forecast K-12 major maintenance formulas utilized by the Legislative Service
+Office and are based on the most recent available data. The K-12 major maintenance
+formula utilize an inflation factor of 3 percent after FY 2026 based on historical
+increases over a five-year period.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Trent Carroll, Department of Education - School Finance,
+777-7720; Laura Anderson, State Construction Department, 777-2901)
+SF0034
+
+
+================================================================================
+
+Raw Text:
+School finance-routine and major maintenance 25LSO-0155, 1.0
+calculations.
+FISCAL NOTE
+This bill contains an appropriation of $38,100,000 from the PUBLIC SCHOOL FOUNDATION
+PROGRAM ACCOUNT (SFP) to the State Construction Department. This bill contains an
+appropriation of $5,500,000 from the SFP to the Department of Education - School
+Finance.
+DETAIL OF APPROPRIATION
+Agency #: 027 Agency Name: State Construction Department
+Unit: 1501 (Major Maintenance)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $0 $38,100,000 $0
+Total Expenditure Per Year: $0 $38,100,000 $0
+Grand Total Expenditure: $38,100,000
+Total Appropriated to Agency: $38,100,000
+Total Appropriated by Fund:
+SCHOOL FOUNDATION PROGRAM ACCOUNT $38,100,000
+DETAIL OF APPROPRIATION
+Agency #: 205 Agency Name: Department of Education - School Finance
+Unit: 4101 (Foundation Basic)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $0 $5,500,000 $0
+Total Expenditure Per Year: $0 $5,500,000 $0
+Grand Total Expenditure: $5,500,000
+Total Appropriated to Agency: $5,500,000
+Total Appropriated by Fund:
+SCHOOL FOUNDATION PROGRAM ACCOUNT $5,500,000
+Description of appropriations:
+The appropriations will be used to fund the anticipated expenditure increases for
+major maintenance payments and entitlement expenditure increases and corresponding
+recapture revenue decreases that will take place in FY 2026.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+SCHOOL FOUNDATION PROGRAM ACCOUNT $0 ($1,400,000) ($1,300,000)
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+SCHOOL FOUNDATION PROGRAM ACCOUNT $0 $44,100,000 $45,300,000
+SF0034
+
+School finance-routine and major maintenance 25LSO-0155, 1.0
+calculations.
+Source of revenue decrease and expenditure increase:
+Under current law, K-12 education resource block grant model (K-12 funding model)
+and the K-12 major maintenance formula allocate educational gross square footage
+(GSF) based on the lesser of the actual educational GSF or 115 percent of the School
+Facilities Commission’s (SFC) allowable educational GSF. The K-12 funding model
+determines this amount at the school level and the K-12 major maintenance formula
+determines this at the district level. The K-12 major maintenance formula, under
+current law, allocates funding at a rate of 2 percent factor of the total cost
+replacement value.
+This bill modifies the allowable educational GSF calculation in the K-12 funding
+model and the K-12 major maintenance formula by providing the lesser of the actual
+educational GSF or 135 percent of the SFC’s allowable educational GSF. This bill
+also increases the K-12 major maintenance formula’s cost replacement value factor
+from 2 percent to 2.5 percent.
+The estimated absolute impact to the K-12 funding model’s foundation program
+guarantee is $5,500,000 in FY 2026, $5,600,000 in FY 2027, and $5,600,000 in FY
+2028, as a result of the educational GSF funded increases approximately 2 million
+GSF. An increase to the K-12 funding model’s foundation program guarantee amount
+will have a corresponding expenditure increase from the SFP in the form of school
+district entitlement payments and a corresponding revenue decrease to the SFP in
+the form of school district recapture payments. The entitlement expenditure increase
+and recapture revenue decrease anticipated in FY 2026 will be funded by the
+appropriation in the bill.
+The estimated impact to the K-12 major maintenance formula with both modifications
+is an expenditure increase from the SFP in the form of major maintenance payments
+to school districts totaling $38,700,000 in FY 2026, $39,900,000 in FY 2027, and
+$41,000,000 in FY 2028. The allowable educational GSF change increases the K-12
+major maintenance formula’s educational GSF by approximately 2.7 million GSF,
+resulting in a corresponding increase in major maintenance payments of $15,500,000
+in FY 2026, $16,000,000 in FY 2027, and $16,400,000 in FY 2028. The estimated impact
+to the K-12 major maintenance formula from the cost replacement value factor
+increasing to 2.5 percent results in a corresponding increase in major maintenance
+payments of $23,200,000 in FY 2026, $23,900,000 in FY 2027, and $24,600,000 in FY
+2028.
+Assumptions:
+The above estimates were determined through the use of forecast K-12 funding models
+and forecast K-12 major maintenance formulas utilized by the Legislative Service
+Office and are based on the most recent available data. The K-12 major maintenance
+formula utilize an inflation factor of 3 percent after FY 2026 based on historical
+increases over a five-year period.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Trent Carroll, Department of Education - School Finance,
+777-7720; Laura Anderson, State Construction Department, 777-2901)
+SF0034

@@ -1,0 +1,91 @@
+Title: Sponsored By: Senator(s) Cooper, Anderson, Barlow, Boner, Brennan,
+Official Title: Sponsored By: Senator(s) Cooper, Anderson, Barlow, Boner, Brennan,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SJ0008 Political expenditures.
+Crago, Crum, Dockstader, Driskill, Gierau, Hutchings,
+Jones, Landen, Nethercott, Pappas, Schuler and Scott
+and Representative(s) Brown, L, Byron, Connolly,
+Davis, Erickson, Geringer, Jarvis, Larsen, L, McCann,
+Schmid, Styvar, Washut, Wasserburger, Wharff,
+Williams and Wylie
+A JOINT RESOLUTION requesting Congress to propose a constitutional amendment to
+authorize states and Congress to establish reasonable limits on political
+contributions made to influence elections.
+1/23/2025 Bill Number Assigned
+1/24/2025 S Received for Introduction
+1/29/2025 S Introduced and Referred to S01 - Judiciary
+2/5/2025 S01 - Judiciary:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, Crum, Hicks, Kolb, Olsen
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/5/2025 S Placed on General File
+2/7/2025 S COW:Passed
+2/10/2025 S 2nd Reading:Passed
+2/11/2025 S 3rd Reading:Passed 17-13-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Brennan, Case, Cooper, Crago, Crum,
+Dockstader, Driskill, Gierau, Jones, Landen, Nethercott, Olsen, Rothfuss,
+Schuler, Scott
+Nays: Senator(s) Biteman, Boner, French, Hicks, Hutchings, Ide, Kolb, Laursen,
+Mckeown, Pearson, Salazar, Smith, Steinmetz
+Excused: Senator Pappas
+Ayes 17 Nays 13 Excused 1 Absent 0 Conflicts 0
+2/11/2025 H Received for Introduction
+2/25/2025 H Introduced and Referred to H06 - Travel
+2/27/2025 H06 - Travel:Recommend Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Byron, Campbell, Connolly, Harshman, Jarvis, Provenza,
+Storer, Thayer, Wharff
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/27/2025 H Placed on General File
+2/28/2025 H COW:H Did not consider for COW
+
+
+================================================================================
+
+Raw Text:
+SJ0008 Political expenditures.
+Sponsored By: Senator(s) Cooper, Anderson, Barlow, Boner, Brennan,
+Crago, Crum, Dockstader, Driskill, Gierau, Hutchings,
+Jones, Landen, Nethercott, Pappas, Schuler and Scott
+and Representative(s) Brown, L, Byron, Connolly,
+Davis, Erickson, Geringer, Jarvis, Larsen, L, McCann,
+Schmid, Styvar, Washut, Wasserburger, Wharff,
+Williams and Wylie
+A JOINT RESOLUTION requesting Congress to propose a constitutional amendment to
+authorize states and Congress to establish reasonable limits on political
+contributions made to influence elections.
+1/23/2025 Bill Number Assigned
+1/24/2025 S Received for Introduction
+1/29/2025 S Introduced and Referred to S01 - Judiciary
+2/5/2025 S01 - Judiciary:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, Crum, Hicks, Kolb, Olsen
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/5/2025 S Placed on General File
+2/7/2025 S COW:Passed
+2/10/2025 S 2nd Reading:Passed
+2/11/2025 S 3rd Reading:Passed 17-13-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Brennan, Case, Cooper, Crago, Crum,
+Dockstader, Driskill, Gierau, Jones, Landen, Nethercott, Olsen, Rothfuss,
+Schuler, Scott
+Nays: Senator(s) Biteman, Boner, French, Hicks, Hutchings, Ide, Kolb, Laursen,
+Mckeown, Pearson, Salazar, Smith, Steinmetz
+Excused: Senator Pappas
+Ayes 17 Nays 13 Excused 1 Absent 0 Conflicts 0
+2/11/2025 H Received for Introduction
+2/25/2025 H Introduced and Referred to H06 - Travel
+2/27/2025 H06 - Travel:Recommend Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Byron, Campbell, Connolly, Harshman, Jarvis, Provenza,
+Storer, Thayer, Wharff
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/27/2025 H Placed on General File
+2/28/2025 H COW:H Did not consider for COW

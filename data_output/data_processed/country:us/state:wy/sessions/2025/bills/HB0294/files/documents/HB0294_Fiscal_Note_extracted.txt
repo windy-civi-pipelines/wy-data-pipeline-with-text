@@ -1,0 +1,101 @@
+Title: Federal mineral royalties-distribution 25LSO-0711, 1.0
+Official Title: Federal mineral royalties-distribution 25LSO-0711, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+amendments.
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase/(decrease)
+BUDGET RESERVE ACCOUNT $600,000 $0 $0
+SCHOOL FOUNDATION PROGRAM ACCOUNT ($600,000) ($0) ($0)
+BUDGET RESERVE ACCOUNT ($0) (unknown) (unknown)
+SCHOOL FOUNDATION PROGRAM ACCOUNT ($0) (unknown) (unknown)
+PWMTF RESERVE ACCOUNT $0 unknown unknown
+CSPF RESERVE ACCOUNT $0 unknown unknown
+Source of revenue increase(decrease):
+This bill eliminates the current secondary distribution cap for federal mineral
+royalty (FMR) revenues in fiscal year (FY) 2026 under current law in W.S. 9-4-
+601(o).
+The elimination of this current secondary distribution cap would decrease FMR
+revenues to the School Foundation Program (SFP) in FY 2026 by roughly $600,000
+and increase FMRs revenues to the Budget Reserve Account (BRA) in FY 2026 by
+roughly $600,000.
+This bill also creates a new secondary distribution cap for FMRs for FY 2026 and
+each fiscal year thereafter. When distributions under W.S. 9-4-601(a) exceed the
+forecasted amount in the last revenue forecast issued by the Consensus Revenue
+Estimating Group (CREG) in the most recent even-numbered calendar year, the
+additional FMR revenues in excess of the forecast that would otherwise be
+distributed over the $200.0 million cap to the SFP and BRA in W.S. 9-4-601(d)
+shall be credited one-half to the Common School Permanent Fund (CSPF) Reserve
+Account and one-half to the Permanent Wyoming Mineral Trust Fund (PWMTF) Reserve
+Account.
+The projected FMR revenues in the January 2025 CREG Forecast in FY 2026 are
+projected to be less than the FMR revenues projected in FY 2026 in the October
+2024 CREG Forecast. Therefore, no FMR revenues would be distributed to the PWMTF
+Reserve Account and CSLF Reserve Account in FY 2026. The changes to the FMR
+revenue distributions in FY 2027 and FY 2028 will be based on projected FMR
+revenues in the forthcoming October 2026 CREG Forecast. Therefore, the changes to
+FY 2027 and FY 2028 FMR revenue distributions are unknown and cannot be
+determined at this time.
+Assumptions:
+The above estimates are based on projected FMR revenues in Table 7 of the October
+2024 and January 2025 CREG forecasts.
+Any additional fiscal or personnel impact is not determinable due to insufficient
+time to complete the fiscal note process.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+HB0294
+
+
+================================================================================
+
+Raw Text:
+Federal mineral royalties-distribution 25LSO-0711, 1.0
+amendments.
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase/(decrease)
+BUDGET RESERVE ACCOUNT $600,000 $0 $0
+SCHOOL FOUNDATION PROGRAM ACCOUNT ($600,000) ($0) ($0)
+BUDGET RESERVE ACCOUNT ($0) (unknown) (unknown)
+SCHOOL FOUNDATION PROGRAM ACCOUNT ($0) (unknown) (unknown)
+PWMTF RESERVE ACCOUNT $0 unknown unknown
+CSPF RESERVE ACCOUNT $0 unknown unknown
+Source of revenue increase(decrease):
+This bill eliminates the current secondary distribution cap for federal mineral
+royalty (FMR) revenues in fiscal year (FY) 2026 under current law in W.S. 9-4-
+601(o).
+The elimination of this current secondary distribution cap would decrease FMR
+revenues to the School Foundation Program (SFP) in FY 2026 by roughly $600,000
+and increase FMRs revenues to the Budget Reserve Account (BRA) in FY 2026 by
+roughly $600,000.
+This bill also creates a new secondary distribution cap for FMRs for FY 2026 and
+each fiscal year thereafter. When distributions under W.S. 9-4-601(a) exceed the
+forecasted amount in the last revenue forecast issued by the Consensus Revenue
+Estimating Group (CREG) in the most recent even-numbered calendar year, the
+additional FMR revenues in excess of the forecast that would otherwise be
+distributed over the $200.0 million cap to the SFP and BRA in W.S. 9-4-601(d)
+shall be credited one-half to the Common School Permanent Fund (CSPF) Reserve
+Account and one-half to the Permanent Wyoming Mineral Trust Fund (PWMTF) Reserve
+Account.
+The projected FMR revenues in the January 2025 CREG Forecast in FY 2026 are
+projected to be less than the FMR revenues projected in FY 2026 in the October
+2024 CREG Forecast. Therefore, no FMR revenues would be distributed to the PWMTF
+Reserve Account and CSLF Reserve Account in FY 2026. The changes to the FMR
+revenue distributions in FY 2027 and FY 2028 will be based on projected FMR
+revenues in the forthcoming October 2026 CREG Forecast. Therefore, the changes to
+FY 2027 and FY 2028 FMR revenue distributions are unknown and cannot be
+determined at this time.
+Assumptions:
+The above estimates are based on projected FMR revenues in Table 7 of the October
+2024 and January 2025 CREG forecasts.
+Any additional fiscal or personnel impact is not determinable due to insufficient
+time to complete the fiscal note process.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+HB0294

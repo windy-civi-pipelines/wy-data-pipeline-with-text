@@ -1,0 +1,140 @@
+Title: Sponsored By: Joint Corporations, Elections & Political
+Official Title: Sponsored By: Joint Corporations, Elections & Political
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0052 Insurance amendments.
+Subdivisions Interim Committee
+AN ACT relating to the insurance code; amending the definition of insurance
+transaction; making requirements applicable to original certificates of
+authority apply to all certificates of authority; requiring insurers to update
+their contact information as specified; amending service of process
+requirements; clarifying requirements regarding reporting of actions;
+clarifying the applicability of statutes governing property and casualty
+insurance; repealing the requirement for insurers to deliver certificates of
+authority to the insurance commissioner upon expiration, suspension or
+termination of the certificates; repealing disclosure requirements regarding
+the extent to which disability, group disability and blanket disability
+insurance policies include comprehensive adult wellness benefits; and providing
+for an effective date.
+12/20/2024 Bill Number Assigned
+1/2/2025 S Received for Introduction
+1/14/2025 S Introduced and Referred to S07 - Corporations
+1/15/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/15/2025 S Placed on General File
+1/15/2025 S COW:Passed
+1/16/2025 S 2nd Reading:Passed
+1/17/2025 S 3rd Reading:Passed 29-1-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Boner, Brennan, Case, Cooper, Crago, Crum,
+Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss,
+Salazar, Schuler, Scott, Steinmetz
+Nays: Senator Smith
+Excused: Senator Biteman
+Ayes 29 Nays 1 Excused 1 Absent 0 Conflicts 0
+1/17/2025 H Received for Introduction
+2/18/2025 H Introduced and Referred to H07 - Corporations
+2/24/2025 H07 - Corporations:Recommend Do Pass 8-0-0-0-1
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Locke, Lucas, Webb, Webber, Yin
+Conflicts: Representative Knapp
+Ayes 8 Nays 0 Excused 0 Absent 0 Conflicts 1
+2/24/2025 H Placed on General File
+2/27/2025 H COW:Passed
+2/28/2025 H 2nd Reading:Passed
+3/3/2025 H 3rd Reading:Passed 54-5-2-0-1
+ROLL CALL
+Ayes: Representative(s) Andrew, Angelos, Banks, Bear, Brown, G, Byron,
+Campbell, E, Campbell, K, Chestek, Clouston, Connolly, Davis, Eklund, Erickson,
+Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Hoeft, Jarvis,
+Johnson, Kelly, Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann, Neiman,
+Nicholas, Ottman, Pendergraft, Posey, Provenza, Rodriguez-Williams, Schmid,
+Sherwood, Singh, Storer, Strock, Styvar, Tarver, Thayer, Washut, Webb, Webber,
+Wharff, Williams, Winter, Wylie, Yin
+Nays: Representative(s) Allemand, Brady, Bratten, Smith, Wasserburger
+Excused: Representative(s) Brown, L, Riggins
+Conflicts: Representative Knapp
+Ayes 54 Nays 5 Excused 2 Absent 0 Conflicts 1
+3/3/2025 Assigned Number SEA No. 0065
+3/3/2025 S President Signed SEA No. 0065
+3/3/2025 H Speaker Signed SEA No. 0065
+3/5/2025 Governor Signed SEA No. 0065
+3/5/2025 Assigned Chapter Number 114
+Chapter No. 114 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+SF0052 Insurance amendments.
+Sponsored By: Joint Corporations, Elections & Political
+Subdivisions Interim Committee
+AN ACT relating to the insurance code; amending the definition of insurance
+transaction; making requirements applicable to original certificates of
+authority apply to all certificates of authority; requiring insurers to update
+their contact information as specified; amending service of process
+requirements; clarifying requirements regarding reporting of actions;
+clarifying the applicability of statutes governing property and casualty
+insurance; repealing the requirement for insurers to deliver certificates of
+authority to the insurance commissioner upon expiration, suspension or
+termination of the certificates; repealing disclosure requirements regarding
+the extent to which disability, group disability and blanket disability
+insurance policies include comprehensive adult wellness benefits; and providing
+for an effective date.
+12/20/2024 Bill Number Assigned
+1/2/2025 S Received for Introduction
+1/14/2025 S Introduced and Referred to S07 - Corporations
+1/15/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/15/2025 S Placed on General File
+1/15/2025 S COW:Passed
+1/16/2025 S 2nd Reading:Passed
+1/17/2025 S 3rd Reading:Passed 29-1-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Boner, Brennan, Case, Cooper, Crago, Crum,
+Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss,
+Salazar, Schuler, Scott, Steinmetz
+Nays: Senator Smith
+Excused: Senator Biteman
+Ayes 29 Nays 1 Excused 1 Absent 0 Conflicts 0
+1/17/2025 H Received for Introduction
+2/18/2025 H Introduced and Referred to H07 - Corporations
+2/24/2025 H07 - Corporations:Recommend Do Pass 8-0-0-0-1
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Locke, Lucas, Webb, Webber, Yin
+Conflicts: Representative Knapp
+Ayes 8 Nays 0 Excused 0 Absent 0 Conflicts 1
+2/24/2025 H Placed on General File
+2/27/2025 H COW:Passed
+2/28/2025 H 2nd Reading:Passed
+3/3/2025 H 3rd Reading:Passed 54-5-2-0-1
+ROLL CALL
+
+Ayes: Representative(s) Andrew, Angelos, Banks, Bear, Brown, G, Byron,
+Campbell, E, Campbell, K, Chestek, Clouston, Connolly, Davis, Eklund, Erickson,
+Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Hoeft, Jarvis,
+Johnson, Kelly, Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann, Neiman,
+Nicholas, Ottman, Pendergraft, Posey, Provenza, Rodriguez-Williams, Schmid,
+Sherwood, Singh, Storer, Strock, Styvar, Tarver, Thayer, Washut, Webb, Webber,
+Wharff, Williams, Winter, Wylie, Yin
+Nays: Representative(s) Allemand, Brady, Bratten, Smith, Wasserburger
+Excused: Representative(s) Brown, L, Riggins
+Conflicts: Representative Knapp
+Ayes 54 Nays 5 Excused 2 Absent 0 Conflicts 1
+3/3/2025 Assigned Number SEA No. 0065
+3/3/2025 S President Signed SEA No. 0065
+3/3/2025 H Speaker Signed SEA No. 0065
+3/5/2025 Governor Signed SEA No. 0065
+3/5/2025 Assigned Chapter Number 114
+Chapter No. 114 Session Laws of Wyoming 2025

@@ -1,0 +1,176 @@
+Title: This bill contains an appropriation of $45,000 from the GENERAL FUND to the
+Official Title: This bill contains an appropriation of $45,000 from the GENERAL FUND to the
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Government owned lands. 25LSO-0362, 1.0
+FISCAL NOTE
+Legislative Service Office. This appropriation is effective immediately.
+This bill contains an appropriation of $20,000 from the GENERAL FUND to the
+Governor's Office. This appropriation is effective immediately.
+DETAIL OF APPROPRIATION
+Agency #: 201 Agency Name: Legislative Service Office
+Unit: 0101 Administration
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $5,200 $10,300 $0
+0200 Supportive Services Costs $9,100 $18,200 $0
+Total Expenditure Per Year: $14,300 $28,500 $0
+Grand Total Expenditure: $42,800
+Total Appropriated to Agency: $45,000
+Total Appropriated by Fund:
+GENERAL FUND $45,000
+Description of appropriation:
+This appropriation would be expended for the payment of salary, per diem and
+mileage for the eight legislators appointed to the task force. The above estimate
+assumes meeting days in FY 2025 and FY 2026.
+DETAIL OF APPROPRIATION
+Agency #: 001 Agency Name: Governor's Office
+Unit: 0125 Governor's Office Task Forces
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $600 $900 $0
+0200 Supportive Services Costs $7,400 $11,100 $0
+Total Expenditure Per Year: $8,000 $12,000 $0
+Grand Total Expenditure: $20,000
+Total Appropriated to Agency: $20,000
+Total Appropriated by Fund:
+GENERAL FUND $20,000
+Description of appropriation:
+The appropriation would be expended for the payment of salary, per diem and
+mileage for two nonlegislative members of the task force. The above estimate
+assumes meeting days in FY 2025 and FY 2026.
+SF0068
+Government owned lands. 25LSO-0362, 1.0
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+SCHOOL FOUNDATION FUND ($1,900,000) ($1,900,000) ($0)
+AD VALOREM TAX (local taxing entities) ($1,100,000) ($1,100,000) ($0)
+Source of revenue (decrease):
+This bill creates a property tax exemption for lands owned by the state of
+Wyoming regardless of the use of the lands. This exemption shall apply to the tax
+year beginning January 1, 2025 and is repealed January 1, 2027. The estimated
+decreases in property tax revenues to the School Foundation Program (SFP) and to
+other local taxing entities are provided in the above table.
+The SFP will experience a revenue decrease from the 43 mills supporting K-12
+public education, which include the statewide 12 mill levy, the school district
+25 mill levy, and the countywide 6 mill levy. For purposes of this analysis, the
+decrease in property tax revenues to the SFP is shown as an absolute revenue
+decrease in lieu of estimating the school district recapture revenue decrease and
+school district entitlement expenditure increase separately.
+Source of expenditure (decrease):
+This bill will also result in a corresponding expenditure decrease in FY 2026 and
+FY 2027 from the SFP and other state funds. The Governor’s supplemental budget
+recommendation includes a $3.0 million appropriation in the Office of State Lands
+and Investments (OSLI) budget to pay property taxes on lands owned by the state.
+Assumptions:
+The above estimate was provided by the Department of Revenue (DOR) based on data
+from OSLI, the Natural Resources Conservation Service (NRCS) and DOR’s annual
+agricultural land valuation study. The estimates are based on the highest value
+for each land resource area and soil class of range land found in the DOR study.
+Based on the information above, this bill would decrease total property taxes by
+approximately $3.0 million in tax years 2025 and 2026 (FY 2026 and 2027). Of the
+estimated total impact, the decreased revenue from the 43 mills supporting the
+SFP is approximately $1.9 million in tax years 2025 and 2026 (FY 2026 and FY27).
+The DOR indicates that the lands owned by the state of Wyoming exempt under this
+bill were probably not on the property tax rolls in prior years.
+The OSLI states there has not been an assessment done by county assessors to
+estimate the tax burden on lands owned by the state. There also has not been
+guidance given by the Board of Land Commissioners on how any tax burden could be
+passed through to the lessees of state lands, or an inventory of existing leases
+that already carry such a pass-through provision.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Rory L. Horsley, Governor's Office, 777-5010;
+Kenneth Guille, Department of Revenue, 777-5235;
+Jason Crowder, Office of State Lands and Investments, 777-3428)
+SF0068
+
+
+================================================================================
+
+Raw Text:
+Government owned lands. 25LSO-0362, 1.0
+FISCAL NOTE
+This bill contains an appropriation of $45,000 from the GENERAL FUND to the
+Legislative Service Office. This appropriation is effective immediately.
+This bill contains an appropriation of $20,000 from the GENERAL FUND to the
+Governor's Office. This appropriation is effective immediately.
+DETAIL OF APPROPRIATION
+Agency #: 201 Agency Name: Legislative Service Office
+Unit: 0101 Administration
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $5,200 $10,300 $0
+0200 Supportive Services Costs $9,100 $18,200 $0
+Total Expenditure Per Year: $14,300 $28,500 $0
+Grand Total Expenditure: $42,800
+Total Appropriated to Agency: $45,000
+Total Appropriated by Fund:
+GENERAL FUND $45,000
+Description of appropriation:
+This appropriation would be expended for the payment of salary, per diem and
+mileage for the eight legislators appointed to the task force. The above estimate
+assumes meeting days in FY 2025 and FY 2026.
+DETAIL OF APPROPRIATION
+Agency #: 001 Agency Name: Governor's Office
+Unit: 0125 Governor's Office Task Forces
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $600 $900 $0
+0200 Supportive Services Costs $7,400 $11,100 $0
+Total Expenditure Per Year: $8,000 $12,000 $0
+Grand Total Expenditure: $20,000
+Total Appropriated to Agency: $20,000
+Total Appropriated by Fund:
+GENERAL FUND $20,000
+Description of appropriation:
+The appropriation would be expended for the payment of salary, per diem and
+mileage for two nonlegislative members of the task force. The above estimate
+assumes meeting days in FY 2025 and FY 2026.
+SF0068
+
+Government owned lands. 25LSO-0362, 1.0
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+SCHOOL FOUNDATION FUND ($1,900,000) ($1,900,000) ($0)
+AD VALOREM TAX (local taxing entities) ($1,100,000) ($1,100,000) ($0)
+Source of revenue (decrease):
+This bill creates a property tax exemption for lands owned by the state of
+Wyoming regardless of the use of the lands. This exemption shall apply to the tax
+year beginning January 1, 2025 and is repealed January 1, 2027. The estimated
+decreases in property tax revenues to the School Foundation Program (SFP) and to
+other local taxing entities are provided in the above table.
+The SFP will experience a revenue decrease from the 43 mills supporting K-12
+public education, which include the statewide 12 mill levy, the school district
+25 mill levy, and the countywide 6 mill levy. For purposes of this analysis, the
+decrease in property tax revenues to the SFP is shown as an absolute revenue
+decrease in lieu of estimating the school district recapture revenue decrease and
+school district entitlement expenditure increase separately.
+Source of expenditure (decrease):
+This bill will also result in a corresponding expenditure decrease in FY 2026 and
+FY 2027 from the SFP and other state funds. The Governor’s supplemental budget
+recommendation includes a $3.0 million appropriation in the Office of State Lands
+and Investments (OSLI) budget to pay property taxes on lands owned by the state.
+Assumptions:
+The above estimate was provided by the Department of Revenue (DOR) based on data
+from OSLI, the Natural Resources Conservation Service (NRCS) and DOR’s annual
+agricultural land valuation study. The estimates are based on the highest value
+for each land resource area and soil class of range land found in the DOR study.
+Based on the information above, this bill would decrease total property taxes by
+approximately $3.0 million in tax years 2025 and 2026 (FY 2026 and 2027). Of the
+estimated total impact, the decreased revenue from the 43 mills supporting the
+SFP is approximately $1.9 million in tax years 2025 and 2026 (FY 2026 and FY27).
+The DOR indicates that the lands owned by the state of Wyoming exempt under this
+bill were probably not on the property tax rolls in prior years.
+The OSLI states there has not been an assessment done by county assessors to
+estimate the tax burden on lands owned by the state. There also has not been
+guidance given by the Board of Land Commissioners on how any tax burden could be
+passed through to the lessees of state lands, or an inventory of existing leases
+that already carry such a pass-through provision.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Rory L. Horsley, Governor's Office, 777-5010;
+Kenneth Guille, Department of Revenue, 777-5235;
+Jason Crowder, Office of State Lands and Investments, 777-3428)
+SF0068

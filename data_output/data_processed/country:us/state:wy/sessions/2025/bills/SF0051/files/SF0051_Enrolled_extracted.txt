@@ -1,0 +1,1130 @@
+Title: AN ACT relating to the Wyoming telecommunications act;
+Official Title: AN ACT relating to the Wyoming telecommunications act;
+Number of Sections: 7
+Source: versions - Enrolled
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+extending the sunset date of the act; amending definitions;
+specifying the application of the act; specifying
+requirements for providing price schedules to the public
+service commission; providing a limitation on local
+governments entering an exclusive agreement for provision
+of broadband internet access service; amending the price
+benchmark and credit requirements for the universal service
+fund; repealing conflicting provisions; and providing for
+an effective date.
+Be It Enacted by the Legislature of the State of Wyoming:
+
+Section 2:
+Section 1. W.S. 37-15-101(b), 37-15-103(a)(iv)(E), by
+creating a new subparagraph (F), (viii), (ix), (xiv) and by
+creating new paragraphs (xviii) and (xix),
+37-15-104(a)(intro), by creating a new subsection (b) and
+by amending and renumbering (b) as (c), 37-15-105(c),
+37-15-202(a)(intro), (d)(intro) and (i), 37-15-203(f)(iv),
+37-15-204(a), 37-15-404(c), (e)(i), (v), (vi) and by
+creating a new paragraph (vii), 37-15-405, 37-15-406(b),
+37-15-413(a)(intro), (i) through (iii), (b), (c)(intro),
+(d) and (e)(ii), 37-15-501(c), (d), (g) and (h) and
+37-15-502(a)(intro), (i) and (iii) are amended to read:
+37-15-101. Short title; sunset.
+(b) This chapter is repealed effective July 1, 2025
+July 1, 2031.
+37-15-103. Definitions.
+(a) As used in this chapter:
+1
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(iv) "Essential telecommunications service"
+means a customer's access to service that is necessary for
+the origination or termination, or both, of two-way,
+switched telecommunications for both residential and
+business service within a local exchange area. Essential
+telecommunications services are limited to:
+(E) Switched access, which for the purposes
+of this chapter shall mean the switching and transport
+necessary to connect an interexchange telecommunications
+company with the local exchange central office for the
+purpose of originating or terminating, or both, the
+interexchange telecommunications company's switched
+telecommunications service;. and
+(F) Local exchange service.
+(viii) "Local exchange service" means the
+provision of essential telecommunications residential or
+business service within a local exchange area capable of
+providing:;
+(A) Access to interexchange services
+provided by interexchange telecommunications companies;
+(B) Single line flat-rate or single line
+measured residential or business voice service;
+(C) Transmission service and facilities
+necessary for the connection between the end user's or
+customer's premises and local network switching facility
+including the necessary signaling service used by customers
+to access essential telecommunications services;
+2
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(D) Services necessary to connect 911
+emergency services to the local network.
+(ix) "Noncompetitive essential
+telecommunications services" means those essential
+telecommunications services at locations which have not
+been found by the legislature or the commission to be
+competitive in accordance with W.S. 37-15-202;
+(xiv) "Universal service" means the general
+availability of essential telecommunications local exchange
+service at an affordable and reasonable price;
+(xviii) "Broadband internet access service"
+means a mass-market retail service by wire or radio that
+provides the capability to transmit data to and receive
+data from all or substantially all internet endpoints,
+including any capabilities that are incidental to and
+enable the operation of the communications service.
+"Broadband internet access service" shall not include
+dial-up internet access service;
+(xix) "Noncompetitive local exchange service"
+means local exchange service at locations which have not
+been found by the legislature or the commission to be
+competitive in accordance with W.S. 37-15-202.
+37-15-104. Services regulated by this title.
+(a) Except to the extent otherwise provided in this
+
+Section 3:
+section, the provisions of this title shall only apply to
+noncompetitive essential telecommunications services. All
+telecommunications services shall be subject to
+contributions to the universal service fund required
+pursuant to W.S. 37-15-501, the requirements of W.S.
+3
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+37-15-202(h), 37-15-401, 37-15-404, 37-15-412 and
+37-15-413, the requirements of W.S. 37-15-105 for voice
+over internet protocol and IP enabled services and the
+assessment levied pursuant to W.S. 37-2-106 through
+37-2-109., telecommunications service does not include, and
+the provisions of this title do not apply to:
+(b) The provisions of this title do not apply to
+telecommunications services using radio spectrum, cellular
+or other wireless technology except to the extent provided
+in paragraphs (i) through (iv) of this subsection:
+(i) To the extent permitted in accordance with
+the requirements of federal law relating to the
+consideration and determination of an application for
+designation as a federal eligible telecommunications
+carrier;
+(ii) Determinations of eligibility for and
+amounts of distribution of state universal service funds in
+accordance with W.S. 37-15-502;
+(iii) Any required contributions to the
+universal service fund under W.S. 37-15-501;
+(iv) Any required assessment levied under W.S.
+37-2-106 through 37-2-109.
+(b)(c) In addition to subsection (a) of this section,
+telecommunications service does not include, and The
+provisions of this title do not apply to:
+(i) Telecommunications services provided by the
+department of enterprise technology to private health care
+providers under W.S. 9-2-2906(j);. or
+4
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(ii) Private telecommunications networks. As
+used in this paragraph, "private telecommunications
+network" means a system for the provision of
+telecommunications service by a person for the sole and
+exclusive use of the person and not for resale either
+directly or indirectly.
+37-15-105. VoIP and internet protocol enabled
+services.
+(c) If a service provider voluntarily chooses to
+receive Wyoming universal service funds to support voice
+over internet protocol service that otherwise qualifies for
+support pursuant to W.S. 37-15-501 or 37-15-502, then that
+supported voice over internet protocol service shall be
+subject to all laws and rules governing the receipt of such
+funds, and the support provided to those services shall not
+exceed the support that would be provided to eligible
+noncompetitive essential local exchange services on a
+per-access-line basis.
+37-15-202. Determination of competitive services.
+(a) Upon petition by any telecommunications company
+or pursuant to the commission's own motion, the commission
+may, after notice and opportunity for hearing, find and
+conclude that a telecommunications service is subject to
+competition or that local exchange service is competitive
+in certain locations. Any service found to be effectively
+competitive pursuant to this section shall not be subject
+to regulation by the commission. Any location deemed to
+have effective competition for local exchange service shall
+be ineligible for universal service fund support except
+that a telecommunications carrier may continue to receive
+5
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+universal service support for noncompetitive locations
+pursuant to W.S. 37-15-501 and that support shall account
+for price and cost adjustments necessary because of the
+competitive classification of formerly supported locations.
+The commission shall consider only the following factors in
+determining whether a telecommunications service is subject
+to effective competition:
+(d) Notwithstanding subsection (a) of this section
+the commission shall, in an area defined by an applicant,
+find retail telecommunications local exchange services
+other than switched access are competitive provided:
+(i) At least seventy-five percent (75%) of the
+class of customers in the area have access to at least one
+(1) landline carrier unaffiliated with the applicant
+providing local voice exchange service. The local voice
+exchange service may be provided in combination with other
+services. If a company does not differentiate between
+residential and business classes of service in its
+application, the requirement shall be that at least sixty
+percent (60%), considering residential and business
+customers as one (1) class of customers, have access to at
+least one (1) landline carrier unaffiliated with the
+applicant;
+37-15-203. Price regulation of noncompetitive
+essential services.
+(f) A local exchange company may seek approval to
+increase the price of noncompetitive essential
+telecommunications services, including switched access
+charges, based on:
+6
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(iv) Increases in the cost of providing
+essential telecommunications services. The increases shall
+be judged on the overall federal gross domestic product
+price index published by the United States department of
+commerce, bureau of economic analysis unless the applicant
+demonstrates that specific cost increases are
+disproportionably affecting the cost of providing their
+noncompetitive essential telecommunications services.
+37-15-204. Price schedules.
+(a) A local exchange company shall post on its
+website and file with the commission, in such form and
+detail as in electronic format to the commission may
+require, price schedules showing all noncompetitive
+essential telecommunications services terms, conditions and
+prices currently in effect and charged to customers by the
+company in this state. All prices for new noncompetitive
+essential telecommunications services, and any increase in
+prices for noncompetitive essential telecommunications
+services as authorized by the commission pursuant to W.S.
+37-15-203, shall be filed with the commission for approval
+thirty (30) days prior to the proposed effective date. The
+company shall also provide notice to each impacted customer
+electronically or in print using the same manner the
+customer receives bills from the company. No price increase
+for a noncompetitive essential telecommunications service
+shall be effective unless the customer has been given
+notice by the provider at least one (1) full billing cycle
+prior to the proposed increase and the increase has been
+approved by the commission as required by W.S. 37-15-203.
+No price or price change is effective until filed in
+accordance with this section. For purposes of this
+subsection, the rules, regulations, policies, practices and
+other requirements relating to services shall be posted on
+7
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+a local exchange company's website and filed with the
+commission in such form and detail as a simplified format
+which is not required to comply with the tariff formatting
+standards that were previously adopted by the commission.
+may require A local exchange company shall not be required
+to file or maintain paper copies of its price schedule with
+the commission. Rules, regulations, policies, practices
+and other requirements relating to noncompetitive essential
+telecommunications services shall be subject to the same
+requirements under this chapter as the prices of
+noncompetitive essential telecommunications services.
+37-15-404. Protection of telecommunications
+consumers.
+(c) A telecommunications company providing a
+noncompetitive essential telecommunications service shall
+not discontinue providing the service without the
+commission's approval.
+(e) The commission may adopt rules and regulations to
+provide for:
+(i) The interconnection of telecommunications
+companies' networks at nondiscriminatory and reasonable
+rates, terms and conditions, including interconnection
+under 47 U.S.C. §§ 251 and 252;
+(v) Telephone number portability to the full
+extent technically feasible; and
+(vi) The resale and sharing of services and
+functions at reasonable and nondiscriminatory rates;. and
+8
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(vii) Rates, terms and conditions of wholesale
+service.
+37-15-405. Complaint against prices.
+Any person, and the commission on its own motion, may
+complain to the commission concerning the reasonableness of
+the price of any noncompetitive essential
+telecommunications service or any violation of W.S.
+37-15-404. Any notice and hearing of any complaint shall
+be in accordance with the Wyoming Administrative Procedure
+Act and this chapter. The commission shall only set aside
+any price it finds after notice and hearing to be
+unreasonable or unreasonably discriminatory. If the
+commission sets aside a price as unreasonable or
+unreasonably discriminatory, the telecommunications company
+shall have sixty (60) days to file a new price which is
+reasonable. The company shall refund any charges found to
+be unreasonable as ordered by the commission. Rates or
+prices for noncompetitive essential telecommunications
+services in effect as of July 1, 2006, are deemed to be
+fair and reasonable.
+37-15-406. Quality of service.
+(b) Any customer, and the commission on its own
+motion, may complain concerning the quality of service
+provided by a telecommunications company for noncompetitive
+essential telecommunications service. A complaint shall be
+noticed and heard as provided for in the Wyoming
+Administrative Procedure Act. The commission, after notice
+and hearing, may direct the telecommunications company to
+take whatever remedial action is technically feasible and
+economically reasonable to provide reasonably adequate
+service. The commission shall authorize a
+9
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+telecommunications provider to recover the cost of
+compliance as reasonably determined by any commission order
+under this section.
+37-15-413. Limitation on authority of political
+subdivision to enter exclusive agreement for provision of
+telecommunications service or broadband internet access
+service.
+(a) Except as provided in subsections (b) through (d)
+of this section, before the governing body of any city or
+town or other political subdivision of this state shall
+provide for the construction, maintenance or operation of
+any telecommunications service or broadband internet access
+service by entering into an exclusive franchise,
+partnership, joint venture, contract, resale agreement or
+any other exclusive agreement with any party regarding
+telecommunications service or broadband internet access
+service, the city, town or other political subdivision
+shall:
+(i) Determine, after notice and opportunity for
+a public hearing, that no private provider of
+telecommunications services or broadband internet access
+services, as applicable, is currently providing
+substantially the same or similar service anywhere within
+the boundaries of the city, town or political subdivision;
+(ii) Have submitted a written request to all
+private providers of telecommunications services or
+broadband internet access services within the boundaries of
+the city, town or political subdivision for provision of
+the same quality and grade of telecommunications service or
+broadband internet access service within the same time
+10
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+frame and at the same consumer prices proposed under the
+exclusive contract;
+(iii) Determine, after notice and opportunity
+for a public hearing that the private telecommunications
+service or broadband internet access service providers have
+not agreed within ninety (90) days of the receipt of the
+request submitted pursuant to paragraph (ii) of this
+subsection to provide the same quality and grade of service
+within the same time frame and at the same consumer prices
+as proposed under the exclusive contract, or if the
+provider has agreed, that the provider has not commenced
+providing or constructing facilities to provide the service
+in the manner agreed upon; and
+(b) The governing body of a city or town or other
+political subdivision shall allow the nondiscriminatory,
+nonexclusive and competitively neutral use of its
+rights-of-way including its poles, conduits, ducts or
+similar support structures by any telecommunications
+company or broadband internet access company and nothing in
+this section shall be construed to the contrary.
+(c) Nothing in this section shall restrict the
+governing body of a city or town, or other political
+subdivision, from providing a telecommunications service, a
+broadband internet access service or a related facility:
+(d) Nothing in this section shall be construed to
+restrict the governing body of a city or town or other
+political subdivision, from providing a telecommunications
+service or broadband internet access service to a party
+within the geographic area in which the city, town or
+political subdivision operates as a telecommunications
+11
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+utility. Any city, town or political subdivision providing
+a telecommunications service under this subsection shall:
+(i) Provide the telecommunications service or
+broadband internet access service on a nondiscriminatory,
+nonexclusive and competitively neutral basis; and
+(ii) Provide the telecommunications service or
+broadband internet access service at a price which covers
+cost, including imputed costs that the city, town or
+political subdivision would incur if it were a for-profit
+telecommunications company.
+(e) Any person may complain to the commission, and
+the commission may on its own motion initiate an
+investigation, concerning any alleged violation of this
+
+Section 4:
+section by a city, town or political subdivision, subject
+to the following:
+(ii) If the city, town or political subdivision
+does not cure the anticompetitive behavior within ninety
+(90) days, the commission shall commence a contested case
+hearing on the complaint, governed by the Wyoming
+Administrative Procedure Act, W.S. 16-3-101 et seq. If,
+following the hearing, the commission finds that the city,
+town or political subdivision has violated this section,
+the commission shall prohibit the city, town or political
+subdivision from providing any telecommunications service
+or broadband internet access service until the violation of
+this section is remedied.
+37-15-501. Universal service fund created;
+contributions; administration.
+12
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(c) The commission shall administer the monies in the
+universal service fund to assist only those customers of
+telecommunications companies located in areas of this state
+with relatively high rates for noncompetitive essential
+local exchange services. Services deemed competitive under
+W.S. 37-15-202(a), (c) or (d) shall not be eligible for
+universal service fund support under this article. The
+commission, after notice and opportunity for hearing, shall
+determine a reasonable amount and a fair method of
+distributing monies. The commission may authorize a credit
+to customer bills, in the amount specified by the
+commission, to reflect distributions received by the local
+exchange company from the universal service fund, provided
+that the credit is given only to one (1) line for each
+customer or household. The commission shall ensure that
+the method shall promote the emergence of competition in
+providing local exchange service.
+(d) In accordance with the method of distribution
+determined by the commission, a telecommunications company
+shall, unless it elects to receive Wyoming universal
+service funds pursuant to the method set forth in
+subsection (g) of this section, receive funds under this
+
+Section 5:
+section to the extent that its noncompetitive essential
+local exchange service prices, after consideration of any
+contributions from the federal universal service fund,
+exceed the price benchmark established in subsection (h) of
+this section.
+(g) A telecommunications company that undertakes the
+requirements set forth in this subsection may make a
+one-time, irrevocable before July 1, 2023, election in
+writing to the commission to receive Wyoming universal
+service funds pursuant to this subsection rather than
+pursuant to subsection (d) of this section. In order to
+13
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+receive funds pursuant to this subsection, the company
+shall provide essential noncompetitive local exchange
+service, or its functional equivalent, upon reasonable
+request throughout the local exchange area of a rural
+incumbent local exchange carrier, as defined by the federal
+communications commission on January 1, 2015, at a price
+not exceeding the price benchmark established in subsection
+(h) of this section. A telecommunications company which
+elects to receive Wyoming universal service funds pursuant
+to this subsection shall receive funds to the extent that
+its loop costs, as reflected in the company's most recent
+annual filing of unseparated loop costs filed with the
+Universal Service Administration Company, exceed the
+company's most recent annual federal universal service
+funds receipts and annual local revenues. In calculating
+annual local revenues the commission shall utilize the
+imputed price benchmark established in subsection (h) of
+this section. If an otherwise qualified company elects to
+receive Wyoming universal service funds pursuant to this
+subsection, but does not file an annual unseparated loop
+cost report with the Universal Service Administration
+Company, it shall file the equivalent information with the
+commission.
+(h) The price benchmark shall be thirty dollars
+($30.00) thirty‑five dollars ($35.00) unless otherwise
+adjusted by the commission pursuant to this subsection.
+The commission shall review the price benchmark one (1)
+time every four (4) years and, after review, shall adjust
+the benchmark as necessary to assure that it approximates
+one hundred thirty percent (130%) of the weighted statewide
+average essential local exchange service price. The
+commission may change the price benchmark at any time if,
+after notice and opportunity for a hearing, the commission
+determines that the price benchmark does not approximate
+14
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+one hundred thirty percent (130%) of the weighted statewide
+average essential local exchange service price and that the
+price benchmark should be adjusted by ten percent (10%) or
+more.
+37-15-502. Universal service fund eligibility and
+distribution to carriers.
+(a) Telecommunications companies which use cellular,
+radio spectrum or other wireless technology to provide
+supported essential services to customers who are otherwise
+eligible to receive universal service support pursuant to
+W.S. 37-15-501, may establish eligibility to receive
+universal service fund distributions in an amount to be
+determined by the commission, provided that:
+(i) The telecommunications company will offer
+and advertise all services supported by the universal
+service fund supported services throughout the entire local
+exchange area;
+(iii) The telecommunications company's bill to
+the customer reflects a credit for the amount of
+distribution the company receives from the state universal
+service fund for providing services supported by the
+universal service fund supported services to that customer;
+and
+
+Section 6:
+Section 2. W.S. 37-15-103(a)(iv)(A) through (D) and
+(xvi) and 37-15-104(a)(i) through (xiii) are repealed.
+15
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+
+Section 7:
+Section 3. This act is effective July 1, 2025.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the Senate.
+Chief Clerk
+16
+
+
+================================================================================
+
+Raw Text:
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+AN ACT relating to the Wyoming telecommunications act;
+extending the sunset date of the act; amending definitions;
+specifying the application of the act; specifying
+requirements for providing price schedules to the public
+service commission; providing a limitation on local
+governments entering an exclusive agreement for provision
+of broadband internet access service; amending the price
+benchmark and credit requirements for the universal service
+fund; repealing conflicting provisions; and providing for
+an effective date.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 37-15-101(b), 37-15-103(a)(iv)(E), by
+creating a new subparagraph (F), (viii), (ix), (xiv) and by
+creating new paragraphs (xviii) and (xix),
+37-15-104(a)(intro), by creating a new subsection (b) and
+by amending and renumbering (b) as (c), 37-15-105(c),
+37-15-202(a)(intro), (d)(intro) and (i), 37-15-203(f)(iv),
+37-15-204(a), 37-15-404(c), (e)(i), (v), (vi) and by
+creating a new paragraph (vii), 37-15-405, 37-15-406(b),
+37-15-413(a)(intro), (i) through (iii), (b), (c)(intro),
+(d) and (e)(ii), 37-15-501(c), (d), (g) and (h) and
+37-15-502(a)(intro), (i) and (iii) are amended to read:
+37-15-101. Short title; sunset.
+(b) This chapter is repealed effective July 1, 2025
+July 1, 2031.
+37-15-103. Definitions.
+(a) As used in this chapter:
+1
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(iv) "Essential telecommunications service"
+means a customer's access to service that is necessary for
+the origination or termination, or both, of two-way,
+switched telecommunications for both residential and
+business service within a local exchange area. Essential
+telecommunications services are limited to:
+(E) Switched access, which for the purposes
+of this chapter shall mean the switching and transport
+necessary to connect an interexchange telecommunications
+company with the local exchange central office for the
+purpose of originating or terminating, or both, the
+interexchange telecommunications company's switched
+telecommunications service;. and
+(F) Local exchange service.
+(viii) "Local exchange service" means the
+provision of essential telecommunications residential or
+business service within a local exchange area capable of
+providing:;
+(A) Access to interexchange services
+provided by interexchange telecommunications companies;
+(B) Single line flat-rate or single line
+measured residential or business voice service;
+(C) Transmission service and facilities
+necessary for the connection between the end user's or
+customer's premises and local network switching facility
+including the necessary signaling service used by customers
+to access essential telecommunications services;
+2
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(D) Services necessary to connect 911
+emergency services to the local network.
+(ix) "Noncompetitive essential
+telecommunications services" means those essential
+telecommunications services at locations which have not
+been found by the legislature or the commission to be
+competitive in accordance with W.S. 37-15-202;
+(xiv) "Universal service" means the general
+availability of essential telecommunications local exchange
+service at an affordable and reasonable price;
+(xviii) "Broadband internet access service"
+means a mass-market retail service by wire or radio that
+provides the capability to transmit data to and receive
+data from all or substantially all internet endpoints,
+including any capabilities that are incidental to and
+enable the operation of the communications service.
+"Broadband internet access service" shall not include
+dial-up internet access service;
+(xix) "Noncompetitive local exchange service"
+means local exchange service at locations which have not
+been found by the legislature or the commission to be
+competitive in accordance with W.S. 37-15-202.
+37-15-104. Services regulated by this title.
+(a) Except to the extent otherwise provided in this
+section, the provisions of this title shall only apply to
+noncompetitive essential telecommunications services. All
+telecommunications services shall be subject to
+contributions to the universal service fund required
+pursuant to W.S. 37-15-501, the requirements of W.S.
+3
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+37-15-202(h), 37-15-401, 37-15-404, 37-15-412 and
+37-15-413, the requirements of W.S. 37-15-105 for voice
+over internet protocol and IP enabled services and the
+assessment levied pursuant to W.S. 37-2-106 through
+37-2-109., telecommunications service does not include, and
+the provisions of this title do not apply to:
+(b) The provisions of this title do not apply to
+telecommunications services using radio spectrum, cellular
+or other wireless technology except to the extent provided
+in paragraphs (i) through (iv) of this subsection:
+(i) To the extent permitted in accordance with
+the requirements of federal law relating to the
+consideration and determination of an application for
+designation as a federal eligible telecommunications
+carrier;
+(ii) Determinations of eligibility for and
+amounts of distribution of state universal service funds in
+accordance with W.S. 37-15-502;
+(iii) Any required contributions to the
+universal service fund under W.S. 37-15-501;
+(iv) Any required assessment levied under W.S.
+37-2-106 through 37-2-109.
+(b)(c) In addition to subsection (a) of this section,
+telecommunications service does not include, and The
+provisions of this title do not apply to:
+(i) Telecommunications services provided by the
+department of enterprise technology to private health care
+providers under W.S. 9-2-2906(j);. or
+4
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(ii) Private telecommunications networks. As
+used in this paragraph, "private telecommunications
+network" means a system for the provision of
+telecommunications service by a person for the sole and
+exclusive use of the person and not for resale either
+directly or indirectly.
+37-15-105. VoIP and internet protocol enabled
+services.
+(c) If a service provider voluntarily chooses to
+receive Wyoming universal service funds to support voice
+over internet protocol service that otherwise qualifies for
+support pursuant to W.S. 37-15-501 or 37-15-502, then that
+supported voice over internet protocol service shall be
+subject to all laws and rules governing the receipt of such
+funds, and the support provided to those services shall not
+exceed the support that would be provided to eligible
+noncompetitive essential local exchange services on a
+per-access-line basis.
+37-15-202. Determination of competitive services.
+(a) Upon petition by any telecommunications company
+or pursuant to the commission's own motion, the commission
+may, after notice and opportunity for hearing, find and
+conclude that a telecommunications service is subject to
+competition or that local exchange service is competitive
+in certain locations. Any service found to be effectively
+competitive pursuant to this section shall not be subject
+to regulation by the commission. Any location deemed to
+have effective competition for local exchange service shall
+be ineligible for universal service fund support except
+that a telecommunications carrier may continue to receive
+5
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+universal service support for noncompetitive locations
+pursuant to W.S. 37-15-501 and that support shall account
+for price and cost adjustments necessary because of the
+competitive classification of formerly supported locations.
+The commission shall consider only the following factors in
+determining whether a telecommunications service is subject
+to effective competition:
+(d) Notwithstanding subsection (a) of this section
+the commission shall, in an area defined by an applicant,
+find retail telecommunications local exchange services
+other than switched access are competitive provided:
+(i) At least seventy-five percent (75%) of the
+class of customers in the area have access to at least one
+(1) landline carrier unaffiliated with the applicant
+providing local voice exchange service. The local voice
+exchange service may be provided in combination with other
+services. If a company does not differentiate between
+residential and business classes of service in its
+application, the requirement shall be that at least sixty
+percent (60%), considering residential and business
+customers as one (1) class of customers, have access to at
+least one (1) landline carrier unaffiliated with the
+applicant;
+37-15-203. Price regulation of noncompetitive
+essential services.
+(f) A local exchange company may seek approval to
+increase the price of noncompetitive essential
+telecommunications services, including switched access
+charges, based on:
+6
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(iv) Increases in the cost of providing
+essential telecommunications services. The increases shall
+be judged on the overall federal gross domestic product
+price index published by the United States department of
+commerce, bureau of economic analysis unless the applicant
+demonstrates that specific cost increases are
+disproportionably affecting the cost of providing their
+noncompetitive essential telecommunications services.
+37-15-204. Price schedules.
+(a) A local exchange company shall post on its
+website and file with the commission, in such form and
+detail as in electronic format to the commission may
+require, price schedules showing all noncompetitive
+essential telecommunications services terms, conditions and
+prices currently in effect and charged to customers by the
+company in this state. All prices for new noncompetitive
+essential telecommunications services, and any increase in
+prices for noncompetitive essential telecommunications
+services as authorized by the commission pursuant to W.S.
+37-15-203, shall be filed with the commission for approval
+thirty (30) days prior to the proposed effective date. The
+company shall also provide notice to each impacted customer
+electronically or in print using the same manner the
+customer receives bills from the company. No price increase
+for a noncompetitive essential telecommunications service
+shall be effective unless the customer has been given
+notice by the provider at least one (1) full billing cycle
+prior to the proposed increase and the increase has been
+approved by the commission as required by W.S. 37-15-203.
+No price or price change is effective until filed in
+accordance with this section. For purposes of this
+subsection, the rules, regulations, policies, practices and
+other requirements relating to services shall be posted on
+7
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+a local exchange company's website and filed with the
+commission in such form and detail as a simplified format
+which is not required to comply with the tariff formatting
+standards that were previously adopted by the commission.
+may require A local exchange company shall not be required
+to file or maintain paper copies of its price schedule with
+the commission. Rules, regulations, policies, practices
+and other requirements relating to noncompetitive essential
+telecommunications services shall be subject to the same
+requirements under this chapter as the prices of
+noncompetitive essential telecommunications services.
+37-15-404. Protection of telecommunications
+consumers.
+(c) A telecommunications company providing a
+noncompetitive essential telecommunications service shall
+not discontinue providing the service without the
+commission's approval.
+(e) The commission may adopt rules and regulations to
+provide for:
+(i) The interconnection of telecommunications
+companies' networks at nondiscriminatory and reasonable
+rates, terms and conditions, including interconnection
+under 47 U.S.C. §§ 251 and 252;
+(v) Telephone number portability to the full
+extent technically feasible; and
+(vi) The resale and sharing of services and
+functions at reasonable and nondiscriminatory rates;. and
+8
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(vii) Rates, terms and conditions of wholesale
+service.
+37-15-405. Complaint against prices.
+Any person, and the commission on its own motion, may
+complain to the commission concerning the reasonableness of
+the price of any noncompetitive essential
+telecommunications service or any violation of W.S.
+37-15-404. Any notice and hearing of any complaint shall
+be in accordance with the Wyoming Administrative Procedure
+Act and this chapter. The commission shall only set aside
+any price it finds after notice and hearing to be
+unreasonable or unreasonably discriminatory. If the
+commission sets aside a price as unreasonable or
+unreasonably discriminatory, the telecommunications company
+shall have sixty (60) days to file a new price which is
+reasonable. The company shall refund any charges found to
+be unreasonable as ordered by the commission. Rates or
+prices for noncompetitive essential telecommunications
+services in effect as of July 1, 2006, are deemed to be
+fair and reasonable.
+37-15-406. Quality of service.
+(b) Any customer, and the commission on its own
+motion, may complain concerning the quality of service
+provided by a telecommunications company for noncompetitive
+essential telecommunications service. A complaint shall be
+noticed and heard as provided for in the Wyoming
+Administrative Procedure Act. The commission, after notice
+and hearing, may direct the telecommunications company to
+take whatever remedial action is technically feasible and
+economically reasonable to provide reasonably adequate
+service. The commission shall authorize a
+9
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+telecommunications provider to recover the cost of
+compliance as reasonably determined by any commission order
+under this section.
+37-15-413. Limitation on authority of political
+subdivision to enter exclusive agreement for provision of
+telecommunications service or broadband internet access
+service.
+(a) Except as provided in subsections (b) through (d)
+of this section, before the governing body of any city or
+town or other political subdivision of this state shall
+provide for the construction, maintenance or operation of
+any telecommunications service or broadband internet access
+service by entering into an exclusive franchise,
+partnership, joint venture, contract, resale agreement or
+any other exclusive agreement with any party regarding
+telecommunications service or broadband internet access
+service, the city, town or other political subdivision
+shall:
+(i) Determine, after notice and opportunity for
+a public hearing, that no private provider of
+telecommunications services or broadband internet access
+services, as applicable, is currently providing
+substantially the same or similar service anywhere within
+the boundaries of the city, town or political subdivision;
+(ii) Have submitted a written request to all
+private providers of telecommunications services or
+broadband internet access services within the boundaries of
+the city, town or political subdivision for provision of
+the same quality and grade of telecommunications service or
+broadband internet access service within the same time
+10
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+frame and at the same consumer prices proposed under the
+exclusive contract;
+(iii) Determine, after notice and opportunity
+for a public hearing that the private telecommunications
+service or broadband internet access service providers have
+not agreed within ninety (90) days of the receipt of the
+request submitted pursuant to paragraph (ii) of this
+subsection to provide the same quality and grade of service
+within the same time frame and at the same consumer prices
+as proposed under the exclusive contract, or if the
+provider has agreed, that the provider has not commenced
+providing or constructing facilities to provide the service
+in the manner agreed upon; and
+(b) The governing body of a city or town or other
+political subdivision shall allow the nondiscriminatory,
+nonexclusive and competitively neutral use of its
+rights-of-way including its poles, conduits, ducts or
+similar support structures by any telecommunications
+company or broadband internet access company and nothing in
+this section shall be construed to the contrary.
+(c) Nothing in this section shall restrict the
+governing body of a city or town, or other political
+subdivision, from providing a telecommunications service, a
+broadband internet access service or a related facility:
+(d) Nothing in this section shall be construed to
+restrict the governing body of a city or town or other
+political subdivision, from providing a telecommunications
+service or broadband internet access service to a party
+within the geographic area in which the city, town or
+political subdivision operates as a telecommunications
+11
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+utility. Any city, town or political subdivision providing
+a telecommunications service under this subsection shall:
+(i) Provide the telecommunications service or
+broadband internet access service on a nondiscriminatory,
+nonexclusive and competitively neutral basis; and
+(ii) Provide the telecommunications service or
+broadband internet access service at a price which covers
+cost, including imputed costs that the city, town or
+political subdivision would incur if it were a for-profit
+telecommunications company.
+(e) Any person may complain to the commission, and
+the commission may on its own motion initiate an
+investigation, concerning any alleged violation of this
+section by a city, town or political subdivision, subject
+to the following:
+(ii) If the city, town or political subdivision
+does not cure the anticompetitive behavior within ninety
+(90) days, the commission shall commence a contested case
+hearing on the complaint, governed by the Wyoming
+Administrative Procedure Act, W.S. 16-3-101 et seq. If,
+following the hearing, the commission finds that the city,
+town or political subdivision has violated this section,
+the commission shall prohibit the city, town or political
+subdivision from providing any telecommunications service
+or broadband internet access service until the violation of
+this section is remedied.
+37-15-501. Universal service fund created;
+contributions; administration.
+12
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(c) The commission shall administer the monies in the
+universal service fund to assist only those customers of
+telecommunications companies located in areas of this state
+with relatively high rates for noncompetitive essential
+local exchange services. Services deemed competitive under
+W.S. 37-15-202(a), (c) or (d) shall not be eligible for
+universal service fund support under this article. The
+commission, after notice and opportunity for hearing, shall
+determine a reasonable amount and a fair method of
+distributing monies. The commission may authorize a credit
+to customer bills, in the amount specified by the
+commission, to reflect distributions received by the local
+exchange company from the universal service fund, provided
+that the credit is given only to one (1) line for each
+customer or household. The commission shall ensure that
+the method shall promote the emergence of competition in
+providing local exchange service.
+(d) In accordance with the method of distribution
+determined by the commission, a telecommunications company
+shall, unless it elects to receive Wyoming universal
+service funds pursuant to the method set forth in
+subsection (g) of this section, receive funds under this
+section to the extent that its noncompetitive essential
+local exchange service prices, after consideration of any
+contributions from the federal universal service fund,
+exceed the price benchmark established in subsection (h) of
+this section.
+(g) A telecommunications company that undertakes the
+requirements set forth in this subsection may make a
+one-time, irrevocable before July 1, 2023, election in
+writing to the commission to receive Wyoming universal
+service funds pursuant to this subsection rather than
+pursuant to subsection (d) of this section. In order to
+13
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+receive funds pursuant to this subsection, the company
+shall provide essential noncompetitive local exchange
+service, or its functional equivalent, upon reasonable
+request throughout the local exchange area of a rural
+incumbent local exchange carrier, as defined by the federal
+communications commission on January 1, 2015, at a price
+not exceeding the price benchmark established in subsection
+(h) of this section. A telecommunications company which
+elects to receive Wyoming universal service funds pursuant
+to this subsection shall receive funds to the extent that
+its loop costs, as reflected in the company's most recent
+annual filing of unseparated loop costs filed with the
+Universal Service Administration Company, exceed the
+company's most recent annual federal universal service
+funds receipts and annual local revenues. In calculating
+annual local revenues the commission shall utilize the
+imputed price benchmark established in subsection (h) of
+this section. If an otherwise qualified company elects to
+receive Wyoming universal service funds pursuant to this
+subsection, but does not file an annual unseparated loop
+cost report with the Universal Service Administration
+Company, it shall file the equivalent information with the
+commission.
+(h) The price benchmark shall be thirty dollars
+($30.00) thirty‑five dollars ($35.00) unless otherwise
+adjusted by the commission pursuant to this subsection.
+The commission shall review the price benchmark one (1)
+time every four (4) years and, after review, shall adjust
+the benchmark as necessary to assure that it approximates
+one hundred thirty percent (130%) of the weighted statewide
+average essential local exchange service price. The
+commission may change the price benchmark at any time if,
+after notice and opportunity for a hearing, the commission
+determines that the price benchmark does not approximate
+14
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+one hundred thirty percent (130%) of the weighted statewide
+average essential local exchange service price and that the
+price benchmark should be adjusted by ten percent (10%) or
+more.
+37-15-502. Universal service fund eligibility and
+distribution to carriers.
+(a) Telecommunications companies which use cellular,
+radio spectrum or other wireless technology to provide
+supported essential services to customers who are otherwise
+eligible to receive universal service support pursuant to
+W.S. 37-15-501, may establish eligibility to receive
+universal service fund distributions in an amount to be
+determined by the commission, provided that:
+(i) The telecommunications company will offer
+and advertise all services supported by the universal
+service fund supported services throughout the entire local
+exchange area;
+(iii) The telecommunications company's bill to
+the customer reflects a credit for the amount of
+distribution the company receives from the state universal
+service fund for providing services supported by the
+universal service fund supported services to that customer;
+and
+Section 2. W.S. 37-15-103(a)(iv)(A) through (D) and
+(xvi) and 37-15-104(a)(i) through (xiii) are repealed.
+15
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0051
+ENROLLED ACT NO. 70, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+Section 3. This act is effective July 1, 2025.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the Senate.
+Chief Clerk
+16

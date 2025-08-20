@@ -1,0 +1,71 @@
+Title: 1 Page 1-line 9 After "provisions;" insert "providing an
+Official Title: 1 Page 1-line 9 After "provisions;" insert "providing an
+Number of Sections: 1
+Source: versions - Amendment SF0051SS001 (Standing Committee) - Senate Corporations, Elections & Political Subdivi (Divided)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0051SS001
+2 appropriation;".
+3
+4 Page 14-line 18 Reinsert stricken "shall"; delete "may".
+5
+6 Page 31-after line 3 Insert and renumber as necessary:
+7
+8 "Section 3. There is appropriated five hundred thousand
+9 dollars ($500,000.00) from the general fund to the department of
+10 revenue for purposes of information technology programming
+11 services and software necessary to automate payment of universal
+12 service fund charges for prepaid wireless service. This
+13 appropriation shall be for the period beginning with the effective
+14 date of this section and ending June 30, 2026. This appropriation
+15 shall not be transferred or expended for any other purpose and any
+16 unexpended, unobligated funds remaining from the appropriation
+17 shall revert as provided by law on June 30, 2026. It is the intent
+18 of the legislature that this appropriation not be included in the
+19 standard budget of the department of revenue for the immediately
+20 succeeding fiscal biennium.".
+21
+22 Page 31-line 5 Delete "Section 3." and insert "Section 4.".
+23
+24 Page 31-line 9 Delete entirely and insert "Section 5.".
+25
+26 Page 31-line 16 Delete "and 2" and insert "through 3". CASE,
+27 CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+SF0051SS001
+1 Page 1-line 9 After "provisions;" insert "providing an
+2 appropriation;".
+3
+4 Page 14-line 18 Reinsert stricken "shall"; delete "may".
+5
+6 Page 31-after line 3 Insert and renumber as necessary:
+7
+8 "Section 3. There is appropriated five hundred thousand
+9 dollars ($500,000.00) from the general fund to the department of
+10 revenue for purposes of information technology programming
+11 services and software necessary to automate payment of universal
+12 service fund charges for prepaid wireless service. This
+13 appropriation shall be for the period beginning with the effective
+14 date of this section and ending June 30, 2026. This appropriation
+15 shall not be transferred or expended for any other purpose and any
+16 unexpended, unobligated funds remaining from the appropriation
+17 shall revert as provided by law on June 30, 2026. It is the intent
+18 of the legislature that this appropriation not be included in the
+19 standard budget of the department of revenue for the immediately
+20 succeeding fiscal biennium.".
+21
+22 Page 31-line 5 Delete "Section 3." and insert "Section 4.".
+23
+24 Page 31-line 9 Delete entirely and insert "Section 5.".
+25
+26 Page 31-line 16 Delete "and 2" and insert "through 3". CASE,
+27 CHAIRMAN
+1

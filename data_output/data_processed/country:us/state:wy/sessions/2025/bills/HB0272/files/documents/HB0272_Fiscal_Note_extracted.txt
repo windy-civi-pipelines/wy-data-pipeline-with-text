@@ -1,0 +1,150 @@
+Title: This bill transfers on July 1, 2025 up to $10,000,000 from unobligated funds in
+Official Title: This bill transfers on July 1, 2025 up to $10,000,000 from unobligated funds in
+Number of Sections: 2
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Investment in Wyoming housing. 25LSO-0632, 1.2
+FISCAL NOTE
+the Legislative Stabilization Reserve Account (LSRA) to the proposed Wyoming
+Housing Investment Account (Account).
+The Wyoming Community Development Authority (Authority) shall administer the
+proposed Wyoming Housing Investment Program (Program) and administer the proposed
+Account. All funds in the Account are continuously appropriated to the Authority
+for purposes of the program.
+DETAIL OF APPROPRIATION
+Agency Name: Wyoming Community Development Authority
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $0 $93,400 $0
+0400 Central/Data Services Costs $0 $3,678 $0
+0600 Grant & Aid Payments $0 $9,900,000 $0
+Total Expenditure Per Year: $0 $9,997,078 $0
+Grand Total Expenditure: $9,997,078
+Total Appropriated to Agency: $10,000,000
+Total Appropriated by Fund:
+LEGISLATIVE STAB. RES. ACCT. $10,000,000
+Description of expenditure:
+Not more than 1% of the account balance in any fiscal year may be expended for
+administration, with the remaining 99% expended for grants and/or loans as
+described in the three grant/loan categories in the W.S. 9-7-126(d) proposed in
+the bill.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+LEGISLATIVE STAB. RES. ACCT. $0 $10,000,000 $0
+STRATEGIC INVESTMENTS AND PROJECTS ACCT $0 $0 unknown
+Source of expenditure increase:
+On July 1, 2026 (FY 2027), the State Treasurer shall transfer up to $10.0 million
+from unobligated funds in the LSRA to the proposed Account.
+Beginning on July 1, 2025 (FY 2026) and again on July 1, 2026 (FY 2027) the State
+Treasurer shall transfer up to $10.0 million from unobligated funds in the
+Strategic Investment and Projects Account (SIPA) to the proposed Account.
+Beginning on July 1, 2027 (FY 2028) and on July 1 of each fiscal year thereafter
+through July 1, 2030 (FY 2031), the State Treasurer shall transfer up to $20.0
+million from unobligated funds in the SIPA.
+HB0272
+Investment in Wyoming housing. 25LSO-0632, 1.2
+Assumptions:
+Based on the Legislative Service Office (LSO) Fiscal Profile dated January 13,
+2025, it is assumed there will be sufficient unobligated funds in the LSRA to
+transfer $10.0 million on both July 1, 2025 and July 1, 2026.
+The LSO Fiscal Profile dated January 13, 2025 shows no unobligated funds in the
+SIPA on June 30, 2026. Therefore, no transfers from the SIPA to the proposed
+account on July 1, 2025 (FY 2026) and July 1, 2026 (FY 2027) are anticipated. The
+unobligated funds in the SIPA to transfer to the proposed Account on July 1, 2027
+(FY 2028) through July 1, 2030 (FY 2031) are unknown, and will be based on future
+unobligated SIPA balances, which will depend on future legislative action.
+The State Treasurer’s Office indicates that the transfers from the LSRA and SIPA
+to the proposed Account will result in an opportunity cost of decreased
+investment income, estimated at roughly $400,000 per fiscal year for each $10.0
+million transferred.
+The State Treasurer’s Office projects yields in FY26 through FY28 to be 2.98%,
+
+Section 2:
+3.07%, and 3.02% respectively for permanent funds and 4.28%, 4.12%, and 4.02%
+respectively for State Agency Pool funds. Yield is defined as the interest and
+dividend income from the investment. Over the long term, total returns for
+permanent funds are expected to be 6.75%, while total returns for State Agency
+Pool funds are expected to be 4.05%. This is in accordance with the State’s
+Investment Policy. Total return is defined as growth in the value of the
+investment, including both yield and realized & unrealized gains.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Scott Hoversland, Wyoming Community Development
+Authority, 307-265-0603; Samantha Dailey, State Treasurer's Office, 777-7408)
+HB0272
+
+
+================================================================================
+
+Raw Text:
+Investment in Wyoming housing. 25LSO-0632, 1.2
+FISCAL NOTE
+This bill transfers on July 1, 2025 up to $10,000,000 from unobligated funds in
+the Legislative Stabilization Reserve Account (LSRA) to the proposed Wyoming
+Housing Investment Account (Account).
+The Wyoming Community Development Authority (Authority) shall administer the
+proposed Wyoming Housing Investment Program (Program) and administer the proposed
+Account. All funds in the Account are continuously appropriated to the Authority
+for purposes of the program.
+DETAIL OF APPROPRIATION
+Agency Name: Wyoming Community Development Authority
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0100 Personnel/Benefit Costs $0 $93,400 $0
+0400 Central/Data Services Costs $0 $3,678 $0
+0600 Grant & Aid Payments $0 $9,900,000 $0
+Total Expenditure Per Year: $0 $9,997,078 $0
+Grand Total Expenditure: $9,997,078
+Total Appropriated to Agency: $10,000,000
+Total Appropriated by Fund:
+LEGISLATIVE STAB. RES. ACCT. $10,000,000
+Description of expenditure:
+Not more than 1% of the account balance in any fiscal year may be expended for
+administration, with the remaining 99% expended for grants and/or loans as
+described in the three grant/loan categories in the W.S. 9-7-126(d) proposed in
+the bill.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+LEGISLATIVE STAB. RES. ACCT. $0 $10,000,000 $0
+STRATEGIC INVESTMENTS AND PROJECTS ACCT $0 $0 unknown
+Source of expenditure increase:
+On July 1, 2026 (FY 2027), the State Treasurer shall transfer up to $10.0 million
+from unobligated funds in the LSRA to the proposed Account.
+Beginning on July 1, 2025 (FY 2026) and again on July 1, 2026 (FY 2027) the State
+Treasurer shall transfer up to $10.0 million from unobligated funds in the
+Strategic Investment and Projects Account (SIPA) to the proposed Account.
+Beginning on July 1, 2027 (FY 2028) and on July 1 of each fiscal year thereafter
+through July 1, 2030 (FY 2031), the State Treasurer shall transfer up to $20.0
+million from unobligated funds in the SIPA.
+HB0272
+
+Investment in Wyoming housing. 25LSO-0632, 1.2
+Assumptions:
+Based on the Legislative Service Office (LSO) Fiscal Profile dated January 13,
+2025, it is assumed there will be sufficient unobligated funds in the LSRA to
+transfer $10.0 million on both July 1, 2025 and July 1, 2026.
+The LSO Fiscal Profile dated January 13, 2025 shows no unobligated funds in the
+SIPA on June 30, 2026. Therefore, no transfers from the SIPA to the proposed
+account on July 1, 2025 (FY 2026) and July 1, 2026 (FY 2027) are anticipated. The
+unobligated funds in the SIPA to transfer to the proposed Account on July 1, 2027
+(FY 2028) through July 1, 2030 (FY 2031) are unknown, and will be based on future
+unobligated SIPA balances, which will depend on future legislative action.
+The State Treasurer’s Office indicates that the transfers from the LSRA and SIPA
+to the proposed Account will result in an opportunity cost of decreased
+investment income, estimated at roughly $400,000 per fiscal year for each $10.0
+million transferred.
+The State Treasurer’s Office projects yields in FY26 through FY28 to be 2.98%,
+3.07%, and 3.02% respectively for permanent funds and 4.28%, 4.12%, and 4.02%
+respectively for State Agency Pool funds. Yield is defined as the interest and
+dividend income from the investment. Over the long term, total returns for
+permanent funds are expected to be 6.75%, while total returns for State Agency
+Pool funds are expected to be 4.05%. This is in accordance with the State’s
+Investment Policy. Total return is defined as growth in the value of the
+investment, including both yield and realized & unrealized gains.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Scott Hoversland, Wyoming Community Development
+Authority, 307-265-0603; Samantha Dailey, State Treasurer's Office, 777-7408)
+HB0272

@@ -1,0 +1,43 @@
+Title: 1 Page 1-line 2 After "medications" insert "approved by the
+Official Title: 1 Page 1-line 2 After "medications" insert "approved by the
+Number of Sections: 1
+Source: versions - Amendment HB0164H3001 (3rd reading) - Representative Campbell, E (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0164H3001
+2 United States food and drug administration".
+3
+4 Page 1-line 4 Delete "as specified".
+5
+6 Page 3-line 20 Delete ":".
+7
+8 Page 4-line 1 Delete "(i)".
+9
+10 Page 4-line 3 Delete ";" and insert ".".
+11
+12 Page 4-lines 5 through 11 Delete entirely and renumber as
+13 necessary. CAMPBELL, E
+1
+
+
+================================================================================
+
+Raw Text:
+HB0164H3001
+1 Page 1-line 2 After "medications" insert "approved by the
+2 United States food and drug administration".
+3
+4 Page 1-line 4 Delete "as specified".
+5
+6 Page 3-line 20 Delete ":".
+7
+8 Page 4-line 1 Delete "(i)".
+9
+10 Page 4-line 3 Delete ";" and insert ".".
+11
+12 Page 4-lines 5 through 11 Delete entirely and renumber as
+13 necessary. CAMPBELL, E
+1

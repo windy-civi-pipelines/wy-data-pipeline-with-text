@@ -1,0 +1,37 @@
+Title: 1 Page 1-line 5 Delete "appropriations" and insert "an
+Official Title: 1 Page 1-line 5 Delete "appropriations" and insert "an
+Number of Sections: 1
+Source: versions - Amendment SF0034SS001 (Standing Committee) - Senate Appropriations Committee (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0034SS001
+2 appropriation".
+3
+4 Page 6-line 2 Delete "(a)".
+5
+6 Page 6-line 12 Delete "It is the intent of the".
+7
+8 Page 6-lines 13 through 23 Delete entirely.
+9
+10 Page 7-lines 1 through 8 Delete entirely. SALAZAR, CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+SF0034SS001
+1 Page 1-line 5 Delete "appropriations" and insert "an
+2 appropriation".
+3
+4 Page 6-line 2 Delete "(a)".
+5
+6 Page 6-line 12 Delete "It is the intent of the".
+7
+8 Page 6-lines 13 through 23 Delete entirely.
+9
+10 Page 7-lines 1 through 8 Delete entirely. SALAZAR, CHAIRMAN
+1

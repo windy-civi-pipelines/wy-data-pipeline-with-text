@@ -1,0 +1,71 @@
+Title: 1 Page 1-line 4 After "penalty;" insert "making conforming
+Official Title: 1 Page 1-line 4 After "penalty;" insert "making conforming
+Number of Sections: 1
+Source: versions - Amendment HB0238H3001 (3rd reading) - Representative Storer (Failed)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0238H3001
+2 amendments;".
+3
+4 Page 1-line 9 After "22-9-113" insert ", 22-9-119".
+5
+6 Page 2-line 15 Before "any" insert "the clerk shall provide
+7 notice to the qualified elector that the
+8 qualified elector's ballot is spoiled and".
+9
+10 Page 2-line 16 After "tabulated." insert "The county clerk
+11 shall allow the qualified elector whose ballot
+12 is not tabulated due to a violation of this
+13 section to cast a substitute ballot until the
+14 close of business on the day following the
+15 election.".
+16
+17 Page 2-after line 16 Insert:
+18
+19 "22-9-119. Late absentee ballots.
+20
+21 Except as provided by W.S. 22-9-113, an absentee ballot received
+22 by the clerk after the polls close shall not be voted. The clerk
+23 shall write on the inner envelope of such late absentee ballot
+24 "Rejected-received after the polls closed". These late ballots
+25 shall be kept by the clerk for at least two (2) years after the
+26 election or longer if required by federal law and then destroyed.".
+27 STORER
+1
+
+
+================================================================================
+
+Raw Text:
+HB0238H3001
+1 Page 1-line 4 After "penalty;" insert "making conforming
+2 amendments;".
+3
+4 Page 1-line 9 After "22-9-113" insert ", 22-9-119".
+5
+6 Page 2-line 15 Before "any" insert "the clerk shall provide
+7 notice to the qualified elector that the
+8 qualified elector's ballot is spoiled and".
+9
+10 Page 2-line 16 After "tabulated." insert "The county clerk
+11 shall allow the qualified elector whose ballot
+12 is not tabulated due to a violation of this
+13 section to cast a substitute ballot until the
+14 close of business on the day following the
+15 election.".
+16
+17 Page 2-after line 16 Insert:
+18
+19 "22-9-119. Late absentee ballots.
+20
+21 Except as provided by W.S. 22-9-113, an absentee ballot received
+22 by the clerk after the polls close shall not be voted. The clerk
+23 shall write on the inner envelope of such late absentee ballot
+24 "Rejected-received after the polls closed". These late ballots
+25 shall be kept by the clerk for at least two (2) years after the
+26 election or longer if required by federal law and then destroyed.".
+27 STORER
+1

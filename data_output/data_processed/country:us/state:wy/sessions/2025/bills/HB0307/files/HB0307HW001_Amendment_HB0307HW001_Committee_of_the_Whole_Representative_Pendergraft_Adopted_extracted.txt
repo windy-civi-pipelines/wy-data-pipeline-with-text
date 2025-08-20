@@ -1,0 +1,25 @@
+Title: 1 Page 3-line 3 Delete "section" and insert "chapter".
+Official Title: 1 Page 3-line 3 Delete "section" and insert "chapter".
+Number of Sections: 1
+Source: versions - Amendment HB0307HW001 (Committee of the Whole) - Representative Pendergraft (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0307HW001
+2
+3 Page 3-line 18 Delete "section" and insert "chapter".
+4 PENDERGRAFT
+1
+
+
+================================================================================
+
+Raw Text:
+HB0307HW001
+1 Page 3-line 3 Delete "section" and insert "chapter".
+2
+3 Page 3-line 18 Delete "section" and insert "chapter".
+4 PENDERGRAFT
+1

@@ -1,0 +1,162 @@
+Title: Sponsored By: Representative(s) Locke, Brown, G, Lien and Lucas
+Official Title: Sponsored By: Representative(s) Locke, Brown, G, Lien and Lucas
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Exemption for transported fuel and power
+HB0311
+sales-amendments.
+AN ACT relating to taxation and revenue; providing a definition associated with
+a sales tax exemption for power and fuel sales related to pipeline
+transportation as specified; clarifying ownership requirements for the
+exemption; requiring rulemaking; and providing for effective dates.
+1/28/2025 Bill Number Assigned
+1/29/2025 H Received for Introduction
+2/3/2025 H Introduced and Referred to H03 - Revenue
+2/4/2025 H03 - Revenue:Recommend Do Pass 6-2-1-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Campbell, Lien, Locke, Lucas, Styvar
+Nays: Representative(s) Storer, Wharff
+Excused: Representative Riggins
+Ayes 6 Nays 2 Excused 1 Absent 0 Conflicts 0
+2/4/2025 H Placed on General File
+2/6/2025 H COW:Passed
+2/7/2025 H 2nd Reading:Passed
+2/10/2025 H 3rd Reading:Passed 55-4-3-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Rodriguez-
+Williams, Schmid, Sherwood, Singh, Smith, Strock, Styvar, Thayer, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Wylie, Yin
+Nays: Representative(s) Chestek, Nicholas, Provenza, Storer
+Excused: Representative(s) Riggins, Tarver, Winter
+Ayes 55 Nays 4 Excused 3 Absent 0 Conflicts 0
+2/10/2025 S Received for Introduction
+2/14/2025 S Introduced and Referred to S03 - Revenue
+2/19/2025 S03 - Revenue:Recommend Amend and Do Pass 4-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) French, Ide, Mckeown, Pappas
+Nays: Senator Case
+Ayes 4 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/19/2025 S Placed on General File
+2/20/2025 S COW:Laid Back
+HB0311SS001/ADOPTED
+Page 2-line 22 After "customer sales" insert "delivery". MCKEOWN,
+CHAIRMAN
+2/25/2025 S COW:Passed
+2/26/2025 S 2nd Reading:Passed
+2/27/2025 S 3rd Reading:Passed 28-1-2-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Cooper, Crago, Crum,
+Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen,
+Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss, Salazar, Schuler, Scott,
+Smith, Steinmetz
+Nays: Senator Case
+Excused: Senator(s) Barlow, Dockstader
+Ayes 28 Nays 1 Excused 2 Absent 0 Conflicts 0
+2/27/2025 H Received for Concurrence
+2/27/2025 H Concur:Passed 56-3-3-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Harshman,
+Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lien, Locke,
+Lucas, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Riggins,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Strock, Styvar, Tarver,
+Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Wylie, Yin
+Nays: Representative(s) Chestek, Provenza, Storer
+Excused: Representative(s) Haroldson, Lawley, Winter
+Ayes 56 Nays 3 Excused 3 Absent 0 Conflicts 0
+2/27/2025 Assigned Number HEA No. 0050
+2/28/2025 H Speaker Signed HEA No. 0050
+2/28/2025 S President Signed HEA No. 0050
+3/4/2025 Governor Signed HEA No. 0050
+3/4/2025 Assigned Chapter Number 104
+Chapter No. 104 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+Exemption for transported fuel and power
+HB0311
+sales-amendments.
+Sponsored By: Representative(s) Locke, Brown, G, Lien and Lucas
+AN ACT relating to taxation and revenue; providing a definition associated with
+a sales tax exemption for power and fuel sales related to pipeline
+transportation as specified; clarifying ownership requirements for the
+exemption; requiring rulemaking; and providing for effective dates.
+1/28/2025 Bill Number Assigned
+1/29/2025 H Received for Introduction
+2/3/2025 H Introduced and Referred to H03 - Revenue
+2/4/2025 H03 - Revenue:Recommend Do Pass 6-2-1-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Campbell, Lien, Locke, Lucas, Styvar
+Nays: Representative(s) Storer, Wharff
+Excused: Representative Riggins
+Ayes 6 Nays 2 Excused 1 Absent 0 Conflicts 0
+2/4/2025 H Placed on General File
+2/6/2025 H COW:Passed
+2/7/2025 H 2nd Reading:Passed
+2/10/2025 H 3rd Reading:Passed 55-4-3-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Rodriguez-
+Williams, Schmid, Sherwood, Singh, Smith, Strock, Styvar, Thayer, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Wylie, Yin
+Nays: Representative(s) Chestek, Nicholas, Provenza, Storer
+Excused: Representative(s) Riggins, Tarver, Winter
+Ayes 55 Nays 4 Excused 3 Absent 0 Conflicts 0
+2/10/2025 S Received for Introduction
+2/14/2025 S Introduced and Referred to S03 - Revenue
+2/19/2025 S03 - Revenue:Recommend Amend and Do Pass 4-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) French, Ide, Mckeown, Pappas
+Nays: Senator Case
+Ayes 4 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/19/2025 S Placed on General File
+2/20/2025 S COW:Laid Back
+HB0311SS001/ADOPTED
+Page 2-line 22 After "customer sales" insert "delivery". MCKEOWN,
+CHAIRMAN
+2/25/2025 S COW:Passed
+2/26/2025 S 2nd Reading:Passed
+
+2/27/2025 S 3rd Reading:Passed 28-1-2-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Cooper, Crago, Crum,
+Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen,
+Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss, Salazar, Schuler, Scott,
+Smith, Steinmetz
+Nays: Senator Case
+Excused: Senator(s) Barlow, Dockstader
+Ayes 28 Nays 1 Excused 2 Absent 0 Conflicts 0
+2/27/2025 H Received for Concurrence
+2/27/2025 H Concur:Passed 56-3-3-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Harshman,
+Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lien, Locke,
+Lucas, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Riggins,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Strock, Styvar, Tarver,
+Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Wylie, Yin
+Nays: Representative(s) Chestek, Provenza, Storer
+Excused: Representative(s) Haroldson, Lawley, Winter
+Ayes 56 Nays 3 Excused 3 Absent 0 Conflicts 0
+2/27/2025 Assigned Number HEA No. 0050
+2/28/2025 H Speaker Signed HEA No. 0050
+2/28/2025 S President Signed HEA No. 0050
+3/4/2025 Governor Signed HEA No. 0050
+3/4/2025 Assigned Chapter Number 104
+Chapter No. 104 Session Laws of Wyoming 2025

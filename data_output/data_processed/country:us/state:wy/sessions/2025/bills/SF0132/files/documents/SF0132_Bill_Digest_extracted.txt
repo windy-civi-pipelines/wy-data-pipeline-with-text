@@ -1,0 +1,433 @@
+Title: Sponsored By: Senator(s) Jones, Anderson, Biteman, Cooper,
+Official Title: Sponsored By: Senator(s) Jones, Anderson, Biteman, Cooper,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Protecting critical infrastructure and systems
+SF0132
+from drones.
+Dockstader, Driskill, Hicks, Kolb, Landen, McKeown,
+Rothfuss, Schuler and Steinmetz and Representative(s)
+Banks, Brown, G, Byron, Davis, Erickson, Geringer,
+Heiner, Jarvis, Knapp, Larson, JT, Neiman, Ottman,
+Thayer and Wylie
+AN ACT relating to defense forces and affairs; prohibiting the use and operation
+of unmanned aircraft systems over critical infrastructure and critical systems;
+specifying exceptions; providing and amending penalties; authorizing the use of
+the Wyoming national guard; providing definitions; making conforming
+amendments; providing duties for the attorney general; and providing for an
+effective date.
+1/17/2025 Bill Number Assigned
+1/20/2025 S Received for Introduction
+1/23/2025 S Introduced and Referred to S06 - Travel
+2/4/2025 S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Hicks, Jones, Landen, Schuler
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/4/2025 S Placed on General File
+SF0132SS001/ADOPTED
+Page 3-lines 15 through 17 Delete entirely and renumber as necessary.
+Page 3-line 19 Delete "(v)" and insert "(iv)".
+Page 4-after line 2 Insert and renumber as necessary:
+"(v) The use of an unmanned aircraft system by a private landowner
+on property owned by the private landowner.".
+Page 9-after line 5 Insert:
+"(T) Any surface, subsurface or in-situ mining or
+manufacturing infrastructure or facility.". LANDEN, CHAIRMAN
+2/5/2025 S COW:Passed
+2/6/2025 S 2nd Reading:Passed
+SF0132S3001/ADOPTED
+Page 2-line 7 After "subsection" delete "(b)" and insert "(c)".
+Page 2-after line 19 Insert and renumber as necessary:
+"(b) Unless otherwise authorized by law, no person shall operate or use
+an unmanned aircraft system or model aircraft that is carrying, contains or is
+an explosive device over or near critical infrastructure or a critical system.
+This subsection shall not apply to law enforcement and the military while acting
+in the course of their lawful duties.".
+Page 2-line 21 Delete "(b)" and insert "(c)".
+Page 4-line 4 Delete "(c)" and insert "(d)"; after "subsection (a)"
+insert "or (b)".
+Page 4-line 17 Delete "(d)" and insert "(e)".
+Page 4-line 19 After "systems" insert "or model aircrafts".
+Page 4-line 22 After "system" insert "or model aircraft".
+Page 5-line 2 Delete "(e)" and insert "(f)".
+Page 5-line 4 After "systems" insert "or model aircrafts".
+Page 6-line 10 After "systems" insert "or model aircrafts". HICKS
+2/7/2025 S 3rd Reading:Passed 30-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Cooper, Crago,
+Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss,
+Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator Case
+Ayes 30 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/7/2025 H Received for Introduction
+2/14/2025 H Introduced and Referred to H09 - Minerals
+2/24/2025 H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Campbell, Heiner, Knapp, Larson, Lawley, Riggins,
+Schmid, Tarver, Webber
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/24/2025 H Placed on General File
+SF0132HS001.01/ADOPTED (TO ENGROSSED COPY)
+(CORRECTED COPY)
+[DIVIDED AMENDMENT]
+Page 2-line 16 After "system;" delete "or".
+Page 10-line 1 Delete "July 1, 2025" and insert "immediately upon
+completion of all acts necessary for a bill to become
+law as provided by Article 4, Section 8 of the Wyoming
+Constitution". HEINER, CHAIRMAN
+SF0132HS001.02/FAILED (TO ENGROSSED COPY)
+(CORRECTED COPY)
+[DIVIDED AMENDMENT]
+Page 2-line 19 After "offense" delete "." and insert "; or".
+Page 2-after line 19 Insert and renumber as necessary:
+"(iv) To harass wildlife or livestock.". HEINER, CHAIRMAN
+2/25/2025 H COW:Passed
+SF0132H2001/ADOPTED (TO ENGROSSED COPY)
+Page 1-line 6 After "amendments;" insert "providing duties for the
+attorney general;".
+Page 5-after line 13 Insert and renumber as necessary:
+"(g) The attorney general shall represent Wyoming national guard
+members, peace officers or law enforcement officials in litigation that may
+commence due to a national guard member's, peace officer's or law enforcement
+official's compliance with subsections (e) or (f) of this section.". LARSON, JT
+SF0132H2002/FAILED (TO ENGROSSED COPY)
+Page 1-line 6 After "amendments;" insert "providing an
+appropriation;".
+Page 9-after line 22 Insert and renumber as necessary:
+"Section 3. There is appropriated five million dollars ($5,000,000.00)
+from the general fund to the Wyoming military department for purposes of
+purchasing equipment meant to prevent or stop the use of unmanned aircraft
+systems or model aircrafts operating in violation of 19-13-503. This
+appropriation shall be for the period beginning with the effective date of this
+act and ending June 30, 2026. This appropriation shall not be transferred or
+expended for any other purpose and any unexpended, unobligated funds remaining
+from this appropriation shall revert as provided by law on June 30, 2026. It is
+the intent of the legislature that this appropriation not be included in the
+Wyoming military department's standard budget for the immediately succeeding
+fiscal biennium.".
+Page 10-line 1 Delete "Section 3." and insert "Section 4.". LARSON,
+JT
+ROLL CALL
+Ayes: Representative(s) Harshman, Jarvis, Larsen, Larson, Winter, Wylie
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Erickson, Filer, Geringer, Guggenmos, Haroldson, Heiner,
+Hoeft, Johnson, Kelly, Knapp, Lawley, Lien, Locke, Lucas, Mccann, Neiman,
+Ottman, Pendergraft, Posey, Provenza, Rodriguez-Williams, Schmid, Sherwood,
+Singh, Smith, Storer, Strock, Styvar, Tarver, Thayer, Washut, Wasserburger,
+Webb, Webber, Wharff, Williams, Yin
+Excused: Representative(s) Eklund, Nicholas, Riggins
+Ayes 6 Nays 53 Excused 3 Absent 0 Conflicts 0
+2/26/2025 H 2nd Reading:Passed
+SF0132H3001/FAILED (TO ENGROSSED COPY)
+Page 2-lines 12 and 13 Delete entirely and renumber as necessary.
+Page 2-line 15 Delete "(ii)" and insert "(i)".
+Page 2-line 18 Delete "(iii)" and insert "(ii)". YIN
+SF0132H3002/FAILED (TO ENGROSSED COPY)
+Page 1-line 6 After "amendments;" insert "providing an
+appropriation;".
+Page 9-after line 22 Insert and renumber as necessary:
+"Section 3. There is appropriated five hundred thousand dollars
+($500,000.00) from the general fund to the office of homeland security within
+the office of the governor to pay for civil damages awarded to parties whose
+unmanned aircraft systems or model aircrafts are wrongfully damaged, confiscated
+or destroyed pursuant to this act. This appropriation shall be for the period
+beginning with the effective date of this act and ending June 30, 2028. This
+appropriation shall not be transferred or expended for any other purpose and
+any unexpended, unobligated funds remaining from this appropriation shall revert
+as provided by law on June 30, 2028. It is the intent of the legislature that
+this appropriation be included in the office of the governor's standard budget
+for the immediately succeeding fiscal biennium.".
+Page 10-line 1 Delete "Section 3." and insert "Section 4.". LARSON,
+JT
+ROLL CALL
+Ayes: Representative(s) Campbell, K, Nicholas
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Chestek, Clouston, Connolly, Davis, Eklund,
+Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Hoeft,
+Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Lucas,
+Mccann, Neiman, Ottman, Pendergraft, Posey, Provenza, Riggins, Rodriguez-
+Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock, Styvar, Tarver,
+Thayer, Wasserburger, Webb, Webber, Wharff, Williams, Wylie, Yin
+Excused: Representative(s) Campbell, E, Washut, Winter
+Ayes 2 Nays 57 Excused 3 Absent 0 Conflicts 0
+SF0132H3003/ADOPTED (TO ENGROSSED COPY)
+Page 9-after line 15 Insert and renumber as necessary:
+"(U) Any other facility or property deemed to be a critical
+infrastructure or critical system by the governor.". LARSON, JT
+2/27/2025 H 3rd Reading:Passed 50-9-3-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, K, Clouston, Connolly, Davis, Eklund,
+Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Hoeft,
+Jarvis, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann,
+Neiman, Nicholas, Ottman, Pendergraft, Posey, Rodriguez-Williams, Schmid,
+Smith, Strock, Tarver, Thayer, Wasserburger, Webb, Webber, Wharff, Williams,
+Wylie, Yin
+Nays: Representative(s) Brown, L, Chestek, Johnson, Provenza, Riggins,
+Sherwood, Singh, Storer, Styvar
+Excused: Representative(s) Campbell, E, Washut, Winter
+Ayes 50 Nays 9 Excused 3 Absent 0 Conflicts 0
+2/27/2025 S Received for Concurrence
+2/27/2025 S Concur:Passed 25-4-2-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Cooper, Crago, Crum,
+Driskill, French, Gierau, Hicks, Hutchings, Jones, Kolb, Landen, Laursen,
+Nethercott, Olsen, Pappas, Rothfuss, Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Case, Ide, Mckeown, Pearson
+Excused: Senator(s) Barlow, Dockstader
+Ayes 25 Nays 4 Excused 2 Absent 0 Conflicts 0
+2/27/2025 Assigned Number SEA No. 0058
+2/27/2025 S President Signed SEA No. 0058
+2/27/2025 H Speaker Signed SEA No. 0058
+3/4/2025 Governor Vetoed SEA No. 0058
+3/4/2025 Veto Message Received
+SF0132VT001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Override governor's veto to Senate Enrolled Act No. 58, being original Senate
+File 132.
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Crago, Dockstader,
+Driskill, French, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen, Mckeown,
+Olsen, Pearson, Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Barlow, Case, Cooper, Crum, Gierau, Nethercott, Pappas,
+Rothfuss
+Ayes 23 Nays 8 Excused 0 Absent 0 Conflicts 0
+3/5/2025 Assigned Chapter Number 112
+SF0132VT001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Override governor's veto to Senate Enrolled Act No. 58, being original Senate
+File 132.
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, K, Clouston, Connolly, Eklund, Erickson,
+Filer, Geringer, Haroldson, Harshman, Heiner, Hoeft, Johnson, Kelly, Knapp,
+Larson, Lawley, Lien, Locke, Mccann, Neiman, Ottman, Pendergraft, Posey,
+Rodriguez-Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver, Thayer,
+Washut, Webb, Webber, Wharff, Williams, Winter, Wylie
+Nays: Representative(s) Campbell, E, Chestek, Davis, Guggenmos, Jarvis,
+Larsen, Nicholas, Provenza, Riggins, Sherwood, Storer, Wasserburger, Yin
+Excused: Representative(s) Brown, L, Lucas
+Ayes 47 Nays 13 Excused 2 Absent 0 Conflicts 0
+Chapter No. 112 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+Protecting critical infrastructure and systems
+SF0132
+from drones.
+Sponsored By: Senator(s) Jones, Anderson, Biteman, Cooper,
+Dockstader, Driskill, Hicks, Kolb, Landen, McKeown,
+Rothfuss, Schuler and Steinmetz and Representative(s)
+Banks, Brown, G, Byron, Davis, Erickson, Geringer,
+Heiner, Jarvis, Knapp, Larson, JT, Neiman, Ottman,
+Thayer and Wylie
+AN ACT relating to defense forces and affairs; prohibiting the use and operation
+of unmanned aircraft systems over critical infrastructure and critical systems;
+specifying exceptions; providing and amending penalties; authorizing the use of
+the Wyoming national guard; providing definitions; making conforming
+amendments; providing duties for the attorney general; and providing for an
+effective date.
+1/17/2025 Bill Number Assigned
+1/20/2025 S Received for Introduction
+1/23/2025 S Introduced and Referred to S06 - Travel
+2/4/2025 S06 - Travel:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Hicks, Jones, Landen, Schuler
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/4/2025 S Placed on General File
+SF0132SS001/ADOPTED
+Page 3-lines 15 through 17 Delete entirely and renumber as necessary.
+Page 3-line 19 Delete "(v)" and insert "(iv)".
+Page 4-after line 2 Insert and renumber as necessary:
+"(v) The use of an unmanned aircraft system by a private landowner
+on property owned by the private landowner.".
+Page 9-after line 5 Insert:
+"(T) Any surface, subsurface or in-situ mining or
+manufacturing infrastructure or facility.". LANDEN, CHAIRMAN
+2/5/2025 S COW:Passed
+2/6/2025 S 2nd Reading:Passed
+SF0132S3001/ADOPTED
+Page 2-line 7 After "subsection" delete "(b)" and insert "(c)".
+Page 2-after line 19 Insert and renumber as necessary:
+"(b) Unless otherwise authorized by law, no person shall operate or use
+an unmanned aircraft system or model aircraft that is carrying, contains or is
+an explosive device over or near critical infrastructure or a critical system.
+This subsection shall not apply to law enforcement and the military while acting
+in the course of their lawful duties.".
+
+Page 2-line 21 Delete "(b)" and insert "(c)".
+Page 4-line 4 Delete "(c)" and insert "(d)"; after "subsection (a)"
+insert "or (b)".
+Page 4-line 17 Delete "(d)" and insert "(e)".
+Page 4-line 19 After "systems" insert "or model aircrafts".
+Page 4-line 22 After "system" insert "or model aircraft".
+Page 5-line 2 Delete "(e)" and insert "(f)".
+Page 5-line 4 After "systems" insert "or model aircrafts".
+Page 6-line 10 After "systems" insert "or model aircrafts". HICKS
+2/7/2025 S 3rd Reading:Passed 30-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Cooper, Crago,
+Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss,
+Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator Case
+Ayes 30 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/7/2025 H Received for Introduction
+2/14/2025 H Introduced and Referred to H09 - Minerals
+2/24/2025 H09 - Minerals:Recommend Amend and Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Campbell, Heiner, Knapp, Larson, Lawley, Riggins,
+Schmid, Tarver, Webber
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/24/2025 H Placed on General File
+SF0132HS001.01/ADOPTED (TO ENGROSSED COPY)
+(CORRECTED COPY)
+[DIVIDED AMENDMENT]
+Page 2-line 16 After "system;" delete "or".
+Page 10-line 1 Delete "July 1, 2025" and insert "immediately upon
+completion of all acts necessary for a bill to become
+law as provided by Article 4, Section 8 of the Wyoming
+Constitution". HEINER, CHAIRMAN
+SF0132HS001.02/FAILED (TO ENGROSSED COPY)
+(CORRECTED COPY)
+[DIVIDED AMENDMENT]
+Page 2-line 19 After "offense" delete "." and insert "; or".
+
+Page 2-after line 19 Insert and renumber as necessary:
+"(iv) To harass wildlife or livestock.". HEINER, CHAIRMAN
+2/25/2025 H COW:Passed
+SF0132H2001/ADOPTED (TO ENGROSSED COPY)
+Page 1-line 6 After "amendments;" insert "providing duties for the
+attorney general;".
+Page 5-after line 13 Insert and renumber as necessary:
+"(g) The attorney general shall represent Wyoming national guard
+members, peace officers or law enforcement officials in litigation that may
+commence due to a national guard member's, peace officer's or law enforcement
+official's compliance with subsections (e) or (f) of this section.". LARSON, JT
+SF0132H2002/FAILED (TO ENGROSSED COPY)
+Page 1-line 6 After "amendments;" insert "providing an
+appropriation;".
+Page 9-after line 22 Insert and renumber as necessary:
+"Section 3. There is appropriated five million dollars ($5,000,000.00)
+from the general fund to the Wyoming military department for purposes of
+purchasing equipment meant to prevent or stop the use of unmanned aircraft
+systems or model aircrafts operating in violation of 19-13-503. This
+appropriation shall be for the period beginning with the effective date of this
+act and ending June 30, 2026. This appropriation shall not be transferred or
+expended for any other purpose and any unexpended, unobligated funds remaining
+from this appropriation shall revert as provided by law on June 30, 2026. It is
+the intent of the legislature that this appropriation not be included in the
+Wyoming military department's standard budget for the immediately succeeding
+fiscal biennium.".
+Page 10-line 1 Delete "Section 3." and insert "Section 4.". LARSON,
+JT
+ROLL CALL
+Ayes: Representative(s) Harshman, Jarvis, Larsen, Larson, Winter, Wylie
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Erickson, Filer, Geringer, Guggenmos, Haroldson, Heiner,
+Hoeft, Johnson, Kelly, Knapp, Lawley, Lien, Locke, Lucas, Mccann, Neiman,
+Ottman, Pendergraft, Posey, Provenza, Rodriguez-Williams, Schmid, Sherwood,
+Singh, Smith, Storer, Strock, Styvar, Tarver, Thayer, Washut, Wasserburger,
+Webb, Webber, Wharff, Williams, Yin
+Excused: Representative(s) Eklund, Nicholas, Riggins
+Ayes 6 Nays 53 Excused 3 Absent 0 Conflicts 0
+2/26/2025 H 2nd Reading:Passed
+SF0132H3001/FAILED (TO ENGROSSED COPY)
+Page 2-lines 12 and 13 Delete entirely and renumber as necessary.
+
+Page 2-line 15 Delete "(ii)" and insert "(i)".
+Page 2-line 18 Delete "(iii)" and insert "(ii)". YIN
+SF0132H3002/FAILED (TO ENGROSSED COPY)
+Page 1-line 6 After "amendments;" insert "providing an
+appropriation;".
+Page 9-after line 22 Insert and renumber as necessary:
+"Section 3. There is appropriated five hundred thousand dollars
+($500,000.00) from the general fund to the office of homeland security within
+the office of the governor to pay for civil damages awarded to parties whose
+unmanned aircraft systems or model aircrafts are wrongfully damaged, confiscated
+or destroyed pursuant to this act. This appropriation shall be for the period
+beginning with the effective date of this act and ending June 30, 2028. This
+appropriation shall not be transferred or expended for any other purpose and
+any unexpended, unobligated funds remaining from this appropriation shall revert
+as provided by law on June 30, 2028. It is the intent of the legislature that
+this appropriation be included in the office of the governor's standard budget
+for the immediately succeeding fiscal biennium.".
+Page 10-line 1 Delete "Section 3." and insert "Section 4.". LARSON,
+JT
+ROLL CALL
+Ayes: Representative(s) Campbell, K, Nicholas
+Nays: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Chestek, Clouston, Connolly, Davis, Eklund,
+Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Hoeft,
+Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Lucas,
+Mccann, Neiman, Ottman, Pendergraft, Posey, Provenza, Riggins, Rodriguez-
+Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock, Styvar, Tarver,
+Thayer, Wasserburger, Webb, Webber, Wharff, Williams, Wylie, Yin
+Excused: Representative(s) Campbell, E, Washut, Winter
+Ayes 2 Nays 57 Excused 3 Absent 0 Conflicts 0
+SF0132H3003/ADOPTED (TO ENGROSSED COPY)
+Page 9-after line 15 Insert and renumber as necessary:
+"(U) Any other facility or property deemed to be a critical
+infrastructure or critical system by the governor.". LARSON, JT
+2/27/2025 H 3rd Reading:Passed 50-9-3-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, K, Clouston, Connolly, Davis, Eklund,
+Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner, Hoeft,
+Jarvis, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Lucas, Mccann,
+Neiman, Nicholas, Ottman, Pendergraft, Posey, Rodriguez-Williams, Schmid,
+Smith, Strock, Tarver, Thayer, Wasserburger, Webb, Webber, Wharff, Williams,
+Wylie, Yin
+Nays: Representative(s) Brown, L, Chestek, Johnson, Provenza, Riggins,
+Sherwood, Singh, Storer, Styvar
+Excused: Representative(s) Campbell, E, Washut, Winter
+
+Ayes 50 Nays 9 Excused 3 Absent 0 Conflicts 0
+2/27/2025 S Received for Concurrence
+2/27/2025 S Concur:Passed 25-4-2-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Cooper, Crago, Crum,
+Driskill, French, Gierau, Hicks, Hutchings, Jones, Kolb, Landen, Laursen,
+Nethercott, Olsen, Pappas, Rothfuss, Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Case, Ide, Mckeown, Pearson
+Excused: Senator(s) Barlow, Dockstader
+Ayes 25 Nays 4 Excused 2 Absent 0 Conflicts 0
+2/27/2025 Assigned Number SEA No. 0058
+2/27/2025 S President Signed SEA No. 0058
+2/27/2025 H Speaker Signed SEA No. 0058
+3/4/2025 Governor Vetoed SEA No. 0058
+3/4/2025 Veto Message Received
+SF0132VT001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Override governor's veto to Senate Enrolled Act No. 58, being original Senate
+File 132.
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Crago, Dockstader,
+Driskill, French, Hicks, Hutchings, Ide, Jones, Kolb, Landen, Laursen, Mckeown,
+Olsen, Pearson, Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Barlow, Case, Cooper, Crum, Gierau, Nethercott, Pappas,
+Rothfuss
+Ayes 23 Nays 8 Excused 0 Absent 0 Conflicts 0
+3/5/2025 Assigned Chapter Number 112
+SF0132VT001/SADOPTEDHADOPTED (TO ENGROSSED COPY)
+Override governor's veto to Senate Enrolled Act No. 58, being original Senate
+File 132.
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, K, Clouston, Connolly, Eklund, Erickson,
+Filer, Geringer, Haroldson, Harshman, Heiner, Hoeft, Johnson, Kelly, Knapp,
+Larson, Lawley, Lien, Locke, Mccann, Neiman, Ottman, Pendergraft, Posey,
+Rodriguez-Williams, Schmid, Singh, Smith, Strock, Styvar, Tarver, Thayer,
+Washut, Webb, Webber, Wharff, Williams, Winter, Wylie
+Nays: Representative(s) Campbell, E, Chestek, Davis, Guggenmos, Jarvis,
+Larsen, Nicholas, Provenza, Riggins, Sherwood, Storer, Wasserburger, Yin
+Excused: Representative(s) Brown, L, Lucas
+Ayes 47 Nays 13 Excused 2 Absent 0 Conflicts 0
+Chapter No. 112 Session Laws of Wyoming 2025

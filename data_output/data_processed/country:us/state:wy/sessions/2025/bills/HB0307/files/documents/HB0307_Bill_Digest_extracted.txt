@@ -1,0 +1,166 @@
+Title: Sponsored By: Representative(s) Pendergraft, Brown, G, Lucas,
+Official Title: Sponsored By: Representative(s) Pendergraft, Brown, G, Lucas,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0307 Poll watchers-polling station observation.
+Smith, S, Strock, Styvar and Webber
+AN ACT relating to elections; amending the appointment and authority for poll
+watchers to observe polling locations; making conforming amendments; and
+providing for an effective date.
+1/27/2025 Bill Number Assigned
+1/28/2025 H Received for Introduction
+1/28/2025 H Introduced and Referred to H04 - Education
+2/3/2025 H04 - Education:Recommend Amend and Do Pass 8-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Bratten, Erickson, Guggenmos, Kelly, Singh,
+Strock, Williams
+Nays: Representative Lawley
+Ayes 8 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/3/2025 H Placed on General File
+HB0307HS001/ADOPTED
+Page 2-line 15 Delete "rights" and insert "responsibilities".
+Page 3-line 1 Delete "rights" and insert "responsibilities".
+Page 3-line 16 Delete "rights" and insert "responsibilities".
+Page 4-line 17 Reinsert stricken "county"; delete "state".
+Page 6-line 15 After "badges" delete balance of line.
+Page 6-lines 16 and 17 Delete entirely and insert "consistent with the size
+and format of all other poll worker badges, to include
+the poll watcher's name, party, polling location and
+the words "poll watcher".".
+Page 6-line 21 Delete "duties" and insert "responsibilities". ANDREW,
+CHAIRMAN
+HB0307HW001/ADOPTED
+Page 3-line 3 Delete "section" and insert "chapter".
+Page 3-line 18 Delete "section" and insert "chapter". PENDERGRAFT
+HB0307HW002/WITHDRAWN
+2/10/2025 H COW:Passed
+HB0307H2001/ADOPTED (CORRECTED COPY)
+Page 4-line 4 After "places." insert "The county chairmen of each
+political party that does not have a candidate on the
+ballot may certify volunteer poll watchers prior to the
+day of the election to serve in polling places.".
+PENDERGRAFT
+HB0307H2002/WITHDRAWN
+HB0307H2003/ADOPTED
+Page 6-line 4 After "electronically" insert "by close of business the
+day"; after "voting" delete "or" and insert "and".
+Page 6-line 5 Before "before" insert "by close of business the day".
+Page 6-line 12 After "places." insert "Poll watchers shall not be
+restricted to a chair.".
+Page 6-lines 16 and 17 In the House standing committee amendment
+(HB0307HS001/A) to these lines, after ""poll watcher"."
+insert "The county clerk shall require poll watchers to
+pick up identification badges at the polling place on
+the day of the election unless the county clerk allows
+poll watchers to pick up identification badges before
+the day of the election at a location other than the
+polling place.". ANDREW
+2/11/2025 H 2nd Reading:Passed
+2/12/2025 H 3rd Reading:Passed 54-6-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larson, Lawley, Lien,
+Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Rodriguez-Williams,
+Schmid, Sherwood, Singh, Strock, Styvar, Tarver, Thayer, Washut, Wasserburger,
+Webb, Webber, Wharff, Williams, Winter, Wylie
+Nays: Representative(s) Chestek, Larsen, Nicholas, Provenza, Storer, Yin
+Excused: Representative(s) Riggins, Smith
+Ayes 54 Nays 6 Excused 2 Absent 0 Conflicts 0
+2/13/2025 S Received for Introduction
+2/20/2025 S Introduced and Referred to S06 - Travel
+2/27/2025 S06 - Travel:Recommend Amend and Do Pass 4-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Hicks, Jones, Schuler
+Nays: Senator Landen
+Ayes 4 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/27/2025 S Placed on General File
+2/28/2025 S COW:S Did not consider for COW
+
+
+================================================================================
+
+Raw Text:
+HB0307 Poll watchers-polling station observation.
+Sponsored By: Representative(s) Pendergraft, Brown, G, Lucas,
+Smith, S, Strock, Styvar and Webber
+AN ACT relating to elections; amending the appointment and authority for poll
+watchers to observe polling locations; making conforming amendments; and
+providing for an effective date.
+1/27/2025 Bill Number Assigned
+1/28/2025 H Received for Introduction
+1/28/2025 H Introduced and Referred to H04 - Education
+2/3/2025 H04 - Education:Recommend Amend and Do Pass 8-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Bratten, Erickson, Guggenmos, Kelly, Singh,
+Strock, Williams
+Nays: Representative Lawley
+Ayes 8 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/3/2025 H Placed on General File
+HB0307HS001/ADOPTED
+Page 2-line 15 Delete "rights" and insert "responsibilities".
+Page 3-line 1 Delete "rights" and insert "responsibilities".
+Page 3-line 16 Delete "rights" and insert "responsibilities".
+Page 4-line 17 Reinsert stricken "county"; delete "state".
+Page 6-line 15 After "badges" delete balance of line.
+Page 6-lines 16 and 17 Delete entirely and insert "consistent with the size
+and format of all other poll worker badges, to include
+the poll watcher's name, party, polling location and
+the words "poll watcher".".
+Page 6-line 21 Delete "duties" and insert "responsibilities". ANDREW,
+CHAIRMAN
+HB0307HW001/ADOPTED
+Page 3-line 3 Delete "section" and insert "chapter".
+Page 3-line 18 Delete "section" and insert "chapter". PENDERGRAFT
+HB0307HW002/WITHDRAWN
+2/10/2025 H COW:Passed
+HB0307H2001/ADOPTED (CORRECTED COPY)
+Page 4-line 4 After "places." insert "The county chairmen of each
+political party that does not have a candidate on the
+ballot may certify volunteer poll watchers prior to the
+day of the election to serve in polling places.".
+PENDERGRAFT
+
+HB0307H2002/WITHDRAWN
+HB0307H2003/ADOPTED
+Page 6-line 4 After "electronically" insert "by close of business the
+day"; after "voting" delete "or" and insert "and".
+Page 6-line 5 Before "before" insert "by close of business the day".
+Page 6-line 12 After "places." insert "Poll watchers shall not be
+restricted to a chair.".
+Page 6-lines 16 and 17 In the House standing committee amendment
+(HB0307HS001/A) to these lines, after ""poll watcher"."
+insert "The county clerk shall require poll watchers to
+pick up identification badges at the polling place on
+the day of the election unless the county clerk allows
+poll watchers to pick up identification badges before
+the day of the election at a location other than the
+polling place.". ANDREW
+2/11/2025 H 2nd Reading:Passed
+2/12/2025 H 3rd Reading:Passed 54-6-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larson, Lawley, Lien,
+Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Rodriguez-Williams,
+Schmid, Sherwood, Singh, Strock, Styvar, Tarver, Thayer, Washut, Wasserburger,
+Webb, Webber, Wharff, Williams, Winter, Wylie
+Nays: Representative(s) Chestek, Larsen, Nicholas, Provenza, Storer, Yin
+Excused: Representative(s) Riggins, Smith
+Ayes 54 Nays 6 Excused 2 Absent 0 Conflicts 0
+2/13/2025 S Received for Introduction
+2/20/2025 S Introduced and Referred to S06 - Travel
+2/27/2025 S06 - Travel:Recommend Amend and Do Pass 4-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Hicks, Jones, Schuler
+Nays: Senator Landen
+Ayes 4 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/27/2025 S Placed on General File
+2/28/2025 S COW:S Did not consider for COW

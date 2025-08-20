@@ -1,0 +1,247 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0705
+SENATE FILE NO. SF0176
+Unemployment compensation-employer contributions.
+Sponsored by: Senator(s) Kolb
+for
+1 AN ACT relating to unemployment compensation; specifying
+2 the maximum contribution that may be charged to an employer
+3 for the unemployment compensation fund; and providing for
+4 an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 27-3-503(b), (d) and (f) and
+9 27-3-505(d) are amended to read:
+10
+11 27-3-503. Payment; base rate; maximum contribution;
+12 failure to pay; rate variations; benefit ratio; new
+13 employer rate; special reserve rate.
+14
+15 (b) Except as otherwise provided by law and subject
+16 to the maximum amount specified in this subsection, the
+1 SF0176
+2025 STATE OF WYOMING 25LSO-0705
+1 base rate of contributions assigned to any employer is
+2 eight and one-half percent (8.5%) for 1988 and each
+3 calendar year thereafter subject to rate variations under
+4 subsections (d) and (f) of this section in addition to the
+5 adjustment factors computed under W.S. 27-3-505.
+6 Notwithstanding any other provision of law, no employer
+7 shall be required to contribute an amount that, when the
+8 base rate is combined with rate variations or adjustment
+9 factors, exceeds one dollar ($1.00) per employee in a
+10 calendar year. Except as hereafter provided and subject to
+11 the maximum amount specified in this subsection, a
+12 contributing employer failing to pay all contributions,
+13 interest and penalties or to submit all quarterly
+14 contribution reports due on his account or any account
+15 assumed under W.S. 27-3-507 on or before September 30
+16 preceding the effective date of his assigned rate shall be
+17 assigned a delinquent rate which shall include a two
+18 percent (2%) tax rate increase in his base rate and shall
+19 also include in addition thereto the adjustment factors for
+20 the next calendar year beginning January 1. The delinquent
+21 rate shall not exceed the maximum assignable rate. The
+22 delinquent rate shall continue to be assigned through and
+23 including the calendar quarter in which the delinquent
+2 SF0176
+2025 STATE OF WYOMING 25LSO-0705
+1 employer satisfies his delinquent account by paying all
+2 contributions, interest and penalties due and submitting
+3 all contribution reports due. Upon satisfaction of the
+4 delinquent account, the contributing employer shall be
+5 assigned the contribution rate otherwise applicable under
+6 this article beginning the next full calendar quarter.
+7 Provided however, that a delinquent employer shall pay an
+8 assigned delinquent rate for at least the first quarter
+9 even if the account is satisfied before January 1 of the
+10 new calendar year.
+11
+12 (d) Rate variations from the base rate of
+13 contributions based upon the employer's benefit ratio shall
+14 be assigned to eligible employers each calendar year,
+15 provided that the total contribution required of an
+16 employer in any calendar year shall not exceed the maximum
+17 amount per employee specified in subsection (a) of this
+18 section.
+19
+20 (f) Any new employer not previously subject to this
+21 act or having no established experience period shall pay
+22 contributions at a rate equal to the average rate of
+23 contributions paid by his major industrial classification
+3 SF0176
+2025 STATE OF WYOMING 25LSO-0705
+1 for the calendar year preceding the year in which he first
+2 employed workers in this state in addition to the
+3 adjustment factors computed under W.S. 27-3-505. In no
+4 case, however, will any new employer be assigned a rate of
+5 less than one percent (1%), plus the adjustment factors
+6 computed under W.S. 27-3-505,. This nor shall the total
+7 contribution required of a new employer in any calendar
+8 year exceed the maximum amount per employee specified in
+9 subsection (a) of this section. The rate shall be adjusted
+10 annually and the rate shall remain in effect until the
+11 employer has established an experience period in accordance
+12 with this article. The commission shall by rule and
+13 regulation develop the major industrial classifications for
+14 the state and the department shall annually determine the
+15 contribution rate for each classification based upon
+16 contributions paid during the preceding calendar year.
+17
+18 27-3-505. Adjustment for noncharged and ineffectively
+19 charged benefits; adjustment for positive and negative fund
+20 balance; computations; exception; maximum rate.
+21
+22 (d) The adjustment factors computed pursuant to this
+23 section are separate from an employer's experience rating,
+4 SF0176
+2025 STATE OF WYOMING 25LSO-0705
+1 shall be algebraically added to the employer's contribution
+2 rate and payable by each employer subject to this article,
+3 provided that the total contribution required of an
+4 employer in any calendar year shall not exceed the maximum
+5 amount per employee specified in W.S. 27-3-503(a). The
+6 adjustment factor computed under subsection (c) of this
+7 section shall be algebraically added only to the
+8 contribution rate of those employers eligible for an
+9 experience rating. The adjustment factors applied to an
+10 employer's contribution rate shall not be less than zero
+11 (0).
+12
+13 Section 2. This act is effective January 1, 2026.
+14
+15 (END)
+5 SF0176
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0705
+SENATE FILE NO. SF0176
+Unemployment compensation-employer contributions.
+Sponsored by: Senator(s) Kolb
+A BILL
+for
+1 AN ACT relating to unemployment compensation; specifying
+2 the maximum contribution that may be charged to an employer
+3 for the unemployment compensation fund; and providing for
+4 an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 27-3-503(b), (d) and (f) and
+9 27-3-505(d) are amended to read:
+10
+11 27-3-503. Payment; base rate; maximum contribution;
+12 failure to pay; rate variations; benefit ratio; new
+13 employer rate; special reserve rate.
+14
+15 (b) Except as otherwise provided by law and subject
+16 to the maximum amount specified in this subsection, the
+1 SF0176
+
+2025 STATE OF WYOMING 25LSO-0705
+1 base rate of contributions assigned to any employer is
+2 eight and one-half percent (8.5%) for 1988 and each
+3 calendar year thereafter subject to rate variations under
+4 subsections (d) and (f) of this section in addition to the
+5 adjustment factors computed under W.S. 27-3-505.
+6 Notwithstanding any other provision of law, no employer
+7 shall be required to contribute an amount that, when the
+8 base rate is combined with rate variations or adjustment
+9 factors, exceeds one dollar ($1.00) per employee in a
+10 calendar year. Except as hereafter provided and subject to
+11 the maximum amount specified in this subsection, a
+12 contributing employer failing to pay all contributions,
+13 interest and penalties or to submit all quarterly
+14 contribution reports due on his account or any account
+15 assumed under W.S. 27-3-507 on or before September 30
+16 preceding the effective date of his assigned rate shall be
+17 assigned a delinquent rate which shall include a two
+18 percent (2%) tax rate increase in his base rate and shall
+19 also include in addition thereto the adjustment factors for
+20 the next calendar year beginning January 1. The delinquent
+21 rate shall not exceed the maximum assignable rate. The
+22 delinquent rate shall continue to be assigned through and
+23 including the calendar quarter in which the delinquent
+2 SF0176
+
+2025 STATE OF WYOMING 25LSO-0705
+1 employer satisfies his delinquent account by paying all
+2 contributions, interest and penalties due and submitting
+3 all contribution reports due. Upon satisfaction of the
+4 delinquent account, the contributing employer shall be
+5 assigned the contribution rate otherwise applicable under
+6 this article beginning the next full calendar quarter.
+7 Provided however, that a delinquent employer shall pay an
+8 assigned delinquent rate for at least the first quarter
+9 even if the account is satisfied before January 1 of the
+10 new calendar year.
+11
+12 (d) Rate variations from the base rate of
+13 contributions based upon the employer's benefit ratio shall
+14 be assigned to eligible employers each calendar year,
+15 provided that the total contribution required of an
+16 employer in any calendar year shall not exceed the maximum
+17 amount per employee specified in subsection (a) of this
+18 section.
+19
+20 (f) Any new employer not previously subject to this
+21 act or having no established experience period shall pay
+22 contributions at a rate equal to the average rate of
+23 contributions paid by his major industrial classification
+3 SF0176
+
+2025 STATE OF WYOMING 25LSO-0705
+1 for the calendar year preceding the year in which he first
+2 employed workers in this state in addition to the
+3 adjustment factors computed under W.S. 27-3-505. In no
+4 case, however, will any new employer be assigned a rate of
+5 less than one percent (1%), plus the adjustment factors
+6 computed under W.S. 27-3-505,. This nor shall the total
+7 contribution required of a new employer in any calendar
+8 year exceed the maximum amount per employee specified in
+9 subsection (a) of this section. The rate shall be adjusted
+10 annually and the rate shall remain in effect until the
+11 employer has established an experience period in accordance
+12 with this article. The commission shall by rule and
+13 regulation develop the major industrial classifications for
+14 the state and the department shall annually determine the
+15 contribution rate for each classification based upon
+16 contributions paid during the preceding calendar year.
+17
+18 27-3-505. Adjustment for noncharged and ineffectively
+19 charged benefits; adjustment for positive and negative fund
+20 balance; computations; exception; maximum rate.
+21
+22 (d) The adjustment factors computed pursuant to this
+23 section are separate from an employer's experience rating,
+4 SF0176
+
+2025 STATE OF WYOMING 25LSO-0705
+1 shall be algebraically added to the employer's contribution
+2 rate and payable by each employer subject to this article,
+3 provided that the total contribution required of an
+4 employer in any calendar year shall not exceed the maximum
+5 amount per employee specified in W.S. 27-3-503(a). The
+6 adjustment factor computed under subsection (c) of this
+7 section shall be algebraically added only to the
+8 contribution rate of those employers eligible for an
+9 experience rating. The adjustment factors applied to an
+10 employer's contribution rate shall not be less than zero
+11 (0).
+12
+13 Section 2. This act is effective January 1, 2026.
+14
+15 (END)
+5 SF0176

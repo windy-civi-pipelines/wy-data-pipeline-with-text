@@ -1,0 +1,142 @@
+Title: Sponsored By: Representative(s) Lucas, Brady, Brown, G, Campbell,
+Official Title: Sponsored By: Representative(s) Lucas, Brady, Brown, G, Campbell,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0318 Maintenance of voter lists.
+K, Guggenmos, Hoeft, Johnson, Smith, S, Webb and
+Webber
+AN ACT relating to elections; clarifying the duties of the secretary of state
+related to verification of voter registration data; specifying when notice of
+intent to cancel a registration may be provided; and providing for an effective
+date.
+1/28/2025 Bill Number Assigned
+1/29/2025 H Received for Introduction
+2/3/2025 H Introduced and Referred to H09 - Minerals
+2/7/2025 H09 - Minerals:Recommend Amend and Do Pass 8-0-1-0-0
+ROLL CALL
+Ayes: Representative(s) Campbell, Heiner, Knapp, Larson, Lawley, Schmid,
+Tarver, Webber
+Excused: Representative Riggins
+Ayes 8 Nays 0 Excused 1 Absent 0 Conflicts 0
+2/7/2025 H Placed on General File
+HB0318HS001/ADOPTED
+Page 2-line 16 After "received from" insert "other states, including
+but not limited to information received from". HEINER,
+CHAIRMAN
+2/10/2025 H COW:Passed
+HB0318H2001/FAILED
+Page 2-line 8 Strike "driver's" and insert "driver".
+Page 2-line 12 Delete "driver's" and insert "driver".
+Page 2-line 15 Delete "driver's" and insert "driver". CAMPBELL, E
+2/11/2025 H 2nd Reading:Passed
+HB0318H3001/WITHDRAWN
+2/12/2025 H 3rd Reading:Passed 47-13-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, K, Clouston, Davis, Eklund,
+Erickson, Filer, Geringer, Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly,
+Knapp, Larson, Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft,
+Rodriguez-Williams, Schmid, Singh, Strock, Styvar, Tarver, Thayer, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Winter
+Nays: Representative(s) Campbell, E, Chestek, Connolly, Harshman, Jarvis,
+Larsen, Nicholas, Posey, Provenza, Sherwood, Storer, Wylie, Yin
+Excused: Representative(s) Riggins, Smith
+Ayes 47 Nays 13 Excused 2 Absent 0 Conflicts 0
+2/13/2025 S Received for Introduction
+2/14/2025 S Introduced and Referred to S07 - Corporations
+2/27/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/27/2025 S Placed on General File
+2/27/2025 S COW:Passed
+2/28/2025 S 2nd Reading:Passed
+3/3/2025 S 3rd Reading:Passed 29-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Cooper, Crago,
+Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Salazar, Schuler,
+Scott, Smith, Steinmetz
+Nays: Senator(s) Case, Rothfuss
+Ayes 29 Nays 2 Excused 0 Absent 0 Conflicts 0
+3/3/2025 Assigned Number HEA No. 0062
+3/3/2025 H Speaker Signed HEA No. 0062
+3/4/2025 S President Signed HEA No. 0062
+3/18/2025 Governor Signed HEA No. 0062
+3/18/2025 Assigned Chapter Number 152
+Chapter No. 152 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+HB0318 Maintenance of voter lists.
+Sponsored By: Representative(s) Lucas, Brady, Brown, G, Campbell,
+K, Guggenmos, Hoeft, Johnson, Smith, S, Webb and
+Webber
+AN ACT relating to elections; clarifying the duties of the secretary of state
+related to verification of voter registration data; specifying when notice of
+intent to cancel a registration may be provided; and providing for an effective
+date.
+1/28/2025 Bill Number Assigned
+1/29/2025 H Received for Introduction
+2/3/2025 H Introduced and Referred to H09 - Minerals
+2/7/2025 H09 - Minerals:Recommend Amend and Do Pass 8-0-1-0-0
+ROLL CALL
+Ayes: Representative(s) Campbell, Heiner, Knapp, Larson, Lawley, Schmid,
+Tarver, Webber
+Excused: Representative Riggins
+Ayes 8 Nays 0 Excused 1 Absent 0 Conflicts 0
+2/7/2025 H Placed on General File
+HB0318HS001/ADOPTED
+Page 2-line 16 After "received from" insert "other states, including
+but not limited to information received from". HEINER,
+CHAIRMAN
+2/10/2025 H COW:Passed
+HB0318H2001/FAILED
+Page 2-line 8 Strike "driver's" and insert "driver".
+Page 2-line 12 Delete "driver's" and insert "driver".
+Page 2-line 15 Delete "driver's" and insert "driver". CAMPBELL, E
+2/11/2025 H 2nd Reading:Passed
+HB0318H3001/WITHDRAWN
+2/12/2025 H 3rd Reading:Passed 47-13-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, K, Clouston, Davis, Eklund,
+Erickson, Filer, Geringer, Guggenmos, Haroldson, Heiner, Hoeft, Johnson, Kelly,
+Knapp, Larson, Lawley, Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft,
+Rodriguez-Williams, Schmid, Singh, Strock, Styvar, Tarver, Thayer, Washut,
+Wasserburger, Webb, Webber, Wharff, Williams, Winter
+Nays: Representative(s) Campbell, E, Chestek, Connolly, Harshman, Jarvis,
+Larsen, Nicholas, Posey, Provenza, Sherwood, Storer, Wylie, Yin
+Excused: Representative(s) Riggins, Smith
+Ayes 47 Nays 13 Excused 2 Absent 0 Conflicts 0
+2/13/2025 S Received for Introduction
+
+2/14/2025 S Introduced and Referred to S07 - Corporations
+2/27/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/27/2025 S Placed on General File
+2/27/2025 S COW:Passed
+2/28/2025 S 2nd Reading:Passed
+3/3/2025 S 3rd Reading:Passed 29-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Cooper, Crago,
+Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Salazar, Schuler,
+Scott, Smith, Steinmetz
+Nays: Senator(s) Case, Rothfuss
+Ayes 29 Nays 2 Excused 0 Absent 0 Conflicts 0
+3/3/2025 Assigned Number HEA No. 0062
+3/3/2025 H Speaker Signed HEA No. 0062
+3/4/2025 S President Signed HEA No. 0062
+3/18/2025 Governor Signed HEA No. 0062
+3/18/2025 Assigned Chapter Number 152
+Chapter No. 152 Session Laws of Wyoming 2025

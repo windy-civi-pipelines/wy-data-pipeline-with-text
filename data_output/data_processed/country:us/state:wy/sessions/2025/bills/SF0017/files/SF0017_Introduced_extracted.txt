@@ -1,0 +1,529 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0042
+SENATE FILE NO. SF0017
+Carbon dioxide-enhanced oil recovery stimulus.
+Sponsored by: Joint Minerals, Business & Economic
+Development Interim Committee
+for
+1 AN ACT relating to the administration of the government;
+2 providing an enhanced oil recovery stimulus for the use of
+3 carbon dioxide in enhanced oil recovery; specifying
+4 conditions and requirements for the stimulus; providing for
+5 the administration of the stimulus; creating an account;
+6 requiring reports; requiring transfers of funds;
+7 authorizing rulemaking; providing an appropriation; and
+8 providing for an effective date.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 9-25-101 through 9-25-104 are created
+13 to read:
+14
+15 CHAPTER 25
+1 SF0017
+2025 STATE OF WYOMING 25LSO-0042
+1 CARBON DIOXIDE AND ENHANCED OIL RECOVERY STIMULUS
+2
+3 9-25-101. Definitions.
+4
+5 (a) As used in this chapter:
+6
+7 (i) "Authority" means the Wyoming energy
+8 authority;
+9
+10 (ii) "Carbon capture, utilization and storage
+11 technology" means technology that has the principal purpose
+12 of capturing, reusing, storing, sequestering or using
+13 carbon dioxide emissions to prevent carbon dioxide from
+14 entering the atmosphere;
+15
+16 (iii) "Carbon dioxide provider" means a person
+17 that captures generated, emitted or produced carbon
+18 dioxide;
+19
+20 (iv) "Enhanced oil and gas recovery" means all
+21 existing and future technologies or methods to recover oil
+22 and gas beyond traditional primary and secondary methods,
+2 SF0017
+2025 STATE OF WYOMING 25LSO-0042
+1 including technology to optimize development and recovery
+2 of oil and gas resources;
+3
+4 (v) "Stimulus" means the enhanced oil recovery
+5 stimulus created by this chapter.
+6
+7 9-25-102. Enhanced oil recovery stimulus;
+8 requirements; qualifications.
+9
+10 (a) Any carbon dioxide provider may apply for and
+11 receive an enhanced oil recovery stimulus in accordance
+12 with all of the following:
+13
+14 (i) The carbon dioxide provider seeking the
+15 stimulus shall complete an application for the stimulus on
+16 a form and in intervals prescribed by the authority. A
+17 carbon dioxide provider may request from the authority a
+18 preapplication determination of eligibility for the
+19 stimulus under this chapter;
+20
+21 (ii) To qualify for the stimulus:
+22
+3 SF0017
+2025 STATE OF WYOMING 25LSO-0042
+1 (A) The carbon dioxide shall be captured by
+2 the carbon dioxide provider through the use of carbon
+3 capture, utilization and storage technology;
+4
+5 (B) The carbon dioxide provider shall sell,
+6 deliver or provide the captured carbon dioxide for use in
+7 enhanced oil and gas recovery projects in Wyoming; and
+8
+9 (C) The crude oil or natural gas produced
+10 from enhanced oil and gas recovery shall be produced using
+11 carbon dioxide specified in subparagraphs (A) and (B) of
+12 this paragraph.
+13
+14 (iii) The captured carbon dioxide provided by
+15 the carbon dioxide provider and used in the enhanced oil
+16 and gas recovery production of the crude oil or natural gas
+17 shall be from a carbon dioxide source originating within
+18 the state of Wyoming;
+19
+20 (iv) The carbon capture, utilization and storage
+21 technology and the captured carbon dioxide specified in
+22 paragraph (iii) of this subsection that is used in the
+23 enhanced oil and gas recovery production of the crude oil
+4 SF0017
+2025 STATE OF WYOMING 25LSO-0042
+1 or natural gas shall qualify for the federal tax credit
+2 available for carbon oxide sequestration under 26 U.S.C.
+3 45Q, as amended as of January 1, 2023;
+4
+5 (v) The carbon dioxide provider shall qualify
+6 for and receive the federal tax credit under 26 U.S.C. 45Q
+7 before receiving the stimulus authorized under this
+8 chapter;
+9
+10 (vi) To ensure that the enhanced oil and gas
+11 recovery production and the use of a carbon dioxide
+12 provider's captured carbon dioxide satisfies the conditions
+13 specified in this subsection, the authority may consult
+14 with any federal or state agency necessary before approving
+15 the stimulus authorized under this chapter.
+16
+17 (b) Subject to available funding, the stimulus that
+18 is available to a carbon dioxide provider shall, subject to
+19 subsection (d) of this section, be equal to ten dollars
+20 ($10.00) for every one (1) ton of carbon dioxide that:
+21
+22 (i) The carbon dioxide provider sells or
+23 delivers for use in enhanced oil and gas recovery; and
+5 SF0017
+2025 STATE OF WYOMING 25LSO-0042
+1
+2 (ii) Is stored through the enhanced oil and gas
+3 recovery production that meets the requirements of this
+4 section.
+5
+6 (c) The stimulus shall be available to a carbon
+7 dioxide provider until the date that the carbon dioxide
+8 provider no longer qualifies for the federal tax credit
+9 under 26 U.S.C. 45Q.
+10
+11 (d) The stimulus shall be paid from funds in the
+12 enhanced oil recovery stimulus account created in W.S.
+13 9-25-104, subject to available funds within the account.
+14 The stimulus shall not be paid from any other source except
+15 upon express approval by legislative act. In the event of
+16 insufficient funds in the enhanced oil recovery stimulus
+17 account established in W.S. 9-25-104 for any one (1) fiscal
+18 year, stimulus payments shall be prorated.
+19
+20 9-25-103. Enhanced oil recovery stimulus;
+21 administration; reporting.
+22
+6 SF0017
+2025 STATE OF WYOMING 25LSO-0042
+1 (a) The authority shall administer the stimulus and
+2 shall ensure that each carbon dioxide provider applying to
+3 receive a stimulus meets all qualifications under this
+4 chapter before receiving a stimulus. The authority shall
+5 promulgate all rules necessary to implement the stimulus
+6 program.
+7
+8 (b) Upon determining each carbon dioxide provider's
+9 eligibility to receive a stimulus, the authority shall
+10 report the eligibility to the governor and the state
+11 auditor. Upon receiving a report from the authority, the
+12 state auditor shall disburse funds from the enhanced oil
+13 recovery stimulus account established in W.S. 9-25-104 to
+14 the carbon dioxide provider in an amount equal to the
+15 stimulus to which the provider is entitled under this
+16 chapter.
+17
+18 (c) Not later than November 1 of each year, the
+19 authority shall report to the joint revenue interim
+20 committee and the joint minerals, business and economic
+21 development interim committee on the amount of stimulus
+22 funds paid from the enhanced oil recovery stimulus account
+7 SF0017
+2025 STATE OF WYOMING 25LSO-0042
+1 for the immediately preceding fiscal year and any
+2 associated revenue impacts from the stimulus payments.
+3
+4 9-25-104. Enhanced oil recovery stimulus account;
+5 administration; fund transfers; severance tax reporting.
+6
+7 (a) There is created the enhanced oil recovery
+8 stimulus account. Funds in the account shall be invested by
+9 the state treasurer in accordance with law. All earnings
+10 earned on funds within the account shall be deposited in
+11 the account. Subject to subsection (b) of this section,
+12 funds within the account are continuously appropriated to
+13 the governor to be expended only for providing stimulus
+14 payments to carbon dioxide providers in accordance with
+15 this chapter.
+16
+17 (b) If there is no expenditure of any funds from the
+18 enhanced oil recovery stimulus account before July 1, 2034,
+19 then all funds in the enhanced oil recovery stimulus
+20 account shall revert to the legislative stabilization
+21 reserve account on July 1, 2034.
+22
+8 SF0017
+2025 STATE OF WYOMING 25LSO-0042
+1 (c) Not later than August 1, 2025 and each August 1
+2 thereafter, the department of revenue shall report to the
+3 governor, the state auditor, the authority, the joint
+4 appropriations committee and the joint minerals, business
+5 and economic development interim committee on the amount of
+6 severance taxes remitted to the department under W.S.
+7 39-14-204(a)(iv), plus one-half (1/2) of the amount of
+8 severance tax remitted under W.S. 39-14-204(a)(iii), as a
+9 result of crude oil and natural gas produced using enhanced
+10 oil and gas recovery techniques and using captured carbon
+11 dioxide for which a stimulus is provided under this
+12 chapter.
+13
+14 (d) Not later than September 1, 2025 and each
+15 September 1 thereafter, the state auditor shall transfer
+16 the amount of funds reported by the department of revenue
+17 under subsection (c) of this section for the immediately
+18 preceding fiscal year from the general fund to the accounts
+19 specified in this subsection, in accordance with the
+20 following:
+21
+22 (i) Funds shall be first transferred to the
+23 enhanced oil recovery stimulus account, provided that any
+9 SF0017
+2025 STATE OF WYOMING 25LSO-0042
+1 transfer under this paragraph shall not exceed the amount
+2 necessary to bring the balance of the enhanced oil recovery
+3 stimulus account to a balance of ten million dollars
+4 ($10,000,000.00) until all transfers required under
+5 paragraph (ii) of this subsection are completed;
+6
+7 (ii) After transfers are made under paragraph
+8 (i) under this subsection, any remaining funds shall be
+9 transferred to the legislative stabilization reserve
+10 account. No transfers shall be made under this paragraph
+11 after a total of ten million dollars ($10,000,000.00) is
+12 transferred to the legislative stabilization reserve
+13 account under this paragraph.
+14
+15 Section 2. There is appropriated from the legislative
+16 stabilization reserve account to the enhanced oil recovery
+17 stimulus account established by W.S. 9-25-104, as created
+18 by section 1 of this act, ten million dollars
+19 ($10,000,000.00). This appropriation shall be expended only
+20 for purposes of providing stimulus payments for the
+21 enhanced oil recovery stimulus established in W.S. 9-25-101
+22 through 9-25-104, as created by section 1 of this act. This
+23 appropriation shall not be transferred or expended for any
+10 SF0017
+2025 STATE OF WYOMING 25LSO-0042
+1 other purpose. Notwithstanding W.S. 9-2-1008, 9-2-1012(e)
+2 and 9-4-207, this appropriation shall not revert except as
+3 otherwise provided in W.S. 9-25-104(b), as created by
+4 section 1 of this act.
+5
+6 Section 3. This act is effective July 1, 2025.
+7
+8 (END)
+11 SF0017
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0042
+SENATE FILE NO. SF0017
+Carbon dioxide-enhanced oil recovery stimulus.
+Sponsored by: Joint Minerals, Business & Economic
+Development Interim Committee
+A BILL
+for
+1 AN ACT relating to the administration of the government;
+2 providing an enhanced oil recovery stimulus for the use of
+3 carbon dioxide in enhanced oil recovery; specifying
+4 conditions and requirements for the stimulus; providing for
+5 the administration of the stimulus; creating an account;
+6 requiring reports; requiring transfers of funds;
+7 authorizing rulemaking; providing an appropriation; and
+8 providing for an effective date.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 9-25-101 through 9-25-104 are created
+13 to read:
+14
+15 CHAPTER 25
+1 SF0017
+
+2025 STATE OF WYOMING 25LSO-0042
+1 CARBON DIOXIDE AND ENHANCED OIL RECOVERY STIMULUS
+2
+3 9-25-101. Definitions.
+4
+5 (a) As used in this chapter:
+6
+7 (i) "Authority" means the Wyoming energy
+8 authority;
+9
+10 (ii) "Carbon capture, utilization and storage
+11 technology" means technology that has the principal purpose
+12 of capturing, reusing, storing, sequestering or using
+13 carbon dioxide emissions to prevent carbon dioxide from
+14 entering the atmosphere;
+15
+16 (iii) "Carbon dioxide provider" means a person
+17 that captures generated, emitted or produced carbon
+18 dioxide;
+19
+20 (iv) "Enhanced oil and gas recovery" means all
+21 existing and future technologies or methods to recover oil
+22 and gas beyond traditional primary and secondary methods,
+2 SF0017
+
+2025 STATE OF WYOMING 25LSO-0042
+1 including technology to optimize development and recovery
+2 of oil and gas resources;
+3
+4 (v) "Stimulus" means the enhanced oil recovery
+5 stimulus created by this chapter.
+6
+7 9-25-102. Enhanced oil recovery stimulus;
+8 requirements; qualifications.
+9
+10 (a) Any carbon dioxide provider may apply for and
+11 receive an enhanced oil recovery stimulus in accordance
+12 with all of the following:
+13
+14 (i) The carbon dioxide provider seeking the
+15 stimulus shall complete an application for the stimulus on
+16 a form and in intervals prescribed by the authority. A
+17 carbon dioxide provider may request from the authority a
+18 preapplication determination of eligibility for the
+19 stimulus under this chapter;
+20
+21 (ii) To qualify for the stimulus:
+22
+3 SF0017
+
+2025 STATE OF WYOMING 25LSO-0042
+1 (A) The carbon dioxide shall be captured by
+2 the carbon dioxide provider through the use of carbon
+3 capture, utilization and storage technology;
+4
+5 (B) The carbon dioxide provider shall sell,
+6 deliver or provide the captured carbon dioxide for use in
+7 enhanced oil and gas recovery projects in Wyoming; and
+8
+9 (C) The crude oil or natural gas produced
+10 from enhanced oil and gas recovery shall be produced using
+11 carbon dioxide specified in subparagraphs (A) and (B) of
+12 this paragraph.
+13
+14 (iii) The captured carbon dioxide provided by
+15 the carbon dioxide provider and used in the enhanced oil
+16 and gas recovery production of the crude oil or natural gas
+17 shall be from a carbon dioxide source originating within
+18 the state of Wyoming;
+19
+20 (iv) The carbon capture, utilization and storage
+21 technology and the captured carbon dioxide specified in
+22 paragraph (iii) of this subsection that is used in the
+23 enhanced oil and gas recovery production of the crude oil
+4 SF0017
+
+2025 STATE OF WYOMING 25LSO-0042
+1 or natural gas shall qualify for the federal tax credit
+2 available for carbon oxide sequestration under 26 U.S.C.
+3 45Q, as amended as of January 1, 2023;
+4
+5 (v) The carbon dioxide provider shall qualify
+6 for and receive the federal tax credit under 26 U.S.C. 45Q
+7 before receiving the stimulus authorized under this
+8 chapter;
+9
+10 (vi) To ensure that the enhanced oil and gas
+11 recovery production and the use of a carbon dioxide
+12 provider's captured carbon dioxide satisfies the conditions
+13 specified in this subsection, the authority may consult
+14 with any federal or state agency necessary before approving
+15 the stimulus authorized under this chapter.
+16
+17 (b) Subject to available funding, the stimulus that
+18 is available to a carbon dioxide provider shall, subject to
+19 subsection (d) of this section, be equal to ten dollars
+20 ($10.00) for every one (1) ton of carbon dioxide that:
+21
+22 (i) The carbon dioxide provider sells or
+23 delivers for use in enhanced oil and gas recovery; and
+5 SF0017
+
+2025 STATE OF WYOMING 25LSO-0042
+1
+2 (ii) Is stored through the enhanced oil and gas
+3 recovery production that meets the requirements of this
+4 section.
+5
+6 (c) The stimulus shall be available to a carbon
+7 dioxide provider until the date that the carbon dioxide
+8 provider no longer qualifies for the federal tax credit
+9 under 26 U.S.C. 45Q.
+10
+11 (d) The stimulus shall be paid from funds in the
+12 enhanced oil recovery stimulus account created in W.S.
+13 9-25-104, subject to available funds within the account.
+14 The stimulus shall not be paid from any other source except
+15 upon express approval by legislative act. In the event of
+16 insufficient funds in the enhanced oil recovery stimulus
+17 account established in W.S. 9-25-104 for any one (1) fiscal
+18 year, stimulus payments shall be prorated.
+19
+20 9-25-103. Enhanced oil recovery stimulus;
+21 administration; reporting.
+22
+6 SF0017
+
+2025 STATE OF WYOMING 25LSO-0042
+1 (a) The authority shall administer the stimulus and
+2 shall ensure that each carbon dioxide provider applying to
+3 receive a stimulus meets all qualifications under this
+4 chapter before receiving a stimulus. The authority shall
+5 promulgate all rules necessary to implement the stimulus
+6 program.
+7
+8 (b) Upon determining each carbon dioxide provider's
+9 eligibility to receive a stimulus, the authority shall
+10 report the eligibility to the governor and the state
+11 auditor. Upon receiving a report from the authority, the
+12 state auditor shall disburse funds from the enhanced oil
+13 recovery stimulus account established in W.S. 9-25-104 to
+14 the carbon dioxide provider in an amount equal to the
+15 stimulus to which the provider is entitled under this
+16 chapter.
+17
+18 (c) Not later than November 1 of each year, the
+19 authority shall report to the joint revenue interim
+20 committee and the joint minerals, business and economic
+21 development interim committee on the amount of stimulus
+22 funds paid from the enhanced oil recovery stimulus account
+7 SF0017
+
+2025 STATE OF WYOMING 25LSO-0042
+1 for the immediately preceding fiscal year and any
+2 associated revenue impacts from the stimulus payments.
+3
+4 9-25-104. Enhanced oil recovery stimulus account;
+5 administration; fund transfers; severance tax reporting.
+6
+7 (a) There is created the enhanced oil recovery
+8 stimulus account. Funds in the account shall be invested by
+9 the state treasurer in accordance with law. All earnings
+10 earned on funds within the account shall be deposited in
+11 the account. Subject to subsection (b) of this section,
+12 funds within the account are continuously appropriated to
+13 the governor to be expended only for providing stimulus
+14 payments to carbon dioxide providers in accordance with
+15 this chapter.
+16
+17 (b) If there is no expenditure of any funds from the
+18 enhanced oil recovery stimulus account before July 1, 2034,
+19 then all funds in the enhanced oil recovery stimulus
+20 account shall revert to the legislative stabilization
+21 reserve account on July 1, 2034.
+22
+8 SF0017
+
+2025 STATE OF WYOMING 25LSO-0042
+1 (c) Not later than August 1, 2025 and each August 1
+2 thereafter, the department of revenue shall report to the
+3 governor, the state auditor, the authority, the joint
+4 appropriations committee and the joint minerals, business
+5 and economic development interim committee on the amount of
+6 severance taxes remitted to the department under W.S.
+7 39-14-204(a)(iv), plus one-half (1/2) of the amount of
+8 severance tax remitted under W.S. 39-14-204(a)(iii), as a
+9 result of crude oil and natural gas produced using enhanced
+10 oil and gas recovery techniques and using captured carbon
+11 dioxide for which a stimulus is provided under this
+12 chapter.
+13
+14 (d) Not later than September 1, 2025 and each
+15 September 1 thereafter, the state auditor shall transfer
+16 the amount of funds reported by the department of revenue
+17 under subsection (c) of this section for the immediately
+18 preceding fiscal year from the general fund to the accounts
+19 specified in this subsection, in accordance with the
+20 following:
+21
+22 (i) Funds shall be first transferred to the
+23 enhanced oil recovery stimulus account, provided that any
+9 SF0017
+
+2025 STATE OF WYOMING 25LSO-0042
+1 transfer under this paragraph shall not exceed the amount
+2 necessary to bring the balance of the enhanced oil recovery
+3 stimulus account to a balance of ten million dollars
+4 ($10,000,000.00) until all transfers required under
+5 paragraph (ii) of this subsection are completed;
+6
+7 (ii) After transfers are made under paragraph
+8 (i) under this subsection, any remaining funds shall be
+9 transferred to the legislative stabilization reserve
+10 account. No transfers shall be made under this paragraph
+11 after a total of ten million dollars ($10,000,000.00) is
+12 transferred to the legislative stabilization reserve
+13 account under this paragraph.
+14
+15 Section 2. There is appropriated from the legislative
+16 stabilization reserve account to the enhanced oil recovery
+17 stimulus account established by W.S. 9-25-104, as created
+18 by section 1 of this act, ten million dollars
+19 ($10,000,000.00). This appropriation shall be expended only
+20 for purposes of providing stimulus payments for the
+21 enhanced oil recovery stimulus established in W.S. 9-25-101
+22 through 9-25-104, as created by section 1 of this act. This
+23 appropriation shall not be transferred or expended for any
+10 SF0017
+
+2025 STATE OF WYOMING 25LSO-0042
+1 other purpose. Notwithstanding W.S. 9-2-1008, 9-2-1012(e)
+2 and 9-4-207, this appropriation shall not revert except as
+3 otherwise provided in W.S. 9-25-104(b), as created by
+4 section 1 of this act.
+5
+6 Section 3. This act is effective July 1, 2025.
+7
+8 (END)
+11 SF0017

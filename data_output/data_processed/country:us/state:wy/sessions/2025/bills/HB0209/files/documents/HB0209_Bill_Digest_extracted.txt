@@ -1,0 +1,95 @@
+Title: Sponsored By: Representative(s) Knapp, Angelos, Clouston,
+Official Title: Sponsored By: Representative(s) Knapp, Angelos, Clouston,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0209 Carbon capture mandate-repeal.
+Haroldson, Tarver and Winter and Senator(s) Hicks,
+Laursen, D, McKeown and Steinmetz
+AN ACT relating to public utilities; repealing low-carbon energy standard
+requirements; repealing conflicting provisions; making conforming amendments;
+specifying applicability; requiring rulemaking; and providing for an effective
+date.
+1/15/2025 Bill Number Assigned
+1/16/2025 H Received for Introduction
+1/20/2025 H Introduced and Referred to H09 - Minerals
+2/5/2025 H09 - Minerals:Recommend Do Pass 7-0-2-0-0
+ROLL CALL
+Ayes: Representative(s) Campbell, Heiner, Knapp, Lawley, Schmid, Tarver,
+Webber
+Excused: Representative(s) Larson, Riggins
+Ayes 7 Nays 0 Excused 2 Absent 0 Conflicts 0
+2/5/2025 H Placed on General File
+2/6/2025 H COW:Passed
+2/7/2025 H 2nd Reading:Passed
+2/10/2025 H 3rd Reading:Laid Back
+HB0209H3001/ADOPTED
+Page 1-above line 1 Delete the catch title entirely and insert
+"Carbon capture mandate-repeal.". YIN
+2/11/2025 H 3rd Reading:Passed 60-1-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larson, Lawley, Lien,
+Locke, Lucas, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Provenza,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock, Styvar,
+Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter,
+Wylie, Yin
+Nays: Representative Larsen
+Excused: Representative Riggins
+Ayes 60 Nays 1 Excused 1 Absent 0 Conflicts 0
+2/12/2025 S Received for Introduction
+2/18/2025 S Introduced and Referred to S09 - Minerals
+2/28/2025 S No report prior to CoW Cutoff
+3/3/2025 S:Died in Committee Returned Bill Pursuant to SR 5-4
+
+
+================================================================================
+
+Raw Text:
+HB0209 Carbon capture mandate-repeal.
+Sponsored By: Representative(s) Knapp, Angelos, Clouston,
+Haroldson, Tarver and Winter and Senator(s) Hicks,
+Laursen, D, McKeown and Steinmetz
+AN ACT relating to public utilities; repealing low-carbon energy standard
+requirements; repealing conflicting provisions; making conforming amendments;
+specifying applicability; requiring rulemaking; and providing for an effective
+date.
+1/15/2025 Bill Number Assigned
+1/16/2025 H Received for Introduction
+1/20/2025 H Introduced and Referred to H09 - Minerals
+2/5/2025 H09 - Minerals:Recommend Do Pass 7-0-2-0-0
+ROLL CALL
+Ayes: Representative(s) Campbell, Heiner, Knapp, Lawley, Schmid, Tarver,
+Webber
+Excused: Representative(s) Larson, Riggins
+Ayes 7 Nays 0 Excused 2 Absent 0 Conflicts 0
+2/5/2025 H Placed on General File
+2/6/2025 H COW:Passed
+2/7/2025 H 2nd Reading:Passed
+2/10/2025 H 3rd Reading:Laid Back
+HB0209H3001/ADOPTED
+Page 1-above line 1 Delete the catch title entirely and insert
+"Carbon capture mandate-repeal.". YIN
+2/11/2025 H 3rd Reading:Passed 60-1-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larson, Lawley, Lien,
+Locke, Lucas, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey, Provenza,
+Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock, Styvar,
+Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter,
+Wylie, Yin
+Nays: Representative Larsen
+Excused: Representative Riggins
+Ayes 60 Nays 1 Excused 1 Absent 0 Conflicts 0
+2/12/2025 S Received for Introduction
+2/18/2025 S Introduced and Referred to S09 - Minerals
+2/28/2025 S No report prior to CoW Cutoff
+3/3/2025 S:Died in Committee Returned Bill Pursuant to SR 5-4

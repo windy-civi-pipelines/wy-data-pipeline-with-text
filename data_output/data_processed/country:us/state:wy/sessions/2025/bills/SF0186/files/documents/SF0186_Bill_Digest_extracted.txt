@@ -1,0 +1,171 @@
+Title: Sponsored By: Senator(s) Cooper, Anderson, Crum and Driskill and
+Official Title: Sponsored By: Senator(s) Cooper, Anderson, Crum and Driskill and
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Advanced nuclear reactor manufacturers-fuel
+SF0186
+storage.
+Representative(s) Larsen, L and Wylie
+AN ACT relating to environmental quality; establishing requirements and
+standards for the storage of nuclear fuel by advanced nuclear reactor
+manufacturers; providing definitions; making conforming amendments; requiring
+rulemaking; and providing for effective dates.
+1/27/2025 Bill Number Assigned
+1/28/2025 S Received for Introduction
+1/29/2025 S Introduced and Referred to S09 - Minerals
+1/31/2025 S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Cooper, Jones, Nethercott, Rothfuss
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/31/2025 S Placed on General File
+SF0186SS001/ADOPTED
+Page 2-lines 11 through 16 Delete entirely and renumber as necessary.
+Page 2-line 18 Delete "(iii)" and insert "(ii)".
+Page 2-line 22 Delete "(iv)" and insert "(iii)".
+Page 2-line 23 After "amended" insert "and includes other high-level
+radioactive waste associated with the manufacturing and
+refurbishing process".
+Page 3-line 9 Delete "an".
+Page 3-line 10 Delete "application" and insert "the following".
+Page 3-line 11 Delete ". The application shall" and insert ":".
+Page 3-line 12 Delete entirely.
+Page 3-line 19 Delete "applicant" and insert "person".
+Page 5-line 1 Delete "an application and".
+Page 5-lines 3 through 6 Delete entirely and insert "department,
+through the director, shall verify the following:".
+Page 5-line 8 After "(i)" delete balance of line.
+Page 5-line 9 Delete "applicant" and insert "person".
+Page 5-lines 14 through 23 Delete entirely.
+Page 6-lines 1 and 2 Delete entirely and insert:
+"(ii) That the installation only stores spent nuclear fuel from the
+advanced nuclear reactors or other high-level radioactive waste associated with
+the manufacturing and refurbishing process on the site of the advanced nuclear
+reactor manufacturing facility after first meeting all requirements of the
+United States nuclear regulatory commission.".
+Page 6-lines 4 through 6 Delete entirely and insert:
+"(d) The provisions of the Industrial Development Information and
+Siting Act, W.S. 35-12-101 through 35-12-119, shall apply only to the extent
+that those provisions do not interfere with, contradict or duplicate any
+requirements of the United States nuclear regulatory commission.".
+Page 6-lines 20 through 23 Delete entirely and renumber as necessary.
+Page 7-lines 1 through 5 Delete entirely.
+Page 7-line 7 Delete "(g)" and insert "(f)".
+Page 7-lines 15 through 22 Delete entirely and renumber as necessary.
+Page 8-line 1 Delete "(j)" and insert "(g)".
+Page 8-line 8 Delete "35-11-1501(a)(i)".
+Page 8-line 9 Delete "and (iii)" and insert "35-11-1501(a)(iii)".
+Page 9-lines 4 through 9 Delete entirely.
+Page 9-lines 18 though 22 Delete all new language.
+Page 10-line 2 After "fuel" insert "or other high-level radioactive
+waste associated with the manufacturing and
+refurbishing process". ANDERSON, CHAIRMAN
+2/3/2025 S COW:Passed
+2/4/2025 S 2nd Reading:Passed
+2/5/2025 S 3rd Reading:Passed 21-6-4-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Case, Cooper, Crago,
+Dockstader, Driskill, Gierau, Hicks, Jones, Kolb, Landen, Nethercott, Olsen,
+Pappas, Rothfuss, Salazar, Scott, Smith
+Nays: Senator(s) Hutchings, Ide, Mckeown, Pearson, Schuler, Steinmetz
+Excused: Senator(s) Barlow, Crum, French, Laursen
+Ayes 21 Nays 6 Excused 4 Absent 0 Conflicts 0
+2/6/2025 H Received for Introduction
+2/13/2025 H Introduced and Referred to H09 - Minerals
+2/27/2025 H09 - Minerals:Do Pass Failed 3-5-1-0-0
+ROLL CALL
+Ayes: Representative(s) Heiner, Larson, Lawley
+Nays: Representative(s) Campbell, Knapp, Schmid, Tarver, Webber
+Excused: Representative Riggins
+Ayes 3 Nays 5 Excused 1 Absent 0 Conflicts 0
+3/3/2025 H No report prior to CoW Cutoff
+3/3/2025 H:Died in Committee Returned Bill Pursuant to HR 5-4
+
+
+================================================================================
+
+Raw Text:
+Advanced nuclear reactor manufacturers-fuel
+SF0186
+storage.
+Sponsored By: Senator(s) Cooper, Anderson, Crum and Driskill and
+Representative(s) Larsen, L and Wylie
+AN ACT relating to environmental quality; establishing requirements and
+standards for the storage of nuclear fuel by advanced nuclear reactor
+manufacturers; providing definitions; making conforming amendments; requiring
+rulemaking; and providing for effective dates.
+1/27/2025 Bill Number Assigned
+1/28/2025 S Received for Introduction
+1/29/2025 S Introduced and Referred to S09 - Minerals
+1/31/2025 S09 - Minerals:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Cooper, Jones, Nethercott, Rothfuss
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/31/2025 S Placed on General File
+SF0186SS001/ADOPTED
+Page 2-lines 11 through 16 Delete entirely and renumber as necessary.
+Page 2-line 18 Delete "(iii)" and insert "(ii)".
+Page 2-line 22 Delete "(iv)" and insert "(iii)".
+Page 2-line 23 After "amended" insert "and includes other high-level
+radioactive waste associated with the manufacturing and
+refurbishing process".
+Page 3-line 9 Delete "an".
+Page 3-line 10 Delete "application" and insert "the following".
+Page 3-line 11 Delete ". The application shall" and insert ":".
+Page 3-line 12 Delete entirely.
+Page 3-line 19 Delete "applicant" and insert "person".
+Page 5-line 1 Delete "an application and".
+Page 5-lines 3 through 6 Delete entirely and insert "department,
+through the director, shall verify the following:".
+Page 5-line 8 After "(i)" delete balance of line.
+Page 5-line 9 Delete "applicant" and insert "person".
+Page 5-lines 14 through 23 Delete entirely.
+Page 6-lines 1 and 2 Delete entirely and insert:
+
+"(ii) That the installation only stores spent nuclear fuel from the
+advanced nuclear reactors or other high-level radioactive waste associated with
+the manufacturing and refurbishing process on the site of the advanced nuclear
+reactor manufacturing facility after first meeting all requirements of the
+United States nuclear regulatory commission.".
+Page 6-lines 4 through 6 Delete entirely and insert:
+"(d) The provisions of the Industrial Development Information and
+Siting Act, W.S. 35-12-101 through 35-12-119, shall apply only to the extent
+that those provisions do not interfere with, contradict or duplicate any
+requirements of the United States nuclear regulatory commission.".
+Page 6-lines 20 through 23 Delete entirely and renumber as necessary.
+Page 7-lines 1 through 5 Delete entirely.
+Page 7-line 7 Delete "(g)" and insert "(f)".
+Page 7-lines 15 through 22 Delete entirely and renumber as necessary.
+Page 8-line 1 Delete "(j)" and insert "(g)".
+Page 8-line 8 Delete "35-11-1501(a)(i)".
+Page 8-line 9 Delete "and (iii)" and insert "35-11-1501(a)(iii)".
+Page 9-lines 4 through 9 Delete entirely.
+Page 9-lines 18 though 22 Delete all new language.
+Page 10-line 2 After "fuel" insert "or other high-level radioactive
+waste associated with the manufacturing and
+refurbishing process". ANDERSON, CHAIRMAN
+2/3/2025 S COW:Passed
+2/4/2025 S 2nd Reading:Passed
+2/5/2025 S 3rd Reading:Passed 21-6-4-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Case, Cooper, Crago,
+Dockstader, Driskill, Gierau, Hicks, Jones, Kolb, Landen, Nethercott, Olsen,
+Pappas, Rothfuss, Salazar, Scott, Smith
+Nays: Senator(s) Hutchings, Ide, Mckeown, Pearson, Schuler, Steinmetz
+Excused: Senator(s) Barlow, Crum, French, Laursen
+Ayes 21 Nays 6 Excused 4 Absent 0 Conflicts 0
+2/6/2025 H Received for Introduction
+2/13/2025 H Introduced and Referred to H09 - Minerals
+2/27/2025 H09 - Minerals:Do Pass Failed 3-5-1-0-0
+ROLL CALL
+Ayes: Representative(s) Heiner, Larson, Lawley
+Nays: Representative(s) Campbell, Knapp, Schmid, Tarver, Webber
+Excused: Representative Riggins
+Ayes 3 Nays 5 Excused 1 Absent 0 Conflicts 0
+
+3/3/2025 H No report prior to CoW Cutoff
+3/3/2025 H:Died in Committee Returned Bill Pursuant to HR 5-4

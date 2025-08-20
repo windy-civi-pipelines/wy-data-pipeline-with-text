@@ -1,0 +1,49 @@
+Title: Financial institution discrimination. 25LSO-0324, 1.0
+Official Title: Financial institution discrimination. 25LSO-0324, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+FISCAL NOTE
+The fiscal impact is indeterminable.
+The fiscal impact of this legislation would depend upon whether, in the future, the
+custodial and depository bank with which the State Treasurer’s Office (STO)
+currently maintains contracts adopted policies in violation of the legislation.
+The STO would face significant impacts if the custodial bank or depository bank
+implemented a discriminatory policy against an energy company. Under this
+legislation, this would require the STO to find a new bank for those services at
+the end of the contract term. In finding a new bank, the STO would need to complete
+the RFP process, rewrite and potentially negotiate every manager contract, and
+modify our existing computer operating systems used for accounting and investing.
+These efforts would generate substantial expenditures.
+Prepared by: Matt Sackett, LSO Contractor Phone: 777-7881
+(Information provided by Samantha Dailey, State Treasurer's Office, 307-777-7408;
+Kristi Racines, State Auditor's Office, 307-777-7831; Jesse Naiman, Secretary of
+State's Office, 307-777-5873)
+HB0291
+
+
+================================================================================
+
+Raw Text:
+Financial institution discrimination. 25LSO-0324, 1.0
+FISCAL NOTE
+The fiscal impact is indeterminable.
+The fiscal impact of this legislation would depend upon whether, in the future, the
+custodial and depository bank with which the State Treasurer’s Office (STO)
+currently maintains contracts adopted policies in violation of the legislation.
+The STO would face significant impacts if the custodial bank or depository bank
+implemented a discriminatory policy against an energy company. Under this
+legislation, this would require the STO to find a new bank for those services at
+the end of the contract term. In finding a new bank, the STO would need to complete
+the RFP process, rewrite and potentially negotiate every manager contract, and
+modify our existing computer operating systems used for accounting and investing.
+These efforts would generate substantial expenditures.
+Prepared by: Matt Sackett, LSO Contractor Phone: 777-7881
+(Information provided by Samantha Dailey, State Treasurer's Office, 307-777-7408;
+Kristi Racines, State Auditor's Office, 307-777-7831; Jesse Naiman, Secretary of
+State's Office, 307-777-5873)
+HB0291

@@ -1,0 +1,99 @@
+Title: Enhanced oil recovery-severance tax 25LSO-0043, 1.0
+Official Title: Enhanced oil recovery-severance tax 25LSO-0043, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+exemption.
+CORRECTED COPY
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+GENERAL FUND ($0) ($700,000) ($1,500,000)
+BUDGET RESERVE ACCOUNT ($0) ($1,400,000) ($3,000,000)
+Source of revenue (decrease):
+Crude oil and natural gas produced by means of enhanced oil and gas recovery, as
+defined in the bill, would be exempt from 3 percent of the total 6 percent
+severance tax. To qualify for the exemption, the crude oil and natural gas shall
+be produced by means of enhanced oil and gas recovery from projects using carbon
+capture, utilization and storage (CCUS) technology. The carbon dioxide captured
+and used in the enhanced oil and gas recovery to produce crude oil and natural
+gas shall be from a carbon dioxide source originating within Wyoming.
+Assumptions:
+The Enhanced Oil Recovery Institute (EORI) estimates 1,801,837 barrels of
+incremental oil produced in FY 2027 and 2,501,304 barrels of incremental oil
+produced in FY 2028 would qualify for the proposed exemption. The revenue
+decrease in the table above is based oil projections in the January 2025
+Consensus Revenue Estimating Group (CREG) forecast.
+The fiscal impact described above does not include the potential revenue increase
+in severance taxes and ad valorem taxes on potential increased production that
+would not otherwise take place without the proposed exemption. The potential
+increased production resulting from the proposed exemption cannot be determined
+at this time.
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements. As introduced, the bill does not modify any state agency
+budget or current personnel authorizations.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Department of Revenue
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Lon D. Whitman, Enhanced Oil Recovery Comm., 307-315-
+6450; Matt Sachse, Department of Revenue, 777-5310; Tom Kropatsch, Oil & Gas
+Commission, 307-234-7147; John Burbidge, Public Service Commission, 777-7429;
+Erin Campbell, Geological Survey, 307-745-2250)
+SF0018
+
+
+================================================================================
+
+Raw Text:
+Enhanced oil recovery-severance tax 25LSO-0043, 1.0
+exemption.
+CORRECTED COPY
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+GENERAL FUND ($0) ($700,000) ($1,500,000)
+BUDGET RESERVE ACCOUNT ($0) ($1,400,000) ($3,000,000)
+Source of revenue (decrease):
+Crude oil and natural gas produced by means of enhanced oil and gas recovery, as
+defined in the bill, would be exempt from 3 percent of the total 6 percent
+severance tax. To qualify for the exemption, the crude oil and natural gas shall
+be produced by means of enhanced oil and gas recovery from projects using carbon
+capture, utilization and storage (CCUS) technology. The carbon dioxide captured
+and used in the enhanced oil and gas recovery to produce crude oil and natural
+gas shall be from a carbon dioxide source originating within Wyoming.
+Assumptions:
+The Enhanced Oil Recovery Institute (EORI) estimates 1,801,837 barrels of
+incremental oil produced in FY 2027 and 2,501,304 barrels of incremental oil
+produced in FY 2028 would qualify for the proposed exemption. The revenue
+decrease in the table above is based oil projections in the January 2025
+Consensus Revenue Estimating Group (CREG) forecast.
+The fiscal impact described above does not include the potential revenue increase
+in severance taxes and ad valorem taxes on potential increased production that
+would not otherwise take place without the proposed exemption. The potential
+increased production resulting from the proposed exemption cannot be determined
+at this time.
+NOTICE-AGENCY ESTIMATE OF ADMINISTRATIVE IMPACT REQUESTED
+This bill has administrative impact that appears to increase duties or
+responsibilities of one or more state agencies and may impact agency spending or
+staffing requirements. As introduced, the bill does not modify any state agency
+budget or current personnel authorizations.
+The following state agencies will be asked to provide their estimate of the
+administrative fiscal impact prior to the first committee meeting held to
+consider the bill:
+Department of Revenue
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Lon D. Whitman, Enhanced Oil Recovery Comm., 307-315-
+6450; Matt Sachse, Department of Revenue, 777-5310; Tom Kropatsch, Oil & Gas
+Commission, 307-234-7147; John Burbidge, Public Service Commission, 777-7429;
+Erin Campbell, Geological Survey, 307-745-2250)
+SF0018

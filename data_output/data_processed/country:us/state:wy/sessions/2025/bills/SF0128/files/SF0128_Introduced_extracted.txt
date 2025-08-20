@@ -1,0 +1,108 @@
+Title: Sponsored by: Senator(s) McKeown, Biteman, Dockstader,
+Official Title: Sponsored by: Senator(s) McKeown, Biteman, Dockstader,
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0646
+SENATE FILE NO. SF0128
+Repeal of sales tax on electricity.
+French, Hutchings, Ide, Kolb, Laursen, D,
+Salazar and Smith, D and Representative(s)
+Hoeft, Knapp, Locke, Neiman, Ottman and
+Singh
+A BILL
+for
+1 AN ACT relating to sales tax; providing a sales tax
+2 exemption for sales of electricity; and providing for an
+3 effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1. W.S. 39-15-103(a)(i)(E) and 39-15-105(a)
+8 by creating a new paragraph (xi) are amended to read:
+9
+10 39-15-103. Imposition.
+11
+12 (a) Taxable event. The following shall apply:
+13
+1 SF0128
+2025 STATE OF WYOMING 25LSO-0646
+1 (i) Except as provided by W.S. 39-15-105, there
+2 is levied an excise tax upon:
+3
+4 (E) Except to the extent sales of
+5 electricity are exempt under W.S. 39-15-104(a)(xi), the
+6 sales price paid to public utilities as defined in W.S.
+7 37-1-101 through 37-3-114 and to persons furnishing gas,
+8 electricity or heat for domestic, industrial or commercial
+9 consumption;
+10
+11 39-15-105. Exemptions.
+12
+13 (a) The following sales or leases are exempt from the
+14 excise tax imposed by this article:
+15
+16 (xi) Sales of electricity for domestic,
+17 industrial or commercial consumption.
+18
+19 Section 2. This act is effective July 1, 2025.
+20
+21 (END)
+2 SF0128
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0646
+SENATE FILE NO. SF0128
+Repeal of sales tax on electricity.
+Sponsored by: Senator(s) McKeown, Biteman, Dockstader,
+French, Hutchings, Ide, Kolb, Laursen, D,
+Salazar and Smith, D and Representative(s)
+Hoeft, Knapp, Locke, Neiman, Ottman and
+Singh
+A BILL
+for
+1 AN ACT relating to sales tax; providing a sales tax
+2 exemption for sales of electricity; and providing for an
+3 effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1. W.S. 39-15-103(a)(i)(E) and 39-15-105(a)
+8 by creating a new paragraph (xi) are amended to read:
+9
+10 39-15-103. Imposition.
+11
+12 (a) Taxable event. The following shall apply:
+13
+1 SF0128
+
+2025 STATE OF WYOMING 25LSO-0646
+1 (i) Except as provided by W.S. 39-15-105, there
+2 is levied an excise tax upon:
+3
+4 (E) Except to the extent sales of
+5 electricity are exempt under W.S. 39-15-104(a)(xi), the
+6 sales price paid to public utilities as defined in W.S.
+7 37-1-101 through 37-3-114 and to persons furnishing gas,
+8 electricity or heat for domestic, industrial or commercial
+9 consumption;
+10
+11 39-15-105. Exemptions.
+12
+13 (a) The following sales or leases are exempt from the
+14 excise tax imposed by this article:
+15
+16 (xi) Sales of electricity for domestic,
+17 industrial or commercial consumption.
+18
+19 Section 2. This act is effective July 1, 2025.
+20
+21 (END)
+2 SF0128

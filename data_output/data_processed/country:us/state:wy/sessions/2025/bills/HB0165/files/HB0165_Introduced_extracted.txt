@@ -1,0 +1,131 @@
+Title: HOUSE BILL NO. HB0165
+Official Title: HOUSE BILL NO. HB0165
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0478
+Ranked choice voting-prohibition.
+Sponsored by: Representative(s) Webb, Brady, Bratten,
+Guggenmos, Haroldson, Heiner, Johnson,
+Ottman, Pendergraft, Smith, S, Webber and
+Wharff and Senator(s) Hutchings and Ide
+A BILL
+for
+1 AN ACT relating to elections; clarifying that elections
+2 shall not be conducted by ranked choice voting; clarifying
+3 that ballots are required to specify only one (1) vote per
+4 office to be filled; and providing for an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 22-2-117(a) and 22-6-120(a)(xii) are
+9 amended to read:
+10
+11 22-2-117. Vote required for election; ratification.
+12
+13 (a) Partisan and nonpartisan candidates who receive
+14 the largest number of votes for each office to be filled at
+1 HB0165
+2025 STATE OF WYOMING 25LSO-0478
+1 the general election are elected. Nothing in this election
+2 code shall be deemed to authorize any election in Wyoming
+3 to be conducted through ranked choice voting. Any existing
+4 or future ordinance enacted or adopted by a county,
+5 municipality or any other governmental entity that purports
+6 to authorize ranked choice voting in violation of this
+7 subsection is void. As used in this subsection, "ranked
+8 choice voting" means a voting method that allows voters to
+9 rank candidates for an office in order of preference and
+10 has ballots cast to be tabulated in multiple rounds
+11 following the elimination of a candidate until the
+12 candidate or candidates with the most votes are declared
+13 winners, or any other system that allows a voter to vote
+14 for more than the number of candidates permitted to fill a
+15 particular office.
+16
+17 22-6-120. Format of general election ballot.
+18
+19 (a) The general election ballot shall be printed in
+20 substantial compliance with this format:
+21
+22 (xii) Adjacent to the description of any office
+23 shall be printed "Vote for one" or if the office is to be
+2 HB0165
+2025 STATE OF WYOMING 25LSO-0478
+1 filled by more than one (1) candidate shall be printed
+2 "Vote For Not More Than", then the appropriate words and
+3 figures designating the proper number to be elected;
+4
+5 Section 2. This act is effective July 1, 2025.
+6
+7 (END)
+3 HB0165
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0478
+HOUSE BILL NO. HB0165
+Ranked choice voting-prohibition.
+Sponsored by: Representative(s) Webb, Brady, Bratten,
+Guggenmos, Haroldson, Heiner, Johnson,
+Ottman, Pendergraft, Smith, S, Webber and
+Wharff and Senator(s) Hutchings and Ide
+A BILL
+for
+1 AN ACT relating to elections; clarifying that elections
+2 shall not be conducted by ranked choice voting; clarifying
+3 that ballots are required to specify only one (1) vote per
+4 office to be filled; and providing for an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 22-2-117(a) and 22-6-120(a)(xii) are
+9 amended to read:
+10
+11 22-2-117. Vote required for election; ratification.
+12
+13 (a) Partisan and nonpartisan candidates who receive
+14 the largest number of votes for each office to be filled at
+1 HB0165
+
+2025 STATE OF WYOMING 25LSO-0478
+1 the general election are elected. Nothing in this election
+2 code shall be deemed to authorize any election in Wyoming
+3 to be conducted through ranked choice voting. Any existing
+4 or future ordinance enacted or adopted by a county,
+5 municipality or any other governmental entity that purports
+6 to authorize ranked choice voting in violation of this
+7 subsection is void. As used in this subsection, "ranked
+8 choice voting" means a voting method that allows voters to
+9 rank candidates for an office in order of preference and
+10 has ballots cast to be tabulated in multiple rounds
+11 following the elimination of a candidate until the
+12 candidate or candidates with the most votes are declared
+13 winners, or any other system that allows a voter to vote
+14 for more than the number of candidates permitted to fill a
+15 particular office.
+16
+17 22-6-120. Format of general election ballot.
+18
+19 (a) The general election ballot shall be printed in
+20 substantial compliance with this format:
+21
+22 (xii) Adjacent to the description of any office
+23 shall be printed "Vote for one" or if the office is to be
+2 HB0165
+
+2025 STATE OF WYOMING 25LSO-0478
+1 filled by more than one (1) candidate shall be printed
+2 "Vote For Not More Than", then the appropriate words and
+3 figures designating the proper number to be elected;
+4
+5 Section 2. This act is effective July 1, 2025.
+6
+7 (END)
+3 HB0165

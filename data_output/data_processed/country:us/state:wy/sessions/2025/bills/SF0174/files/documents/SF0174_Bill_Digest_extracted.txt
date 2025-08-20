@@ -1,0 +1,126 @@
+Title: SF0174 Constitutional apportionment of legislators.
+Official Title: SF0174 Constitutional apportionment of legislators.
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Sponsored By: Senator(s) Driskill, Cooper, Dockstader, Hicks,
+Laursen, D and Steinmetz and Representative(s) Wharff
+and Williams
+AN ACT relating to state legislative districts; providing legislative findings;
+requiring management council to assign legislative apportionment to a committee
+of the legislature for study during the 2025 legislative interim as provided by
+this act; providing that legislation to apportion the legislature based on the
+requirements of this act may be introduced during the 2026 legislative budget
+session; and providing for an effective date.
+1/25/2025 Bill Number Assigned
+1/27/2025 S Received for Introduction
+1/29/2025 S Introduced and Referred to S07 - Corporations
+2/5/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/5/2025 S Placed on General File
+2/10/2025 S COW:Passed
+2/11/2025 S 2nd Reading:Passed
+2/12/2025 S 3rd Reading:Passed 30-0-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones,
+Kolb, Landen, Laursen, Mckeown, Nethercott, Olsen, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Smith, Steinmetz
+Excused: Senator Pappas
+Ayes 30 Nays 0 Excused 1 Absent 0 Conflicts 0
+2/12/2025 H Received for Introduction
+2/13/2025 H Introduced and Referred to H07 - Corporations
+2/27/2025 H07 - Corporations:Recommend Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber, Yin
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/27/2025 H Placed on General File
+2/28/2025 H COW:Passed
+3/3/2025 H 2nd Reading:Passed
+3/4/2025 H 3rd Reading:Passed 54-6-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, E, Campbell, K, Chestek, Clouston, Connolly,
+Davis, Erickson, Guggenmos, Haroldson, Harshman, Heiner, Hoeft, Jarvis,
+Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Mccann, Neiman,
+Ottman, Pendergraft, Posey, Provenza, Riggins, Rodriguez-Williams, Schmid,
+Sherwood, Smith, Strock, Styvar, Tarver, Thayer, Washut, Wasserburger, Webb,
+Webber, Wharff, Williams, Winter, Wylie, Yin
+Nays: Representative(s) Brown, L, Eklund, Filer, Geringer, Nicholas, Singh
+Excused: Representative(s) Lucas, Storer
+Ayes 54 Nays 6 Excused 2 Absent 0 Conflicts 0
+3/4/2025 Assigned Number SEA No. 0073
+3/4/2025 S President Signed SEA No. 0073
+3/4/2025 H Speaker Signed SEA No. 0073
+3/18/2025 Governor Signed SEA No. 0073
+3/18/2025 Assigned Chapter Number 156
+Chapter No. 156 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+SF0174 Constitutional apportionment of legislators.
+Sponsored By: Senator(s) Driskill, Cooper, Dockstader, Hicks,
+Laursen, D and Steinmetz and Representative(s) Wharff
+and Williams
+AN ACT relating to state legislative districts; providing legislative findings;
+requiring management council to assign legislative apportionment to a committee
+of the legislature for study during the 2025 legislative interim as provided by
+this act; providing that legislation to apportion the legislature based on the
+requirements of this act may be introduced during the 2026 legislative budget
+session; and providing for an effective date.
+1/25/2025 Bill Number Assigned
+1/27/2025 S Received for Introduction
+1/29/2025 S Introduced and Referred to S07 - Corporations
+2/5/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/5/2025 S Placed on General File
+2/10/2025 S COW:Passed
+2/11/2025 S 2nd Reading:Passed
+2/12/2025 S 3rd Reading:Passed 30-0-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones,
+Kolb, Landen, Laursen, Mckeown, Nethercott, Olsen, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Smith, Steinmetz
+Excused: Senator Pappas
+Ayes 30 Nays 0 Excused 1 Absent 0 Conflicts 0
+2/12/2025 H Received for Introduction
+2/13/2025 H Introduced and Referred to H07 - Corporations
+2/27/2025 H07 - Corporations:Recommend Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber, Yin
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/27/2025 H Placed on General File
+2/28/2025 H COW:Passed
+3/3/2025 H 2nd Reading:Passed
+3/4/2025 H 3rd Reading:Passed 54-6-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Byron, Campbell, E, Campbell, K, Chestek, Clouston, Connolly,
+Davis, Erickson, Guggenmos, Haroldson, Harshman, Heiner, Hoeft, Jarvis,
+Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien, Locke, Mccann, Neiman,
+Ottman, Pendergraft, Posey, Provenza, Riggins, Rodriguez-Williams, Schmid,
+
+Sherwood, Smith, Strock, Styvar, Tarver, Thayer, Washut, Wasserburger, Webb,
+Webber, Wharff, Williams, Winter, Wylie, Yin
+Nays: Representative(s) Brown, L, Eklund, Filer, Geringer, Nicholas, Singh
+Excused: Representative(s) Lucas, Storer
+Ayes 54 Nays 6 Excused 2 Absent 0 Conflicts 0
+3/4/2025 Assigned Number SEA No. 0073
+3/4/2025 S President Signed SEA No. 0073
+3/4/2025 H Speaker Signed SEA No. 0073
+3/18/2025 Governor Signed SEA No. 0073
+3/18/2025 Assigned Chapter Number 156
+Chapter No. 156 Session Laws of Wyoming 2025

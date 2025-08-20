@@ -1,0 +1,75 @@
+Title: 1 Page 1-line 12 After "(ix)" delete "and" and insert ",".
+Official Title: 1 Page 1-line 12 After "(ix)" delete "and" and insert ",".
+Number of Sections: 1
+Source: versions - Amendment HB0183S3001 (3rd reading) - Senator Dockstader (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0183S3001 (TO ENGROSSED COPY)
+2
+3 Page 1-line 13 In the Boner committee of the whole amendment
+4 (HB0183SW001/AE) to this line, after "new
+5 subsection (b)" insert "and 37-17-104(f)".
+6
+7 Page 4-after line 3 In the Boner committee of the whole
+8 amendment (HB0183SW001/AE) to this line,
+9 after "non-customer generators." insert
+10 "Pursuant to W.S. 37-17-104, cooperative
+11 electric utilities not subject to
+12 commission rate regulation shall set the
+13 rates and terms for customer-generators
+14 separately from non-customer
+15 generators.".
+16
+17 Page 4-after line 3 Insert:
+18
+19 "37-17-104. Adjustment of retail rates; complaint;
+20 investigation; resolution.
+21
+22 (f) Except as provided in W.S. 37-16-102(b), any cooperative
+23 exempted under W.S. 37-17-103 shall apply energy retail rates
+24 equally to all member owners in the same rate class. Except as
+25 provided in W.S. 37-16-102(b), in the event a cooperative does not
+26 apply energy retail rates equally, regardless of state boundaries,
+27 the cooperative will immediately be subject to rate regulation by
+28 the Wyoming public service commission.". DOCKSTADER, CASE, COOPER,
+29 CRAGO, DRISKILL
+1
+
+
+================================================================================
+
+Raw Text:
+HB0183S3001 (TO ENGROSSED COPY)
+1 Page 1-line 12 After "(ix)" delete "and" and insert ",".
+2
+3 Page 1-line 13 In the Boner committee of the whole amendment
+4 (HB0183SW001/AE) to this line, after "new
+5 subsection (b)" insert "and 37-17-104(f)".
+6
+7 Page 4-after line 3 In the Boner committee of the whole
+8 amendment (HB0183SW001/AE) to this line,
+9 after "non-customer generators." insert
+10 "Pursuant to W.S. 37-17-104, cooperative
+11 electric utilities not subject to
+12 commission rate regulation shall set the
+13 rates and terms for customer-generators
+14 separately from non-customer
+15 generators.".
+16
+17 Page 4-after line 3 Insert:
+18
+19 "37-17-104. Adjustment of retail rates; complaint;
+20 investigation; resolution.
+21
+22 (f) Except as provided in W.S. 37-16-102(b), any cooperative
+23 exempted under W.S. 37-17-103 shall apply energy retail rates
+24 equally to all member owners in the same rate class. Except as
+25 provided in W.S. 37-16-102(b), in the event a cooperative does not
+26 apply energy retail rates equally, regardless of state boundaries,
+27 the cooperative will immediately be subject to rate regulation by
+28 the Wyoming public service commission.". DOCKSTADER, CASE, COOPER,
+29 CRAGO, DRISKILL
+1

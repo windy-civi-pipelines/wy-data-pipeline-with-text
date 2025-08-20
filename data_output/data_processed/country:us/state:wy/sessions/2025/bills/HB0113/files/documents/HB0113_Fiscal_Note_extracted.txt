@@ -1,0 +1,57 @@
+Title: LOCAL SOURCES FUND ($668,000) ($668,000) ($668,000)
+Official Title: LOCAL SOURCES FUND ($668,000) ($668,000) ($668,000)
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Insurance payments-not taxable. 25LSO-0392, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+GENERAL FUND ($695,000) ($695,000) ($695,000)
+Source of revenue (decrease):
+This bill creates a sales and use tax exemption on insurance damage settlement
+payments used to purchase motor vehicles, house trailers, trailer coaches,
+trailers or semitrailers.
+Assumptions:
+The estimate assumes an average vehicle settlement payment of $25,000 and 1,000
+damage settlements per year used to buy a replacement vehicle.
+The average weighted Wyoming sales tax rate is 5.45 percent based on fiscal year
+2024 sales and use tax collections. The total amount of estimated exempted sales
+and use tax is $1,362,000 ($25,000 x 1,000 x 5.45%). Approximately 51 percent of
+the average sales tax rate goes to the General Fund, and the remaining 49 percent
+goes to cities, towns, and counties.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5220)
+HB0113
+
+
+================================================================================
+
+Raw Text:
+Insurance payments-not taxable. 25LSO-0392, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+GENERAL FUND ($695,000) ($695,000) ($695,000)
+LOCAL SOURCES FUND ($668,000) ($668,000) ($668,000)
+Source of revenue (decrease):
+This bill creates a sales and use tax exemption on insurance damage settlement
+payments used to purchase motor vehicles, house trailers, trailer coaches,
+trailers or semitrailers.
+Assumptions:
+The estimate assumes an average vehicle settlement payment of $25,000 and 1,000
+damage settlements per year used to buy a replacement vehicle.
+The average weighted Wyoming sales tax rate is 5.45 percent based on fiscal year
+2024 sales and use tax collections. The total amount of estimated exempted sales
+and use tax is $1,362,000 ($25,000 x 1,000 x 5.45%). Approximately 51 percent of
+the average sales tax rate goes to the General Fund, and the remaining 49 percent
+goes to cities, towns, and counties.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5220)
+HB0113

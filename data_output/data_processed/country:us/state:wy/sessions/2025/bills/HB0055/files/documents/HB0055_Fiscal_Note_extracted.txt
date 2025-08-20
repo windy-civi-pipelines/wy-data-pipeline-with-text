@@ -1,0 +1,49 @@
+Title: The source of the revenue increase is a $10 increase to the judicial systems
+Official Title: The source of the revenue increase is a $10 increase to the judicial systems
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Court automation fee-amendments. 25LSO-0286, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase
+SPECIAL REVENUE FUND $840,825 $849,235 $849,235
+Source of revenue increase:
+automation (JSA) fee assessed on citations, criminal cases, and filing fees in
+the Judicial Branch.
+Assumptions:
+The estimates above assume the number of transactions in which the JSA fee is
+assessed will increase by 1% each biennium.
+Prepared by: Catherine Camarotte, LSO Phone: 777-7881
+(Information provided by Claire Smith, Supreme Court, 307-777-7502;
+Rory Horsley, Office of Guardian Ad Litem, 307-777-5010;
+Kati Wagner, Department of Family Services, 307-777-6031)
+HB0055
+
+
+================================================================================
+
+Raw Text:
+Court automation fee-amendments. 25LSO-0286, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase
+SPECIAL REVENUE FUND $840,825 $849,235 $849,235
+Source of revenue increase:
+The source of the revenue increase is a $10 increase to the judicial systems
+automation (JSA) fee assessed on citations, criminal cases, and filing fees in
+the Judicial Branch.
+Assumptions:
+The estimates above assume the number of transactions in which the JSA fee is
+assessed will increase by 1% each biennium.
+Prepared by: Catherine Camarotte, LSO Phone: 777-7881
+(Information provided by Claire Smith, Supreme Court, 307-777-7502;
+Rory Horsley, Office of Guardian Ad Litem, 307-777-5010;
+Kati Wagner, Department of Family Services, 307-777-6031)
+HB0055

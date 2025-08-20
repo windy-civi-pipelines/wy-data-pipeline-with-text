@@ -1,0 +1,57 @@
+Title: 6 Page 2-line 11 After "program" delete balance of line.
+Official Title: 6 Page 2-line 11 After "program" delete balance of line.
+Number of Sections: 1
+Source: versions - Amendment SF0086SS001 (Standing Committee) - Senate Education Committee (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0086SS001
+1 Page 1-line 9 After "creating" insert "a".
+2
+3 Page 1-line 10 Delete "subparagraphs" and insert
+4 "subparagraph"; delete "and (E)".
+5
+7
+8 Page 2-line 12 Delete entirely and insert "approved by the
+9 board that at a minimum requires passage of a
+10 subject area examination, pedagogy
+11 examination, United States Constitution
+12 examination and Wyoming Constitution
+13 examination. Issuance of this alternative
+14 certification shall be limited to the subject
+15 areas and grade levels successfully completed
+16 by the applicant.".
+17
+18 Page 2-lines 14 through 22 Delete entirely.
+19
+20 Page 3-lines 1 through 7 Delete entirely. SCHULER, CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+SF0086SS001
+1 Page 1-line 9 After "creating" insert "a".
+2
+3 Page 1-line 10 Delete "subparagraphs" and insert
+4 "subparagraph"; delete "and (E)".
+5
+6 Page 2-line 11 After "program" delete balance of line.
+7
+8 Page 2-line 12 Delete entirely and insert "approved by the
+9 board that at a minimum requires passage of a
+10 subject area examination, pedagogy
+11 examination, United States Constitution
+12 examination and Wyoming Constitution
+13 examination. Issuance of this alternative
+14 certification shall be limited to the subject
+15 areas and grade levels successfully completed
+16 by the applicant.".
+17
+18 Page 2-lines 14 through 22 Delete entirely.
+19
+20 Page 3-lines 1 through 7 Delete entirely. SCHULER, CHAIRMAN
+1

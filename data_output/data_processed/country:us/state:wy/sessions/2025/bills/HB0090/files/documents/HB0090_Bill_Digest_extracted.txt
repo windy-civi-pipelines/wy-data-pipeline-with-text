@@ -1,0 +1,189 @@
+Title: Sponsored By: Representative(s) Davis, Singh and Williams and
+Official Title: Sponsored By: Representative(s) Davis, Singh and Williams and
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0090 Anthrax outbreak protocol.
+Senator(s) Crago and Hicks
+AN ACT relating to agriculture, livestock and other animals; requiring the
+livestock board to develop a protocol for positive anthrax tests; requiring
+rulemaking; requiring a report; and providing for effective dates.
+12/30/2024 Bill Number Assigned
+1/2/2025 H Received for Introduction
+1/29/2025 H Introduced and Referred to H05 - Agriculture
+2/6/2025 H05 - Agriculture:Recommend Do Pass 6-3-0-0-0
+ROLL CALL
+Ayes: Representative(s) Davis, Eklund, Johnson, Ottman, Schmid, Winter
+Nays: Representative(s) Banks, Provenza, Strock
+Ayes 6 Nays 3 Excused 0 Absent 0 Conflicts 0
+2/6/2025 H Placed on General File
+HB0090HW001/ADOPTED
+Page 1-line 3 Delete "non-negative" and insert "positive".
+Page 2-line 5 After "outbreaks" insert "."; delete "in a designated".
+Page 2-line 6 Delete "surveillance area" and insert "An area of
+observation shall be established"; delete "non-
+negative" and insert "positive".
+Page 2-line 8 Delete "designated surveillance area" and insert "area
+of observation".
+Page 2-line 9 Delete "six (6)" and insert "one and one-half (1.5)".
+Page 2-line 10 Delete "non-negative" and insert "positive". DAVIS
+2/10/2025 H COW:Passed
+HB0090H2001/ADOPTED
+Delete the Davis committee of the whole amendment (HB0090HW001/A) entirely and
+further amend as follows:
+Page 1-line 3 Delete "providing".
+Page 1-line 4 Delete "definitions;".
+Page 2-line 5 After "outbreaks" insert "."; delete "in a designated".
+Page 2-lines 6 through 10 Delete entirely. WILLIAMS
+2/11/2025 H 2nd Reading:Passed
+HB0090H3001/WITHDRAWN
+2/12/2025 H 3rd Reading:Passed 43-17-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Banks, Bratten, Brown, G, Brown, L,
+Byron, Campbell, K, Chestek, Clouston, Connolly, Davis, Eklund, Erickson, Filer,
+Geringer, Haroldson, Harshman, Heiner, Hoeft, Jarvis, Johnson, Larsen, Larson,
+Lawley, Neiman, Nicholas, Ottman, Posey, Rodriguez-Williams, Schmid, Sherwood,
+Singh, Storer, Styvar, Tarver, Thayer, Washut, Webb, Wharff, Williams, Winter,
+Wylie
+Nays: Representative(s) Angelos, Bear, Brady, Campbell, E, Guggenmos, Kelly,
+Knapp, Lien, Locke, Lucas, Mccann, Pendergraft, Provenza, Strock, Wasserburger,
+Webber, Yin
+Excused: Representative(s) Riggins, Smith
+Ayes 43 Nays 17 Excused 2 Absent 0 Conflicts 0
+2/13/2025 S Received for Introduction
+2/20/2025 S Introduced and Referred to S05 - Agriculture
+2/25/2025 S05 - Agriculture:Recommend Amend and Do Pass 4-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, French, Mckeown, Taliaferro Pearson
+Nays: Senator Ide
+Ayes 4 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/25/2025 S Placed on General File
+HB0090SS001/ADOPTED (TO ENGROSSED COPY)
+Page 1-line 3 Delete "non-negative" and insert "positive". FRENCH,
+CHAIRMAN
+2/26/2025 S COW:Passed
+2/27/2025 S 2nd Reading:Passed
+2/28/2025 S 3rd Reading:Passed 29-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Jones,
+Kolb, Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Salazar,
+Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Ide, Rothfuss
+Ayes 29 Nays 2 Excused 0 Absent 0 Conflicts 0
+2/28/2025 H Received for Concurrence
+2/28/2025 H Concur:Passed 58-0-4-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Provenza,
+Riggins, Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock,
+Styvar, Tarver, Thayer, Washut, Webb, Webber, Wharff, Williams, Wylie, Yin
+Excused: Representative(s) Byron, Nicholas, Wasserburger, Winter
+Ayes 58 Nays 0 Excused 4 Absent 0 Conflicts 0
+2/28/2025 Assigned Number HEA No. 0054
+2/28/2025 H Speaker Signed HEA No. 0054
+2/28/2025 S President Signed HEA No. 0054
+3/4/2025 Governor Signed HEA No. 0054
+3/4/2025 Assigned Chapter Number 109
+Chapter No. 109 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+HB0090 Anthrax outbreak protocol.
+Sponsored By: Representative(s) Davis, Singh and Williams and
+Senator(s) Crago and Hicks
+AN ACT relating to agriculture, livestock and other animals; requiring the
+livestock board to develop a protocol for positive anthrax tests; requiring
+rulemaking; requiring a report; and providing for effective dates.
+12/30/2024 Bill Number Assigned
+1/2/2025 H Received for Introduction
+1/29/2025 H Introduced and Referred to H05 - Agriculture
+2/6/2025 H05 - Agriculture:Recommend Do Pass 6-3-0-0-0
+ROLL CALL
+Ayes: Representative(s) Davis, Eklund, Johnson, Ottman, Schmid, Winter
+Nays: Representative(s) Banks, Provenza, Strock
+Ayes 6 Nays 3 Excused 0 Absent 0 Conflicts 0
+2/6/2025 H Placed on General File
+HB0090HW001/ADOPTED
+Page 1-line 3 Delete "non-negative" and insert "positive".
+Page 2-line 5 After "outbreaks" insert "."; delete "in a designated".
+Page 2-line 6 Delete "surveillance area" and insert "An area of
+observation shall be established"; delete "non-
+negative" and insert "positive".
+Page 2-line 8 Delete "designated surveillance area" and insert "area
+of observation".
+Page 2-line 9 Delete "six (6)" and insert "one and one-half (1.5)".
+Page 2-line 10 Delete "non-negative" and insert "positive". DAVIS
+2/10/2025 H COW:Passed
+HB0090H2001/ADOPTED
+Delete the Davis committee of the whole amendment (HB0090HW001/A) entirely and
+further amend as follows:
+Page 1-line 3 Delete "providing".
+Page 1-line 4 Delete "definitions;".
+Page 2-line 5 After "outbreaks" insert "."; delete "in a designated".
+Page 2-lines 6 through 10 Delete entirely. WILLIAMS
+2/11/2025 H 2nd Reading:Passed
+HB0090H3001/WITHDRAWN
+2/12/2025 H 3rd Reading:Passed 43-17-2-0-0
+
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Banks, Bratten, Brown, G, Brown, L,
+Byron, Campbell, K, Chestek, Clouston, Connolly, Davis, Eklund, Erickson, Filer,
+Geringer, Haroldson, Harshman, Heiner, Hoeft, Jarvis, Johnson, Larsen, Larson,
+Lawley, Neiman, Nicholas, Ottman, Posey, Rodriguez-Williams, Schmid, Sherwood,
+Singh, Storer, Styvar, Tarver, Thayer, Washut, Webb, Wharff, Williams, Winter,
+Wylie
+Nays: Representative(s) Angelos, Bear, Brady, Campbell, E, Guggenmos, Kelly,
+Knapp, Lien, Locke, Lucas, Mccann, Pendergraft, Provenza, Strock, Wasserburger,
+Webber, Yin
+Excused: Representative(s) Riggins, Smith
+Ayes 43 Nays 17 Excused 2 Absent 0 Conflicts 0
+2/13/2025 S Received for Introduction
+2/20/2025 S Introduced and Referred to S05 - Agriculture
+2/25/2025 S05 - Agriculture:Recommend Amend and Do Pass 4-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, French, Mckeown, Taliaferro Pearson
+Nays: Senator Ide
+Ayes 4 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/25/2025 S Placed on General File
+HB0090SS001/ADOPTED (TO ENGROSSED COPY)
+Page 1-line 3 Delete "non-negative" and insert "positive". FRENCH,
+CHAIRMAN
+2/26/2025 S COW:Passed
+2/27/2025 S 2nd Reading:Passed
+2/28/2025 S 3rd Reading:Passed 29-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Jones,
+Kolb, Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Salazar,
+Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Ide, Rothfuss
+Ayes 29 Nays 2 Excused 0 Absent 0 Conflicts 0
+2/28/2025 H Received for Concurrence
+2/28/2025 H Concur:Passed 58-0-4-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Campbell, E, Campbell, K, Chestek, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+Lien, Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Provenza,
+Riggins, Rodriguez-Williams, Schmid, Sherwood, Singh, Smith, Storer, Strock,
+Styvar, Tarver, Thayer, Washut, Webb, Webber, Wharff, Williams, Wylie, Yin
+Excused: Representative(s) Byron, Nicholas, Wasserburger, Winter
+Ayes 58 Nays 0 Excused 4 Absent 0 Conflicts 0
+2/28/2025 Assigned Number HEA No. 0054
+2/28/2025 H Speaker Signed HEA No. 0054
+2/28/2025 S President Signed HEA No. 0054
+
+3/4/2025 Governor Signed HEA No. 0054
+3/4/2025 Assigned Chapter Number 109
+Chapter No. 109 Session Laws of Wyoming 2025

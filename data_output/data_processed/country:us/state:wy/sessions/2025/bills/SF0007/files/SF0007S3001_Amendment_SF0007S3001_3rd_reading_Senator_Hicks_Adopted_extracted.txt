@@ -1,0 +1,33 @@
+Title: 1 Page 5-line 3 In the Senate standing committee amendment
+Official Title: 1 Page 5-line 3 In the Senate standing committee amendment
+Number of Sections: 1
+Source: versions - Amendment SF0007S3001 (3rd reading) - Senator Hicks (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0007S3001
+2 (SF0007SS001/A) to this line, after
+3 "certified" delete "or" and insert "and".
+4
+5 Page 10-line 1 In the Senate standing committee amendment
+6 (SF0007SS001/A) to this line, after
+7 "certified" delete "or" and insert "and".
+8 HICKS
+1
+
+
+================================================================================
+
+Raw Text:
+SF0007S3001
+1 Page 5-line 3 In the Senate standing committee amendment
+2 (SF0007SS001/A) to this line, after
+3 "certified" delete "or" and insert "and".
+4
+5 Page 10-line 1 In the Senate standing committee amendment
+6 (SF0007SS001/A) to this line, after
+7 "certified" delete "or" and insert "and".
+8 HICKS
+1

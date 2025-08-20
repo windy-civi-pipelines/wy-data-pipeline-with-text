@@ -1,0 +1,361 @@
+Title: HOUSE BILL NO. HB0278
+Official Title: HOUSE BILL NO. HB0278
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0535
+Elections-voting machine and voting system tests.
+Sponsored by: Representative(s) Locke, Allemand, Hoeft,
+Johnson, Kelly, Styvar, Webb and Webber and
+Senator(s) Smith, D
+A BILL
+for
+1 AN ACT relating to elections; clarifying the procedure for
+2 testing voting machines and electronic voting systems;
+3 specifying that tests shall be open to the public;
+4 specifying rulemaking authority; removing the presumption
+5 of proper preparation of voting machines; and providing for
+6 an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 22-10-108, 22-10-110, 22-11-103(c)
+11 and 22-11-104(b)(iii) are amended to read:
+12
+13 22-10-108. Procedure for preparing machines for
+14 election; inspection and certification.
+15
+1 HB0278
+2025 STATE OF WYOMING 25LSO-0535
+1 (a) Before preparing a voting machine for an
+2 election, the county clerk shall, not later than five (5)
+3 days before a test of a voting machine or not later than
+4 twenty-four (24) hours before any re-test of a voting
+5 machine, post a public notice in the office of the county
+6 clerk and on the website of the county clerk and notify in
+7 writing the county chairman of each political party having
+8 a candidate on the ballot and all independent candidates,
+9 stating the time and place where the voting machine will be
+10 prepared for the election. The political party
+11 representatives and representatives of independent
+12 candidates Members of the public may be present at the
+13 preparation of the voting machine for the election, to see
+14 that the machine is tested for accuracy and is properly
+15 prepared and that all registering counters are set at zero
+16 (00000). The county clerk, in the presence of these
+17 representatives attendees, shall prepare the voting machine
+18 for the election and set all registering counters at zero
+19 (00000). He shall then test each registering counter for
+20 accuracy by casting votes on it until the registering
+21 counter is correctly registering each vote cast on it. The
+22 county clerk shall then reset each registering counter to
+23 zero (00000) and shall immediately lock and seal the voting
+2 HB0278
+2025 STATE OF WYOMING 25LSO-0535
+1 machine with a numbered metal seal and make a record of the
+2 number of the seal on the certificate for the machine. The
+3 seal shall be so placed as to prevent operation of the
+4 machine or its registering counters without breaking the
+5 seal. The county clerk shall then immediately make a record
+6 on the certificate for the machine of the reading shown on
+7 the protective counter.
+8
+9 (b) Inspection of voting machines may shall begin not
+10 less than two (2) weeks before an election and continue
+11 until all machines to be used are publicly tested and
+12 sealed. Immediately following testing of a machine, the
+13 county clerk shall make a certificate in writing stating
+14 the serial number of each machine, whether the machine has
+15 all the registering counters set at zero (00000), and
+16 whether the machine has been tested by voting on each
+17 registering counter to prove that each registering counter
+18 is in perfect and accurate condition, the number registered
+19 on the protective counter, and the number on the seal with
+20 which the machine is sealed against operation. This
+21 certificate shall be filed with the secretary of state and
+22 a copy shall be kept on file in the office of the county
+23 clerk.
+3 HB0278
+2025 STATE OF WYOMING 25LSO-0535
+1
+2 (c) No voting machine shall be used in any election
+3 unless the machine is tested and prepared in accordance
+4 with this section.
+5
+6 22-10-110. Objections.
+7
+8 A voting machine prepared for an election and certified by
+9 the county clerk shall be conclusively presumed to be
+10 properly prepared unless within two (2) days may be
+11 challenged after the machine is sealed and certified before
+12 the election if a complaint is filed in the district court
+13 of the county stating the number of the machine and the
+14 grounds for objecting to its use.
+15
+16 22-11-103. Capabilities required.
+17
+18 (c) The secretary of state may from time to time as
+19 necessary promulgate rules and regulations consistent with
+20 subsection (a) of this section and with all other
+21 requirements of this Election Code to govern the
+22 characteristics of electronic voting systems that may be
+23 used in Wyoming. The rules shall ensure the fairness and
+4 HB0278
+2025 STATE OF WYOMING 25LSO-0535
+1 accuracy of elections. The rules may govern both the
+2 characteristics of the systems and the procedures to be
+3 followed in testing and using the systems. The rules shall
+4 allow the county clerks to follow appropriate
+5 recommendations of the vendors of the systems for
+6 maintenance and management of the systems to the extent
+7 these recommendations are not inconsistent with this
+8 Election Code and with the rules. The rules shall be
+9 adopted following consultation with the county clerks.
+10
+11 22-11-104. Conduct of elections in which systems
+12 utilized.
+13
+14 (b) The county clerk of each county using an
+15 electronic voting system shall:
+16
+17 (iii) Before testing an electronic voting system
+18 for an election, not later than five (5) days before a test
+19 of an electronic voting system or not later than
+20 twenty-four (24) hours before any re-test of an electronic
+21 voting system, post a public notice in the office of the
+22 county clerk and the website of the county clerk and notify
+23 the state chairman and the county chairman of each
+5 HB0278
+2025 STATE OF WYOMING 25LSO-0535
+1 political party having a candidate on the ballot, stating
+2 the time and place of the test. The political party
+3 representatives and representatives of independent
+4 candidates Members of the public may be present for the
+5 test, which shall be held at least two (2) weeks before the
+6 election. The test shall ascertain that the all automatic
+7 tabulating equipment to be used in the election will
+8 accurately count the votes cast on all ballot styles that
+9 may be used in the election for all offices and all
+10 measures. The test shall be conducted by processing a
+11 preaudited group of paper ballots or ballot cards all
+12 ballot styles on which are recorded a predetermined number
+13 of valid votes for each candidate and on each measure and
+14 shall include for each office one (1) or more ballots which
+15 have votes in excess of the number allowed by law in order
+16 to test the ability of the automatic tabulating equipment
+17 to reject such votes. If the primary method of voting in
+18 the county is by an electronic ballot marking device, the
+19 test shall be conducted using ballots or ballot cards that
+20 are marked by an electronic ballot marking device. During
+21 the test a different number of valid votes shall be
+22 assigned to each candidate, including write-in candidates,
+23 for an office, and for and against each measure, including
+6 HB0278
+2025 STATE OF WYOMING 25LSO-0535
+1 at least one (1) undervote and one (1) overvote in each
+2 race or measure in each precinct and in each county. If any
+3 error is detected, or if the test is not completed in
+4 compliance with law, the cause of it shall be ascertained
+5 and corrected and an errorless count shall be secured and
+6 certified to by the county clerk. On completion of the
+7 count, the results shall be retained by the county clerk,
+8 posted to the county clerk's website and a copy of the
+9 results shall be provided to any person upon request. The
+10 programs, test materials and ballots shall be sealed and
+11 retained as provided for paper ballots, provided that if a
+12 re-test is required the seals may be broken so that an
+13 errorless count can be secured and certified as provided in
+14 this paragraph;
+15
+16 Section 2. W.S. 22-10-110 is repealed.
+17
+18 Section 3. This act is effective July 1, 2025.
+19
+20 (END)
+7 HB0278
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0535
+HOUSE BILL NO. HB0278
+Elections-voting machine and voting system tests.
+Sponsored by: Representative(s) Locke, Allemand, Hoeft,
+Johnson, Kelly, Styvar, Webb and Webber and
+Senator(s) Smith, D
+A BILL
+for
+1 AN ACT relating to elections; clarifying the procedure for
+2 testing voting machines and electronic voting systems;
+3 specifying that tests shall be open to the public;
+4 specifying rulemaking authority; removing the presumption
+5 of proper preparation of voting machines; and providing for
+6 an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 22-10-108, 22-10-110, 22-11-103(c)
+11 and 22-11-104(b)(iii) are amended to read:
+12
+13 22-10-108. Procedure for preparing machines for
+14 election; inspection and certification.
+15
+1 HB0278
+
+2025 STATE OF WYOMING 25LSO-0535
+1 (a) Before preparing a voting machine for an
+2 election, the county clerk shall, not later than five (5)
+3 days before a test of a voting machine or not later than
+4 twenty-four (24) hours before any re-test of a voting
+5 machine, post a public notice in the office of the county
+6 clerk and on the website of the county clerk and notify in
+7 writing the county chairman of each political party having
+8 a candidate on the ballot and all independent candidates,
+9 stating the time and place where the voting machine will be
+10 prepared for the election. The political party
+11 representatives and representatives of independent
+12 candidates Members of the public may be present at the
+13 preparation of the voting machine for the election, to see
+14 that the machine is tested for accuracy and is properly
+15 prepared and that all registering counters are set at zero
+16 (00000). The county clerk, in the presence of these
+17 representatives attendees, shall prepare the voting machine
+18 for the election and set all registering counters at zero
+19 (00000). He shall then test each registering counter for
+20 accuracy by casting votes on it until the registering
+21 counter is correctly registering each vote cast on it. The
+22 county clerk shall then reset each registering counter to
+23 zero (00000) and shall immediately lock and seal the voting
+2 HB0278
+
+2025 STATE OF WYOMING 25LSO-0535
+1 machine with a numbered metal seal and make a record of the
+2 number of the seal on the certificate for the machine. The
+3 seal shall be so placed as to prevent operation of the
+4 machine or its registering counters without breaking the
+5 seal. The county clerk shall then immediately make a record
+6 on the certificate for the machine of the reading shown on
+7 the protective counter.
+8
+9 (b) Inspection of voting machines may shall begin not
+10 less than two (2) weeks before an election and continue
+11 until all machines to be used are publicly tested and
+12 sealed. Immediately following testing of a machine, the
+13 county clerk shall make a certificate in writing stating
+14 the serial number of each machine, whether the machine has
+15 all the registering counters set at zero (00000), and
+16 whether the machine has been tested by voting on each
+17 registering counter to prove that each registering counter
+18 is in perfect and accurate condition, the number registered
+19 on the protective counter, and the number on the seal with
+20 which the machine is sealed against operation. This
+21 certificate shall be filed with the secretary of state and
+22 a copy shall be kept on file in the office of the county
+23 clerk.
+3 HB0278
+
+2025 STATE OF WYOMING 25LSO-0535
+1
+2 (c) No voting machine shall be used in any election
+3 unless the machine is tested and prepared in accordance
+4 with this section.
+5
+6 22-10-110. Objections.
+7
+8 A voting machine prepared for an election and certified by
+9 the county clerk shall be conclusively presumed to be
+10 properly prepared unless within two (2) days may be
+11 challenged after the machine is sealed and certified before
+12 the election if a complaint is filed in the district court
+13 of the county stating the number of the machine and the
+14 grounds for objecting to its use.
+15
+16 22-11-103. Capabilities required.
+17
+18 (c) The secretary of state may from time to time as
+19 necessary promulgate rules and regulations consistent with
+20 subsection (a) of this section and with all other
+21 requirements of this Election Code to govern the
+22 characteristics of electronic voting systems that may be
+23 used in Wyoming. The rules shall ensure the fairness and
+4 HB0278
+
+2025 STATE OF WYOMING 25LSO-0535
+1 accuracy of elections. The rules may govern both the
+2 characteristics of the systems and the procedures to be
+3 followed in testing and using the systems. The rules shall
+4 allow the county clerks to follow appropriate
+5 recommendations of the vendors of the systems for
+6 maintenance and management of the systems to the extent
+7 these recommendations are not inconsistent with this
+8 Election Code and with the rules. The rules shall be
+9 adopted following consultation with the county clerks.
+10
+11 22-11-104. Conduct of elections in which systems
+12 utilized.
+13
+14 (b) The county clerk of each county using an
+15 electronic voting system shall:
+16
+17 (iii) Before testing an electronic voting system
+18 for an election, not later than five (5) days before a test
+19 of an electronic voting system or not later than
+20 twenty-four (24) hours before any re-test of an electronic
+21 voting system, post a public notice in the office of the
+22 county clerk and the website of the county clerk and notify
+23 the state chairman and the county chairman of each
+5 HB0278
+
+2025 STATE OF WYOMING 25LSO-0535
+1 political party having a candidate on the ballot, stating
+2 the time and place of the test. The political party
+3 representatives and representatives of independent
+4 candidates Members of the public may be present for the
+5 test, which shall be held at least two (2) weeks before the
+6 election. The test shall ascertain that the all automatic
+7 tabulating equipment to be used in the election will
+8 accurately count the votes cast on all ballot styles that
+9 may be used in the election for all offices and all
+10 measures. The test shall be conducted by processing a
+11 preaudited group of paper ballots or ballot cards all
+12 ballot styles on which are recorded a predetermined number
+13 of valid votes for each candidate and on each measure and
+14 shall include for each office one (1) or more ballots which
+15 have votes in excess of the number allowed by law in order
+16 to test the ability of the automatic tabulating equipment
+17 to reject such votes. If the primary method of voting in
+18 the county is by an electronic ballot marking device, the
+19 test shall be conducted using ballots or ballot cards that
+20 are marked by an electronic ballot marking device. During
+21 the test a different number of valid votes shall be
+22 assigned to each candidate, including write-in candidates,
+23 for an office, and for and against each measure, including
+6 HB0278
+
+2025 STATE OF WYOMING 25LSO-0535
+1 at least one (1) undervote and one (1) overvote in each
+2 race or measure in each precinct and in each county. If any
+3 error is detected, or if the test is not completed in
+4 compliance with law, the cause of it shall be ascertained
+5 and corrected and an errorless count shall be secured and
+6 certified to by the county clerk. On completion of the
+7 count, the results shall be retained by the county clerk,
+8 posted to the county clerk's website and a copy of the
+9 results shall be provided to any person upon request. The
+10 programs, test materials and ballots shall be sealed and
+11 retained as provided for paper ballots, provided that if a
+12 re-test is required the seals may be broken so that an
+13 errorless count can be secured and certified as provided in
+14 this paragraph;
+15
+16 Section 2. W.S. 22-10-110 is repealed.
+17
+18 Section 3. This act is effective July 1, 2025.
+19
+20 (END)
+7 HB0278

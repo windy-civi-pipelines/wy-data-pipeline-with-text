@@ -1,0 +1,516 @@
+Title: HOUSE BILL NO. HB0234
+Official Title: HOUSE BILL NO. HB0234
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0498
+Second Amendment Financial Privacy Act amendments.
+Sponsored by: Representative(s) Allemand, Angelos, Banks,
+Bear, Brown, G, Campbell, K, Guggenmos,
+Haroldson, Heiner, Hoeft, Johnson, Knapp,
+Lien, Locke, Lucas, Pendergraft, Schmid,
+Smith, S, Strock, Styvar, Tarver,
+Wasserburger, Webber, Wharff, Williams and
+Winter and Senator(s) Hutchings, Ide,
+McKeown and Pearson
+A BILL
+for
+1 AN ACT relating to the protection of constitutional rights;
+2 prohibiting the disclosure or use of information relating
+3 to firearms and ammunition sales as specified; providing
+4 requirements for disclosure; requiring investigations as
+5 specified; authorizing civil actions as specified;
+6 authorizing criminal penalties; providing and amending
+7 definitions; and providing for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 9-14-405 is created to read:
+12
+1 HB0234
+2025 STATE OF WYOMING 25LSO-0498
+1 9-14-405. Criminal actions.
+2
+3 Any person who knowingly violates W.S. 9-14-403(a) is
+4 guilty of a misdemeanor punishable by imprisonment for not
+5 more than one (1) year, a fine of not more than two
+6 thousand dollars ($2,000.00), or both.
+7
+8 Section 2. W.S. 9-14-402(a)(iv), (vi), by creating
+9 new paragraphs (xi) through (xvi) and renumbering paragraph
+10 (xi) as (xvii), 9-14-403(a), (b) and by creating a new
+11 subsection (d), 9-14-404(a), (b) and by creating new
+12 subsections (d) and (e) are amended to read:
+13
+14 9-14-402. Definitions.
+15
+16 (a) As used in this act:
+17
+18 (iv) "Financial record" means a financial record
+19 held by a merchant servicer related to a payment card
+20 transaction that the merchant servicer has processed or
+21 facilitated, including any information derived from the
+22 financial record;
+23
+2 HB0234
+2025 STATE OF WYOMING 25LSO-0498
+1 (vi) "Firearms retailer" means any person
+2 engaged in the lawful business of selling or trading
+3 firearms, firearms accessories or components or ammunition
+4 to be used in firearms;
+5
+6 (xi) "Ammunition" means ammunition or cartridge
+7 cases, primers, bullets or propellant powder designed for
+8 use in any firearm;
+9
+10 (xii) "Antique firearm" means as defined by W.S.
+11 6-8-403(a)(viii);
+12
+13 (xiii) "Firearm" means any weapon that will, is
+14 designed to or may readily be converted to expel a
+15 projectile by the action of an explosive. "Firearm" shall
+16 include an antique firearm;
+17
+18 (xiv) "Firearm accessory or component" means:
+19
+20 (A) A device specifically designed or
+21 adapted to enable a person to wear or carry a firearm on
+22 the person or to store or mount a firearm in or on a
+23 conveyance;
+3 HB0234
+2025 STATE OF WYOMING 25LSO-0498
+1
+2 (B) An attachment or device that is
+3 specifically designed or adapted to be inserted into or
+4 affixed onto a firearm to enable, alter or improve the
+5 functioning or capabilities of the firearm;
+6
+7 (C) An item that is used in conjunction
+8 with or mounted upon a firearm but are not essential to the
+9 basic function of the firearm, including but not limited to
+10 telescopic or laser sights, magazines, flash or sound
+11 suppressors, folding or aftermarket stocks and grips,
+12 speedloaders, braces, ammunition carriers and lights for
+13 target illumination;
+14
+15 (D) A component for making ammunition,
+16 reloading materials and equipment, machinery and tools for
+17 manufacturing ammunition.
+18
+19 (xv) "Merchant" means a person that accepts
+20 payment cards from customers for the purchase of goods or
+21 services. The terms includes a firearms retailer that
+22 accepts payment cards from customers for the lawful
+4 HB0234
+2025 STATE OF WYOMING 25LSO-0498
+1 purchase of firearms, firearm accessories or components or
+2 ammunition to be used in firearms;
+3
+4 (xvi) "Payment card" means a credit card, charge
+5 card, debit card or any other card that is issued to an
+6 authorized card user and that allows the user to purchase
+7 goods or services from a firearm retailer or other
+8 merchant;
+9
+10 (xi)(xvii) "This act" means W.S. 9-14-401
+11 through 9-14-404 9-14-405.
+12
+13 9-14-403. Prohibitions on data collection and use.
+14
+15 (a) No state governmental agency or local government,
+16 special district or other political subdivision or
+17 official, agent or employee of the state or other
+18 governmental entity or any other person, public or private,
+19 shall knowingly or willfully keep or cause to be kept any
+20 list, record or registry of privately owned firearms or any
+21 list, record or registry of the owners of those firearms
+22 created or maintained through the use of a firearms code or
+23 any other merchant category code. This subsection shall not
+5 HB0234
+2025 STATE OF WYOMING 25LSO-0498
+1 apply to any financial institution that is not a merchant
+2 servicer or to any record maintained in the ordinary course
+3 of business of any financial institution or federal firearm
+4 licensee as required by 18 U.S.C. 922. state and its
+5 political subdivisions are prohibited from using any
+6 personnel or funds appropriated by the legislature or any
+7 other state funds to enforce, administer or cooperate with
+8 any law, executive order, final rule or regulation of the
+9 federal government that willfully keeps or causes to be
+10 kept any list, record or registry of privately owned
+11 firearms or any list, record or registry of the owners of
+12 those firearms created or maintained through the use of a
+13 firearms code or any other merchant category code. This
+14 subsection shall not apply to any record maintained in the
+15 ordinary course of business of any federal firearm licensee
+16 as required by 18 U.S.C. § 922.
+17
+18 (b) No merchant servicer shall require the usage of
+19 or assign:
+20
+21 (i) A firearms code or other merchant category
+22 code to any merchant located in Wyoming;
+23
+6 HB0234
+2025 STATE OF WYOMING 25LSO-0498
+1 (ii) A merchant category code to any merchant
+2 located in Wyoming that is a seller of firearms, firearm
+3 accessories or ammunition distinguishes a merchant from a
+4 general merchandise retailer or sporting goods retailer.
+5
+6 (d) No merchant servicer shall discriminate against a
+7 merchant or customer located in Wyoming by declining a
+8 lawful payment card transaction, limiting or declining to
+9 do business with a firearms retailer or customer for a
+10 lawful transaction or charging a higher transaction or
+11 interchange fee to any merchant or customer for a lawful
+12 payment card transaction based solely on the assignment or
+13 nonassignment of a firearms code or any other merchant
+14 category code that distinguishes a merchant from a general
+15 merchandise retailer or a sporting goods retailer, or
+16 otherwise take any action against a merchant or customer
+17 located in Wyoming that is intended to prohibit or suppress
+18 lawful commerce involving firearms, firearm accessories or
+19 components or ammunition.
+20
+21 9-14-404. Civil actions.
+22
+7 HB0234
+2025 STATE OF WYOMING 25LSO-0498
+1 (a) The attorney general may shall investigate
+2 alleged violations of this act and, upon finding a
+3 violation, shall provide written notice to any person or
+4 entity, public or private, believed to be in violation of
+5 this act. Upon receipt of written notice from the attorney
+6 general, the person or entity shall have thirty (30) days
+7 to cease the usage of a firearms, firearm accessories or
+8 ammunition merchant code for any Wyoming merchant or any
+9 other merchant category code that distinguishes a Wyoming
+10 merchant from a general merchandise retailer or a sporting
+11 goods retailer, or from any discriminatory practices
+12 identified in W.S. 9-14-403(d).
+13
+14 (b) If the person or entity fails to cease the usage
+15 of a firearms, firearm accessories or ammunition merchant
+16 code for any or other merchant located in Wyoming category
+17 code in violation of this act or from any discriminatory
+18 practices identified in W.S. 9-14-403(d) after the
+19 expiration of thirty (30) days from the receipt of the
+20 written notice by the attorney general's office, the
+21 attorney general may shall pursue an injunction against any
+22 person or entity, public or private, alleged to be in
+23 violation of this act. A court may order an injunction, in
+8 HB0234
+2025 STATE OF WYOMING 25LSO-0498
+1 addition to any other relief, as the court may consider
+2 appropriate.
+3
+4 (d) A merchant located in Wyoming whose business was
+5 the subject of an alleged violation of this act or a
+6 customer who completed a transaction with a merchant
+7 located in Wyoming whose business was the subject of an
+8 alleged violation of this act may petition the attorney
+9 general to investigate the alleged violation. If the
+10 attorney general does not commence an action within sixty
+11 (60) days of receiving the petition, the merchant or
+12 customer may file an action in a court of competent
+13 jurisdiction to enjoin the person or entity from requiring
+14 a firearms code or other merchant category code in
+15 violation of this act or from any discriminatory practices
+16 identified in W.S. 9-14-403(d). If a court finds that a
+17 violation of this act has occurred and the person fails to
+18 cease the activity constituting the violation, the court
+19 shall order an injunction and attorney fees and costs, in
+20 addition to any other relief as the court may deem
+21 appropriate.
+22
+9 HB0234
+2025 STATE OF WYOMING 25LSO-0498
+1 (e) If the person knowingly and willfully fails to
+2 comply within thirty (30) days after being served with the
+3 injunction, the attorney general, upon petition to the
+4 court, shall recover on behalf of the state a civil penalty
+5 not to exceed ten thousand dollars ($10,000.00) for each
+6 violation of the act committed after the expiration of the
+7 thirty (30) day period. In assessing a civil penalty, the
+8 court shall consider factors resulting from the violation,
+9 including the financial resources of the violator and the
+10 harm or risk of harm to the rights of the injured party
+11 pursuant to the second Amendment of the United States
+12 constitution and article 1, section 24 of the Wyoming
+13 constitution. An order assessing a civil penalty for a
+14 violation of this article shall be stayed pending appeal of
+15 the order.
+16
+17 Section 3. This act is effective immediately upon
+18 completion of all acts necessary for a bill to become law
+19 as provided by Article 4, Section 8 of the Wyoming
+20 Constitution.
+21
+22 (END)
+10 HB0234
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0498
+HOUSE BILL NO. HB0234
+Second Amendment Financial Privacy Act amendments.
+Sponsored by: Representative(s) Allemand, Angelos, Banks,
+Bear, Brown, G, Campbell, K, Guggenmos,
+Haroldson, Heiner, Hoeft, Johnson, Knapp,
+Lien, Locke, Lucas, Pendergraft, Schmid,
+Smith, S, Strock, Styvar, Tarver,
+Wasserburger, Webber, Wharff, Williams and
+Winter and Senator(s) Hutchings, Ide,
+McKeown and Pearson
+A BILL
+for
+1 AN ACT relating to the protection of constitutional rights;
+2 prohibiting the disclosure or use of information relating
+3 to firearms and ammunition sales as specified; providing
+4 requirements for disclosure; requiring investigations as
+5 specified; authorizing civil actions as specified;
+6 authorizing criminal penalties; providing and amending
+7 definitions; and providing for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 9-14-405 is created to read:
+12
+1 HB0234
+
+2025 STATE OF WYOMING 25LSO-0498
+1 9-14-405. Criminal actions.
+2
+3 Any person who knowingly violates W.S. 9-14-403(a) is
+4 guilty of a misdemeanor punishable by imprisonment for not
+5 more than one (1) year, a fine of not more than two
+6 thousand dollars ($2,000.00), or both.
+7
+8 Section 2. W.S. 9-14-402(a)(iv), (vi), by creating
+9 new paragraphs (xi) through (xvi) and renumbering paragraph
+10 (xi) as (xvii), 9-14-403(a), (b) and by creating a new
+11 subsection (d), 9-14-404(a), (b) and by creating new
+12 subsections (d) and (e) are amended to read:
+13
+14 9-14-402. Definitions.
+15
+16 (a) As used in this act:
+17
+18 (iv) "Financial record" means a financial record
+19 held by a merchant servicer related to a payment card
+20 transaction that the merchant servicer has processed or
+21 facilitated, including any information derived from the
+22 financial record;
+23
+2 HB0234
+
+2025 STATE OF WYOMING 25LSO-0498
+1 (vi) "Firearms retailer" means any person
+2 engaged in the lawful business of selling or trading
+3 firearms, firearms accessories or components or ammunition
+4 to be used in firearms;
+5
+6 (xi) "Ammunition" means ammunition or cartridge
+7 cases, primers, bullets or propellant powder designed for
+8 use in any firearm;
+9
+10 (xii) "Antique firearm" means as defined by W.S.
+11 6-8-403(a)(viii);
+12
+13 (xiii) "Firearm" means any weapon that will, is
+14 designed to or may readily be converted to expel a
+15 projectile by the action of an explosive. "Firearm" shall
+16 include an antique firearm;
+17
+18 (xiv) "Firearm accessory or component" means:
+19
+20 (A) A device specifically designed or
+21 adapted to enable a person to wear or carry a firearm on
+22 the person or to store or mount a firearm in or on a
+23 conveyance;
+3 HB0234
+
+2025 STATE OF WYOMING 25LSO-0498
+1
+2 (B) An attachment or device that is
+3 specifically designed or adapted to be inserted into or
+4 affixed onto a firearm to enable, alter or improve the
+5 functioning or capabilities of the firearm;
+6
+7 (C) An item that is used in conjunction
+8 with or mounted upon a firearm but are not essential to the
+9 basic function of the firearm, including but not limited to
+10 telescopic or laser sights, magazines, flash or sound
+11 suppressors, folding or aftermarket stocks and grips,
+12 speedloaders, braces, ammunition carriers and lights for
+13 target illumination;
+14
+15 (D) A component for making ammunition,
+16 reloading materials and equipment, machinery and tools for
+17 manufacturing ammunition.
+18
+19 (xv) "Merchant" means a person that accepts
+20 payment cards from customers for the purchase of goods or
+21 services. The terms includes a firearms retailer that
+22 accepts payment cards from customers for the lawful
+4 HB0234
+
+2025 STATE OF WYOMING 25LSO-0498
+1 purchase of firearms, firearm accessories or components or
+2 ammunition to be used in firearms;
+3
+4 (xvi) "Payment card" means a credit card, charge
+5 card, debit card or any other card that is issued to an
+6 authorized card user and that allows the user to purchase
+7 goods or services from a firearm retailer or other
+8 merchant;
+9
+10 (xi)(xvii) "This act" means W.S. 9-14-401
+11 through 9-14-404 9-14-405.
+12
+13 9-14-403. Prohibitions on data collection and use.
+14
+15 (a) No state governmental agency or local government,
+16 special district or other political subdivision or
+17 official, agent or employee of the state or other
+18 governmental entity or any other person, public or private,
+19 shall knowingly or willfully keep or cause to be kept any
+20 list, record or registry of privately owned firearms or any
+21 list, record or registry of the owners of those firearms
+22 created or maintained through the use of a firearms code or
+23 any other merchant category code. This subsection shall not
+5 HB0234
+
+2025 STATE OF WYOMING 25LSO-0498
+1 apply to any financial institution that is not a merchant
+2 servicer or to any record maintained in the ordinary course
+3 of business of any financial institution or federal firearm
+4 licensee as required by 18 U.S.C. 922. state and its
+5 political subdivisions are prohibited from using any
+6 personnel or funds appropriated by the legislature or any
+7 other state funds to enforce, administer or cooperate with
+8 any law, executive order, final rule or regulation of the
+9 federal government that willfully keeps or causes to be
+10 kept any list, record or registry of privately owned
+11 firearms or any list, record or registry of the owners of
+12 those firearms created or maintained through the use of a
+13 firearms code or any other merchant category code. This
+14 subsection shall not apply to any record maintained in the
+15 ordinary course of business of any federal firearm licensee
+16 as required by 18 U.S.C. § 922.
+17
+18 (b) No merchant servicer shall require the usage of
+19 or assign:
+20
+21 (i) A firearms code or other merchant category
+22 code to any merchant located in Wyoming;
+23
+6 HB0234
+
+2025 STATE OF WYOMING 25LSO-0498
+1 (ii) A merchant category code to any merchant
+2 located in Wyoming that is a seller of firearms, firearm
+3 accessories or ammunition distinguishes a merchant from a
+4 general merchandise retailer or sporting goods retailer.
+5
+6 (d) No merchant servicer shall discriminate against a
+7 merchant or customer located in Wyoming by declining a
+8 lawful payment card transaction, limiting or declining to
+9 do business with a firearms retailer or customer for a
+10 lawful transaction or charging a higher transaction or
+11 interchange fee to any merchant or customer for a lawful
+12 payment card transaction based solely on the assignment or
+13 nonassignment of a firearms code or any other merchant
+14 category code that distinguishes a merchant from a general
+15 merchandise retailer or a sporting goods retailer, or
+16 otherwise take any action against a merchant or customer
+17 located in Wyoming that is intended to prohibit or suppress
+18 lawful commerce involving firearms, firearm accessories or
+19 components or ammunition.
+20
+21 9-14-404. Civil actions.
+22
+7 HB0234
+
+2025 STATE OF WYOMING 25LSO-0498
+1 (a) The attorney general may shall investigate
+2 alleged violations of this act and, upon finding a
+3 violation, shall provide written notice to any person or
+4 entity, public or private, believed to be in violation of
+5 this act. Upon receipt of written notice from the attorney
+6 general, the person or entity shall have thirty (30) days
+7 to cease the usage of a firearms, firearm accessories or
+8 ammunition merchant code for any Wyoming merchant or any
+9 other merchant category code that distinguishes a Wyoming
+10 merchant from a general merchandise retailer or a sporting
+11 goods retailer, or from any discriminatory practices
+12 identified in W.S. 9-14-403(d).
+13
+14 (b) If the person or entity fails to cease the usage
+15 of a firearms, firearm accessories or ammunition merchant
+16 code for any or other merchant located in Wyoming category
+17 code in violation of this act or from any discriminatory
+18 practices identified in W.S. 9-14-403(d) after the
+19 expiration of thirty (30) days from the receipt of the
+20 written notice by the attorney general's office, the
+21 attorney general may shall pursue an injunction against any
+22 person or entity, public or private, alleged to be in
+23 violation of this act. A court may order an injunction, in
+8 HB0234
+
+2025 STATE OF WYOMING 25LSO-0498
+1 addition to any other relief, as the court may consider
+2 appropriate.
+3
+4 (d) A merchant located in Wyoming whose business was
+5 the subject of an alleged violation of this act or a
+6 customer who completed a transaction with a merchant
+7 located in Wyoming whose business was the subject of an
+8 alleged violation of this act may petition the attorney
+9 general to investigate the alleged violation. If the
+10 attorney general does not commence an action within sixty
+11 (60) days of receiving the petition, the merchant or
+12 customer may file an action in a court of competent
+13 jurisdiction to enjoin the person or entity from requiring
+14 a firearms code or other merchant category code in
+15 violation of this act or from any discriminatory practices
+16 identified in W.S. 9-14-403(d). If a court finds that a
+17 violation of this act has occurred and the person fails to
+18 cease the activity constituting the violation, the court
+19 shall order an injunction and attorney fees and costs, in
+20 addition to any other relief as the court may deem
+21 appropriate.
+22
+9 HB0234
+
+2025 STATE OF WYOMING 25LSO-0498
+1 (e) If the person knowingly and willfully fails to
+2 comply within thirty (30) days after being served with the
+3 injunction, the attorney general, upon petition to the
+4 court, shall recover on behalf of the state a civil penalty
+5 not to exceed ten thousand dollars ($10,000.00) for each
+6 violation of the act committed after the expiration of the
+7 thirty (30) day period. In assessing a civil penalty, the
+8 court shall consider factors resulting from the violation,
+9 including the financial resources of the violator and the
+10 harm or risk of harm to the rights of the injured party
+11 pursuant to the second Amendment of the United States
+12 constitution and article 1, section 24 of the Wyoming
+13 constitution. An order assessing a civil penalty for a
+14 violation of this article shall be stayed pending appeal of
+15 the order.
+16
+17 Section 3. This act is effective immediately upon
+18 completion of all acts necessary for a bill to become law
+19 as provided by Article 4, Section 8 of the Wyoming
+20 Constitution.
+21
+22 (END)
+10 HB0234

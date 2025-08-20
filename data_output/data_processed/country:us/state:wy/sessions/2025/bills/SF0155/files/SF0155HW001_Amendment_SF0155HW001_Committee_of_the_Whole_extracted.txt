@@ -1,0 +1,69 @@
+Title: 1 Page 1-line 4 After "amendments;" insert "providing an
+Official Title: 1 Page 1-line 4 After "amendments;" insert "providing an
+Number of Sections: 1
+Source: versions - Amendment SF0155HW001 (Committee of the Whole)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0155HW001 (TO ENGROSSED COPY)
+2 appropriation;".
+3
+4 Page 10-after line 8 Insert and renumber as necessary:
+5
+6 "Section 3. There is appropriated forty-seven thousand eight
+7 hundred dollars ($47,800.00) from special revenue to the board of
+8 medicine to fund information system expansion to facilitate
+9 provisional licensure of international physicians and the ongoing
+10 cost of this new license type. This appropriation shall not be
+11 transferred or expended for any other purpose and any unexpended,
+12 unobligated funds remaining from this appropriation shall revert
+13 as provided by law on June 30, 2026. It is the intent of the
+14 legislature that forty thousand dollars ($40,000.00) of this
+15 appropriation for information system expansion not be included in
+16 the board of medicine's standard budget for the immediately
+17 succeeding fiscal biennium. Notwithstanding the foregoing, the
+18 remaining amount of this appropriation may be included in the board
+19 of medicine's standard budget for the immediately succeeding
+20 fiscal biennium.".
+21
+22 Page 10-line 10 Delete "Section 3." and insert "Section 4.".
+23
+24 Page 10-line 13 Delete "Section 4." and insert "Section 5.".
+25
+26 Page 10-line 18 Delete "3 and 4" and insert "3, 4 and 5". YIN
+1
+
+
+================================================================================
+
+Raw Text:
+SF0155HW001 (TO ENGROSSED COPY)
+1 Page 1-line 4 After "amendments;" insert "providing an
+2 appropriation;".
+3
+4 Page 10-after line 8 Insert and renumber as necessary:
+5
+6 "Section 3. There is appropriated forty-seven thousand eight
+7 hundred dollars ($47,800.00) from special revenue to the board of
+8 medicine to fund information system expansion to facilitate
+9 provisional licensure of international physicians and the ongoing
+10 cost of this new license type. This appropriation shall not be
+11 transferred or expended for any other purpose and any unexpended,
+12 unobligated funds remaining from this appropriation shall revert
+13 as provided by law on June 30, 2026. It is the intent of the
+14 legislature that forty thousand dollars ($40,000.00) of this
+15 appropriation for information system expansion not be included in
+16 the board of medicine's standard budget for the immediately
+17 succeeding fiscal biennium. Notwithstanding the foregoing, the
+18 remaining amount of this appropriation may be included in the board
+19 of medicine's standard budget for the immediately succeeding
+20 fiscal biennium.".
+21
+22 Page 10-line 10 Delete "Section 3." and insert "Section 4.".
+23
+24 Page 10-line 13 Delete "Section 4." and insert "Section 5.".
+25
+26 Page 10-line 18 Delete "3 and 4" and insert "3, 4 and 5". YIN
+1

@@ -1,0 +1,55 @@
+Title: 7 Page 2-line 8 Delete "37-15-501(b) through" and insert "37-
+Official Title: 7 Page 2-line 8 Delete "37-15-501(b) through" and insert "37-
+Number of Sections: 1
+Source: versions - Amendment SF0051S2001 (2nd reading) - Senator Case (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0051S2001
+1 Page 1-line 7 Delete "providing for payment".
+2
+3 Page 1-line 8 Delete entirely.
+4
+5 Page 1-line 9 Delete "service;".
+6
+8 15-501(c),"; after "(g)" delete "," and insert
+9 "and"; after "(h)" delete "and by".
+10
+11 Page 2-line 9 Delete "creating a new subsection (j)".
+12
+13 Page 19-lines 13 through 23 Delete entirely.
+14
+15 Page 20-lines 1 through 6 Delete entirely.
+16
+17 Page 23-lines 12 through 23 Delete entirely.
+18
+19 Pages 24-29 Delete entirely. CASE
+1
+
+
+================================================================================
+
+Raw Text:
+SF0051S2001
+1 Page 1-line 7 Delete "providing for payment".
+2
+3 Page 1-line 8 Delete entirely.
+4
+5 Page 1-line 9 Delete "service;".
+6
+7 Page 2-line 8 Delete "37-15-501(b) through" and insert "37-
+8 15-501(c),"; after "(g)" delete "," and insert
+9 "and"; after "(h)" delete "and by".
+10
+11 Page 2-line 9 Delete "creating a new subsection (j)".
+12
+13 Page 19-lines 13 through 23 Delete entirely.
+14
+15 Page 20-lines 1 through 6 Delete entirely.
+16
+17 Page 23-lines 12 through 23 Delete entirely.
+18
+19 Pages 24-29 Delete entirely. CASE
+1

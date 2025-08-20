@@ -1,0 +1,146 @@
+Title: Sponsored By: Senator(s) Brennan, Boner, Dockstader, Driskill,
+Official Title: Sponsored By: Senator(s) Brennan, Boner, Dockstader, Driskill,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0073 Charter school funding-amendments.
+Nethercott and Olsen and Representative(s) Andrew,
+Bear, Lawley and Lien
+AN ACT relating to charter schools; allocating school district central office
+nonpersonnel expenses to charter schools as specified; allocating school
+district central office personnel to charter schools on a proportional basis as
+specified; and providing for an effective date.
+12/31/2024 Bill Number Assigned
+1/6/2025 S Received for Introduction
+1/16/2025 S Introduced and Referred to S04 - Education
+1/22/2025 S04 - Education:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Brennan, Olsen, Rothfuss, Schuler, Scott
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/22/2025 S Placed on General File
+1/23/2025 S COW:Passed
+1/24/2025 S 2nd Reading:Passed
+1/27/2025 S 3rd Reading:Passed 28-3-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Cooper, Crago,
+Crum, Dockstader, Driskill, French, Hicks, Hutchings, Jones, Kolb, Landen,
+Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Case, Gierau, Ide
+Ayes 28 Nays 3 Excused 0 Absent 0 Conflicts 0
+1/27/2025 H Received for Introduction
+2/10/2025 H Introduced and Referred to H04 - Education
+2/12/2025 H04 - Education:Recommend Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Bratten, Erickson, Guggenmos, Kelly, Lawley,
+Singh, Strock, Williams
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/12/2025 H Placed on General File
+SF0073HW001/ADOPTED
+Page 2-line 9 Reinsert stricken "(xxix)"; strike "(xxx)". ANDREW
+2/14/2025 H COW:Passed
+2/18/2025 H 2nd Reading:Passed
+2/19/2025 H 3rd Reading:Passed 58-3-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+Lien, Locke, Lucas, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey,
+Rodriguez-Williams, Schmid, Singh, Smith, Storer, Strock, Styvar, Tarver,
+Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie,
+Yin
+Nays: Representative(s) Chestek, Provenza, Sherwood
+Excused: Representative Riggins
+Ayes 58 Nays 3 Excused 1 Absent 0 Conflicts 0
+2/19/2025 S Received for Concurrence
+2/19/2025 S Concur:Passed 30-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Cooper, Crago,
+Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss,
+Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator Case
+Ayes 30 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/19/2025 Assigned Number SEA No. 0014
+2/19/2025 S President Signed SEA No. 0014
+2/20/2025 H Speaker Signed SEA No. 0014
+2/24/2025 Governor Signed SEA No. 0014
+2/24/2025 Assigned Chapter Number 25
+Chapter No. 25 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+SF0073 Charter school funding-amendments.
+Sponsored By: Senator(s) Brennan, Boner, Dockstader, Driskill,
+Nethercott and Olsen and Representative(s) Andrew,
+Bear, Lawley and Lien
+AN ACT relating to charter schools; allocating school district central office
+nonpersonnel expenses to charter schools as specified; allocating school
+district central office personnel to charter schools on a proportional basis as
+specified; and providing for an effective date.
+12/31/2024 Bill Number Assigned
+1/6/2025 S Received for Introduction
+1/16/2025 S Introduced and Referred to S04 - Education
+1/22/2025 S04 - Education:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Brennan, Olsen, Rothfuss, Schuler, Scott
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/22/2025 S Placed on General File
+1/23/2025 S COW:Passed
+1/24/2025 S 2nd Reading:Passed
+1/27/2025 S 3rd Reading:Passed 28-3-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Cooper, Crago,
+Crum, Dockstader, Driskill, French, Hicks, Hutchings, Jones, Kolb, Landen,
+Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Smith, Steinmetz
+Nays: Senator(s) Case, Gierau, Ide
+Ayes 28 Nays 3 Excused 0 Absent 0 Conflicts 0
+1/27/2025 H Received for Introduction
+2/10/2025 H Introduced and Referred to H04 - Education
+2/12/2025 H04 - Education:Recommend Do Pass 9-0-0-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Bratten, Erickson, Guggenmos, Kelly, Lawley,
+Singh, Strock, Williams
+Ayes 9 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/12/2025 H Placed on General File
+SF0073HW001/ADOPTED
+Page 2-line 9 Reinsert stricken "(xxix)"; strike "(xxx)". ANDREW
+2/14/2025 H COW:Passed
+2/18/2025 H 2nd Reading:Passed
+2/19/2025 H 3rd Reading:Passed 58-3-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Clouston,
+Connolly, Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson,
+Harshman, Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley,
+
+Lien, Locke, Lucas, Mccann, Neiman, Nicholas, Ottman, Pendergraft, Posey,
+Rodriguez-Williams, Schmid, Singh, Smith, Storer, Strock, Styvar, Tarver,
+Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams, Winter, Wylie,
+Yin
+Nays: Representative(s) Chestek, Provenza, Sherwood
+Excused: Representative Riggins
+Ayes 58 Nays 3 Excused 1 Absent 0 Conflicts 0
+2/19/2025 S Received for Concurrence
+2/19/2025 S Concur:Passed 30-1-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Cooper, Crago,
+Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones, Kolb,
+Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Pearson, Rothfuss,
+Salazar, Schuler, Scott, Smith, Steinmetz
+Nays: Senator Case
+Ayes 30 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/19/2025 Assigned Number SEA No. 0014
+2/19/2025 S President Signed SEA No. 0014
+2/20/2025 H Speaker Signed SEA No. 0014
+2/24/2025 Governor Signed SEA No. 0014
+2/24/2025 Assigned Chapter Number 25
+Chapter No. 25 Session Laws of Wyoming 2025

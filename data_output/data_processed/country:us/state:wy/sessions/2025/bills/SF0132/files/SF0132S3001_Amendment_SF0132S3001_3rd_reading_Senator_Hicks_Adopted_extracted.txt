@@ -1,0 +1,75 @@
+Title: 1 Page 2-line 7 After "subsection" delete "(b)" and insert
+Official Title: 1 Page 2-line 7 After "subsection" delete "(b)" and insert
+Number of Sections: 1
+Source: versions - Amendment SF0132S3001 (3rd reading) - Senator Hicks (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0132S3001
+2 "(c)".
+3
+4 Page 2-after line 19 Insert and renumber as necessary:
+5
+6 "(b) Unless otherwise authorized by law, no person shall
+7 operate or use an unmanned aircraft system or model aircraft that
+8 is carrying, contains or is an explosive device over or near
+9 critical infrastructure or a critical system. This subsection
+10 shall not apply to law enforcement and the military while acting
+11 in the course of their lawful duties.".
+12
+13 Page 2-line 21 Delete "(b)" and insert "(c)".
+14
+15 Page 4-line 4 Delete "(c)" and insert "(d)"; after
+16 "subsection (a)" insert "or (b)".
+17
+18 Page 4-line 17 Delete "(d)" and insert "(e)".
+19
+20 Page 4-line 19 After "systems" insert "or model aircrafts".
+21
+22 Page 4-line 22 After "system" insert "or model aircraft".
+23
+24 Page 5-line 2 Delete "(e)" and insert "(f)".
+25
+26 Page 5-line 4 After "systems" insert "or model aircrafts".
+27
+28 Page 6-line 10 After "systems" insert "or model aircrafts".
+29 HICKS
+1
+
+
+================================================================================
+
+Raw Text:
+SF0132S3001
+1 Page 2-line 7 After "subsection" delete "(b)" and insert
+2 "(c)".
+3
+4 Page 2-after line 19 Insert and renumber as necessary:
+5
+6 "(b) Unless otherwise authorized by law, no person shall
+7 operate or use an unmanned aircraft system or model aircraft that
+8 is carrying, contains or is an explosive device over or near
+9 critical infrastructure or a critical system. This subsection
+10 shall not apply to law enforcement and the military while acting
+11 in the course of their lawful duties.".
+12
+13 Page 2-line 21 Delete "(b)" and insert "(c)".
+14
+15 Page 4-line 4 Delete "(c)" and insert "(d)"; after
+16 "subsection (a)" insert "or (b)".
+17
+18 Page 4-line 17 Delete "(d)" and insert "(e)".
+19
+20 Page 4-line 19 After "systems" insert "or model aircrafts".
+21
+22 Page 4-line 22 After "system" insert "or model aircraft".
+23
+24 Page 5-line 2 Delete "(e)" and insert "(f)".
+25
+26 Page 5-line 4 After "systems" insert "or model aircrafts".
+27
+28 Page 6-line 10 After "systems" insert "or model aircrafts".
+29 HICKS
+1

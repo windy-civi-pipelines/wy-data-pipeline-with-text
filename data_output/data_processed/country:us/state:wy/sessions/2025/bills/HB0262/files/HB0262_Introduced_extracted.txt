@@ -1,0 +1,241 @@
+Title: HOUSE BILL NO. HB0262
+Official Title: HOUSE BILL NO. HB0262
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0419
+Counties-limitations on holding reserves.
+Sponsored by: Representative(s) Johnson, Andrew, Brown, G,
+Campbell, K, Lucas, Singh, Strock, Styvar
+and Wasserburger and Senator(s) McKeown,
+Pearson and Smith, D
+A BILL
+for
+1 AN ACT relating to counties; establishing a limit on the
+2 amount of reserves that counties may maintain; providing
+3 for the calculation of reserve amounts; requiring the
+4 refund of reserves in excess of the limitation amount as
+5 specified; providing definitions; requiring reporting; and
+6 providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 18-4-109 is created to read:
+11
+12 18-4-109. County reserves; limitations; refund of
+13 excess reserves.
+14
+1 HB0262
+2025 STATE OF WYOMING 25LSO-0419
+1 (a) As used in this section:
+2
+3 (i) "Annual spending amount" means the average
+4 amount of total expenditures for the county in each of the
+5 immediately preceding five (5) fiscal years, excluding
+6 amounts collected through any specific purpose tax that is
+7 approved by the voters of the county;
+8
+9 (ii) "Excess funds" means any funds held by the
+10 county in excess of the annual spending amount.
+11
+12 (b) Beginning July 1, 2025, no county shall hold
+13 excess funds that exceed the county's annual spending
+14 amount.
+15
+16 (c) Not later than July 1, 2025 and each July 1
+17 thereafter, each county shall:
+18
+19 (i) Calculate the county's annual spending
+20 amount and estimate whether any excess funds will be
+21 available at the end of the fiscal year;
+22
+2 HB0262
+2025 STATE OF WYOMING 25LSO-0419
+1 (ii) Report to the department of revenue on the
+2 amount calculated under paragraph (i) of this subsection
+3 and the estimate of excess funds that will be available at
+4 the end of the fiscal year.
+5
+6 (d) Each county with excess funds on July 1, 2025 and
+7 each July 1 thereafter shall:
+8
+9 (i) Report the amount of excess funds to the
+10 department of revenue and the board of county
+11 commissioners;
+12
+13 (ii) Provide notice to residents in accordance
+14 with subsection (e) of this section;
+15
+16 (iii) Refund the excess funds to residents of
+17 the county in accordance with subsection (f) of this
+18 section.
+19
+20 (e) Not later than July 15, 2025 and each July 15
+21 thereafter, each county with excess funds shall provide
+22 notice to persons entitled to receive a refund under this
+23 section.
+3 HB0262
+2025 STATE OF WYOMING 25LSO-0419
+1
+2 (f) Not later than August 15, 2025 and each August 15
+3 thereafter, each county shall refund or provide for the
+4 refund of excess funds to owners of record of property in
+5 the county who have been residents of the county for not
+6 less than one (1) year preceding the refund. For purposes
+7 of this subsection, residency shall be determined in
+8 accordance with the rules provided by W.S. 23-1-107. Excess
+9 funds shall be refunded on a pro rata basis.
+10
+11 (g) For each county that does not refund excess funds
+12 in accordance with this section by the date specified in
+13 subsection (f) of this section, the state treasurer shall
+14 withhold from any payment due to a county under W.S.
+15 39-15-111(b) and 39-16-111(b) an amount equal to two (2)
+16 times the amount of excess funds that the county had on
+17 July 1 of the applicable year. The withheld amount shall
+18 be:
+19
+20 (i) Deposited and held in the legislative
+21 stabilization reserve account until the date specified in
+22 paragraph (ii) of this section;
+23
+4 HB0262
+2025 STATE OF WYOMING 25LSO-0419
+1 (ii) Transferred from the legislative
+2 stabilization reserve account to the county upon the county
+3 certifying to the state treasurer and the department of
+4 revenue that the county has refunded the excess funds in
+5 accordance with this section.
+6
+7 Section 2. This act is effective immediately upon
+8 completion of all acts necessary for a bill to become law
+9 as provided by Article 4, Section 8 of the Wyoming
+10 Constitution.
+11
+12 (END)
+5 HB0262
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0419
+HOUSE BILL NO. HB0262
+Counties-limitations on holding reserves.
+Sponsored by: Representative(s) Johnson, Andrew, Brown, G,
+Campbell, K, Lucas, Singh, Strock, Styvar
+and Wasserburger and Senator(s) McKeown,
+Pearson and Smith, D
+A BILL
+for
+1 AN ACT relating to counties; establishing a limit on the
+2 amount of reserves that counties may maintain; providing
+3 for the calculation of reserve amounts; requiring the
+4 refund of reserves in excess of the limitation amount as
+5 specified; providing definitions; requiring reporting; and
+6 providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 18-4-109 is created to read:
+11
+12 18-4-109. County reserves; limitations; refund of
+13 excess reserves.
+14
+1 HB0262
+
+2025 STATE OF WYOMING 25LSO-0419
+1 (a) As used in this section:
+2
+3 (i) "Annual spending amount" means the average
+4 amount of total expenditures for the county in each of the
+5 immediately preceding five (5) fiscal years, excluding
+6 amounts collected through any specific purpose tax that is
+7 approved by the voters of the county;
+8
+9 (ii) "Excess funds" means any funds held by the
+10 county in excess of the annual spending amount.
+11
+12 (b) Beginning July 1, 2025, no county shall hold
+13 excess funds that exceed the county's annual spending
+14 amount.
+15
+16 (c) Not later than July 1, 2025 and each July 1
+17 thereafter, each county shall:
+18
+19 (i) Calculate the county's annual spending
+20 amount and estimate whether any excess funds will be
+21 available at the end of the fiscal year;
+22
+2 HB0262
+
+2025 STATE OF WYOMING 25LSO-0419
+1 (ii) Report to the department of revenue on the
+2 amount calculated under paragraph (i) of this subsection
+3 and the estimate of excess funds that will be available at
+4 the end of the fiscal year.
+5
+6 (d) Each county with excess funds on July 1, 2025 and
+7 each July 1 thereafter shall:
+8
+9 (i) Report the amount of excess funds to the
+10 department of revenue and the board of county
+11 commissioners;
+12
+13 (ii) Provide notice to residents in accordance
+14 with subsection (e) of this section;
+15
+16 (iii) Refund the excess funds to residents of
+17 the county in accordance with subsection (f) of this
+18 section.
+19
+20 (e) Not later than July 15, 2025 and each July 15
+21 thereafter, each county with excess funds shall provide
+22 notice to persons entitled to receive a refund under this
+23 section.
+3 HB0262
+
+2025 STATE OF WYOMING 25LSO-0419
+1
+2 (f) Not later than August 15, 2025 and each August 15
+3 thereafter, each county shall refund or provide for the
+4 refund of excess funds to owners of record of property in
+5 the county who have been residents of the county for not
+6 less than one (1) year preceding the refund. For purposes
+7 of this subsection, residency shall be determined in
+8 accordance with the rules provided by W.S. 23-1-107. Excess
+9 funds shall be refunded on a pro rata basis.
+10
+11 (g) For each county that does not refund excess funds
+12 in accordance with this section by the date specified in
+13 subsection (f) of this section, the state treasurer shall
+14 withhold from any payment due to a county under W.S.
+15 39-15-111(b) and 39-16-111(b) an amount equal to two (2)
+16 times the amount of excess funds that the county had on
+17 July 1 of the applicable year. The withheld amount shall
+18 be:
+19
+20 (i) Deposited and held in the legislative
+21 stabilization reserve account until the date specified in
+22 paragraph (ii) of this section;
+23
+4 HB0262
+
+2025 STATE OF WYOMING 25LSO-0419
+1 (ii) Transferred from the legislative
+2 stabilization reserve account to the county upon the county
+3 certifying to the state treasurer and the department of
+4 revenue that the county has refunded the excess funds in
+5 accordance with this section.
+6
+7 Section 2. This act is effective immediately upon
+8 completion of all acts necessary for a bill to become law
+9 as provided by Article 4, Section 8 of the Wyoming
+10 Constitution.
+11
+12 (END)
+5 HB0262

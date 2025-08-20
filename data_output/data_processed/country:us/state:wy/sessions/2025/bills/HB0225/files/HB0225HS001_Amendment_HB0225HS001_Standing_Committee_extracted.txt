@@ -1,0 +1,41 @@
+Title: 1 Page 1-line 4 After "time" insert "as specified".
+Official Title: 1 Page 1-line 4 After "time" insert "as specified".
+Number of Sections: 1
+Source: versions - Amendment HB0225HS001 (Standing Committee)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0225HS001
+2
+3 Page 2-line 7 Delete "one-half (1/2)" and insert "one-
+4 quarter (1/4)".
+5
+6 Page 2-after line 10 Insert:
+7
+8 "(b) The provisions of this section shall not apply to
+9 locations of official meetings of the state legislature, including
+10 any of its committees, if a free parking lot or free parking
+11 structure is available to the public within one-quarter (1/4) mile
+12 of the meeting location.". BROWN, L, CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0225HS001
+1 Page 1-line 4 After "time" insert "as specified".
+2
+3 Page 2-line 7 Delete "one-half (1/2)" and insert "one-
+4 quarter (1/4)".
+5
+6 Page 2-after line 10 Insert:
+7
+8 "(b) The provisions of this section shall not apply to
+9 locations of official meetings of the state legislature, including
+10 any of its committees, if a free parking lot or free parking
+11 structure is available to the public within one-quarter (1/4) mile
+12 of the meeting location.". BROWN, L, CHAIRMAN
+1

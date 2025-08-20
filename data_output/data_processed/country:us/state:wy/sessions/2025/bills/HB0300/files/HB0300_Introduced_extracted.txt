@@ -1,0 +1,602 @@
+Title: HOUSE BILL NO. HB0300
+Official Title: HOUSE BILL NO. HB0300
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0561
+Electrical generation tax.
+Sponsored by: Representative(s) Wylie, Byron, Davis,
+Harshman, Jarvis, Larsen, L, Larson, JT,
+Locke and Nicholas and Senator(s) Case
+A BILL
+for
+1 AN ACT relating to taxation and revenue; imposing an excise
+2 tax on the production of electricity; providing credits for
+3 other taxes paid; providing for administration and
+4 rulemaking authority; providing penalties; providing for
+5 distribution of the tax; creating an account; providing an
+6 exemption for sales tax on electricity sales; making
+7 conforming amendments; and providing for effective dates.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 39-24-101 through 39-24-111 are
+12 created to read:
+13
+14 CHAPTER 24
+15 TAX ON ELECTRICAL GENERATION
+1 HB0300
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 39-24-101. Definitions.
+3
+4 There are no specific applicable provisions for definitions
+5 for this chapter.
+6
+7 39-24-102. Administration.
+8
+9 The department of revenue shall enforce this chapter. The
+10 department shall promulgate rules necessary for the
+11 implementation and enforcement of this chapter.
+12
+13 39-24-103. Imposition.
+14
+15 There is levied an excise tax upon the privilege of
+16 producing and selling electricity in this state. The tax
+17 shall be imposed upon the sale of any electricity produced
+18 in Wyoming on or after January 1, 2026, and shall be paid
+19 by the person producing the electricity. The tax shall be
+20 imposed on the annual gross energy earnings from energy
+21 produced in Wyoming.
+22
+23 39-24-104. Taxation rate.
+2 HB0300
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 The tax rate shall be three and one-half percent (3.5%) of
+3 the annual gross energy earnings from energy produced in
+4 this state.
+5
+6 39-24-105. Exemptions.
+7
+8 (a) No tax shall be imposed upon electricity that is
+9 produced from any generating facility owned or operated by
+10 the federal government or the state of Wyoming.
+11
+12 (b) No tax shall be imposed upon electricity that is
+13 produced for the personal consumption of the producer,
+14 including any excess production of electricity that does
+15 not exceed five hundred (500) kilowatt hours in any
+16 twenty-four (24) hour period.
+17
+18 39-24-106. Licensing; permits.
+19
+20 There are no specific applicable provisions for licenses
+21 and permits for this chapter.
+22
+23 39-24-107. Compliance; collection procedures.
+3 HB0300
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 (a) Returns and reports. Any person producing
+3 electricity for sale within this state that is subject to
+4 the tax imposed by this chapter shall report:
+5
+6 (i) The annual gross energy earnings from energy
+7 produced in Wyoming on or before February 1 of the year
+8 immediately following the year in which the electricity was
+9 produced;
+10
+11 (ii) Sales of electricity in Wyoming that are or
+12 could be subject to sales or use tax under W.S. 39-15-103
+13 or 39-16-103, regardless of any exemption that may apply to
+14 sales of electricity. Sales of electricity shall be
+15 reported by jurisdiction as required by rule of the
+16 department.
+17
+18 (b) Payment. Any person owing a tax under this
+19 chapter shall pay the tax one (1) time each year on or
+20 before February 1 of the year immediately following the
+21 year in which the electricity was produced. The tax shall
+22 be collected by the department of revenue.
+23
+4 HB0300
+2025 STATE OF WYOMING 25LSO-0561
+1 (c) Timelines. There are no specific applicable
+2 provisions for timelines for this chapter.
+3
+4 39-24-108. Enforcement.
+5
+6 (a) Audits. There are no specific applicable
+7 provisions for audits for this chapter.
+8
+9 (b) Interest. Interest at an annual rate equal to
+10 the average prime interest as determined by the state
+11 treasurer during the preceding fiscal year, plus four
+12 percent (4%), shall be added to all delinquent taxes under
+13 this chapter. To determine the average prime interest rate,
+14 the state treasurer shall average the prime interest rate
+15 for at least seventy-five percent (75%) of the thirty (30)
+16 largest banks in the United States. The interest rate on
+17 delinquent taxes shall be adjusted on January 1 of each
+18 year following the year in which the taxes first became
+19 delinquent. In no instance shall the delinquent interest
+20 rate be less than twelve percent (12%) nor greater than
+21 eighteen percent (18%).
+22
+23 (c) Penalties. The following shall apply:
+5 HB0300
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 (i) If any person fails to make or file a return
+3 and remit the tax as required by W.S. 39-24-107, the
+4 department shall impose a penalty of five percent (5%) of
+5 the taxes due for each thirty (30) day period, or a
+6 fraction thereof, elapsing between the due date of the
+7 return and the date filed, unless the person for good cause
+8 obtains from the department an extension of time for filing
+9 before the due date for filing. In the event of an
+10 extension, the person shall pay the interest due on
+11 delinquent payments set forth in subsection (b) of this
+12 section. In no event shall the total penalty imposed by
+13 this paragraph exceed twenty-five percent (25%) of the tax
+14 due. The department, for good cause, may waive a penalty
+15 imposed for failure to file a return for any one (1)
+16 calendar year, provided that:
+17
+18 (A) The return was filed within five (5)
+19 business days following the due date, including a due date
+20 determined by an approved extension period; and
+21
+6 HB0300
+2025 STATE OF WYOMING 25LSO-0561
+1 (B) The taxpayer requests the waiver in
+2 writing within fifteen (15) days after the return was
+3 filed, setting forth the reasons for the late filing.
+4
+5 (ii) If any part of a tax deficiency is due to
+6 the negligence or intentional disregard of this chapter or
+7 department rules there shall be added a penalty of five
+8 percent (5%) of the amount of the deficiency plus interest
+9 as provided by subsection (b) of this section. The taxes,
+10 penalty and interest shall be paid by the taxpayer within
+11 ten (10) days after receipt of notice and demand by the
+12 department;
+13
+14 (iii) Taxes, interest, penalties and costs shall
+15 be collectible by the department by appropriate judicial
+16 proceedings;
+17
+18 (iv) The department may credit or waive
+19 penalties imposed by this subsection as part of a
+20 settlement or for any other good cause.
+21
+22 (d) Liens. Any delinquent tax is a lien upon the
+23 property of any person owing tax under this chapter from
+7 HB0300
+2025 STATE OF WYOMING 25LSO-0561
+1 and after the time the tax is due until the tax is paid.
+2 The tax lien shall have preference over all liens except
+3 any valid mortgage or other liens of record filed or
+4 recorded before the date the tax became due.
+5
+6 (e) Tax sales. There are no specific applicable
+7 provisions for tax sales for this chapter.
+8
+9 39-24-109. Tax remedies.
+10
+11 (a) Credits. The following shall apply:
+12
+13 (i) Each taxpayer is entitled to a credit
+14 against tax liability under this chapter for all excise,
+15 sales, use, severance and ad valorem taxes paid in the tax
+16 year by the same taxpayer to any taxing authority in
+17 Wyoming. If the taxpayer produces electricity in this state
+18 used in the production process of any mineral that is taxed
+19 under the provisions of chapter 14 of this title, the
+20 person producing the electricity shall be entitled to a
+21 credit equal to the amount of the severance tax paid on the
+22 minerals consumed in the production of the electricity;
+23
+8 HB0300
+2025 STATE OF WYOMING 25LSO-0561
+1 (ii) To qualify for a credit under this
+2 subsection for severance taxes paid by another person, the
+3 person producing the electricity shall provide
+4 documentation that adequately demonstrates, as determined
+5 by department rules, the amount of taxes paid on the
+6 minerals that were consumed in the production of the
+7 electricity. The taxpayer shall report the credit to the
+8 department on the return filed under W.S. 39-24-107;
+9
+10 (iii) In no case shall any refund be due or
+11 payable if the amount of any credit claimed under this
+12 section exceeds the amount of tax due under this chapter.
+13
+14 39-24-110. Statute of limitations.
+15
+16 There are no specific applicable provisions for a statute
+17 of limitations for this chapter.
+18
+19 39-24-111. Distribution.
+20
+21 The electrical generation account is created. The proceeds
+22 from the tax imposed by this chapter shall be deposited in
+23 the account. All funds within the account shall be invested
+9 HB0300
+2025 STATE OF WYOMING 25LSO-0561
+1 by the state treasurer in accordance with law and all
+2 investment earnings from the account shall be credited to
+3 the account. It is the intent of the legislature that a
+4 portion of the funds in the account be used to provide
+5 payments to local governments for sales taxes that would
+6 have been collected if sales of electricity reported under
+7 W.S. 39-24-107(a)(ii) were subject to sales tax. Funds
+8 within the account shall only be expended by legislative
+9 appropriation.
+10
+11 Section 2. W.S. 39-11-101(a)(xviii),
+12 39-15-103(a)(i)(E) and 39-15-105(a)(v) by creating a new
+13 subparagraph (E) are amended to read:
+14
+15 39-11-101. Definitions.
+16
+17 (a) As used in this act unless otherwise specifically
+18 provided:
+19
+20 (xviii) "This act" means W.S. 39-11-101 through
+21 39-23-111 39-24-111.
+22
+23 39-15-103. Imposition.
+10 HB0300
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 (a) Taxable event. The following shall apply:
+3
+4 (i) Except as provided by W.S. 39-15-105, there
+5 is levied an excise tax upon:
+6
+7 (E) Except to the extent exempt under W.S.
+8 39-15-105(a)(v)(E), the sales price paid to public
+9 utilities as defined in W.S. 37-1-101 through 37-3-114 and
+10 to persons furnishing gas, electricity or heat for
+11 domestic, industrial or commercial consumption;
+12
+13 39-15-105. Exemptions.
+14
+15 (a) The following sales or leases are exempt from the
+16 excise tax imposed by this article:
+17
+18 (v) For the purpose of exempting sales of
+19 services and tangible personal property which are
+20 alternatively taxed, the following are exempt:
+21
+22 (E) Sales of electricity that are subject
+23 to the tax in chapter 24 of this title.
+11 HB0300
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 Section 3. The department of revenue shall adopt any
+3 rules necessary to implement this act not later than July
+4 1, 2025.
+5
+6 Section 4.
+7
+8 (a) Except as provided in subsection (b) of this
+9 section, this act is effective immediately upon completion
+10 of all acts necessary for a bill to become law as provided
+11 by Article 4, Section 8 of the Wyoming Constitution.
+12
+13 (b) Section 1 of this act is effective July 1, 2025.
+14
+15 (END)
+12 HB0300
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0561
+HOUSE BILL NO. HB0300
+Electrical generation tax.
+Sponsored by: Representative(s) Wylie, Byron, Davis,
+Harshman, Jarvis, Larsen, L, Larson, JT,
+Locke and Nicholas and Senator(s) Case
+A BILL
+for
+1 AN ACT relating to taxation and revenue; imposing an excise
+2 tax on the production of electricity; providing credits for
+3 other taxes paid; providing for administration and
+4 rulemaking authority; providing penalties; providing for
+5 distribution of the tax; creating an account; providing an
+6 exemption for sales tax on electricity sales; making
+7 conforming amendments; and providing for effective dates.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 39-24-101 through 39-24-111 are
+12 created to read:
+13
+14 CHAPTER 24
+15 TAX ON ELECTRICAL GENERATION
+1 HB0300
+
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 39-24-101. Definitions.
+3
+4 There are no specific applicable provisions for definitions
+5 for this chapter.
+6
+7 39-24-102. Administration.
+8
+9 The department of revenue shall enforce this chapter. The
+10 department shall promulgate rules necessary for the
+11 implementation and enforcement of this chapter.
+12
+13 39-24-103. Imposition.
+14
+15 There is levied an excise tax upon the privilege of
+16 producing and selling electricity in this state. The tax
+17 shall be imposed upon the sale of any electricity produced
+18 in Wyoming on or after January 1, 2026, and shall be paid
+19 by the person producing the electricity. The tax shall be
+20 imposed on the annual gross energy earnings from energy
+21 produced in Wyoming.
+22
+23 39-24-104. Taxation rate.
+2 HB0300
+
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 The tax rate shall be three and one-half percent (3.5%) of
+3 the annual gross energy earnings from energy produced in
+4 this state.
+5
+6 39-24-105. Exemptions.
+7
+8 (a) No tax shall be imposed upon electricity that is
+9 produced from any generating facility owned or operated by
+10 the federal government or the state of Wyoming.
+11
+12 (b) No tax shall be imposed upon electricity that is
+13 produced for the personal consumption of the producer,
+14 including any excess production of electricity that does
+15 not exceed five hundred (500) kilowatt hours in any
+16 twenty-four (24) hour period.
+17
+18 39-24-106. Licensing; permits.
+19
+20 There are no specific applicable provisions for licenses
+21 and permits for this chapter.
+22
+23 39-24-107. Compliance; collection procedures.
+3 HB0300
+
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 (a) Returns and reports. Any person producing
+3 electricity for sale within this state that is subject to
+4 the tax imposed by this chapter shall report:
+5
+6 (i) The annual gross energy earnings from energy
+7 produced in Wyoming on or before February 1 of the year
+8 immediately following the year in which the electricity was
+9 produced;
+10
+11 (ii) Sales of electricity in Wyoming that are or
+12 could be subject to sales or use tax under W.S. 39-15-103
+13 or 39-16-103, regardless of any exemption that may apply to
+14 sales of electricity. Sales of electricity shall be
+15 reported by jurisdiction as required by rule of the
+16 department.
+17
+18 (b) Payment. Any person owing a tax under this
+19 chapter shall pay the tax one (1) time each year on or
+20 before February 1 of the year immediately following the
+21 year in which the electricity was produced. The tax shall
+22 be collected by the department of revenue.
+23
+4 HB0300
+
+2025 STATE OF WYOMING 25LSO-0561
+1 (c) Timelines. There are no specific applicable
+2 provisions for timelines for this chapter.
+3
+4 39-24-108. Enforcement.
+5
+6 (a) Audits. There are no specific applicable
+7 provisions for audits for this chapter.
+8
+9 (b) Interest. Interest at an annual rate equal to
+10 the average prime interest as determined by the state
+11 treasurer during the preceding fiscal year, plus four
+12 percent (4%), shall be added to all delinquent taxes under
+13 this chapter. To determine the average prime interest rate,
+14 the state treasurer shall average the prime interest rate
+15 for at least seventy-five percent (75%) of the thirty (30)
+16 largest banks in the United States. The interest rate on
+17 delinquent taxes shall be adjusted on January 1 of each
+18 year following the year in which the taxes first became
+19 delinquent. In no instance shall the delinquent interest
+20 rate be less than twelve percent (12%) nor greater than
+21 eighteen percent (18%).
+22
+23 (c) Penalties. The following shall apply:
+5 HB0300
+
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 (i) If any person fails to make or file a return
+3 and remit the tax as required by W.S. 39-24-107, the
+4 department shall impose a penalty of five percent (5%) of
+5 the taxes due for each thirty (30) day period, or a
+6 fraction thereof, elapsing between the due date of the
+7 return and the date filed, unless the person for good cause
+8 obtains from the department an extension of time for filing
+9 before the due date for filing. In the event of an
+10 extension, the person shall pay the interest due on
+11 delinquent payments set forth in subsection (b) of this
+12 section. In no event shall the total penalty imposed by
+13 this paragraph exceed twenty-five percent (25%) of the tax
+14 due. The department, for good cause, may waive a penalty
+15 imposed for failure to file a return for any one (1)
+16 calendar year, provided that:
+17
+18 (A) The return was filed within five (5)
+19 business days following the due date, including a due date
+20 determined by an approved extension period; and
+21
+6 HB0300
+
+2025 STATE OF WYOMING 25LSO-0561
+1 (B) The taxpayer requests the waiver in
+2 writing within fifteen (15) days after the return was
+3 filed, setting forth the reasons for the late filing.
+4
+5 (ii) If any part of a tax deficiency is due to
+6 the negligence or intentional disregard of this chapter or
+7 department rules there shall be added a penalty of five
+8 percent (5%) of the amount of the deficiency plus interest
+9 as provided by subsection (b) of this section. The taxes,
+10 penalty and interest shall be paid by the taxpayer within
+11 ten (10) days after receipt of notice and demand by the
+12 department;
+13
+14 (iii) Taxes, interest, penalties and costs shall
+15 be collectible by the department by appropriate judicial
+16 proceedings;
+17
+18 (iv) The department may credit or waive
+19 penalties imposed by this subsection as part of a
+20 settlement or for any other good cause.
+21
+22 (d) Liens. Any delinquent tax is a lien upon the
+23 property of any person owing tax under this chapter from
+7 HB0300
+
+2025 STATE OF WYOMING 25LSO-0561
+1 and after the time the tax is due until the tax is paid.
+2 The tax lien shall have preference over all liens except
+3 any valid mortgage or other liens of record filed or
+4 recorded before the date the tax became due.
+5
+6 (e) Tax sales. There are no specific applicable
+7 provisions for tax sales for this chapter.
+8
+9 39-24-109. Tax remedies.
+10
+11 (a) Credits. The following shall apply:
+12
+13 (i) Each taxpayer is entitled to a credit
+14 against tax liability under this chapter for all excise,
+15 sales, use, severance and ad valorem taxes paid in the tax
+16 year by the same taxpayer to any taxing authority in
+17 Wyoming. If the taxpayer produces electricity in this state
+18 used in the production process of any mineral that is taxed
+19 under the provisions of chapter 14 of this title, the
+20 person producing the electricity shall be entitled to a
+21 credit equal to the amount of the severance tax paid on the
+22 minerals consumed in the production of the electricity;
+23
+8 HB0300
+
+2025 STATE OF WYOMING 25LSO-0561
+1 (ii) To qualify for a credit under this
+2 subsection for severance taxes paid by another person, the
+3 person producing the electricity shall provide
+4 documentation that adequately demonstrates, as determined
+5 by department rules, the amount of taxes paid on the
+6 minerals that were consumed in the production of the
+7 electricity. The taxpayer shall report the credit to the
+8 department on the return filed under W.S. 39-24-107;
+9
+10 (iii) In no case shall any refund be due or
+11 payable if the amount of any credit claimed under this
+12 section exceeds the amount of tax due under this chapter.
+13
+14 39-24-110. Statute of limitations.
+15
+16 There are no specific applicable provisions for a statute
+17 of limitations for this chapter.
+18
+19 39-24-111. Distribution.
+20
+21 The electrical generation account is created. The proceeds
+22 from the tax imposed by this chapter shall be deposited in
+23 the account. All funds within the account shall be invested
+9 HB0300
+
+2025 STATE OF WYOMING 25LSO-0561
+1 by the state treasurer in accordance with law and all
+2 investment earnings from the account shall be credited to
+3 the account. It is the intent of the legislature that a
+4 portion of the funds in the account be used to provide
+5 payments to local governments for sales taxes that would
+6 have been collected if sales of electricity reported under
+7 W.S. 39-24-107(a)(ii) were subject to sales tax. Funds
+8 within the account shall only be expended by legislative
+9 appropriation.
+10
+11 Section 2. W.S. 39-11-101(a)(xviii),
+12 39-15-103(a)(i)(E) and 39-15-105(a)(v) by creating a new
+13 subparagraph (E) are amended to read:
+14
+15 39-11-101. Definitions.
+16
+17 (a) As used in this act unless otherwise specifically
+18 provided:
+19
+20 (xviii) "This act" means W.S. 39-11-101 through
+21 39-23-111 39-24-111.
+22
+23 39-15-103. Imposition.
+10 HB0300
+
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 (a) Taxable event. The following shall apply:
+3
+4 (i) Except as provided by W.S. 39-15-105, there
+5 is levied an excise tax upon:
+6
+7 (E) Except to the extent exempt under W.S.
+8 39-15-105(a)(v)(E), the sales price paid to public
+9 utilities as defined in W.S. 37-1-101 through 37-3-114 and
+10 to persons furnishing gas, electricity or heat for
+11 domestic, industrial or commercial consumption;
+12
+13 39-15-105. Exemptions.
+14
+15 (a) The following sales or leases are exempt from the
+16 excise tax imposed by this article:
+17
+18 (v) For the purpose of exempting sales of
+19 services and tangible personal property which are
+20 alternatively taxed, the following are exempt:
+21
+22 (E) Sales of electricity that are subject
+23 to the tax in chapter 24 of this title.
+11 HB0300
+
+2025 STATE OF WYOMING 25LSO-0561
+1
+2 Section 3. The department of revenue shall adopt any
+3 rules necessary to implement this act not later than July
+4 1, 2025.
+5
+6 Section 4.
+7
+8 (a) Except as provided in subsection (b) of this
+9 section, this act is effective immediately upon completion
+10 of all acts necessary for a bill to become law as provided
+11 by Article 4, Section 8 of the Wyoming Constitution.
+12
+13 (b) Section 1 of this act is effective July 1, 2025.
+14
+15 (END)
+12 HB0300

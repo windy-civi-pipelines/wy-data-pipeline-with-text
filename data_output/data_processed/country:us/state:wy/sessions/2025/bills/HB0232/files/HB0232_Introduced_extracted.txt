@@ -1,0 +1,912 @@
+Title: HOUSE BILL NO. HB0232
+Official Title: HOUSE BILL NO. HB0232
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0408
+Elections-hand counting for recounts.
+Sponsored by: Representative(s) Haroldson, Allemand, Banks,
+Bear, Brady, Erickson, Knapp, Locke, McCann,
+Schmid, Strock, Webb and Williams and
+Senator(s) Boner, Hutchings, Kolb, Pearson
+and Smith, D
+A BILL
+for
+1 AN ACT relating to elections; providing a process for
+2 certain recounts to be conducted by hand counting the
+3 votes; authorizing the secretary of state and county clerks
+4 to require recounts as specified; providing for hand counts
+5 to be requested by candidates as specified; specifying the
+6 costs of recounts; revising dates of the primary election
+7 and the county and state canvass to allow time for hand
+8 counting as specified; clarifying when a counting board is
+9 required to be appointed; requiring rulemaking; creating an
+10 account; making conforming amendments; providing an
+11 appropriation; and providing for an effective date.
+12
+13 Be It Enacted by the Legislature of the State of Wyoming:
+14
+1 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 Section 1. W.S. 22-1-102(a)(xlii), 22-2-104(b) and
+2 (d), 22-8-102, 22-8-108(a), (c), (d) and by creating a new
+3 subsection (e), 22-14-114(a), 22-16-103(c)(i), 22-16-109(a)
+4 through (c) and by creating new subsections (d) through
+5 (g), 22-16-110(a)(intro), 22-16-111(a)(intro), (i), (ii)
+6 and (b), 22-16-113(a)(i), (ii), (b) and (c), 22-16-118 and
+7 22-21-103 are amended to read:
+8
+9 22-1-102. Definitions.
+10
+11 (a) The definitions contained in this chapter apply
+12 to words and phrases used in this Election Code and govern
+13 the construction of those words and phrases unless they are
+14 specifically modified by the context in which they appear.
+15 As used in this Election Code:
+16
+17 (xlii) "Recount" is the counting of ballots by
+18 hand or the processing of ballots through the tabulation
+19 system for an additional time or times, conducted for the
+20 specific purpose of counting votes again in any specific
+21 race, based upon the criteria of W.S. 22-16-109 or
+22 22-16-111 through 22-16-113;
+23
+2 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 22-2-104. Election dates.
+2
+3 (b) A primary election shall be held at the regular
+4 polling places for each precinct on the first Tuesday after
+5 the third first Monday in August in general election years
+6 for the nomination of candidates for partisan and
+7 nonpartisan offices to be filled at the succeeding general
+8 election and for the election of major party precinct
+9 committeemen and committeewomen.
+10
+11 (d) Every bond election shall be held on the same day
+12 as a primary election or a general election, or on the
+13 first Tuesday after the first Monday in May or November, or
+14 on the first Tuesday after the third first Monday in
+15 August.
+16
+17 22-8-102. Qualifications.
+18
+19 Except as otherwise provided by this section, judges of
+20 election and members of counting boards shall be registered
+21 electors and shall be physically, morally and mentally
+22 competent to perform their duties. The county clerk may
+23 appoint persons who are at least sixteen (16) years of age
+3 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 to serve as judges of election or members of counting
+2 boards if such persons meet all other requirements for
+3 qualification of an elector. A judge of election shall not
+4 be a member of a counting board at the same election except
+5 as provided by W.S. 22-8-108(d) and (e).
+6
+7 22-8-108. Appointment, composition and authority of
+8 counting boards; when judges to count.
+9
+10 (a) Unless ballots are tabulated by electronic voting
+11 systems, the county clerk shall appoint a counting board
+12 for each paper ballot polling place casting more than three
+13 hundred (300) votes at the last general election, and may
+14 appoint a counting board in such a polling place in which
+15 one hundred fifty (150) or more such votes were cast at
+16 such election. A counting board shall have three (3)
+17 members or more to facilitate the counting of votes. No
+18 more than one (1) person under the age of eighteen (18) may
+19 be appointed as to each counting board.
+20
+21 (c) The counting board in a paper ballot polling
+22 place appointed under subsection (a) of this section has no
+23 authority to act until polls are declared closed as
+4 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 provided in W.S. 22-13-117, except as provided in W.S.
+2 22-9-125(d). A counting board in an electronic voting
+3 system counting center may commence preparing absentee
+4 ballots for counting at any time on election day, or before
+5 election day as provided in W.S. 22-9-125(d).
+6
+7 (d) For a polling place where a counting board need
+8 not be appointed under subsection (a) of this section, the
+9 judges of election shall count the votes. This subsection
+10 shall not apply if ballots are tabulated by electronic
+11 voting system.
+12
+13 (e) The county clerk shall appoint a counting board
+14 for the purposes of completing recounts as provided in W.S.
+15 22-16-109. The counting board under this subsection shall
+16 consist of not less than three (3) members. Additional
+17 counting board members may be appointed if deemed necessary
+18 by the county clerk.
+19
+20 22-14-114. Counting of ballots.
+21
+22 (a) The following shall apply to the counting of
+23 ballots:
+5 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1
+2 (i) For ballots designed to be counted by
+3 machine, each individual vote shall be determined by the
+4 voting equipment and shall not be determined subjectively
+5 by human tabulation except as provided below:
+6
+7 (A) When the intent of the voter is
+8 unmistakable but the ballot was received in such damaged,
+9 soiled, or other condition that it is rejected by the
+10 machine. The secretary of state may promulgate rules
+11 establishing standards for counting such ballots;.
+12
+13 (B) When being recounted by hand in
+14 accordance with W.S. 22-16-109. The secretary of state may
+15 promulgate rules establishing standards for counting such
+16 ballots;
+17
+18 (C) When counting write-in votes by
+19 candidate under W.S. 22-16-103(iii).
+20
+21 (ii) For ballots not designed to be counted by
+22 machine, only votes clearly marked, as provided by W.S.
+6 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 22-14-104 and rules promulgated pursuant to this code,
+2 shall be tallied;.
+3
+4 (iii) For write-in votes, names which are
+5 misspelled or abbreviated or the use of nicknames of
+6 candidates shall be counted for the candidate if the vote
+7 is obvious to the board.
+8
+9 22-16-103. County canvass procedures.
+10
+11 (c) The county canvassing board shall:
+12
+13 (i) Meet as soon as all returns have been
+14 received and abstracted, but if any provisional ballots
+15 have been cast in the county, not before the time has
+16 passed for provisional voters to document their eligibility
+17 to register or to vote. The board shall meet at a time and
+18 place designated by the county clerk, but no later than the
+19 first second Friday following the election;
+20
+21 22-16-109. Recounts.
+22
+7 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 (a) The county canvassing board shall make a recount
+2 of precinct votes if it appears to the board that a recount
+3 is required due to irregularities in that precinct. The
+4 recount under this subsection may be conducted by a hand
+5 count or by using electronic voting equipment as determined
+6 by the county canvassing board.
+7
+8 (b) Prior to the county canvass, there shall be a
+9 recount made of all the votes:
+10
+11 (i) Cast for any federal, statewide or
+12 legislative office in which the difference in number of
+13 votes cast for the winning candidate receiving the least
+14 number of votes and the number of votes cast for the losing
+15 candidate receiving the greatest number of votes is less
+16 than one percent (1%) two percent (2%) of the number of
+17 votes cast for the winning candidate receiving the least
+18 number of votes cast for that office in that county. This
+19 recount shall be made in the entire district in which the
+20 candidates are standing for election in that county. This
+21 recount shall be conducted by a hand count. A recount under
+22 this subsection shall not be required if a recount is
+8 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 required under paragraph (ii) of this subsection for the
+2 same office;
+3
+4 (ii) Cast for any federal, statewide or
+5 legislative office in which the difference in the number of
+6 votes cast for the winning candidate receiving the least
+7 number of votes and the number of votes cast for the losing
+8 candidate receiving the greatest number of votes is less
+9 than one percent (1%) of the number of votes cast for the
+10 winning candidate receiving the least number of votes cast
+11 for that office in the entire state or district. This
+12 recount shall be made in each county in which the
+13 candidates are standing for election. This recount shall be
+14 conducted by a hand count;
+15
+16 (iii) Cast for any other office not specified in
+17 paragraph (i) or (ii) of this subsection in which the
+18 difference in number of votes cast for the winning
+19 candidate receiving the least number of votes and the
+20 number of votes cast for the losing candidate receiving the
+21 greatest number of votes is less than two percent (2%) of
+22 the number of votes cast for the winning candidate
+23 receiving the least number of votes cast for that office.
+9 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 This recount shall be made in the entire district in which
+2 the candidates are standing for election. This recount
+3 shall be conducted by electronic voting equipment.
+4
+5 (c) There shall be a recount made of all the votes
+6 cast for any office if a losing candidate requests one
+7 under provision of W.S. 22-16-110. This recount shall be
+8 made in the entire district in which the candidate is
+9 standing for election. This recount may be conducted by
+10 hand count or by using electronic voting equipment as
+11 determined by the candidate.
+12
+13 (d) Not later than the day following an election, the
+14 secretary of state may require a recount of not more than
+15 one (1) federal, statewide or legislative question or race.
+16 The secretary of state shall specify which precincts are to
+17 be recounted. This recount may be conducted by hand or by
+18 using electronic voting equipment as specified by the
+19 secretary of state.
+20
+21 (e) The county clerk shall have the discretion to
+22 recount any ballot proposition either by precinct, election
+23 district or precinct. This recount may be conducted by hand
+10 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 or by using electronic voting equipment as specified by the
+2 county clerk.
+3
+4 (f) If there is any discrepancy between the recount
+5 results and the preliminary election results, the county
+6 canvassing board shall determine the official result of the
+7 election.
+8
+9 (g) There is created the election recount account.
+10 Funds in the account shall not revert and are continuously
+11 appropriated to the secretary of state for costs related to
+12 administering hand recounts. The state treasurer shall
+13 invest funds within the account in accordance with law. All
+14 investment earnings from the account shall be deposited in
+15 the general fund.
+16
+17 22-16-110. How candidate may obtain recount; where
+18 affidavit filed.
+19
+20 (a) A candidate may obtain a recount of votes for the
+21 office he is seeking by making and filing an affidavit
+22 alleging that fraud or error occurred in counting,
+23 returning or canvassing the votes cast in any part of the
+11 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 district in which he is standing for election. The
+2 affidavit shall specify whether the recount should be
+3 conducted using electronic voting equipment or by hand
+4 count using tally sheets. The affidavit shall be filed in
+5 the same office the candidate filed his application for
+6 nomination:
+7
+8 22-16-111. Recount of ballot proposition.
+9
+10 (a) A recount of votes of a ballot proposition may be
+11 obtained in one (1) of the following manners as follows:
+12
+13 (i) A recount will be made:
+14
+15 (A) If the proposition is a statewide
+16 proposition and receives a number of votes, greater or
+17 lesser, within one percent (1%) of the number of votes
+18 required for passage. The one percent (1%) variance shall
+19 be calculated based upon the total number of votes cast on
+20 the proposition, except for constitutional amendments in
+21 which case the variance shall be calculated based upon the
+22 total number of votes cast in the election. This recount
+23 shall be conducted by a hand count;
+12 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1
+2 (B) If the ballot proposition is not a
+3 statewide ballot proposition and the proposition receives a
+4 number of votes, greater or lesser, within two percent (2%)
+5 of the number of votes required for passage. The two
+6 percent (2%) variance shall be calculated based upon the
+7 total number of votes cast on the proposition, except for
+8 constitutional amendments in which case the variance shall
+9 be calculated based upon the total number of votes cast in
+10 the election. This recount shall be conducted by a hand
+11 count.
+12
+13 (ii) A recount will be made if requested in an
+14 affidavit signed by twenty-five (25) electors registered in
+15 a district voting on the question. The affidavit shall be
+16 filed with the county clerk not later than two (2) days
+17 after the county canvass has been completed for
+18 propositions voted on in one (1) county, and with the
+19 secretary of state not later than two (2) days after the
+20 state canvass has been completed for propositions voted on
+21 in more than one (1) county. The affidavit shall be
+22 accompanied by a deposit of one hundred dollars ($100.00)
+23 as specified in W.S. 22-16-113(a). The affidavit shall
+13 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 specify whether the recount should be conducted by hand
+2 count or by electronic voting equipment.
+3
+4 (b) The county in which the recount is taken shall
+5 pay the costs of the recount if the recount is required by
+6 subsection paragraph (a)(i) of this section; and the
+7 signers of the affidavit referred to in subsection
+8 paragraph (a)(ii) of this section shall be jointly and
+9 severally liable for the costs of the recount requested by
+10 them up to five hundred dollars ($500.00) per county
+11 recounted if the results of the election are not changed by
+12 the recount.
+13
+14 22-16-113. Recount deposit; expense of recount.
+15
+16 (a) An affidavit requesting a recount must be
+17 accompanied by the following deposit:
+18
+19 (i) If the difference in number of votes cast as
+20 calculated pursuant to W.S. 22-16-109(b) is one percent
+21 (1%) or greater but less than five percent (5%), five
+22 hundred dollars ($500.00) affidavit requests the recount be
+23 conducted by electronic voting equipment, an amount
+14 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 determined by the county clerk not to exceed one thousand
+2 dollars ($1,000.00);
+3
+4 (ii) If the difference in number of votes cast
+5 as calculated pursuant to W.S. 22-16-109(b) is five percent
+6 (5%) or greater, three thousand dollars ($3,000.00)
+7 affidavit requests the recount be conducted by hand count,
+8 an amount determined by the county clerk not to exceed five
+9 thousand dollars ($5,000.00).
+10
+11 (b) If the recount shows sufficient error to change
+12 the result of the election, the county in which the recount
+13 is taken shall pay expenses of the recount and the deposit
+14 shall be returned. Otherwise the applicant or applicants
+15 seeking the recount shall be liable for the actual cost of
+16 conducting the recount up to a maximum of the amount
+17 deposited under subsection (a) of this section, per county
+18 recounted. Every county clerk shall issue a complete
+19 accounting of all costs of the recount to the candidate
+20 requesting the recount, and shall refund any surplus to the
+21 candidate. If the actual cost of conducting the recount
+22 exceeds five thousand dollars ($5,000.00), the county clerk
+23 may seek reimbursement of reasonable expenses from the
+15 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 secretary of state. Reasonable expenses are limited to
+2 wages, per diem of twenty-five dollars ($25.00) per day and
+3 mileage for election judges and county clerk staff. The
+4 secretary of state shall reimburse those reasonable
+5 expenses from the election recount account. If requesting
+6 reimbursement from the secretary of state, the county clerk
+7 shall provide a complete accounting of all costs of the
+8 recount and the deposit paid by the candidate.
+9
+10 (c) If the recount is initiated by the county clerk,
+11 county canvassing board or required by W.S. 22-16-109(b),
+12 the cost of the recount shall be paid by the county in
+13 which the recount is taken regardless of the result of the
+14 recount. If the recount is initiated by the secretary of
+15 state under W.S. 22-16-109(d), the cost of the recount
+16 shall be paid by the secretary of state regardless of the
+17 result of the recount.
+18
+19 22-16-118. Meeting of state canvassing board.
+20
+21 The state canvassing board shall meet no later than the
+22 second third Wednesday following the election. The
+23 secretary of state shall send a messenger to obtain
+16 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 official county abstracts not filed in a reasonable length
+2 of time. The canvassing board shall meet at the time and
+3 place set by the secretary of state. The board shall review
+4 the state abstracts prepared by the secretary of state,
+5 compare them with the tabulation and materials prepared by
+6 the secretary of state, resolve any tie votes, and certify
+7 the abstract as the official state canvass.
+8
+9 22-21-103. How bond question to be submitted to
+10 electors; contents.
+11
+12 Each bond question shall be submitted to a vote of the
+13 qualified electors of the political subdivision. Every bond
+14 election shall be held on the same day as a primary
+15 election or a general election, or on the Tuesday next
+16 following the first Monday in May or November, or on the
+17 Tuesday next following the third first Monday in August.
+18 Not less than one hundred ten (110) days before a bond
+19 election, the political subdivision shall provide written
+20 notification to the county clerk specifying the date of the
+21 election and the bond question. The bond question shall
+22 state the purpose of the bonds, the maximum principal
+23 amount thereof, the maximum number of years allowed for the
+17 HB0232
+2025 STATE OF WYOMING 25LSO-0408
+1 indebtedness and the maximum rate of interest to be paid
+2 thereon. The secretary of state may promulgate reasonable
+3 rules for conducting bond elections where the election is
+4 not held at the same time as the general or primary
+5 election.
+6
+7 Section 2. W.S. 22-8-108(b) and 22-16-111(c) are
+8 repealed.
+9
+10 Section 3. There is appropriated two hundred thousand
+11 dollars ($200,000.00) from the general fund to the election
+12 recount account under W.S. 22-16-109(g), as created by
+13 section 1 of this act.
+14
+15 Section 4. This act is effective July 1, 2025.
+16
+17 (END)
+18 HB0232
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0408
+HOUSE BILL NO. HB0232
+Elections-hand counting for recounts.
+Sponsored by: Representative(s) Haroldson, Allemand, Banks,
+Bear, Brady, Erickson, Knapp, Locke, McCann,
+Schmid, Strock, Webb and Williams and
+Senator(s) Boner, Hutchings, Kolb, Pearson
+and Smith, D
+A BILL
+for
+1 AN ACT relating to elections; providing a process for
+2 certain recounts to be conducted by hand counting the
+3 votes; authorizing the secretary of state and county clerks
+4 to require recounts as specified; providing for hand counts
+5 to be requested by candidates as specified; specifying the
+6 costs of recounts; revising dates of the primary election
+7 and the county and state canvass to allow time for hand
+8 counting as specified; clarifying when a counting board is
+9 required to be appointed; requiring rulemaking; creating an
+10 account; making conforming amendments; providing an
+11 appropriation; and providing for an effective date.
+12
+13 Be It Enacted by the Legislature of the State of Wyoming:
+14
+1 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 Section 1. W.S. 22-1-102(a)(xlii), 22-2-104(b) and
+2 (d), 22-8-102, 22-8-108(a), (c), (d) and by creating a new
+3 subsection (e), 22-14-114(a), 22-16-103(c)(i), 22-16-109(a)
+4 through (c) and by creating new subsections (d) through
+5 (g), 22-16-110(a)(intro), 22-16-111(a)(intro), (i), (ii)
+6 and (b), 22-16-113(a)(i), (ii), (b) and (c), 22-16-118 and
+7 22-21-103 are amended to read:
+8
+9 22-1-102. Definitions.
+10
+11 (a) The definitions contained in this chapter apply
+12 to words and phrases used in this Election Code and govern
+13 the construction of those words and phrases unless they are
+14 specifically modified by the context in which they appear.
+15 As used in this Election Code:
+16
+17 (xlii) "Recount" is the counting of ballots by
+18 hand or the processing of ballots through the tabulation
+19 system for an additional time or times, conducted for the
+20 specific purpose of counting votes again in any specific
+21 race, based upon the criteria of W.S. 22-16-109 or
+22 22-16-111 through 22-16-113;
+23
+2 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 22-2-104. Election dates.
+2
+3 (b) A primary election shall be held at the regular
+4 polling places for each precinct on the first Tuesday after
+5 the third first Monday in August in general election years
+6 for the nomination of candidates for partisan and
+7 nonpartisan offices to be filled at the succeeding general
+8 election and for the election of major party precinct
+9 committeemen and committeewomen.
+10
+11 (d) Every bond election shall be held on the same day
+12 as a primary election or a general election, or on the
+13 first Tuesday after the first Monday in May or November, or
+14 on the first Tuesday after the third first Monday in
+15 August.
+16
+17 22-8-102. Qualifications.
+18
+19 Except as otherwise provided by this section, judges of
+20 election and members of counting boards shall be registered
+21 electors and shall be physically, morally and mentally
+22 competent to perform their duties. The county clerk may
+23 appoint persons who are at least sixteen (16) years of age
+3 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 to serve as judges of election or members of counting
+2 boards if such persons meet all other requirements for
+3 qualification of an elector. A judge of election shall not
+4 be a member of a counting board at the same election except
+5 as provided by W.S. 22-8-108(d) and (e).
+6
+7 22-8-108. Appointment, composition and authority of
+8 counting boards; when judges to count.
+9
+10 (a) Unless ballots are tabulated by electronic voting
+11 systems, the county clerk shall appoint a counting board
+12 for each paper ballot polling place casting more than three
+13 hundred (300) votes at the last general election, and may
+14 appoint a counting board in such a polling place in which
+15 one hundred fifty (150) or more such votes were cast at
+16 such election. A counting board shall have three (3)
+17 members or more to facilitate the counting of votes. No
+18 more than one (1) person under the age of eighteen (18) may
+19 be appointed as to each counting board.
+20
+21 (c) The counting board in a paper ballot polling
+22 place appointed under subsection (a) of this section has no
+23 authority to act until polls are declared closed as
+4 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 provided in W.S. 22-13-117, except as provided in W.S.
+2 22-9-125(d). A counting board in an electronic voting
+3 system counting center may commence preparing absentee
+4 ballots for counting at any time on election day, or before
+5 election day as provided in W.S. 22-9-125(d).
+6
+7 (d) For a polling place where a counting board need
+8 not be appointed under subsection (a) of this section, the
+9 judges of election shall count the votes. This subsection
+10 shall not apply if ballots are tabulated by electronic
+11 voting system.
+12
+13 (e) The county clerk shall appoint a counting board
+14 for the purposes of completing recounts as provided in W.S.
+15 22-16-109. The counting board under this subsection shall
+16 consist of not less than three (3) members. Additional
+17 counting board members may be appointed if deemed necessary
+18 by the county clerk.
+19
+20 22-14-114. Counting of ballots.
+21
+22 (a) The following shall apply to the counting of
+23 ballots:
+5 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1
+2 (i) For ballots designed to be counted by
+3 machine, each individual vote shall be determined by the
+4 voting equipment and shall not be determined subjectively
+5 by human tabulation except as provided below:
+6
+7 (A) When the intent of the voter is
+8 unmistakable but the ballot was received in such damaged,
+9 soiled, or other condition that it is rejected by the
+10 machine. The secretary of state may promulgate rules
+11 establishing standards for counting such ballots;.
+12
+13 (B) When being recounted by hand in
+14 accordance with W.S. 22-16-109. The secretary of state may
+15 promulgate rules establishing standards for counting such
+16 ballots;
+17
+18 (C) When counting write-in votes by
+19 candidate under W.S. 22-16-103(iii).
+20
+21 (ii) For ballots not designed to be counted by
+22 machine, only votes clearly marked, as provided by W.S.
+6 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 22-14-104 and rules promulgated pursuant to this code,
+2 shall be tallied;.
+3
+4 (iii) For write-in votes, names which are
+5 misspelled or abbreviated or the use of nicknames of
+6 candidates shall be counted for the candidate if the vote
+7 is obvious to the board.
+8
+9 22-16-103. County canvass procedures.
+10
+11 (c) The county canvassing board shall:
+12
+13 (i) Meet as soon as all returns have been
+14 received and abstracted, but if any provisional ballots
+15 have been cast in the county, not before the time has
+16 passed for provisional voters to document their eligibility
+17 to register or to vote. The board shall meet at a time and
+18 place designated by the county clerk, but no later than the
+19 first second Friday following the election;
+20
+21 22-16-109. Recounts.
+22
+7 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 (a) The county canvassing board shall make a recount
+2 of precinct votes if it appears to the board that a recount
+3 is required due to irregularities in that precinct. The
+4 recount under this subsection may be conducted by a hand
+5 count or by using electronic voting equipment as determined
+6 by the county canvassing board.
+7
+8 (b) Prior to the county canvass, there shall be a
+9 recount made of all the votes:
+10
+11 (i) Cast for any federal, statewide or
+12 legislative office in which the difference in number of
+13 votes cast for the winning candidate receiving the least
+14 number of votes and the number of votes cast for the losing
+15 candidate receiving the greatest number of votes is less
+16 than one percent (1%) two percent (2%) of the number of
+17 votes cast for the winning candidate receiving the least
+18 number of votes cast for that office in that county. This
+19 recount shall be made in the entire district in which the
+20 candidates are standing for election in that county. This
+21 recount shall be conducted by a hand count. A recount under
+22 this subsection shall not be required if a recount is
+8 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 required under paragraph (ii) of this subsection for the
+2 same office;
+3
+4 (ii) Cast for any federal, statewide or
+5 legislative office in which the difference in the number of
+6 votes cast for the winning candidate receiving the least
+7 number of votes and the number of votes cast for the losing
+8 candidate receiving the greatest number of votes is less
+9 than one percent (1%) of the number of votes cast for the
+10 winning candidate receiving the least number of votes cast
+11 for that office in the entire state or district. This
+12 recount shall be made in each county in which the
+13 candidates are standing for election. This recount shall be
+14 conducted by a hand count;
+15
+16 (iii) Cast for any other office not specified in
+17 paragraph (i) or (ii) of this subsection in which the
+18 difference in number of votes cast for the winning
+19 candidate receiving the least number of votes and the
+20 number of votes cast for the losing candidate receiving the
+21 greatest number of votes is less than two percent (2%) of
+22 the number of votes cast for the winning candidate
+23 receiving the least number of votes cast for that office.
+9 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 This recount shall be made in the entire district in which
+2 the candidates are standing for election. This recount
+3 shall be conducted by electronic voting equipment.
+4
+5 (c) There shall be a recount made of all the votes
+6 cast for any office if a losing candidate requests one
+7 under provision of W.S. 22-16-110. This recount shall be
+8 made in the entire district in which the candidate is
+9 standing for election. This recount may be conducted by
+10 hand count or by using electronic voting equipment as
+11 determined by the candidate.
+12
+13 (d) Not later than the day following an election, the
+14 secretary of state may require a recount of not more than
+15 one (1) federal, statewide or legislative question or race.
+16 The secretary of state shall specify which precincts are to
+17 be recounted. This recount may be conducted by hand or by
+18 using electronic voting equipment as specified by the
+19 secretary of state.
+20
+21 (e) The county clerk shall have the discretion to
+22 recount any ballot proposition either by precinct, election
+23 district or precinct. This recount may be conducted by hand
+10 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 or by using electronic voting equipment as specified by the
+2 county clerk.
+3
+4 (f) If there is any discrepancy between the recount
+5 results and the preliminary election results, the county
+6 canvassing board shall determine the official result of the
+7 election.
+8
+9 (g) There is created the election recount account.
+10 Funds in the account shall not revert and are continuously
+11 appropriated to the secretary of state for costs related to
+12 administering hand recounts. The state treasurer shall
+13 invest funds within the account in accordance with law. All
+14 investment earnings from the account shall be deposited in
+15 the general fund.
+16
+17 22-16-110. How candidate may obtain recount; where
+18 affidavit filed.
+19
+20 (a) A candidate may obtain a recount of votes for the
+21 office he is seeking by making and filing an affidavit
+22 alleging that fraud or error occurred in counting,
+23 returning or canvassing the votes cast in any part of the
+11 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 district in which he is standing for election. The
+2 affidavit shall specify whether the recount should be
+3 conducted using electronic voting equipment or by hand
+4 count using tally sheets. The affidavit shall be filed in
+5 the same office the candidate filed his application for
+6 nomination:
+7
+8 22-16-111. Recount of ballot proposition.
+9
+10 (a) A recount of votes of a ballot proposition may be
+11 obtained in one (1) of the following manners as follows:
+12
+13 (i) A recount will be made:
+14
+15 (A) If the proposition is a statewide
+16 proposition and receives a number of votes, greater or
+17 lesser, within one percent (1%) of the number of votes
+18 required for passage. The one percent (1%) variance shall
+19 be calculated based upon the total number of votes cast on
+20 the proposition, except for constitutional amendments in
+21 which case the variance shall be calculated based upon the
+22 total number of votes cast in the election. This recount
+23 shall be conducted by a hand count;
+12 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1
+2 (B) If the ballot proposition is not a
+3 statewide ballot proposition and the proposition receives a
+4 number of votes, greater or lesser, within two percent (2%)
+5 of the number of votes required for passage. The two
+6 percent (2%) variance shall be calculated based upon the
+7 total number of votes cast on the proposition, except for
+8 constitutional amendments in which case the variance shall
+9 be calculated based upon the total number of votes cast in
+10 the election. This recount shall be conducted by a hand
+11 count.
+12
+13 (ii) A recount will be made if requested in an
+14 affidavit signed by twenty-five (25) electors registered in
+15 a district voting on the question. The affidavit shall be
+16 filed with the county clerk not later than two (2) days
+17 after the county canvass has been completed for
+18 propositions voted on in one (1) county, and with the
+19 secretary of state not later than two (2) days after the
+20 state canvass has been completed for propositions voted on
+21 in more than one (1) county. The affidavit shall be
+22 accompanied by a deposit of one hundred dollars ($100.00)
+23 as specified in W.S. 22-16-113(a). The affidavit shall
+13 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 specify whether the recount should be conducted by hand
+2 count or by electronic voting equipment.
+3
+4 (b) The county in which the recount is taken shall
+5 pay the costs of the recount if the recount is required by
+6 subsection paragraph (a)(i) of this section; and the
+7 signers of the affidavit referred to in subsection
+8 paragraph (a)(ii) of this section shall be jointly and
+9 severally liable for the costs of the recount requested by
+10 them up to five hundred dollars ($500.00) per county
+11 recounted if the results of the election are not changed by
+12 the recount.
+13
+14 22-16-113. Recount deposit; expense of recount.
+15
+16 (a) An affidavit requesting a recount must be
+17 accompanied by the following deposit:
+18
+19 (i) If the difference in number of votes cast as
+20 calculated pursuant to W.S. 22-16-109(b) is one percent
+21 (1%) or greater but less than five percent (5%), five
+22 hundred dollars ($500.00) affidavit requests the recount be
+23 conducted by electronic voting equipment, an amount
+14 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 determined by the county clerk not to exceed one thousand
+2 dollars ($1,000.00);
+3
+4 (ii) If the difference in number of votes cast
+5 as calculated pursuant to W.S. 22-16-109(b) is five percent
+6 (5%) or greater, three thousand dollars ($3,000.00)
+7 affidavit requests the recount be conducted by hand count,
+8 an amount determined by the county clerk not to exceed five
+9 thousand dollars ($5,000.00).
+10
+11 (b) If the recount shows sufficient error to change
+12 the result of the election, the county in which the recount
+13 is taken shall pay expenses of the recount and the deposit
+14 shall be returned. Otherwise the applicant or applicants
+15 seeking the recount shall be liable for the actual cost of
+16 conducting the recount up to a maximum of the amount
+17 deposited under subsection (a) of this section, per county
+18 recounted. Every county clerk shall issue a complete
+19 accounting of all costs of the recount to the candidate
+20 requesting the recount, and shall refund any surplus to the
+21 candidate. If the actual cost of conducting the recount
+22 exceeds five thousand dollars ($5,000.00), the county clerk
+23 may seek reimbursement of reasonable expenses from the
+15 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 secretary of state. Reasonable expenses are limited to
+2 wages, per diem of twenty-five dollars ($25.00) per day and
+3 mileage for election judges and county clerk staff. The
+4 secretary of state shall reimburse those reasonable
+5 expenses from the election recount account. If requesting
+6 reimbursement from the secretary of state, the county clerk
+7 shall provide a complete accounting of all costs of the
+8 recount and the deposit paid by the candidate.
+9
+10 (c) If the recount is initiated by the county clerk,
+11 county canvassing board or required by W.S. 22-16-109(b),
+12 the cost of the recount shall be paid by the county in
+13 which the recount is taken regardless of the result of the
+14 recount. If the recount is initiated by the secretary of
+15 state under W.S. 22-16-109(d), the cost of the recount
+16 shall be paid by the secretary of state regardless of the
+17 result of the recount.
+18
+19 22-16-118. Meeting of state canvassing board.
+20
+21 The state canvassing board shall meet no later than the
+22 second third Wednesday following the election. The
+23 secretary of state shall send a messenger to obtain
+16 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 official county abstracts not filed in a reasonable length
+2 of time. The canvassing board shall meet at the time and
+3 place set by the secretary of state. The board shall review
+4 the state abstracts prepared by the secretary of state,
+5 compare them with the tabulation and materials prepared by
+6 the secretary of state, resolve any tie votes, and certify
+7 the abstract as the official state canvass.
+8
+9 22-21-103. How bond question to be submitted to
+10 electors; contents.
+11
+12 Each bond question shall be submitted to a vote of the
+13 qualified electors of the political subdivision. Every bond
+14 election shall be held on the same day as a primary
+15 election or a general election, or on the Tuesday next
+16 following the first Monday in May or November, or on the
+17 Tuesday next following the third first Monday in August.
+18 Not less than one hundred ten (110) days before a bond
+19 election, the political subdivision shall provide written
+20 notification to the county clerk specifying the date of the
+21 election and the bond question. The bond question shall
+22 state the purpose of the bonds, the maximum principal
+23 amount thereof, the maximum number of years allowed for the
+17 HB0232
+
+2025 STATE OF WYOMING 25LSO-0408
+1 indebtedness and the maximum rate of interest to be paid
+2 thereon. The secretary of state may promulgate reasonable
+3 rules for conducting bond elections where the election is
+4 not held at the same time as the general or primary
+5 election.
+6
+7 Section 2. W.S. 22-8-108(b) and 22-16-111(c) are
+8 repealed.
+9
+10 Section 3. There is appropriated two hundred thousand
+11 dollars ($200,000.00) from the general fund to the election
+12 recount account under W.S. 22-16-109(g), as created by
+13 section 1 of this act.
+14
+15 Section 4. This act is effective July 1, 2025.
+16
+17 (END)
+18 HB0232

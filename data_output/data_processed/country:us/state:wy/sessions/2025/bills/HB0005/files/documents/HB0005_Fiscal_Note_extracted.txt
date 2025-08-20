@@ -1,0 +1,154 @@
+Title: Fishing outfitters and guides-registration 25LSO-0215, 1.0
+Official Title: Fishing outfitters and guides-registration 25LSO-0215, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+of fishing boats.
+FISCAL NOTE
+This bill allows the Game and Fish Commission (Commission) to set limits on the
+number of commercially guided fishing boats allowed to launch into any section of
+river or lake in Wyoming. If the Commission establishes launch limits, it must
+assess an annual fee for registration of commercially guided fishing boats and
+vehicles or trailers operated by the commercial fishing guide.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+GAME & FISH FUND $431,800 $215,750 $215,750
+Source of expenditure increase:
+The Game and Fish Department (Department) indicates additional personnel, supplies,
+equipment, and programming will be required to regulate the number of commercially
+guided fishing boats for each major drainage area over which the Commission has
+jurisdiction, resulting in an expenditure increase from the Game and Fish Fund.
+Assumptions:
+The Department assumes surveys will be required to determine the percent of
+commercially guided fishing boats to the total number of watercraft per stretch of
+river. Personnel will set-up data-gathering camera equipment on multiple stretches
+of river within the major drainage areas to review, analyze, and document the data
+collected. If the Commission determines that launch limits of commercially guided
+fishing boats warrant limitation, public meetings will be held in the major drainage
+area to gather public comment. Personnel will monitor the major drainage areas to
+enforce that commercially guided boats, vehicles and trailers are registered, have
+a sticker, and have a valid boat launch permit.
+The Department estimates one additional full-time employee and four additional
+seasonal employees will be hired, and supplies, equipment and vehicles required to
+carry out the ongoing tasks will be purchased. One (1) program administrator
+(BAPM09), four (4) four-month fisheries technicians (HSSL05), five computers, four
+cell phones, four drift boats, four trucks, data collection equipment, and uniform
+allowances will be required. Personnel (0100 series) costs are estimated at $176,561
+per year. Support services (0200 series) costs for supplies and equipment, in-state
+travel, vehicle operating and maintenance, and data services are estimated at
+$36,480 per year, plus an additional $182,000 in fiscal year (FY) 2026 for data
+gathering cameras, three-quarter ton trucks, and drift boats. Central data services
+(0400 series) costs for four cell phones are estimated at $2,208 per year, plus an
+additional $6,750 in FY 2026 for computers. Contractual Services (0900 series)
+costs are estimated at $500 per year for printing of stickers.
+Programming to allocate launch permits will require the establishment of an online
+portal to allow for application of permits, with the ability to create a reusable
+user identification. The system must accept both a first-come, first-served
+allocation model and a pool of applicants for a later draw model. The system will
+require functionality to report draw results to customers, the ability for customers
+HB0005
+Fishing outfitters and guides-registration 25LSO-0215, 1.0
+of fishing boats.
+to modify and/or withdraw from a random draw. Additionally, the system will require
+business rules to provide various limits for permits by impacted stretches of river.
+If permits are renewable without drawing, the system will need a mechanism to allow
+for this. The system will need the ability to generate public reports showing
+ownership of launch permits. Development of extensive reporting functionality as
+well as comprehensive testing prior to implementation will be necessary. Application
+development is estimated at 450 hours at $60.66 per hour for a total one-time cost
+of $27,300 in FY 2026.
+The expenditure increase reflected above could be considered an administrative
+cost. However, for simplicity and to follow consistent practice on legislation of
+this type, it is included on the fiscal note.
+Source of revenue increase:
+The estimated revenue increase, in the form of annual fees issued for commercially
+guided fishing boat, vehicle, and trailer registrations to the Game and Fish Fund
+is indeterminable.
+Assumptions:
+The Commission will set launch limits and establish registration and permit fees
+to implement the bill. However, the fees have not been determined by the Commission
+and the number of commercial fishing boats, vehicles, and trailers is unknown.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Meredith Wood, Game and Fish Department, 777-4618)
+HB0005
+
+
+================================================================================
+
+Raw Text:
+Fishing outfitters and guides-registration 25LSO-0215, 1.0
+of fishing boats.
+FISCAL NOTE
+This bill allows the Game and Fish Commission (Commission) to set limits on the
+number of commercially guided fishing boats allowed to launch into any section of
+river or lake in Wyoming. If the Commission establishes launch limits, it must
+assess an annual fee for registration of commercially guided fishing boats and
+vehicles or trailers operated by the commercial fishing guide.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+GAME & FISH FUND $431,800 $215,750 $215,750
+Source of expenditure increase:
+The Game and Fish Department (Department) indicates additional personnel, supplies,
+equipment, and programming will be required to regulate the number of commercially
+guided fishing boats for each major drainage area over which the Commission has
+jurisdiction, resulting in an expenditure increase from the Game and Fish Fund.
+Assumptions:
+The Department assumes surveys will be required to determine the percent of
+commercially guided fishing boats to the total number of watercraft per stretch of
+river. Personnel will set-up data-gathering camera equipment on multiple stretches
+of river within the major drainage areas to review, analyze, and document the data
+collected. If the Commission determines that launch limits of commercially guided
+fishing boats warrant limitation, public meetings will be held in the major drainage
+area to gather public comment. Personnel will monitor the major drainage areas to
+enforce that commercially guided boats, vehicles and trailers are registered, have
+a sticker, and have a valid boat launch permit.
+The Department estimates one additional full-time employee and four additional
+seasonal employees will be hired, and supplies, equipment and vehicles required to
+carry out the ongoing tasks will be purchased. One (1) program administrator
+(BAPM09), four (4) four-month fisheries technicians (HSSL05), five computers, four
+cell phones, four drift boats, four trucks, data collection equipment, and uniform
+allowances will be required. Personnel (0100 series) costs are estimated at $176,561
+per year. Support services (0200 series) costs for supplies and equipment, in-state
+travel, vehicle operating and maintenance, and data services are estimated at
+$36,480 per year, plus an additional $182,000 in fiscal year (FY) 2026 for data
+gathering cameras, three-quarter ton trucks, and drift boats. Central data services
+(0400 series) costs for four cell phones are estimated at $2,208 per year, plus an
+additional $6,750 in FY 2026 for computers. Contractual Services (0900 series)
+costs are estimated at $500 per year for printing of stickers.
+Programming to allocate launch permits will require the establishment of an online
+portal to allow for application of permits, with the ability to create a reusable
+user identification. The system must accept both a first-come, first-served
+allocation model and a pool of applicants for a later draw model. The system will
+require functionality to report draw results to customers, the ability for customers
+HB0005
+
+Fishing outfitters and guides-registration 25LSO-0215, 1.0
+of fishing boats.
+to modify and/or withdraw from a random draw. Additionally, the system will require
+business rules to provide various limits for permits by impacted stretches of river.
+If permits are renewable without drawing, the system will need a mechanism to allow
+for this. The system will need the ability to generate public reports showing
+ownership of launch permits. Development of extensive reporting functionality as
+well as comprehensive testing prior to implementation will be necessary. Application
+development is estimated at 450 hours at $60.66 per hour for a total one-time cost
+of $27,300 in FY 2026.
+The expenditure increase reflected above could be considered an administrative
+cost. However, for simplicity and to follow consistent practice on legislation of
+this type, it is included on the fiscal note.
+Source of revenue increase:
+The estimated revenue increase, in the form of annual fees issued for commercially
+guided fishing boat, vehicle, and trailer registrations to the Game and Fish Fund
+is indeterminable.
+Assumptions:
+The Commission will set launch limits and establish registration and permit fees
+to implement the bill. However, the fees have not been determined by the Commission
+and the number of commercial fishing boats, vehicles, and trailers is unknown.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Meredith Wood, Game and Fish Department, 777-4618)
+HB0005

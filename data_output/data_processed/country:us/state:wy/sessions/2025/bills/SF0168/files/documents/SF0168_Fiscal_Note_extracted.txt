@@ -1,0 +1,75 @@
+Title: This bill repeals the Budget Reserve Account (BRA) effective July 1, 2026, after
+Official Title: This bill repeals the Budget Reserve Account (BRA) effective July 1, 2026, after
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Budget reserve account-repeal. 25LSO-0712, 1.0
+FISCAL NOTE
+the end of the fiscal year (FY) 2025-2026 biennium.
+This bill transfers the balance from the BRA to the General Fund on July 1, 2026.
+The estimated balance of the BRA transferred to the General Fund is $152,555,000.
+Any funds directed by law to be deposited or reverted to the BRA would be deposited
+in the General Fund. Any funds appropriated or obligated from the BRA would be paid
+from the General Fund.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase/(decrease)
+GENERAL FUND (FMRs) $0 $210,500,000 $188,200,000
+BUDGET RESERVE ACCOUNT (FMRs) $0 ($210,500,000) ($188,200,000)
+GENERAL FUND (Severance Taxes) $0 $155,100,000 $139,100,000
+BUDGET RESERVE ACCOUNT (Severance Taxes) $0 ($155,100,000) ($139,100,000)
+Source of revenue increase and (decrease):
+Effective July 1, 2026, this bill redirects federal mineral royalty (FMR)
+distributions (W.S. 9-4-601(d)(iv)) and severance tax distributions (W.S. 39-14-
+801(d)) that would have been deposited within the BRA to the General Fund, resulting
+in an estimated revenue decrease to the BRA of $365,600,000 in FY 2027 and
+$327,300,000 in FY 2028, and a corresponding revenue increase to the General Fund.
+The above table illustrates the estimated revenue impact, by revenue source and
+fund, for FY 2027 and FY 2028.
+Assumptions:
+The revenue estimates utilize the January 2025 Consensus Revenue Estimating Group
+forecast for FMRs and severance taxes. The balance of the BRA is based on the
+January 13, 2025 LSO fiscal profile inclusive of the Governor’s FY 2025-2026
+biennium supplemental budget recommendations.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+SF0168
+
+
+================================================================================
+
+Raw Text:
+Budget reserve account-repeal. 25LSO-0712, 1.0
+FISCAL NOTE
+This bill repeals the Budget Reserve Account (BRA) effective July 1, 2026, after
+the end of the fiscal year (FY) 2025-2026 biennium.
+This bill transfers the balance from the BRA to the General Fund on July 1, 2026.
+The estimated balance of the BRA transferred to the General Fund is $152,555,000.
+Any funds directed by law to be deposited or reverted to the BRA would be deposited
+in the General Fund. Any funds appropriated or obligated from the BRA would be paid
+from the General Fund.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase/(decrease)
+GENERAL FUND (FMRs) $0 $210,500,000 $188,200,000
+BUDGET RESERVE ACCOUNT (FMRs) $0 ($210,500,000) ($188,200,000)
+GENERAL FUND (Severance Taxes) $0 $155,100,000 $139,100,000
+BUDGET RESERVE ACCOUNT (Severance Taxes) $0 ($155,100,000) ($139,100,000)
+Source of revenue increase and (decrease):
+Effective July 1, 2026, this bill redirects federal mineral royalty (FMR)
+distributions (W.S. 9-4-601(d)(iv)) and severance tax distributions (W.S. 39-14-
+801(d)) that would have been deposited within the BRA to the General Fund, resulting
+in an estimated revenue decrease to the BRA of $365,600,000 in FY 2027 and
+$327,300,000 in FY 2028, and a corresponding revenue increase to the General Fund.
+The above table illustrates the estimated revenue impact, by revenue source and
+fund, for FY 2027 and FY 2028.
+Assumptions:
+The revenue estimates utilize the January 2025 Consensus Revenue Estimating Group
+forecast for FMRs and severance taxes. The balance of the BRA is based on the
+January 13, 2025 LSO fiscal profile inclusive of the Governor’s FY 2025-2026
+biennium supplemental budget recommendations.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+SF0168

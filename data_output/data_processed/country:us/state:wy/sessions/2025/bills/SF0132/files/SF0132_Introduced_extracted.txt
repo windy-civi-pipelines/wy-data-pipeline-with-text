@@ -1,0 +1,453 @@
+Title: Protecting critical infrastructure and systems from drones.
+Official Title: Protecting critical infrastructure and systems from drones.
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0684
+SENATE FILE NO. SF0132
+Sponsored by: Senator(s) Jones, Anderson, Biteman, Cooper,
+Dockstader, Driskill, Hicks, Kolb, Landen,
+McKeown, Rothfuss, Schuler and Steinmetz and
+Representative(s) Banks, Brown, G, Byron,
+Davis, Erickson, Geringer, Heiner, Jarvis,
+Knapp, Larson, JT, Neiman, Ottman, Thayer
+and Wylie
+A BILL
+for
+1 AN ACT relating to defense forces and affairs; prohibiting
+2 the use and operation of unmanned aircraft systems over
+3 critical infrastructure and critical systems; specifying
+4 exceptions; providing and amending penalties; authorizing
+5 the use of the Wyoming national guard; providing
+6 definitions; making conforming amendments; and providing
+7 for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 19-13-503 is created to read:
+12
+13 ARTICLE 5
+1 SF0132
+2025 STATE OF WYOMING 25LSO-0684
+1 PROTECTION OF CRITICAL INFRASTRUCTURE
+2
+3 19-13-503. Unlawful operation of unmanned aircraft
+4 systems over critical infrastructure and systems
+5 prohibited; permitted actions by law enforcement.
+6
+7 (a) Except as provided in subsection (b) of this
+8 section, no person shall operate or use an unmanned
+9 aircraft system over or near critical infrastructure or a
+10 critical system:
+11
+12 (i) To intentionally photograph critical
+13 infrastructure or a critical system;
+14
+15 (ii) To intentionally loiter over or near
+16 critical infrastructure or a critical system; or
+17
+18 (iii) In furtherance of any other criminal
+19 offense.
+20
+21 (b) This section shall not apply to:
+22
+2 SF0132
+2025 STATE OF WYOMING 25LSO-0684
+1 (i) A person authorized by the federal aviation
+2 administration to operate or use an unmanned aircraft
+3 system if the person's operation or use complies with the
+4 authorization granted or with rules promulgated by the
+5 federal aviation administration;
+6
+7 (ii) A governmental entity's use of an unmanned
+8 aircraft system owned by the governmental entity;
+9
+10 (iii) The use of an unmanned aircraft system by
+11 the owner or the owner's agent of critical infrastructure
+12 or a critical system on or near the owner's critical
+13 infrastructure or critical system;
+14
+15 (iv) The operation or use of model aircraft
+16 within a public park owned or operated by a governmental
+17 entity;
+18
+19 (v) The use of an unmanned aircraft system by a
+20 law enforcement agency, emergency medical service agency,
+21 hazardous materials response team, disaster management
+22 agency or other emergency management agency for the purpose
+23 of incident command, area reconnaissance, personnel and
+3 SF0132
+2025 STATE OF WYOMING 25LSO-0684
+1 equipment deployment monitoring, training or a related
+2 purpose.
+3
+4 (c) A person who violates subsection (a) of this
+5 section is guilty of:
+6
+7 (i) A misdemeanor punishable by imprisonment not
+8 to exceed six (6) months, a fine not to exceed two thousand
+9 five hundred dollars ($2,500.00), or both, for a first
+10 offense;
+11
+12 (ii) A felony punishable by imprisonment not to
+13 exceed two (2) years, a fine not to exceed five thousand
+14 dollars ($5,000.00), or both, for a second or subsequent
+15 offense.
+16
+17 (d) A peace officer or law enforcement official may
+18 take or authorize the use of reasonable actions to prevent
+19 or stop the use of unmanned aircraft systems operating in
+20 violation of this section. For purposes of this subsection,
+21 reasonable actions may include disabling, damaging or
+22 removing the unmanned aircraft system from the prohibited
+23 location.
+4 SF0132
+2025 STATE OF WYOMING 25LSO-0684
+1
+2 (e) The governor may order the national guard of
+3 Wyoming to assist in taking or using reasonable actions to
+4 prevent or stop the use of unmanned aircraft systems
+5 operating in violation of this section, in accordance with
+6 W.S. 19-9-207.
+7
+8 Section 2. W.S. 10-4-303 by creating a new subsection
+9 (d), 19-9-207(a) by creating a new paragraph (iv) and by
+10 renumbering (iv) as (v) and 19-13-501(a) by creating new
+11 paragraphs (vi) through (viii) are amended to read:
+12
+13 10-4-303. Low or dangerous flight; landing on land or
+14 water of another; penalties and remedies.
+15
+16 (d) A person who operates or uses an unmanned
+17 aircraft in a manner that is not lawful under subsection
+18 (a) of this section shall be guilty of a misdemeanor
+19 punishable by imprisonment not to exceed six (6) months, a
+20 fine not to exceed seven hundred fifty dollars ($750.00),
+21 or both.
+22
+5 SF0132
+2025 STATE OF WYOMING 25LSO-0684
+1 19-9-207. Suppressing tumult; preserving order,
+2 insuring public safety; expenses; creation of additional
+3 units; draft.
+4
+5 (a) The governor may order any designated person or
+6 commanding officer of any military unit to appear with or
+7 without his command at a time and place specified to:
+8
+9 (iv) Prevent or stop the use of unmanned
+10 aircraft systems violating W.S. 19-13-503;
+11
+12 (iv)(v) Perform such other duties as the
+13 commander in chief may require and which the militia or
+14 national guard may lawfully perform.
+15
+16 19-13-501. Definitions.
+17
+18 (a) As used in this article:
+19
+20 (vi) "Critical system" means any one (1) or more
+21 of the following:
+22
+23 (A) A petroleum refinery;
+6 SF0132
+2025 STATE OF WYOMING 25LSO-0684
+1
+2 (B) A petroleum, chemical or rubber
+3 production, transportation, storage or processing facility;
+4
+5 (C) A chemical manufacturing facility;
+6
+7 (D) A water or wastewater treatment
+8 facility and water development, distribution or conveyance
+9 system, including a dam;
+10
+11 (E) An electric generation facility and any
+12 associated substation or switchyard;
+13
+14 (F) An electrical transmission or
+15 distribution substation;
+16
+17 (G) An electrical transmission line of not
+18 less than sixty-nine thousand (69,000) volts;
+19
+20 (H) An electronic communication station or
+21 tower;
+22
+23 (J) An energy control center;
+7 SF0132
+2025 STATE OF WYOMING 25LSO-0684
+1
+2 (K) A distribution operating center;
+3
+4 (M) A facility that transfers or
+5 distributes natural gas, including a compressor station,
+6 regulator station, city gate station or pressure-limiting
+7 station or a liquefied natural gas facility or supplier tap
+8 facility;
+9
+10 (N) Any railroad infrastructure or
+11 facility;
+12
+13 (O) A federal, state, county, chancery or
+14 municipal court;
+15
+16 (P) A public safety or emergency operation
+17 facility;
+18
+19 (Q) A federal, state, county or municipal
+20 jail or correctional facility or any other facility where
+21 persons are incarcerated;
+22
+8 SF0132
+2025 STATE OF WYOMING 25LSO-0684
+1 (R) A federal or state military
+2 installation or facility;
+3
+4 (S) A hospital that receives air ambulance
+5 services.
+6
+7 (vii) "Model aircraft" means as defined in
+8 section 336 of the FAA Modernization and Reform Act of
+9 2012, P.L. 112-95;
+10
+11 (viii) "Unmanned aircraft system" means as
+12 defined by W.S. 6-5-214(a)(iii).
+13
+14 Section 3. This act is effective July 1, 2025.
+15
+16 (END)
+9 SF0132
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0684
+SENATE FILE NO. SF0132
+Protecting critical infrastructure and systems from drones.
+Sponsored by: Senator(s) Jones, Anderson, Biteman, Cooper,
+Dockstader, Driskill, Hicks, Kolb, Landen,
+McKeown, Rothfuss, Schuler and Steinmetz and
+Representative(s) Banks, Brown, G, Byron,
+Davis, Erickson, Geringer, Heiner, Jarvis,
+Knapp, Larson, JT, Neiman, Ottman, Thayer
+and Wylie
+A BILL
+for
+1 AN ACT relating to defense forces and affairs; prohibiting
+2 the use and operation of unmanned aircraft systems over
+3 critical infrastructure and critical systems; specifying
+4 exceptions; providing and amending penalties; authorizing
+5 the use of the Wyoming national guard; providing
+6 definitions; making conforming amendments; and providing
+7 for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 19-13-503 is created to read:
+12
+13 ARTICLE 5
+1 SF0132
+
+2025 STATE OF WYOMING 25LSO-0684
+1 PROTECTION OF CRITICAL INFRASTRUCTURE
+2
+3 19-13-503. Unlawful operation of unmanned aircraft
+4 systems over critical infrastructure and systems
+5 prohibited; permitted actions by law enforcement.
+6
+7 (a) Except as provided in subsection (b) of this
+8 section, no person shall operate or use an unmanned
+9 aircraft system over or near critical infrastructure or a
+10 critical system:
+11
+12 (i) To intentionally photograph critical
+13 infrastructure or a critical system;
+14
+15 (ii) To intentionally loiter over or near
+16 critical infrastructure or a critical system; or
+17
+18 (iii) In furtherance of any other criminal
+19 offense.
+20
+21 (b) This section shall not apply to:
+22
+2 SF0132
+
+2025 STATE OF WYOMING 25LSO-0684
+1 (i) A person authorized by the federal aviation
+2 administration to operate or use an unmanned aircraft
+3 system if the person's operation or use complies with the
+4 authorization granted or with rules promulgated by the
+5 federal aviation administration;
+6
+7 (ii) A governmental entity's use of an unmanned
+8 aircraft system owned by the governmental entity;
+9
+10 (iii) The use of an unmanned aircraft system by
+11 the owner or the owner's agent of critical infrastructure
+12 or a critical system on or near the owner's critical
+13 infrastructure or critical system;
+14
+15 (iv) The operation or use of model aircraft
+16 within a public park owned or operated by a governmental
+17 entity;
+18
+19 (v) The use of an unmanned aircraft system by a
+20 law enforcement agency, emergency medical service agency,
+21 hazardous materials response team, disaster management
+22 agency or other emergency management agency for the purpose
+23 of incident command, area reconnaissance, personnel and
+3 SF0132
+
+2025 STATE OF WYOMING 25LSO-0684
+1 equipment deployment monitoring, training or a related
+2 purpose.
+3
+4 (c) A person who violates subsection (a) of this
+5 section is guilty of:
+6
+7 (i) A misdemeanor punishable by imprisonment not
+8 to exceed six (6) months, a fine not to exceed two thousand
+9 five hundred dollars ($2,500.00), or both, for a first
+10 offense;
+11
+12 (ii) A felony punishable by imprisonment not to
+13 exceed two (2) years, a fine not to exceed five thousand
+14 dollars ($5,000.00), or both, for a second or subsequent
+15 offense.
+16
+17 (d) A peace officer or law enforcement official may
+18 take or authorize the use of reasonable actions to prevent
+19 or stop the use of unmanned aircraft systems operating in
+20 violation of this section. For purposes of this subsection,
+21 reasonable actions may include disabling, damaging or
+22 removing the unmanned aircraft system from the prohibited
+23 location.
+4 SF0132
+
+2025 STATE OF WYOMING 25LSO-0684
+1
+2 (e) The governor may order the national guard of
+3 Wyoming to assist in taking or using reasonable actions to
+4 prevent or stop the use of unmanned aircraft systems
+5 operating in violation of this section, in accordance with
+6 W.S. 19-9-207.
+7
+8 Section 2. W.S. 10-4-303 by creating a new subsection
+9 (d), 19-9-207(a) by creating a new paragraph (iv) and by
+10 renumbering (iv) as (v) and 19-13-501(a) by creating new
+11 paragraphs (vi) through (viii) are amended to read:
+12
+13 10-4-303. Low or dangerous flight; landing on land or
+14 water of another; penalties and remedies.
+15
+16 (d) A person who operates or uses an unmanned
+17 aircraft in a manner that is not lawful under subsection
+18 (a) of this section shall be guilty of a misdemeanor
+19 punishable by imprisonment not to exceed six (6) months, a
+20 fine not to exceed seven hundred fifty dollars ($750.00),
+21 or both.
+22
+5 SF0132
+
+2025 STATE OF WYOMING 25LSO-0684
+1 19-9-207. Suppressing tumult; preserving order,
+2 insuring public safety; expenses; creation of additional
+3 units; draft.
+4
+5 (a) The governor may order any designated person or
+6 commanding officer of any military unit to appear with or
+7 without his command at a time and place specified to:
+8
+9 (iv) Prevent or stop the use of unmanned
+10 aircraft systems violating W.S. 19-13-503;
+11
+12 (iv)(v) Perform such other duties as the
+13 commander in chief may require and which the militia or
+14 national guard may lawfully perform.
+15
+16 19-13-501. Definitions.
+17
+18 (a) As used in this article:
+19
+20 (vi) "Critical system" means any one (1) or more
+21 of the following:
+22
+23 (A) A petroleum refinery;
+6 SF0132
+
+2025 STATE OF WYOMING 25LSO-0684
+1
+2 (B) A petroleum, chemical or rubber
+3 production, transportation, storage or processing facility;
+4
+5 (C) A chemical manufacturing facility;
+6
+7 (D) A water or wastewater treatment
+8 facility and water development, distribution or conveyance
+9 system, including a dam;
+10
+11 (E) An electric generation facility and any
+12 associated substation or switchyard;
+13
+14 (F) An electrical transmission or
+15 distribution substation;
+16
+17 (G) An electrical transmission line of not
+18 less than sixty-nine thousand (69,000) volts;
+19
+20 (H) An electronic communication station or
+21 tower;
+22
+23 (J) An energy control center;
+7 SF0132
+
+2025 STATE OF WYOMING 25LSO-0684
+1
+2 (K) A distribution operating center;
+3
+4 (M) A facility that transfers or
+5 distributes natural gas, including a compressor station,
+6 regulator station, city gate station or pressure-limiting
+7 station or a liquefied natural gas facility or supplier tap
+8 facility;
+9
+10 (N) Any railroad infrastructure or
+11 facility;
+12
+13 (O) A federal, state, county, chancery or
+14 municipal court;
+15
+16 (P) A public safety or emergency operation
+17 facility;
+18
+19 (Q) A federal, state, county or municipal
+20 jail or correctional facility or any other facility where
+21 persons are incarcerated;
+22
+8 SF0132
+
+2025 STATE OF WYOMING 25LSO-0684
+1 (R) A federal or state military
+2 installation or facility;
+3
+4 (S) A hospital that receives air ambulance
+5 services.
+6
+7 (vii) "Model aircraft" means as defined in
+8 section 336 of the FAA Modernization and Reform Act of
+9 2012, P.L. 112-95;
+10
+11 (viii) "Unmanned aircraft system" means as
+12 defined by W.S. 6-5-214(a)(iii).
+13
+14 Section 3. This act is effective July 1, 2025.
+15
+16 (END)
+9 SF0132

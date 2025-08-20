@@ -1,0 +1,33 @@
+Title: HB0338 Disclosure of undelivered legislator emails.
+Official Title: HB0338 Disclosure of undelivered legislator emails.
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Sponsored By: Representative(s) Webber, Brady, Guggenmos, Hoeft,
+McCann, Pendergraft, Wasserburger and Wharff
+AN ACT relating to the legislature; requiring the legislative service office to
+publish a list of quarantined domain names and internet protocol addresses;
+providing for the release from quarantine of domain names and internet protocol
+addresses as specified; and providing for an effective date.
+1/29/2025 Bill Number Assigned
+1/30/2025 H Received for Introduction
+2/3/2025 H Did not Consider for Introduction
+
+
+================================================================================
+
+Raw Text:
+HB0338 Disclosure of undelivered legislator emails.
+Sponsored By: Representative(s) Webber, Brady, Guggenmos, Hoeft,
+McCann, Pendergraft, Wasserburger and Wharff
+AN ACT relating to the legislature; requiring the legislative service office to
+publish a list of quarantined domain names and internet protocol addresses;
+providing for the release from quarantine of domain names and internet protocol
+addresses as specified; and providing for an effective date.
+1/29/2025 Bill Number Assigned
+1/30/2025 H Received for Introduction
+2/3/2025 H Did not Consider for Introduction

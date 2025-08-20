@@ -1,0 +1,1043 @@
+Title: AN ACT relating to trade and commerce; amending the Wyoming
+Official Title: AN ACT relating to trade and commerce; amending the Wyoming
+Number of Sections: 7
+Source: versions - Enrolled
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+Consumer Rental-Purchase Agreement Act as specified;
+amending licensing requirements; amending disclosure
+requirements; providing for digital agreements; providing
+definitions; providing limitations; requiring rulemaking;
+making conforming amendments; and providing for effective
+dates.
+Be It Enacted by the Legislature of the State of Wyoming:
+
+Section 2:
+Section 1. W.S. 40-19-102(a)(i), (xi)(intro), by
+creating new paragraphs (xii) through (xv) and by
+renumbering (xii) as (xvi), 40-19-103, 40-19-106 by
+creating a new subsection (g), 40-19-107(a)(xi) and (xiii),
+40-19-108(a)(xi), 40-19-109(a) and (b), 40-19-111(a)(intro)
+and (ii), 40-19-113 by creating a new subsection (f),
+40-19-114(a) through (j), 40-19-115(a)(intro), (ii), (b)
+through (e), (g) and by creating a new subsection (h) and
+40-19-116 through 40-19-118 are amended to read:
+40-19-102. Definitions.
+(a) As used in this act:
+(i) "Administrator" "Commissioner" means the
+state banking commissioner;
+(xi) "Rental-purchase agreement" means an
+agreement, which may be in digital form, between a consumer
+and merchant for the use of property by the consumer
+primarily for personal, family or household purposes:
+(xii) "Independent third-party retailer
+location" means a physical retail location open to
+consumers in Wyoming, or an online presence, that is
+1
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+operated by a person who is not a merchant but where a
+merchant regularly offers or displays property for use
+under rental-purchase agreements;
+(xiii) "Online presence" includes a website or
+mobile application;
+(xiv) "Place of business" means a merchant's
+physical retail location open to consumers in Wyoming, or a
+merchant's online presence, in each case where the merchant
+regularly offers or displays the merchant's rental-purchase
+property for use under rental-purchase agreements. "Place
+of business" does not include an independent third-party
+retailer location;
+(xv) "Rental-purchase property" means property
+displayed or offered primarily for rental-purchase pursuant
+to a rental-purchase agreement;
+(xii)(xvi) "This act" means W.S. 40-19-101
+through 40-19-120.
+40-19-103. Notices.
+Notices required by this act shall be given personally or
+sent by first class or registered mail to the known
+residential address of the consumer. Notice, if last sent
+by mail, is given when deposited in a mailbox properly
+addressed and postage prepaid. Notice may also be given
+upon delivery of the communication to the consumer by email
+or other electronic means if the consumer provides written
+consent to receive notice by email or other electronic
+means in response to a clear and conspicuous request for
+consent.
+2
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+40-19-106. General requirements of rental-purchase
+agreements.
+(g) A merchant may offer or display rental-purchase
+property for use under rental-purchase agreements via a
+website, mobile application, electronic application or
+other digital or physical means made available by an
+independent third-party retailer or by the merchant.
+40-19-107. Disclosures.
+(a) For each rental-purchase agreement, the merchant
+shall disclose in the agreement the following items as
+applicable:
+(xi) A statement that the consumer may terminate
+the agreement without penalty by voluntarily surrendering
+or returning the property in good repair, reasonable wear
+and tear excepted, in accordance with the terms of the
+rental-purchase agreement, along with any past due rental
+payments upon expiration of any rental period;
+(xiii) The following notice printed or typed in
+a size equal to or greater than ten (10) point bold type
+or, when disclosed in a digital format, outlined with a
+noticeable box in a type and size equal to or larger than
+any surrounding language and in every instance disclosed in
+a clear and conspicuous manner:
+NOTICE TO CONSUMER
+Do not sign this agreement before you read it or if it
+contains blank spaces. You are entitled to a copy of the
+agreement you sign DO NOT SIGN THIS AGREEMENT BEFORE YOU
+3
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+READ IT OR IF IT CONTAINS BLANK SPACES. YOU ARE ENTITLED TO
+A COPY OF THE AGREEMENT YOU SIGN.
+40-19-108. Prohibited provisions.
+(a) A rental-purchase agreement shall not contain a:
+(xi) Provision for a reinstatement fee or pickup
+and redelivery fee in excess of the maximum amount set by
+rule of the administrator commissioner for property subject
+to rental-purchase agreements; or
+40-19-109. Default; notice of default and right to
+cure.
+(a) In any rental-purchase agreement, after a
+consumer is in default for three (3) business days or more
+and does not voluntarily surrender possession of the rented
+property, a merchant may give the consumer the notice
+provided in this section. Notice may be given to the
+consumer under this section by the merchant personally
+delivering the notice to the consumer or by mailing the
+notice to the consumer's last known residential address.
+Notice may also be given by delivering the communication to
+the consumer by email or other electronic means if the
+consumer provides written consent to receive notice by
+email or other electronic means in response to a clear and
+conspicuous request for consent.
+(b) The notice shall be in writing and conspicuously
+state the name, address and telephone number of the
+merchant to whom payment is made, a brief identification of
+the transaction, the consumer's right to cure any default,
+the amount of payment and the date the payment shall be
+made to cure the default. The notice shall be in
+4
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+substantially the form required by rule of the
+administrator commissioner.
+40-19-111. Liability damage waivers; fees.
+(a) A consumer and merchant may contract for a
+liability damage waiver in physical or digital format. The
+selling or offering for sale of a liability damage waiver
+pursuant to this act shall be subject to the following
+prohibitions and requirements:
+(ii) The liability damage waiver contract shall
+include a statement of the fee for the liability damage
+waiver and shall display the following notice printed or
+typed in a size equal to or greater than ten (10) point
+bold type or, when disclosed in a digital format, outlined
+with a noticeable box in a type size equal to or larger
+than any surrounding language and in every instance
+disclosed in a clear and conspicuous manner:
+NOTICE: THE PURCHASE OF THIS LIABILITY DAMAGE WAIVER
+IS NOT MANDATORY AND MAY BE DECLINED. THIS CONTRACT
+OFFERS, FOR AN ADDITIONAL CHARGE, A LIABILITY DAMAGE WAIVER
+TO COVER YOUR RESPONSIBILITY FOR DAMAGE TO THE PROPERTY.
+BEFORE DECIDING WHETHER TO PURCHASE THE LIABILITY DAMAGE
+WAIVER, YOU MAY WISH TO DETERMINE WHETHER YOUR HOMEOWNER'S
+OR CASUALTY INSURANCE, IF ANY, AFFORDS YOU COVERAGE FOR
+DAMAGE TO THE RENTAL PROPERTY AND THE AMOUNT OF THE
+DEDUCTIBLE UNDER YOUR OWN INSURANCE COVERAGE.
+40-19-113. Advertising.
+(f) For rental-purchase property displayed or offered
+to a consumer by means of an online rental purchase
+agreement or via electronic commerce or other digital
+5
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+transaction means, whether at a merchant's place of
+business or an independent third-party retailer location, a
+merchant may disclose the information required by this
+
+Section 3:
+section, including the information under subsection (d) of
+this section, in a digital format. A merchant's disclosure
+in a digital format shall constitute the tag or card under
+subsection (d) of this section, if the disclosure is made
+before disclosing the information required under W.S.
+40-19-107, includes all information required by subsection
+(d) of this section and is clear and conspicuous. A
+disclosure in digital format under this section shall
+include an outline of the disclosure with a noticeable box
+in a type size equal to or larger than any surrounding
+language and in every instance be presented in a clear and
+conspicuous manner.
+40-19-114. License required; application for license;
+fee; qualifications.
+(a) Any person acting as a merchant, as defined by
+W.S. 40-19-102(a)(viii), in this state shall be licensed
+with a single statewide license to conduct such business
+under this section.
+(b) The administrator commissioner shall receive and
+act on all applications for licenses required under this
+act. Applications shall be filed in the manner prescribed
+by the administrator commissioner and shall contain the
+information the administrator commissioner requires by rule
+to make an investigation and evaluation of the financial
+responsibility, experience and business qualification of
+the applicant, and of the partners or members if the
+applicant is a partnership or association, and of the
+principal officers and directors if the applicant is a
+corporation, such as to warrant belief that the business
+6
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+will be operated honestly and fairly within the purposes of
+this act.
+(c) The application for one (1) or more licenses
+shall be accompanied by a processing fee not to exceed five
+hundred dollars ($500.00) set by rule of the administrator
+commissioner. The fee shall be deposited by the
+administrator commissioner with the state treasurer and
+credited to the financial institutions administration
+account. Funds from the account shall be expended to carry
+out the duties of the administrator commissioner. If the
+expenses of the investigation and evaluation exceed the
+amount of the fee, the applicant shall reimburse the
+administrator commissioner the excess amount. If the
+expenses of the investigation and evaluation are less than
+the amount of the fee, the unexpended amount shall remain
+within the account. If an application is withdrawn by the
+applicant at any time prior to the completion of the
+investigation and evaluation, the unexpended amount shall
+remain within the account.
+(d) Except as otherwise provided, fees collected by
+the administrator commissioner under this act shall be
+deposited by the administrator commissioner with the state
+treasurer and credited to the financial institutions
+administration account. Expenditures shall be made from the
+account by warrants drawn by the state auditor, upon
+vouchers issued and signed by the administrator
+commissioner. The funds deposited in the account under
+this act shall be expended only to carry out the duties of
+the administrator commissioner.
+(e) The applicant shall be notified when the
+application is approved. Within twenty (20) days after
+notification, the applicant shall pay an initial license
+7
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+fee not to exceed five hundred dollars ($500.00), as set by
+rule of the administrator that shall include only the
+following:
+(i) An amount not to exceed five hundred dollars
+($500.00) for each place of business which is a physical
+location, as set by rule of the commissioner;
+(ii) An amount not to exceed one thousand
+dollars ($1,000.00) if the applicant displays or offers
+rental-purchase property through an independent third-party
+retailer location regardless of the number of independent
+third-party retailer locations, as set by rule of the
+commissioner; and
+(iii) An amount not to exceed five hundred
+dollars ($500.00) if the applicant has a place of business
+that is an online presence, and the applicant is not
+subject to the amounts in paragraphs (i) or (ii) of this
+subsection.
+(f) Each office or place of business, including
+online presence, and independent third-party retailer
+location as of the time of application shall be licensed
+separately disclosed in the application to the
+commissioner, provided that the independent third-party
+retailer locations may be deemed confidential business
+information and not subject to public disclosure.
+(g) Each license shall state the primary address of
+the office from which the business is to be conducted and
+the name of the licensee. The license shall be prominently
+displayed at the each place of business named in the
+license of the licensee that is a physical location open to
+consumers. If the licensee has no physical location that is
+8
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+a place of business open to consumers, the license number
+shall be clearly displayed at the online presence of the
+licensee. The license shall not be transferable or
+assignable.
+(h) If a licensee wishes to move his office the
+primary address listed on the license to another location,
+the licensee shall:
+(i) Give written notice to the administrator
+commissioner at least thirty (30) days prior to the move;
+and
+(ii) Pay a license modification fee not to
+exceed one hundred dollars ($100.00), as set by rule of the
+administrator commissioner.
+(j) Each license issued under this section shall
+expire on July 1 December 31. The license shall be renewed
+annually not less than thirty (30) days before the
+expiration date by submitting a request for renewal on a
+form designated by the commissioner. The licensee shall
+pay a renewal fee for each license that shall not exceed
+five hundred dollars ($500.00), as set by rule of the
+administrator only include the following:
+(i) An amount not to exceed five hundred dollars
+($500.00) for each place of business which is a physical
+location, as set by rule of the commissioner;
+(ii) An amount not to exceed one thousand
+dollars ($1,000.00) if the applicant displays or offers
+rental purchase property through an independent third-party
+retailer location regardless of the number of independent
+9
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+third-party retailer locations, as set by rule of the
+commissioner; and
+(iii) An amount not to exceed five hundred
+dollars ($500.00) if the applicant has an online presence
+that is a place of business, and the applicant is not
+subject to the amounts in paragraph (i) or (ii) of this
+subsection.
+40-19-115. Revocation or suspension of license.
+(a) The administrator commissioner may issue to a
+person licensed under this act an order to show cause why
+his license should not be revoked or suspended for a period
+not in excess of six (6) months. The order shall state the
+place for a hearing and set a time for the hearing that is
+no less than ten (10) days from the date of the order.
+After the hearing the administrator commissioner shall
+revoke or suspend the license if he finds that:
+(ii) Facts or conditions exist which would
+clearly have justified the administrator commissioner in
+refusing to grant a license had these facts or conditions
+been known to exist at the time the application for the
+license was made.
+(b) No revocation or suspension of a license is
+lawful unless prior to institution of proceedings by the
+administrator commissioner notice is given to the licensee
+of the facts or conduct which warrant the intended action
+and the licensee is given an opportunity to show compliance
+with all lawful requirements for retention of the license.
+(c) If the administrator commissioner finds that
+probable cause for revocation of a license exists and that
+10
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+enforcement of this act requires immediate suspension of a
+license pending investigation, he may, after a hearing upon
+five (5) days written notice, enter an order suspending the
+license for not more than thirty (30) days.
+(d) Whenever the administrator commissioner revokes
+or suspends a license, he shall enter an order to that
+effect and immediately notify the licensee of the
+revocation or suspension. Within five (5) days after the
+entry of the order he shall deliver to the licensee a copy
+of the order and the findings supporting the order.
+(e) Any person holding a license under this act may
+relinquish the license by notifying the administrator
+commissioner in writing of its relinquishment, but this
+relinquishment shall not affect his liability for acts
+previously committed.
+(g) The administrator commissioner may reinstate a
+license, terminate a suspension or grant a new license to a
+person whose license has been revoked or suspended if no
+fact or condition then exists which clearly would have
+justified the administrator commissioner in refusing to
+grant a license.
+(h) In lieu of a revocation or suspension of a
+license as provided in this section, the commissioner may
+order a licensee to cease acting as a merchant at any place
+of business or independent third-party retailer location
+within Wyoming. Any order under this subsection is subject
+to the same laws and regulations applicable to revocation
+or suspension of a license.
+40-19-116. Record retention.
+11
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+Every licensee shall maintain records in conformity with
+generally accepted accounting principles and practices in a
+manner which will enable the administrator commissioner to
+determine whether the licensee is complying with the
+provisions of this act. The record keeping system of a
+licensee shall be sufficient if he makes the required
+information reasonably available to the administrator
+commissioner. The records pertaining to any rental-purchase
+agreement need not be preserved for more than two (2) years
+after making the final entry relating to the agreement.
+40-19-117. Examination and investigation.
+(a) Upon complaint the administrator commissioner may
+examine and copy the records of a licensee. The
+investigation may be made for the purposes of discovering
+violations of this act or securing information lawfully
+required. For these purposes he shall have free and
+reasonable access during normal office hours to the
+offices, places of business and records of the licensee.
+Each licensee shall pay to the administrator commissioner
+an amount assessed by the administrator commissioner to
+cover the direct and indirect cost of an investigation
+under this subsection.
+(b) For the purposes of this section, the
+administrator commissioner may administer oaths or
+affirmations, and upon his own motion or upon request of
+any party may subpoena witnesses, compel their attendance,
+adduce evidence and require the production of any matter
+which is relevant to the investigation, including the
+existence, description, nature, custody, condition and
+location of any books, documents or other tangible things
+and the identity and location of person having knowledge of
+12
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+relevant facts or any other matter reasonably calculated to
+lead to the discovery of admissible evidence.
+(c) Upon failure without lawful excuse to obey a
+subpoena or to give testimony and upon reasonable notice to
+all persons affected thereby, the administrator
+commissioner may apply to the district court for an order
+compelling compliance.
+40-19-118. Powers and functions of the commissioner;
+enforcement; penalties.
+(a) Except as otherwise provided, the Wyoming
+Administrative Procedure Act, W.S. 16-3-101 through
+16-3-115, shall apply to and govern all administrative
+actions taken by the administrator commissioner pursuant to
+this act.
+(b) The administrator commissioner may adopt rules
+and regulations to implement and administer this act.
+(c) After notice and hearing, the administrator
+commissioner may order a merchant or a person acting on his
+behalf to cease and desist from engaging in violations of
+this act. Any person aggrieved by an order of the
+administrator commissioner may obtain judicial review of
+the order and the administrator commissioner may obtain an
+order of the court for enforcement of his order in the
+district court.
+(d) The administrator commissioner may bring a civil
+action to restrain a merchant from violating the provisions
+of this act and for other appropriate relief.
+13
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(e) Any merchant refusing or obstructing access to
+the administrator commissioner or his representative to any
+account, books, records or papers, refusing to furnish any
+required information or hindering a full examination or
+investigation of the accounts, books, records or papers is
+guilty of a felony punishable by a fine of not less than
+one thousand dollars ($1,000.00), imprisonment for a period
+of not less than one (1) year, or both.
+(f) Any merchant who wrongfully fails or refuses to
+comply with an order of the administrator commissioner as
+may be provided under this act is guilty of a misdemeanor
+punishable by a fine of not more than one hundred dollars
+($100.00) per day for each day the order is not obeyed.
+
+Section 4:
+Section 2. A merchant with any office or place of
+business licensed under W.S. 40-19-114(a) as amended by
+this act, as of July 1, 2025 shall be considered licensed
+statewide with the license expiring on December 31, 2025.
+
+Section 5:
+Section 3. The state banking commissioner shall
+promulgate any rules necessary to implement this act.
+14
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+
+Section 6:
+Section 4.
+(a) Except as provided in subsection (b) of this
+
+Section 7:
+section, this act is effective July 1, 2025.
+(b) Sections 3 and 4 of this act are effective
+immediately upon completion of all acts necessary for a
+bill to become law as provided by Article 4, Section 8 of
+the Wyoming Constitution.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the Senate.
+Chief Clerk
+15
+
+
+================================================================================
+
+Raw Text:
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+AN ACT relating to trade and commerce; amending the Wyoming
+Consumer Rental-Purchase Agreement Act as specified;
+amending licensing requirements; amending disclosure
+requirements; providing for digital agreements; providing
+definitions; providing limitations; requiring rulemaking;
+making conforming amendments; and providing for effective
+dates.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 40-19-102(a)(i), (xi)(intro), by
+creating new paragraphs (xii) through (xv) and by
+renumbering (xii) as (xvi), 40-19-103, 40-19-106 by
+creating a new subsection (g), 40-19-107(a)(xi) and (xiii),
+40-19-108(a)(xi), 40-19-109(a) and (b), 40-19-111(a)(intro)
+and (ii), 40-19-113 by creating a new subsection (f),
+40-19-114(a) through (j), 40-19-115(a)(intro), (ii), (b)
+through (e), (g) and by creating a new subsection (h) and
+40-19-116 through 40-19-118 are amended to read:
+40-19-102. Definitions.
+(a) As used in this act:
+(i) "Administrator" "Commissioner" means the
+state banking commissioner;
+(xi) "Rental-purchase agreement" means an
+agreement, which may be in digital form, between a consumer
+and merchant for the use of property by the consumer
+primarily for personal, family or household purposes:
+(xii) "Independent third-party retailer
+location" means a physical retail location open to
+consumers in Wyoming, or an online presence, that is
+1
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+operated by a person who is not a merchant but where a
+merchant regularly offers or displays property for use
+under rental-purchase agreements;
+(xiii) "Online presence" includes a website or
+mobile application;
+(xiv) "Place of business" means a merchant's
+physical retail location open to consumers in Wyoming, or a
+merchant's online presence, in each case where the merchant
+regularly offers or displays the merchant's rental-purchase
+property for use under rental-purchase agreements. "Place
+of business" does not include an independent third-party
+retailer location;
+(xv) "Rental-purchase property" means property
+displayed or offered primarily for rental-purchase pursuant
+to a rental-purchase agreement;
+(xii)(xvi) "This act" means W.S. 40-19-101
+through 40-19-120.
+40-19-103. Notices.
+Notices required by this act shall be given personally or
+sent by first class or registered mail to the known
+residential address of the consumer. Notice, if last sent
+by mail, is given when deposited in a mailbox properly
+addressed and postage prepaid. Notice may also be given
+upon delivery of the communication to the consumer by email
+or other electronic means if the consumer provides written
+consent to receive notice by email or other electronic
+means in response to a clear and conspicuous request for
+consent.
+2
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+40-19-106. General requirements of rental-purchase
+agreements.
+(g) A merchant may offer or display rental-purchase
+property for use under rental-purchase agreements via a
+website, mobile application, electronic application or
+other digital or physical means made available by an
+independent third-party retailer or by the merchant.
+40-19-107. Disclosures.
+(a) For each rental-purchase agreement, the merchant
+shall disclose in the agreement the following items as
+applicable:
+(xi) A statement that the consumer may terminate
+the agreement without penalty by voluntarily surrendering
+or returning the property in good repair, reasonable wear
+and tear excepted, in accordance with the terms of the
+rental-purchase agreement, along with any past due rental
+payments upon expiration of any rental period;
+(xiii) The following notice printed or typed in
+a size equal to or greater than ten (10) point bold type
+or, when disclosed in a digital format, outlined with a
+noticeable box in a type and size equal to or larger than
+any surrounding language and in every instance disclosed in
+a clear and conspicuous manner:
+NOTICE TO CONSUMER
+Do not sign this agreement before you read it or if it
+contains blank spaces. You are entitled to a copy of the
+agreement you sign DO NOT SIGN THIS AGREEMENT BEFORE YOU
+3
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+READ IT OR IF IT CONTAINS BLANK SPACES. YOU ARE ENTITLED TO
+A COPY OF THE AGREEMENT YOU SIGN.
+40-19-108. Prohibited provisions.
+(a) A rental-purchase agreement shall not contain a:
+(xi) Provision for a reinstatement fee or pickup
+and redelivery fee in excess of the maximum amount set by
+rule of the administrator commissioner for property subject
+to rental-purchase agreements; or
+40-19-109. Default; notice of default and right to
+cure.
+(a) In any rental-purchase agreement, after a
+consumer is in default for three (3) business days or more
+and does not voluntarily surrender possession of the rented
+property, a merchant may give the consumer the notice
+provided in this section. Notice may be given to the
+consumer under this section by the merchant personally
+delivering the notice to the consumer or by mailing the
+notice to the consumer's last known residential address.
+Notice may also be given by delivering the communication to
+the consumer by email or other electronic means if the
+consumer provides written consent to receive notice by
+email or other electronic means in response to a clear and
+conspicuous request for consent.
+(b) The notice shall be in writing and conspicuously
+state the name, address and telephone number of the
+merchant to whom payment is made, a brief identification of
+the transaction, the consumer's right to cure any default,
+the amount of payment and the date the payment shall be
+made to cure the default. The notice shall be in
+4
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+substantially the form required by rule of the
+administrator commissioner.
+40-19-111. Liability damage waivers; fees.
+(a) A consumer and merchant may contract for a
+liability damage waiver in physical or digital format. The
+selling or offering for sale of a liability damage waiver
+pursuant to this act shall be subject to the following
+prohibitions and requirements:
+(ii) The liability damage waiver contract shall
+include a statement of the fee for the liability damage
+waiver and shall display the following notice printed or
+typed in a size equal to or greater than ten (10) point
+bold type or, when disclosed in a digital format, outlined
+with a noticeable box in a type size equal to or larger
+than any surrounding language and in every instance
+disclosed in a clear and conspicuous manner:
+NOTICE: THE PURCHASE OF THIS LIABILITY DAMAGE WAIVER
+IS NOT MANDATORY AND MAY BE DECLINED. THIS CONTRACT
+OFFERS, FOR AN ADDITIONAL CHARGE, A LIABILITY DAMAGE WAIVER
+TO COVER YOUR RESPONSIBILITY FOR DAMAGE TO THE PROPERTY.
+BEFORE DECIDING WHETHER TO PURCHASE THE LIABILITY DAMAGE
+WAIVER, YOU MAY WISH TO DETERMINE WHETHER YOUR HOMEOWNER'S
+OR CASUALTY INSURANCE, IF ANY, AFFORDS YOU COVERAGE FOR
+DAMAGE TO THE RENTAL PROPERTY AND THE AMOUNT OF THE
+DEDUCTIBLE UNDER YOUR OWN INSURANCE COVERAGE.
+40-19-113. Advertising.
+(f) For rental-purchase property displayed or offered
+to a consumer by means of an online rental purchase
+agreement or via electronic commerce or other digital
+5
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+transaction means, whether at a merchant's place of
+business or an independent third-party retailer location, a
+merchant may disclose the information required by this
+section, including the information under subsection (d) of
+this section, in a digital format. A merchant's disclosure
+in a digital format shall constitute the tag or card under
+subsection (d) of this section, if the disclosure is made
+before disclosing the information required under W.S.
+40-19-107, includes all information required by subsection
+(d) of this section and is clear and conspicuous. A
+disclosure in digital format under this section shall
+include an outline of the disclosure with a noticeable box
+in a type size equal to or larger than any surrounding
+language and in every instance be presented in a clear and
+conspicuous manner.
+40-19-114. License required; application for license;
+fee; qualifications.
+(a) Any person acting as a merchant, as defined by
+W.S. 40-19-102(a)(viii), in this state shall be licensed
+with a single statewide license to conduct such business
+under this section.
+(b) The administrator commissioner shall receive and
+act on all applications for licenses required under this
+act. Applications shall be filed in the manner prescribed
+by the administrator commissioner and shall contain the
+information the administrator commissioner requires by rule
+to make an investigation and evaluation of the financial
+responsibility, experience and business qualification of
+the applicant, and of the partners or members if the
+applicant is a partnership or association, and of the
+principal officers and directors if the applicant is a
+corporation, such as to warrant belief that the business
+6
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+will be operated honestly and fairly within the purposes of
+this act.
+(c) The application for one (1) or more licenses
+shall be accompanied by a processing fee not to exceed five
+hundred dollars ($500.00) set by rule of the administrator
+commissioner. The fee shall be deposited by the
+administrator commissioner with the state treasurer and
+credited to the financial institutions administration
+account. Funds from the account shall be expended to carry
+out the duties of the administrator commissioner. If the
+expenses of the investigation and evaluation exceed the
+amount of the fee, the applicant shall reimburse the
+administrator commissioner the excess amount. If the
+expenses of the investigation and evaluation are less than
+the amount of the fee, the unexpended amount shall remain
+within the account. If an application is withdrawn by the
+applicant at any time prior to the completion of the
+investigation and evaluation, the unexpended amount shall
+remain within the account.
+(d) Except as otherwise provided, fees collected by
+the administrator commissioner under this act shall be
+deposited by the administrator commissioner with the state
+treasurer and credited to the financial institutions
+administration account. Expenditures shall be made from the
+account by warrants drawn by the state auditor, upon
+vouchers issued and signed by the administrator
+commissioner. The funds deposited in the account under
+this act shall be expended only to carry out the duties of
+the administrator commissioner.
+(e) The applicant shall be notified when the
+application is approved. Within twenty (20) days after
+notification, the applicant shall pay an initial license
+7
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+fee not to exceed five hundred dollars ($500.00), as set by
+rule of the administrator that shall include only the
+following:
+(i) An amount not to exceed five hundred dollars
+($500.00) for each place of business which is a physical
+location, as set by rule of the commissioner;
+(ii) An amount not to exceed one thousand
+dollars ($1,000.00) if the applicant displays or offers
+rental-purchase property through an independent third-party
+retailer location regardless of the number of independent
+third-party retailer locations, as set by rule of the
+commissioner; and
+(iii) An amount not to exceed five hundred
+dollars ($500.00) if the applicant has a place of business
+that is an online presence, and the applicant is not
+subject to the amounts in paragraphs (i) or (ii) of this
+subsection.
+(f) Each office or place of business, including
+online presence, and independent third-party retailer
+location as of the time of application shall be licensed
+separately disclosed in the application to the
+commissioner, provided that the independent third-party
+retailer locations may be deemed confidential business
+information and not subject to public disclosure.
+(g) Each license shall state the primary address of
+the office from which the business is to be conducted and
+the name of the licensee. The license shall be prominently
+displayed at the each place of business named in the
+license of the licensee that is a physical location open to
+consumers. If the licensee has no physical location that is
+8
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+a place of business open to consumers, the license number
+shall be clearly displayed at the online presence of the
+licensee. The license shall not be transferable or
+assignable.
+(h) If a licensee wishes to move his office the
+primary address listed on the license to another location,
+the licensee shall:
+(i) Give written notice to the administrator
+commissioner at least thirty (30) days prior to the move;
+and
+(ii) Pay a license modification fee not to
+exceed one hundred dollars ($100.00), as set by rule of the
+administrator commissioner.
+(j) Each license issued under this section shall
+expire on July 1 December 31. The license shall be renewed
+annually not less than thirty (30) days before the
+expiration date by submitting a request for renewal on a
+form designated by the commissioner. The licensee shall
+pay a renewal fee for each license that shall not exceed
+five hundred dollars ($500.00), as set by rule of the
+administrator only include the following:
+(i) An amount not to exceed five hundred dollars
+($500.00) for each place of business which is a physical
+location, as set by rule of the commissioner;
+(ii) An amount not to exceed one thousand
+dollars ($1,000.00) if the applicant displays or offers
+rental purchase property through an independent third-party
+retailer location regardless of the number of independent
+9
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+third-party retailer locations, as set by rule of the
+commissioner; and
+(iii) An amount not to exceed five hundred
+dollars ($500.00) if the applicant has an online presence
+that is a place of business, and the applicant is not
+subject to the amounts in paragraph (i) or (ii) of this
+subsection.
+40-19-115. Revocation or suspension of license.
+(a) The administrator commissioner may issue to a
+person licensed under this act an order to show cause why
+his license should not be revoked or suspended for a period
+not in excess of six (6) months. The order shall state the
+place for a hearing and set a time for the hearing that is
+no less than ten (10) days from the date of the order.
+After the hearing the administrator commissioner shall
+revoke or suspend the license if he finds that:
+(ii) Facts or conditions exist which would
+clearly have justified the administrator commissioner in
+refusing to grant a license had these facts or conditions
+been known to exist at the time the application for the
+license was made.
+(b) No revocation or suspension of a license is
+lawful unless prior to institution of proceedings by the
+administrator commissioner notice is given to the licensee
+of the facts or conduct which warrant the intended action
+and the licensee is given an opportunity to show compliance
+with all lawful requirements for retention of the license.
+(c) If the administrator commissioner finds that
+probable cause for revocation of a license exists and that
+10
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+enforcement of this act requires immediate suspension of a
+license pending investigation, he may, after a hearing upon
+five (5) days written notice, enter an order suspending the
+license for not more than thirty (30) days.
+(d) Whenever the administrator commissioner revokes
+or suspends a license, he shall enter an order to that
+effect and immediately notify the licensee of the
+revocation or suspension. Within five (5) days after the
+entry of the order he shall deliver to the licensee a copy
+of the order and the findings supporting the order.
+(e) Any person holding a license under this act may
+relinquish the license by notifying the administrator
+commissioner in writing of its relinquishment, but this
+relinquishment shall not affect his liability for acts
+previously committed.
+(g) The administrator commissioner may reinstate a
+license, terminate a suspension or grant a new license to a
+person whose license has been revoked or suspended if no
+fact or condition then exists which clearly would have
+justified the administrator commissioner in refusing to
+grant a license.
+(h) In lieu of a revocation or suspension of a
+license as provided in this section, the commissioner may
+order a licensee to cease acting as a merchant at any place
+of business or independent third-party retailer location
+within Wyoming. Any order under this subsection is subject
+to the same laws and regulations applicable to revocation
+or suspension of a license.
+40-19-116. Record retention.
+11
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+Every licensee shall maintain records in conformity with
+generally accepted accounting principles and practices in a
+manner which will enable the administrator commissioner to
+determine whether the licensee is complying with the
+provisions of this act. The record keeping system of a
+licensee shall be sufficient if he makes the required
+information reasonably available to the administrator
+commissioner. The records pertaining to any rental-purchase
+agreement need not be preserved for more than two (2) years
+after making the final entry relating to the agreement.
+40-19-117. Examination and investigation.
+(a) Upon complaint the administrator commissioner may
+examine and copy the records of a licensee. The
+investigation may be made for the purposes of discovering
+violations of this act or securing information lawfully
+required. For these purposes he shall have free and
+reasonable access during normal office hours to the
+offices, places of business and records of the licensee.
+Each licensee shall pay to the administrator commissioner
+an amount assessed by the administrator commissioner to
+cover the direct and indirect cost of an investigation
+under this subsection.
+(b) For the purposes of this section, the
+administrator commissioner may administer oaths or
+affirmations, and upon his own motion or upon request of
+any party may subpoena witnesses, compel their attendance,
+adduce evidence and require the production of any matter
+which is relevant to the investigation, including the
+existence, description, nature, custody, condition and
+location of any books, documents or other tangible things
+and the identity and location of person having knowledge of
+12
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+relevant facts or any other matter reasonably calculated to
+lead to the discovery of admissible evidence.
+(c) Upon failure without lawful excuse to obey a
+subpoena or to give testimony and upon reasonable notice to
+all persons affected thereby, the administrator
+commissioner may apply to the district court for an order
+compelling compliance.
+40-19-118. Powers and functions of the commissioner;
+enforcement; penalties.
+(a) Except as otherwise provided, the Wyoming
+Administrative Procedure Act, W.S. 16-3-101 through
+16-3-115, shall apply to and govern all administrative
+actions taken by the administrator commissioner pursuant to
+this act.
+(b) The administrator commissioner may adopt rules
+and regulations to implement and administer this act.
+(c) After notice and hearing, the administrator
+commissioner may order a merchant or a person acting on his
+behalf to cease and desist from engaging in violations of
+this act. Any person aggrieved by an order of the
+administrator commissioner may obtain judicial review of
+the order and the administrator commissioner may obtain an
+order of the court for enforcement of his order in the
+district court.
+(d) The administrator commissioner may bring a civil
+action to restrain a merchant from violating the provisions
+of this act and for other appropriate relief.
+13
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+(e) Any merchant refusing or obstructing access to
+the administrator commissioner or his representative to any
+account, books, records or papers, refusing to furnish any
+required information or hindering a full examination or
+investigation of the accounts, books, records or papers is
+guilty of a felony punishable by a fine of not less than
+one thousand dollars ($1,000.00), imprisonment for a period
+of not less than one (1) year, or both.
+(f) Any merchant who wrongfully fails or refuses to
+comply with an order of the administrator commissioner as
+may be provided under this act is guilty of a misdemeanor
+punishable by a fine of not more than one hundred dollars
+($100.00) per day for each day the order is not obeyed.
+Section 2. A merchant with any office or place of
+business licensed under W.S. 40-19-114(a) as amended by
+this act, as of July 1, 2025 shall be considered licensed
+statewide with the license expiring on December 31, 2025.
+Section 3. The state banking commissioner shall
+promulgate any rules necessary to implement this act.
+14
+
+ORIGINAL SENATE
+FILE NO. SF0146
+ENROLLED ACT NO. 42, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2025 GENERAL SESSION
+Section 4.
+(a) Except as provided in subsection (b) of this
+section, this act is effective July 1, 2025.
+(b) Sections 3 and 4 of this act are effective
+immediately upon completion of all acts necessary for a
+bill to become law as provided by Article 4, Section 8 of
+the Wyoming Constitution.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the Senate.
+Chief Clerk
+15

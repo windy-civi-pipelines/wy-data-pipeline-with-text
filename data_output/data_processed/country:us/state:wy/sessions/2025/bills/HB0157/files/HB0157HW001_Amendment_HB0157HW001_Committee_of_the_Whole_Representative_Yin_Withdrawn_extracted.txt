@@ -1,0 +1,47 @@
+Title: 1 Page 1-line 4 After "amendments;" insert "specifying
+Official Title: 1 Page 1-line 4 After "amendments;" insert "specifying
+Number of Sections: 1
+Source: versions - Amendment HB0157HW001 (Committee of the Whole) - Representative Yin (Withdrawn)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0157HW001
+2 applicability;".
+3
+4
+5 Page 6-after line 16 Insert:
+6
+7 "Section 2. This act shall apply to electors who were
+8 registered to vote before the effective date of this act. The
+9 electors who were registered to vote before the effective date of
+10 this act shall provide proof of citizenship in accordance with
+11 this act before the registered elector casts a ballot in the next
+12 primary or general election.".
+13
+14 Page 6-line 18 Delete "Section 2." and insert "Section 3.".
+15 YIN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0157HW001
+1 Page 1-line 4 After "amendments;" insert "specifying
+2 applicability;".
+3
+4
+5 Page 6-after line 16 Insert:
+6
+7 "Section 2. This act shall apply to electors who were
+8 registered to vote before the effective date of this act. The
+9 electors who were registered to vote before the effective date of
+10 this act shall provide proof of citizenship in accordance with
+11 this act before the registered elector casts a ballot in the next
+12 primary or general election.".
+13
+14 Page 6-line 18 Delete "Section 2." and insert "Section 3.".
+15 YIN
+1

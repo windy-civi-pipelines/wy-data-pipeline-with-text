@@ -1,0 +1,220 @@
+2025 STATE OF WYOMING 25LSO-0601
+HOUSE BILL NO. HB0308
+Cryptographic Frontiers Act.
+Sponsored by: Representative(s) Singh, Filer, Wasserburger
+and Yin
+A BILL
+for
+1 AN ACT relating to trade and commerce; requiring the
+2 attorney general to investigate specified federal overreach
+3 involving blockchain or cryptocurrency related actions
+4 reported by Wyoming residents; authorizing the attorney
+5 general to file or intervene in lawsuits as specified;
+6 providing definitions; and providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 40-32-101 through 40-32-103 is
+11 created to read:
+12
+13 CHAPTER 32
+14 CRYPTOGRAPHIC FRONTIERS ACT
+15
+1 HB0308
+
+2025 STATE OF WYOMING 25LSO-0601
+1 40-32-101. Cryptographic Frontiers Act; short title.
+2
+3 This act shall be known and may be cited as the
+4 "Cryptographic Frontiers Act".
+5
+6 40-32-102. Definitions.
+7
+8 (a) As used in this act unless the context otherwise
+9 requires:
+10
+11 (i) "0x Addresses" means a human readable
+12 representation of bytes providing an address to locate
+13 blockchain transactions, CID's, wallet addresses, tokens or
+14 other blockchain related constructs;
+15
+16 (ii) "Ascription" means to cryptographically
+17 sign a blockchain transaction (or similar analog), CID or
+18 protocol with special attributes disambiguating 0x
+19 Addresses of different blockchains and blockchain
+20 transactions;
+21
+22 (iii) "Blockchain" means as defined in W.S.
+23 34-29-106(g);
+2 HB0308
+
+2025 STATE OF WYOMING 25LSO-0601
+1
+2 (iv) "Blockchain transaction" means a unit of
+3 information in the form of a protocol inserted into a
+4 blockchain block or similar analog;
+5
+6 (v) "By application" means initially by web
+7 application then by ascription and seal pending
+8 implementation constraints;
+9
+10 (vi) "Content identifier" or "CID" means a
+11 cryptographic hash-based reference to digital content;
+12
+13 (vii) "Cryptocurrency" means a type of digital
+14 asset that operates on its own native blockchain;
+15
+16 (viii) "Cryptographically sign" means the
+17 signing of a message, record, CID, blockchain transaction
+18 or similar analog or any other information using private
+19 keys;
+20
+21 (ix) "Cryptographically signing a blockchain
+22 transaction" means signing information in the form of a
+23 protocol along with a timestamp inserted into a blockchain
+3 HB0308
+
+2025 STATE OF WYOMING 25LSO-0601
+1 transaction through the processes of cryptographic signing
+2 using a public key infrastructure or other cryptographic
+3 proofs algorithm;
+4
+5 (x) "Private key" means as defined in W.S.
+6 34-29-101(a)(v);
+7
+8 (xi) "Token" means a cryptographically signed
+9 protocol of a mathematical curve having starting and ending
+10 values or metrics defining relationships of one (1) or more
+11 metrics.
+12
+13 40-32-103. Federal overreach; Attorney general
+14 actions.
+15
+16 (a) The attorney general shall investigate claims by
+17 Wyoming residents or businesses of constitutional
+18 violations or overreach by the federal government in each
+19 of the following areas:
+20
+21 (i) Unlawful financial service disruptions
+22 including:
+23
+4 HB0308
+
+2025 STATE OF WYOMING 25LSO-0601
+1 (A) Debanking of Wyoming residents;
+2
+3 (B) Interference with special purpose
+4 depository institution's bank and master account access;
+5
+6 (C) Restrictions on stable coin usage.
+7
+8 (ii) Unlawful restrictions on the exercise of
+9 free expression made through:
+10
+11 (A) Cryptocurrency, token or blockchain
+12 transactions;
+13
+14 (B) Testing and simulation activities
+15 including the use of testnets;
+16
+17 (C) Cryptographic signing of blockchain
+18 transactions;
+19
+20 (D) Smart contract deployment;
+21
+22 (E) CID creation and cryptographic signing;
+23
+5 HB0308
+
+2025 STATE OF WYOMING 25LSO-0601
+1 (F) On-chain governance;
+2
+3 (G) Tokenized voting systems;
+4
+5 (H) Decentralized governance mechanisms;
+6
+7 (J) Access to financial services when
+8 exercising any of the protected expressions under this
+9 paragraph.
+10
+11 (iii) Unreasonable searches or seizures of:
+12
+13 (A) Private keys;
+14
+15 (B) Digital assets;
+16
+17 (C) Cryptographically signed data;
+18
+19 (D) Blockchain transactions;
+20
+21 (E) Cryptographically signed or ascribed
+22 data, including blockchain transactions, smart contracts,
+6 HB0308
+
+2025 STATE OF WYOMING 25LSO-0601
+1 CID's or other similar analog representations of
+2 information, data or records.
+3
+4 (iv) Unlawful federal actions compelling
+5 disclosure or production of:
+6
+7 (A) Private keys;
+8
+9 (B) Seed phrases;
+10
+11 (C) Cryptographic secrets;
+12
+13 (D) Transaction histories;
+14
+15 (E) Wallet contents;
+16
+17 (F) Self-incriminating digital asset
+18 information;
+19
+20 (G) Digital asset forfeitures;
+21
+22 (H) Cryptocurrency seizures;
+23
+7 HB0308
+
+2025 STATE OF WYOMING 25LSO-0601
+1 (J) Blockchain-based activity regulation.
+2
+3 (v) Unlawful federal overreach burdening:
+4
+5 (A) Intrastate cryptocurrency transactions;
+6
+7 (B) Digital identity implementations;
+8
+9 (C) Cryptographic signing activities;
+10
+11 (D) Smart contract deployments;
+12
+13 (E) Token governance systems;
+14
+15 (F) Cryptographically signed or ascribed
+16 data, including blockchain transactions, smart contracts,
+17 CID's or other similar analog representations of
+18 information, data or records;
+19
+20 (G) Interference with state level
+21 regulations of digital assets.
+22
+8 HB0308
+
+2025 STATE OF WYOMING 25LSO-0601
+1 (b) The attorney general may seek to initiate a
+2 lawsuit, or intervene or file an amicus curiae brief in any
+3 lawsuit filed in any state or federal court in Wyoming, or
+4 filed against any Wyoming resident or business in any other
+5 jurisdiction as a result of unlawful federal infringement
+6 on the rights described in subsection (a) of this act if,
+7 in his judgment, the federal action endangers the rights of
+8 Wyoming residents or businesses. Before initiating or
+9 intervening in any lawsuit pursuant to this section, the
+10 attorney general shall obtain the approval of the governor.
+11
+12 Section 2. This act is effective July 1, 2025.
+13
+14 (END)
+9 HB0308

@@ -1,0 +1,85 @@
+Title: 3 Page 44-line 8 Under GENERAL FUND increase amount by
+Official Title: 3 Page 44-line 8 Under GENERAL FUND increase amount by
+Number of Sections: 3
+Source: versions - Amendment SF0001S2018 (2nd reading) - Senator Driskill (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0001S2018
+[BUDGET(s) AFFECTED]
+
+Section 2:
+Section Under Consideration:
+
+Section 3:
+Section 067. UNIVERSITY OF WYOMING
+(State Aid)
+* * * * * * * * * *
+1 Page 44-line 7 After ", 15." insert ", 16.".
+2
+4 "500,000".
+5
+6 Page 52-after line 20 Insert:
+7
+8 "16. Of this general fund appropriation, five hundred thousand
+9 dollars ($500,000.00) is appropriated for the University of
+10 Wyoming center for blockchain and digital innovation. Funds from
+11 this general fund appropriation shall be expended by the University
+12 of Wyoming center for blockchain and digital innovation, provided
+13 that the center develops software for the secretary of state's
+14 office that would allow for initial business entity formation and
+15 amendments, notary registration and renewal, apostille or
+16 authentication certification requests, lobbyist registration and
+17 renewal, and all initial and additional filing types, as well as
+18 amendments, to be filed online. It is the intent of the legislature
+19 that this appropriation not be included in the University of
+20 Wyoming's standard budget for the immediately succeeding fiscal
+21 biennium. This appropriation shall not be transferred or expended
+22 for any other purpose.".
+23
+24
+25 To the extent required by this amendment: adjust totals; and
+26 renumber as necessary. DRISKILL, GIERAU, LAURSEN, D, SALAZAR,
+27 SMITH, D
+1
+
+
+================================================================================
+
+Raw Text:
+SF0001S2018
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 067. UNIVERSITY OF WYOMING
+(State Aid)
+* * * * * * * * * *
+1 Page 44-line 7 After ", 15." insert ", 16.".
+2
+3 Page 44-line 8 Under GENERAL FUND increase amount by
+4 "500,000".
+5
+6 Page 52-after line 20 Insert:
+7
+8 "16. Of this general fund appropriation, five hundred thousand
+9 dollars ($500,000.00) is appropriated for the University of
+10 Wyoming center for blockchain and digital innovation. Funds from
+11 this general fund appropriation shall be expended by the University
+12 of Wyoming center for blockchain and digital innovation, provided
+13 that the center develops software for the secretary of state's
+14 office that would allow for initial business entity formation and
+15 amendments, notary registration and renewal, apostille or
+16 authentication certification requests, lobbyist registration and
+17 renewal, and all initial and additional filing types, as well as
+18 amendments, to be filed online. It is the intent of the legislature
+19 that this appropriation not be included in the University of
+20 Wyoming's standard budget for the immediately succeeding fiscal
+21 biennium. This appropriation shall not be transferred or expended
+22 for any other purpose.".
+23
+24
+25 To the extent required by this amendment: adjust totals; and
+26 renumber as necessary. DRISKILL, GIERAU, LAURSEN, D, SALAZAR,
+27 SMITH, D
+1

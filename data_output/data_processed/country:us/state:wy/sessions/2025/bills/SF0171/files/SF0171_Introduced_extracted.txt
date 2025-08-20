@@ -1,0 +1,98 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0756
+SENATE FILE NO. SF0171
+City and Town Regulatory Reduction.
+Sponsored by: Senator(s) Nethercott and Cooper and
+Representative(s) Byron, Lawley and Wylie
+for
+1 AN ACT relating to cities and towns; amending requirements
+2 for conducting a boundary survey of cities and towns as
+3 specified; and providing for an effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1. W.S. 15-1-413(a) is amended to read:
+8
+9 15-1-413. Survey of boundaries; when and how to be
+10 made; presumption once recorded.
+11
+12 (a) If the boundaries of any city or town are
+13 uncertain or incapable of ascertainment, and upon the
+14 change in boundaries of any city or town pursuant to any
+15 annexation under this chapter, the governing body, by
+1 SF0171
+2025 STATE OF WYOMING 25LSO-0756
+1 ordinance, shall may provide for a survey thereof. When If
+2 the survey is made, the boundaries shall be marked by
+3 substantial monuments, and the person making the survey
+4 shall report to the governing body describing the
+5 boundaries by metes and bounds. The description as nearly
+6 as possible shall refer, if upon surveyed lands, to the
+7 corners or lines of the United States surveys. The person
+8 making the survey shall also file with the city or town
+9 clerk the field notes of his survey. The city or town
+10 clerk shall then file a copy of the report and a copy of
+11 the field notes certified by the mayor and clerk with the
+12 county clerk for the county in which the city or town is
+13 located.
+14
+15 Section 2. This act is effective July 1, 2025.
+16
+17 (END)
+2 SF0171
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0756
+SENATE FILE NO. SF0171
+City and Town Regulatory Reduction.
+Sponsored by: Senator(s) Nethercott and Cooper and
+Representative(s) Byron, Lawley and Wylie
+A BILL
+for
+1 AN ACT relating to cities and towns; amending requirements
+2 for conducting a boundary survey of cities and towns as
+3 specified; and providing for an effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1. W.S. 15-1-413(a) is amended to read:
+8
+9 15-1-413. Survey of boundaries; when and how to be
+10 made; presumption once recorded.
+11
+12 (a) If the boundaries of any city or town are
+13 uncertain or incapable of ascertainment, and upon the
+14 change in boundaries of any city or town pursuant to any
+15 annexation under this chapter, the governing body, by
+1 SF0171
+
+2025 STATE OF WYOMING 25LSO-0756
+1 ordinance, shall may provide for a survey thereof. When If
+2 the survey is made, the boundaries shall be marked by
+3 substantial monuments, and the person making the survey
+4 shall report to the governing body describing the
+5 boundaries by metes and bounds. The description as nearly
+6 as possible shall refer, if upon surveyed lands, to the
+7 corners or lines of the United States surveys. The person
+8 making the survey shall also file with the city or town
+9 clerk the field notes of his survey. The city or town
+10 clerk shall then file a copy of the report and a copy of
+11 the field notes certified by the mayor and clerk with the
+12 county clerk for the county in which the city or town is
+13 located.
+14
+15 Section 2. This act is effective July 1, 2025.
+16
+17 (END)
+2 SF0171

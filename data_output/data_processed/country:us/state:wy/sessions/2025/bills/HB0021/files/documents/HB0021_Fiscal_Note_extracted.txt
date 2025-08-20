@@ -1,0 +1,136 @@
+Title: School finance-routine maintenance worker 25LSO-0154, 1.0
+Official Title: School finance-routine maintenance worker 25LSO-0154, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+calculation.
+FISCAL NOTE
+This bill contains an appropriation of $2,000,000 from the PUBLIC SCHOOL FOUNDATION
+PROGRAM ACCOUNT (SFP) to the Department of Education - School Finance.
+DETAIL OF APPROPRIATION
+Agency #: 205 Agency Name: Department of Education - School Finance
+Unit: 4101 (Foundation Basic)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $0 $2,000,000 $0
+Total Expenditure Per Year: $0 $2,000,000 $0
+Grand Total Expenditure: $2,000,000
+Total Appropriated to Agency: $2,000,000
+Total Appropriated by Fund:
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $2,000,000
+Description of appropriation:
+The appropriation will be expended to offset the K-12 education resource block
+grant model’s (K-12 funding model) anticipated entitlement expenditure increase and
+corresponding recapture revenue decrease that will take place in FY 2026.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase(decrease)
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $0 ($400,000) ($400,000)
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $0 $1,600,000 $1,600,000
+Source of revenue decrease and expenditure increase:
+Under current law, the K-12 funding model allocates a base maintenance worker full-
+time equivalent (FTE) position for schools based on the average of four factors:
+(1) an initial 1.10 maintenance worker FTE; (2) one maintenance worker for every
+60,000 allowable educational gross square feet multiplied by 1.2; (3) one
+maintenance worker for every 1,000 average daily membership multiplied by 1.3; and
+(4) one maintenance worker for every $5,000,000 of general fund operating
+expenditures from school year (SY) 2004-05 multiplied by 1.2.
+This bill modifies the allocation of maintenance worker positions through the
+routine maintenance and operations component by removing a school district's
+operating expenditures as one of the four factors in the base FTE position
+calculation. The removal of the operating expenditures factor is based upon the
+2020 recalibration report. The number of maintenance worker FTE positions are
+HB0021
+School finance-routine maintenance worker 25LSO-0154, 1.0
+calculation.
+estimated to increase by 29.8 FTEs in SY 2025-26, 29.6 FTEs in SY 2026-27, and 29.5
+FTEs in SY 2027-28.
+The estimated absolute impact to the K-12 funding model’s foundation program
+guarantee is an increase of $2,000,000 in FY 2026, $2,000,000 in FY 2027, and
+$2,000,000 in FY 2028. An increase to the K-12 funding model’s foundation program
+guarantee amount will have a corresponding expenditure increase from the SFP in the
+form of school district entitlement payments and a corresponding revenue decrease
+to the SFP in the form of school district recapture payments. The entitlement
+expenditure increase and recapture revenue decrease anticipated in FY 2026 will be
+funded by the appropriation in the bill.
+Assumptions:
+The above estimates were determined through the use of forecast K-12 funding models
+utilized by the Legislative Service Office and are based on the most recent available
+data.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Trent Carroll, Department of Education - School Finance,
+777-7720)
+HB0021
+
+
+================================================================================
+
+Raw Text:
+School finance-routine maintenance worker 25LSO-0154, 1.0
+calculation.
+FISCAL NOTE
+This bill contains an appropriation of $2,000,000 from the PUBLIC SCHOOL FOUNDATION
+PROGRAM ACCOUNT (SFP) to the Department of Education - School Finance.
+DETAIL OF APPROPRIATION
+Agency #: 205 Agency Name: Department of Education - School Finance
+Unit: 4101 (Foundation Basic)
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0600 Grant & Aid Payments $0 $2,000,000 $0
+Total Expenditure Per Year: $0 $2,000,000 $0
+Grand Total Expenditure: $2,000,000
+Total Appropriated to Agency: $2,000,000
+Total Appropriated by Fund:
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $2,000,000
+Description of appropriation:
+The appropriation will be expended to offset the K-12 education resource block
+grant model’s (K-12 funding model) anticipated entitlement expenditure increase and
+corresponding recapture revenue decrease that will take place in FY 2026.
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue increase(decrease)
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $0 ($400,000) ($400,000)
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+PUBLIC SCHOOL FOUNDATION PROGRAM ACCOUNT $0 $1,600,000 $1,600,000
+Source of revenue decrease and expenditure increase:
+Under current law, the K-12 funding model allocates a base maintenance worker full-
+time equivalent (FTE) position for schools based on the average of four factors:
+(1) an initial 1.10 maintenance worker FTE; (2) one maintenance worker for every
+60,000 allowable educational gross square feet multiplied by 1.2; (3) one
+maintenance worker for every 1,000 average daily membership multiplied by 1.3; and
+(4) one maintenance worker for every $5,000,000 of general fund operating
+expenditures from school year (SY) 2004-05 multiplied by 1.2.
+This bill modifies the allocation of maintenance worker positions through the
+routine maintenance and operations component by removing a school district's
+operating expenditures as one of the four factors in the base FTE position
+calculation. The removal of the operating expenditures factor is based upon the
+2020 recalibration report. The number of maintenance worker FTE positions are
+HB0021
+
+School finance-routine maintenance worker 25LSO-0154, 1.0
+calculation.
+estimated to increase by 29.8 FTEs in SY 2025-26, 29.6 FTEs in SY 2026-27, and 29.5
+FTEs in SY 2027-28.
+The estimated absolute impact to the K-12 funding model’s foundation program
+guarantee is an increase of $2,000,000 in FY 2026, $2,000,000 in FY 2027, and
+$2,000,000 in FY 2028. An increase to the K-12 funding model’s foundation program
+guarantee amount will have a corresponding expenditure increase from the SFP in the
+form of school district entitlement payments and a corresponding revenue decrease
+to the SFP in the form of school district recapture payments. The entitlement
+expenditure increase and recapture revenue decrease anticipated in FY 2026 will be
+funded by the appropriation in the bill.
+Assumptions:
+The above estimates were determined through the use of forecast K-12 funding models
+utilized by the Legislative Service Office and are based on the most recent available
+data.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Trent Carroll, Department of Education - School Finance,
+777-7720)
+HB0021

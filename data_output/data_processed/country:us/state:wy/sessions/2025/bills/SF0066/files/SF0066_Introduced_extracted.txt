@@ -1,0 +1,270 @@
+Title: Sponsored by: Select Committee on Blockchain, Financial
+Official Title: Sponsored by: Select Committee on Blockchain, Financial
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0086
+SENATE FILE NO. SF0066
+Digital ledger filing system development.
+Technology and Digital Innovation Technology
+A BILL
+for
+1 AN ACT relating to the office of the secretary of state;
+2 requiring the University of Wyoming center for blockchain
+3 and digital innovation in collaboration with the secretary
+4 of state to develop a blockchain or other distributed
+5 ledger filing system; providing recommendations for the
+6 filing system; providing definitions; authorizing the
+7 promulgation of rules; creating an account; providing a
+8 funding source for the account; providing an appropriation;
+9 and providing for an effective date.
+10
+11 Be It Enacted by the Legislature of the State of Wyoming:
+12
+13 Section 1.
+14
+1 SF0066
+2025 STATE OF WYOMING 25LSO-0086
+1 (a) Subject to subsection (c) of this section, the
+2 University of Wyoming center for blockchain and digital
+3 innovation in collaboration with the secretary of state
+4 shall develop a filing system through which all required
+5 filings, as defined in paragraph (d)(iii) of this section,
+6 may be submitted and:
+7
+8 (i) Blockchain technology or other distributed
+9 ledger technology shall be the technological framework for
+10 the filing system. This may include an application
+11 programming interface, security measures, authenticated
+12 digital corporate identity and other components determined
+13 by the secretary of state to be best practices and likely
+14 to increase the effective and efficient administration of
+15 the laws of this state;
+16
+17 (ii) To the extent reasonably possible, the
+18 filing system shall be designed to accept existing and
+19 future blockchain or other distributed ledger technology-
+20 based filings including a digital asset lien registry,
+21 digital identity registration and digital asset
+22 registration;
+23
+2 SF0066
+2025 STATE OF WYOMING 25LSO-0086
+1 (iii) The University of Wyoming center for
+2 blockchain and digital innovation may develop a blockchain
+3 or other distributed ledger technology for the purposes of
+4 this section or contract for the use of a privately created
+5 blockchain or other distributed ledger technology as
+6 necessary.
+7
+8 (b) The University of Wyoming center for blockchain
+9 and digital innovation and the secretary of state may:
+10
+11 (i) Consult with interested parties before
+12 developing the filing system required by subsection (a) of
+13 this section, including businesses, registered agents,
+14 attorneys, law enforcement and other interested persons;
+15 and
+16
+17 (ii) If necessary, partner with technology
+18 innovators and private companies to develop necessary
+19 components of the filing system.
+20
+21 (c) The secretary of state may allow for the testing
+22 and implementation of the filing system developed pursuant
+23 to this act at the secretary's discretion. Nothing in this
+3 SF0066
+2025 STATE OF WYOMING 25LSO-0086
+1 act shall require the secretary of state to implement the
+2 filing system developed pursuant to this act.
+3
+4 (d) As used in this section:
+5
+6 (i) "Application programming interface" means a
+7 computer software intermediary or protocol that allows two
+8 (2) or more distinct software applications to interact;
+9
+10 (ii) "Blockchain" means a digital ledger or
+11 database that is chronological, consensus-based,
+12 decentralized and mathematically verified in nature;
+13
+14 (iii) "Required filings" means all documents,
+15 reports, data and other information required by law to be
+16 filed with the secretary of state pursuant to title 17,
+17 title 34.1, title 34 or title 40 of the Wyoming statutes.
+18
+19 Section 2. The secretary of state may adopt rules to
+20 implement this act.
+21
+22 Section 3.
+23
+4 SF0066
+2025 STATE OF WYOMING 25LSO-0086
+1 (a) Beginning on April 1, 2025 the first two million
+2 dollars ($2,000,000.00) collected under W.S. 17-16-1630
+3 shall be deposited in the digital ledger filing system
+4 account which is hereby created.
+5
+6 (b) There is appropriated two million dollars
+7 ($2,000,000.00) from the digital ledger filing system
+8 account to the University of Wyoming center for blockchain
+9 and digital innovation for developing the filing system
+10 required by this act. This appropriation shall be for the
+11 period beginning with the effective date of this act and
+12 ending June 30, 2027. Funds from the account will be
+13 distributed quarterly as they become available until the
+14 full amount appropriated under this subsection is
+15 distributed. This appropriation shall not be transferred or
+16 expended for any other purpose and any unexpended,
+17 unobligated funds remaining from this appropriation shall
+18 revert to the general fund on June 30, 2027.
+19
+5 SF0066
+2025 STATE OF WYOMING 25LSO-0086
+1 Section 4. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+6 SF0066
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0086
+SENATE FILE NO. SF0066
+Digital ledger filing system development.
+Sponsored by: Select Committee on Blockchain, Financial
+Technology and Digital Innovation Technology
+A BILL
+for
+1 AN ACT relating to the office of the secretary of state;
+2 requiring the University of Wyoming center for blockchain
+3 and digital innovation in collaboration with the secretary
+4 of state to develop a blockchain or other distributed
+5 ledger filing system; providing recommendations for the
+6 filing system; providing definitions; authorizing the
+7 promulgation of rules; creating an account; providing a
+8 funding source for the account; providing an appropriation;
+9 and providing for an effective date.
+10
+11 Be It Enacted by the Legislature of the State of Wyoming:
+12
+13 Section 1.
+14
+1 SF0066
+
+2025 STATE OF WYOMING 25LSO-0086
+1 (a) Subject to subsection (c) of this section, the
+2 University of Wyoming center for blockchain and digital
+3 innovation in collaboration with the secretary of state
+4 shall develop a filing system through which all required
+5 filings, as defined in paragraph (d)(iii) of this section,
+6 may be submitted and:
+7
+8 (i) Blockchain technology or other distributed
+9 ledger technology shall be the technological framework for
+10 the filing system. This may include an application
+11 programming interface, security measures, authenticated
+12 digital corporate identity and other components determined
+13 by the secretary of state to be best practices and likely
+14 to increase the effective and efficient administration of
+15 the laws of this state;
+16
+17 (ii) To the extent reasonably possible, the
+18 filing system shall be designed to accept existing and
+19 future blockchain or other distributed ledger technology-
+20 based filings including a digital asset lien registry,
+21 digital identity registration and digital asset
+22 registration;
+23
+2 SF0066
+
+2025 STATE OF WYOMING 25LSO-0086
+1 (iii) The University of Wyoming center for
+2 blockchain and digital innovation may develop a blockchain
+3 or other distributed ledger technology for the purposes of
+4 this section or contract for the use of a privately created
+5 blockchain or other distributed ledger technology as
+6 necessary.
+7
+8 (b) The University of Wyoming center for blockchain
+9 and digital innovation and the secretary of state may:
+10
+11 (i) Consult with interested parties before
+12 developing the filing system required by subsection (a) of
+13 this section, including businesses, registered agents,
+14 attorneys, law enforcement and other interested persons;
+15 and
+16
+17 (ii) If necessary, partner with technology
+18 innovators and private companies to develop necessary
+19 components of the filing system.
+20
+21 (c) The secretary of state may allow for the testing
+22 and implementation of the filing system developed pursuant
+23 to this act at the secretary's discretion. Nothing in this
+3 SF0066
+
+2025 STATE OF WYOMING 25LSO-0086
+1 act shall require the secretary of state to implement the
+2 filing system developed pursuant to this act.
+3
+4 (d) As used in this section:
+5
+6 (i) "Application programming interface" means a
+7 computer software intermediary or protocol that allows two
+8 (2) or more distinct software applications to interact;
+9
+10 (ii) "Blockchain" means a digital ledger or
+11 database that is chronological, consensus-based,
+12 decentralized and mathematically verified in nature;
+13
+14 (iii) "Required filings" means all documents,
+15 reports, data and other information required by law to be
+16 filed with the secretary of state pursuant to title 17,
+17 title 34.1, title 34 or title 40 of the Wyoming statutes.
+18
+19 Section 2. The secretary of state may adopt rules to
+20 implement this act.
+21
+22 Section 3.
+23
+4 SF0066
+
+2025 STATE OF WYOMING 25LSO-0086
+1 (a) Beginning on April 1, 2025 the first two million
+2 dollars ($2,000,000.00) collected under W.S. 17-16-1630
+3 shall be deposited in the digital ledger filing system
+4 account which is hereby created.
+5
+6 (b) There is appropriated two million dollars
+7 ($2,000,000.00) from the digital ledger filing system
+8 account to the University of Wyoming center for blockchain
+9 and digital innovation for developing the filing system
+10 required by this act. This appropriation shall be for the
+11 period beginning with the effective date of this act and
+12 ending June 30, 2027. Funds from the account will be
+13 distributed quarterly as they become available until the
+14 full amount appropriated under this subsection is
+15 distributed. This appropriation shall not be transferred or
+16 expended for any other purpose and any unexpended,
+17 unobligated funds remaining from this appropriation shall
+18 revert to the general fund on June 30, 2027.
+19
+5 SF0066
+
+2025 STATE OF WYOMING 25LSO-0086
+1 Section 4. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+6 SF0066

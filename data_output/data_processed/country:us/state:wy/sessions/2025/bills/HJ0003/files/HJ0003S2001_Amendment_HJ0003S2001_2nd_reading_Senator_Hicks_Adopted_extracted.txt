@@ -1,0 +1,33 @@
+Title: 1 Page 3-after line 12 Insert and renumber as necessary:
+Official Title: 1 Page 3-after line 12 Insert and renumber as necessary:
+Number of Sections: 1
+Source: versions - Amendment HJ0003S2001 (2nd reading) - Senator Hicks (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HJ0003S2001
+2
+3 "Section 4. Nothing in this resolution shall prevent the
+4 Wyoming legislature from determining adequate levels of funding
+5 for rural schools.".
+6
+7 Page 3-line 14 Delete "Section 4." and insert "Section 5.".
+8 HICKS
+1
+
+
+================================================================================
+
+Raw Text:
+HJ0003S2001
+1 Page 3-after line 12 Insert and renumber as necessary:
+2
+3 "Section 4. Nothing in this resolution shall prevent the
+4 Wyoming legislature from determining adequate levels of funding
+5 for rural schools.".
+6
+7 Page 3-line 14 Delete "Section 4." and insert "Section 5.".
+8 HICKS
+1

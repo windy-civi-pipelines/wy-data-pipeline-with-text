@@ -1,0 +1,93 @@
+Title: Sponsored By: Senator(s) Olsen, Barlow, Crago and Nethercott and
+Official Title: Sponsored By: Senator(s) Olsen, Barlow, Crago and Nethercott and
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Department of family services-confidentiality
+SF0157
+amendments-2.
+Representative(s) Filer, Singh and Washut
+AN ACT relating to the department of family services; creating a new duty for
+the director of the department of family services to review the effectiveness
+and impact of the department's programs; authorizing the sharing of data;
+creating exceptions for the sharing of confidential information; requiring
+rulemaking; requiring a report; and providing for effective dates.
+1/22/2025 Bill Number Assigned
+1/23/2025 S Received for Introduction
+1/28/2025 S Introduced and Referred to S10 - Labor
+1/29/2025 :Refer to S01 - Judiciary
+2/4/2025 S01 - Judiciary:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, Crum, Hicks, Kolb, Olsen
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/4/2025 S Placed on General File
+2/7/2025 S COW:Passed
+2/10/2025 S 2nd Reading:Passed
+2/11/2025 S 3rd Reading:Passed 22-8-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, Gierau, Hicks, Jones, Kolb, Landen,
+Nethercott, Olsen, Rothfuss, Schuler, Scott, Smith
+Nays: Senator(s) French, Hutchings, Ide, Laursen, Mckeown, Pearson, Salazar,
+Steinmetz
+Excused: Senator Pappas
+Ayes 22 Nays 8 Excused 1 Absent 0 Conflicts 0
+2/11/2025 H Received for Introduction
+2/20/2025 H Introduced and Referred to H10 - Labor
+2/27/2025 H10 - Labor:Do Pass Failed 4-4-1-0-0
+ROLL CALL
+Ayes: Representative(s) Clouston, Ottman, Rodriguez-Williams, Yin
+Nays: Representative(s) Guggenmos, Hoeft, Mccann, Wasserburger
+Excused: Representative Styvar
+Ayes 4 Nays 4 Excused 1 Absent 0 Conflicts 0
+3/3/2025 H No report prior to CoW Cutoff
+3/3/2025 H:Died in Committee Returned Bill Pursuant to HR 5-4
+
+
+================================================================================
+
+Raw Text:
+Department of family services-confidentiality
+SF0157
+amendments-2.
+Sponsored By: Senator(s) Olsen, Barlow, Crago and Nethercott and
+Representative(s) Filer, Singh and Washut
+AN ACT relating to the department of family services; creating a new duty for
+the director of the department of family services to review the effectiveness
+and impact of the department's programs; authorizing the sharing of data;
+creating exceptions for the sharing of confidential information; requiring
+rulemaking; requiring a report; and providing for effective dates.
+1/22/2025 Bill Number Assigned
+1/23/2025 S Received for Introduction
+1/28/2025 S Introduced and Referred to S10 - Labor
+1/29/2025 :Refer to S01 - Judiciary
+2/4/2025 S01 - Judiciary:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, Crum, Hicks, Kolb, Olsen
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/4/2025 S Placed on General File
+2/7/2025 S COW:Passed
+2/10/2025 S 2nd Reading:Passed
+2/11/2025 S 3rd Reading:Passed 22-8-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, Gierau, Hicks, Jones, Kolb, Landen,
+Nethercott, Olsen, Rothfuss, Schuler, Scott, Smith
+Nays: Senator(s) French, Hutchings, Ide, Laursen, Mckeown, Pearson, Salazar,
+Steinmetz
+Excused: Senator Pappas
+Ayes 22 Nays 8 Excused 1 Absent 0 Conflicts 0
+2/11/2025 H Received for Introduction
+2/20/2025 H Introduced and Referred to H10 - Labor
+2/27/2025 H10 - Labor:Do Pass Failed 4-4-1-0-0
+ROLL CALL
+Ayes: Representative(s) Clouston, Ottman, Rodriguez-Williams, Yin
+Nays: Representative(s) Guggenmos, Hoeft, Mccann, Wasserburger
+Excused: Representative Styvar
+Ayes 4 Nays 4 Excused 1 Absent 0 Conflicts 0
+3/3/2025 H No report prior to CoW Cutoff
+3/3/2025 H:Died in Committee Returned Bill Pursuant to HR 5-4

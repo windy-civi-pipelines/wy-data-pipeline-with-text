@@ -1,0 +1,1216 @@
+Title: Sponsored by: Joint Transportation, Highways & Military
+Official Title: Sponsored by: Joint Transportation, Highways & Military
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0074
+SENATE FILE NO. SF0025
+Electronic lien and title system.
+Affairs Interim Committee
+A BILL
+for
+1 AN ACT relating to motor vehicles; creating an electronic
+2 lien and title system; requiring the department of
+3 transportation to implement and administer an electronic
+4 lien and title system; providing a definition; exempting
+5 mobile homes; making conforming amendments; requiring
+6 rulemaking; and providing for effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 31-2-113 is created to read:
+11
+12 31-2-113. Electronic lien and title system.
+13
+14 (a) As used in this section "electronic lien and
+15 title system" means a statewide electronic lien and title
+1 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 system implemented by the department to process through
+2 electronic means:
+3
+4 (i) Certificates of title for vehicles including
+5 new, transferred and corrected certificates of title;
+6
+7 (ii) Certificate of title data in which a lien
+8 is notated;
+9
+10 (iii) The notification, maintenance, perfection
+11 and release of security interests in vehicles; and
+12
+13 (iv) Payment of sales or use tax pursuant to
+14 W.S. 39-15-107(b) or 39-16-107(b).
+15
+16 (b) The department shall implement and administer an
+17 electronic lien and title system as provided in this
+18 section.
+19
+20 (c) The department may contract with one (1) or more
+21 vendors to develop, implement and provide ongoing
+22 administration of the electronic lien and title system
+23 required under subsection (b) of this section. The vendors
+2 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 may charge a transaction fee for each transaction provided
+2 through the electronic lien and title system to recover the
+3 vendor's costs associated with the development,
+4 implementation and ongoing administration of the electronic
+5 lien and title system. No vendor shall charge any fees
+6 under this subsection to the state or counties.
+7
+8 (d) Except for persons who are not normally engaged
+9 in the business or practice of financing vehicles, all
+10 dealers, lenders, lienholders, insurance companies and
+11 secured parties shall use the electronic lien and title
+12 system required under subsection (b) of this section. All
+13 counties shall use the electronic lien and title system
+14 required under subsection (b) of this section. Each person
+15 not normally engaged in the business or practice of
+16 financing vehicles including owners may use the electronic
+17 lien and title system or request a paper certificate of
+18 title at the office of a county clerk.
+19
+20 (e) This section shall not apply to certificates of
+21 title for mobile homes as defined in W.S. 31-2-501(a)(ii).
+22
+3 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 Section 2. W.S. 31-1-202(c) and (d), 31-2-101,
+2 31-2-103(a)(intro), (v), (vi) and (d), 31-2-104(a), (h)(i)
+3 and (ii), 31-2-105(a), (b)(intro), (i)(D) and (c) through
+4 (f), 31-2-107(a), (f) through (j) and (o) are amended to
+5 read:
+6
+7 31-1-202. Records.
+8
+9 (c) Within three (3) business days after issuance of
+10 a vehicle registration or certificate of title, county
+11 treasurers and county clerks shall forward a record thereof
+12 to the department. County clerks shall forward a record of
+13 certificate of title electronically through the electronic
+14 lien and title system established under W.S. 31-2-113.
+15 County treasurers shall notify the department and sheriff
+16 of his county of loss or mutilation of license plates.
+17
+18 (d) The department shall maintain records of vehicle
+19 registrations from all counties indexed by distinctive
+20 vehicle numbers assigned by the department, the name of the
+21 registered owner and vehicle identification numbers. The
+22 department shall maintain a record of all vehicle
+23 certificates of title from all counties in the electronic
+4 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 lien and title system established under W.S. 31-2-113.
+2 Records are public and open to inspection by the public
+3 during reasonable office hours. The department shall
+4 maintain a vehicle identification number index of all
+5 vehicles for which certificates of title have been issued.
+6 Upon receipt of a notice of issuance of a certificate of
+7 title from any county clerk the department may destroy all
+8 records relating to former transfers of title to the
+9 vehicle and shall retain only the notice of issuance of the
+10 certificate of title in effect at any time. The department
+11 may annually compile and publish a list of all registered
+12 vehicles and supplements thereto which shall be furnished
+13 to Wyoming peace officers and the Wyoming office of
+14 homeland security without charge.
+15
+16 31-2-101. Required application; resident and
+17 nonresident applications.
+18
+19 (a) Except as provided by W.S. 31-2-102 and pursuant
+20 to W.S. 31-1-101(a)(xxi)(A) through (G), any owner of a
+21 vehicle for which no Wyoming certificate of title has been
+22 issued to the owner or the transferee upon transfer of
+23 ownership of a vehicle for which a Wyoming certificate of
+5 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 title is required, shall apply for a certificate of title
+2 electronically through the electronic lien and title system
+3 established under W.S. 31-2-113 or at the office of a
+4 county clerk, or if available, electronically, within the
+5 same time periods as required by W.S. 31-2-201(a)(ii) and
+6 (iii).
+7
+8 (b) Any owner, owner's agent or transferee upon
+9 transfer of ownership of any vehicle that has an
+10 identifying number pursuant to W.S. 31-1-101(a)(ix),
+11 including off-road recreational or multipurpose vehicles
+12 and, for the purpose of titling under this section,
+13 including snowmobiles and watercraft, shall apply for a
+14 certificate of title electronically through the electronic
+15 lien and title system established under W.S. 31-2-113 or at
+16 the office of a county clerk.
+17
+18 (c) Any nonresident person registered as a business
+19 entity under the laws of another state in the United States
+20 and who operates a vehicle in this state for business or
+21 commercial purposes for which no Wyoming certificate of
+22 title has been issued may apply for a certificate of title
+23 for that vehicle electronically through the electronic lien
+6 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 and title system established under W.S. 31-2-113 or at the
+2 office of a county clerk., or if available, electronically.
+3
+4 31-2-103. Contents of application; signature; vehicle
+5 identification number; issuance of certificate.
+6
+7 (a) Applications for paper certificates of title or
+8 electronic certificates of title, if available, shall
+9 contain or be accompanied by:
+10
+11 (v) The current title containing an assignment
+12 and warranty of title, if applicable, and an affidavit by
+13 the seller, either on a separate form through the
+14 electronic lien and title system established under W.S.
+15 31-2-113 that provides remote authentication or contained
+16 on the current title, which shall contain a reference to
+17 the federal regulations stating that failure to complete or
+18 providing false information may result in fines and
+19 imprisonment and may include a department approved
+20 statement in substantially the following form: "I state
+21 that the odometer now reads .... miles (no tenths) and to
+22 the best of my knowledge that it reflects the actual
+23 mileage of the vehicle described herein unless one (1) of
+7 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 the following statements is checked: A. I hereby certify
+2 that to the best of my knowledge the odometer reading
+3 reflects the amount of mileage is in excess of its
+4 mechanical limits; B. I hereby certify that the odometer
+5 reading is NOT the actual mileage. WARNING-ODOMETER
+6 DISCREPANCY", to be retained by the county clerk upon
+7 issuance of a new title. This paragraph shall not apply to
+8 vehicles not originally manufactured with an odometer;
+9
+10 (vi) In the case of a vehicle registered or
+11 titled in a state other than Wyoming, or any homemade
+12 vehicle, rebuilt vehicle, reconstructed vehicle, any
+13 vehicle assembled from a kit or any vehicle for which a
+14 bond is required, a current statement submitted to the
+15 office of the county clerk or through the electronic lien
+16 and title system established under W.S. 31-2-113, made by a
+17 Wyoming law enforcement officer, or licensed Wyoming dealer
+18 only for vehicles in his inventory or possession, that the
+19 vehicle identification number on the vehicle has been
+20 inspected and that the inspection occurred in Wyoming and
+21 certifying the correct vehicle identification number
+22 displayed on the vehicle. Any licensed Wyoming dealer
+23 performing an inspection of a vehicle identification number
+8 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 under this section shall, in addition to the requirements
+2 of this act, do so pursuant to W.S. 31-11-108. In the case
+3 of a vehicle not in Wyoming, the vehicle identification
+4 number may be inspected and certified on a form approved by
+5 the department if the inspection is made by an authorized
+6 law enforcement officer of a city, county or state law
+7 enforcement agency or a commissioned officer at a federal
+8 military installation or any other person authorized to do
+9 so by law and delivered to the county clerk in the county
+10 where the application for certificate of title is made
+11 along with payment for the inspection fee required under
+12 W.S. 31-3-102(b)(iv);
+13
+14 (d) Upon receipt of an application and payment of
+15 fees any county clerk shall, if satisfied that the
+16 applicant is the owner of the vehicle for which application
+17 for certificate of title is made, issue a paper certificate
+18 of title if requested by the applicant or electronic
+19 certificate of title, if available, upon a form or
+20 electronic format, approved by and provided at cost to the
+21 county clerk by the department in the name of the owner
+22 bearing the signature and seal of the county clerk's
+23 office. The county clerk shall not deliver a certificate of
+9 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 title issued under this section until presentation of a
+2 receipt for payment of sales or use tax pursuant to W.S.
+3 39-15-107(b) or 39-16-107(b) or presentation of a county
+4 treasurer receipt noting a valid exemption from paying the
+5 sales or use tax. If a lien is filed with respect to the
+6 vehicle, the county clerk shall, within three (3) business
+7 days, deliver a copy of the filed lien and a copy of the
+8 issued title to the financial institution. and if
+9 available, such The delivery may be made electronically.
+10 Each paper certificate of title or and electronic version,
+11 certificate of title shall bear a document control number
+12 with county designation and certificate of title number.
+13 The title shall be completely filled out giving a
+14 description of the vehicle including factory price in a
+15 manner prescribed by the department, indicate all
+16 encumbrances or liens on the vehicle and indicate the date
+17 of issue. Certificates of title shall contain forms for
+18 assignment of title or interest and warranty thereof by the
+19 owner with space for notation of liens and encumbrances at
+20 the time of transfer on the reverse side and contain space
+21 for the notarization of the seller's signature or an
+22 electronic signature in accordance with W.S. 40-21-101
+23 through 40-21-119, for a sale or transfer of title.
+10 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 Certificates of title are valid for the vehicle so long as
+2 the vehicle is owned or held by the person in whose name
+3 the title was issued. A certificate of title is prima facie
+4 proof of ownership of the vehicle for which the certificate
+5 was issued.
+6
+7 31-2-104. Transfer of ownership.
+8
+9 (a) Except as otherwise provided in this section, the
+10 owner of a vehicle who sells or transfers his interest in a
+11 vehicle for which a certificate of title has been issued
+12 shall endorse an assignment and warranty of title upon the
+13 certificate for the vehicle with a statement of all liens
+14 and encumbrances thereon, which assignment, warranty and
+15 statement shall be signed and dated by the owner before a
+16 notarial officer and acknowledged thereby in the manner
+17 provided by law or signed electronically in accordance with
+18 W.S. 40-21-101 through 40-21-119, to be dated and delivered
+19 to the transferee at the time of delivering the vehicle.
+20 Delivery may be made electronically through the electronic
+21 lien and title system established under W.S. 31-2-113.
+22 Except as provided in subsection (b) of this section, the
+23 transferee shall present the certificate to a county clerk
+11 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 and apply for a new certificate of title electronically
+2 through the electronic lien and title system established
+3 under W.S. 31-2-113 or at the office of a county clerk
+4 within the same time periods as required by W.S.
+5 31-2-201(a)(ii).
+6
+7 (h) The requirement under subsection (a) of this
+8 section to deliver a certificate of title to a transferee
+9 at the time the vehicle is delivered does not apply to a
+10 transferor if:
+11
+12 (i) The certificate of title is being held by a
+13 bank or other financial institution on the date the vehicle
+14 is delivered. The transferor shall then deliver to the
+15 transferee a dealer's invoice or a signed bill of sale, in
+16 substantially the form specified in paragraph (ii) of this
+17 subsection, and the certificate of title shall be delivered
+18 either in person or electronically through the electronic
+19 lien and title system established under W.S. 31-2-113 to
+20 the transferee within thirty (30) days from the date of the
+21 sale; or
+22
+12 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 (ii) The transferor is an auctioneer of vehicles
+2 and transfers the vehicle in the course of his business as
+3 an auctioneer of vehicles or through an auctioneer of
+4 vehicles. The transferor or auctioneer shall then deliver
+5 the certificate of title either in person or electronically
+6 through the electronic lien and title system established
+7 under W.S. 31-2-113 to the transferee within thirty (30)
+8 days of the date of sale and shall deliver to the
+9 transferee at the time the vehicle is delivered a signed
+10 bill of sale in substantially the following form:
+11
+12 VEHICLE BILL OF SALE
+13
+14 I, (PRINTED NAME OF TRANSFEROR OR AUCTIONEER), on (date),
+15 hereby sell and convey all (my interest the interest of
+16 (name of current owner)) in the following described
+17 vehicle: (COLOR, YEAR, MAKE, MODEL, VEHICLE IDENTIFICATION
+18 NUMBER) to (PRINTED NAME OF TRANSFEREE) in exchange for:
+19 (sales price). I hereby state that the certificate of
+20 title for the above described vehicle is held by (PRINTED
+21 NAME OF TRANSFEROR-VEHICLE AUCTIONEER, BANK OR OTHER
+22 FINANCIAL INSTITUTION) and that within thirty (30) days,
+23 (PRINTED NAME OF TRANSFEREE) will be provided a properly
+13 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 executed title free of all liens for the vehicle unless
+2 otherwise specified in this bill of sale. I certify (or
+3 declare) under penalty of perjury under the laws of the
+4 State of Wyoming that the contents of this document are
+5 true and correct.
+6
+7 DATE: _________
+8
+9 _______________________________________
+10
+11 (TRANSFEROR'S OR AUCTIONEER'S SIGNATURE)
+12
+13 ___________________________________________________________
+14 ___________________________________________________________
+15 ___________________________________________________________
+16
+17 (TRANSFEROR'S OR AUCTIONEER'S ADDRESS, PHONE NUMBER AND
+18 DRIVER'S LICENSE, IDENTIFICATION OR DEALER NUMBER)
+19
+20 31-2-105. Duplicate titles; affidavit of vehicle
+21 ownership.
+22
+14 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 (a) Upon loss of a paper certificate of title, the
+2 owner may apply to the county clerk issuing the original
+3 title for a duplicate paper certificate of title or
+4 electronic certificate of title. For purposes of applying
+5 for a duplicate title, "owner" means any one (1) person
+6 listed as owner on the face of the title. The applicant
+7 shall file an affidavit describing the loss of a paper
+8 certificate of title with the county clerk. Upon payment of
+9 fees the county clerk shall issue a duplicate paper
+10 certificate of title or electronic certificate of title
+11 corresponding to the original certificate and containing
+12 the following notation prominently displayed in capital
+13 letters on the face of the certificate: "THIS IS A
+14 DUPLICATE CERTIFICATE OF TITLE AND MAY BE SUBJECT TO THE
+15 RIGHTS OF A PERSON OR PERSONS UNDER THE ORIGINAL
+16 CERTIFICATE".
+17
+18 (b) If an applicant for a paper certificate of title
+19 or electronic certificate of title required by this act is
+20 unable to provide the county clerk with a certificate of
+21 title that assigns the prior owner's interest, a notarized
+22 bill of sale or other evidence of ownership that satisfies
+23 the county clerk that the applicant owns the vehicle, a
+15 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 paper certificate of title or electronic certificate of
+2 title may be issued only if:
+3
+4 (i) The applicant submits an affidavit of
+5 vehicle ownership on a form prescribed by the department
+6 that shall be signed and sworn before a person who is
+7 authorized to administer oaths and affirmations. The
+8 affidavit shall contain:
+9
+10 (D) A statement that the applicant is the
+11 true and lawful owner of the vehicle and has the right to
+12 have a paper certificate of title or electronic certificate
+13 of title issued.
+14
+15 (c) If the vehicle for which the applicant is
+16 applying for a paper certificate of title or electronic
+17 certificate of title has a value less than two thousand
+18 five hundred dollars ($2,500.00), a paper title or
+19 electronic title may be issued without a bond if the
+20 applicant presents an affidavit of vehicle ownership, a
+21 notarized bill of sale, a certified, written statement of
+22 the value from a properly licensed Wyoming vehicle dealer
+23 and a vehicle identification number (VIN) inspection, or
+16 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 any other information the county clerk may require for
+2 proof of ownership, at the time of application.
+3
+4 (d) Any bond required by this section shall be
+5 executed by a surety duly authorized to carry on business
+6 in Wyoming or by individual sureties qualified as provided
+7 by W.S. 1-1-104 and 1-1-105. The amount of any bond
+8 required under this section shall not be less than double
+9 the value of the vehicle determined at the time of the
+10 application. If the value of the vehicle cannot be
+11 determined from any prior registration or title, the
+12 applicant shall provide the county clerk the value of the
+13 vehicle. The value of the vehicle shall be determined by
+14 the applicant or the surety from any current national
+15 appraisal guide, current or past registration if the value
+16 is present on any registration for the vehicle, or the
+17 value may be on certified written statement obtained from a
+18 properly licensed Wyoming vehicle dealer. The bond shall be
+19 conditioned to indemnify a prior owner, lienholder,
+20 subsequent purchaser, secured creditor or encumbrancer of
+21 the vehicle and any respective successors in interest
+22 against expenses, losses or damages, including reasonable
+23 attorney fees, caused by the issuance of the paper
+17 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 certificate of title or electronic certificate of title or
+2 by a defect in or undisclosed security interest upon the
+3 right, title and interest of the applicant in the vehicle.
+4
+5 (e) If any person suffers a loss or damage by reason
+6 of the filing or issuance of the paper certificate of title
+7 or electronic certificate of title as provided in this
+8 section, such person shall have a right of action to seek
+9 relief directly against the applicant and the surety on the
+10 applicant's bond against either of whom the person damaged
+11 may proceed independently of the other, but the aggregate
+12 liability of the surety to any or all persons seeking
+13 relief shall not exceed the total amount of the bond.
+14
+15 (f) If an applicant is applying for a paper
+16 certificate of title or electronic certificate of title to
+17 a vehicle which he will restore for his own personal use, a
+18 paper title or electronic title may be issued without a
+19 bond required by this section if the applicant presents an
+20 affidavit of vehicle ownership, a notarized bill of sale, a
+21 certified written statement of the value of the vehicle and
+22 a vehicle identification number (VIN) inspection, at the
+23 time of application. If the value of the vehicle cannot be
+18 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 determined from any prior registration or title, the
+2 applicant shall provide the county clerk the value of the
+3 vehicle. The value of the vehicle shall be determined from
+4 any current national appraisal guide, or the applicant may
+5 elect to submit a certified written statement obtained from
+6 a properly licensed Wyoming vehicle dealer stating the
+7 appraised value of the vehicle. Any paper certificate of
+8 title or electronic certificate of title issued under this
+9 subsection shall state on its face that it is
+10 nontransferable for one hundred eighty (180) days from the
+11 date title issued. Notwithstanding the other requirements
+12 of this subsection, a vehicle shall only be eligible to be
+13 titled under this subsection if, on the date the applicant
+14 purchased the vehicle it was not operational and could not
+15 have been rendered operational without substantial repairs
+16 to one (1) or more of the vehicle's mechanical systems. The
+17 department shall define the term "substantial repairs" by
+18 rule and regulation.
+19
+20 31-2-107. Titles for damaged vehicles; return of
+21 certificate of title and registration for damaged vehicle;
+22 replacement title and registration.
+23
+19 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 (a) When a motor vehicle is declared a total loss by
+2 the insurance company or, in the event an insurance company
+3 is not involved in the settlement of the claim, sustains
+4 damage in an amount exceeding seventy-five percent (75%) of
+5 its actual retail cash value, as set forth in any current
+6 edition of a nationally recognized automotive appraisal
+7 guide or other source approved by the Wyoming insurance
+8 department, the owner or insurance company, if it obtains
+9 ownership of the vehicle through transfer of title as a
+10 result of a settlement of an insurance claim, shall forward
+11 the properly endorsed certificate of title, either to the
+12 office of the county clerk or electronically through the
+13 electronic lien and title system established under W.S.
+14 31-2-113, to the office of the county clerk that issued the
+15 certificate of title together with an electronic
+16 application, submitted through the electronic lien and
+17 title system, for a certificate of title branded salvage
+18 and payment of the fee required under W.S. 31-3-102(a)(vii)
+19 to obtain a properly branded certificate of title. The
+20 owner or insurance company may request a paper certificate
+21 of title branded salvage from the office of the county
+22 clerk. For purposes of this section, a certificate of title
+23 endorsed by an electronic signature shall constitute a
+20 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 properly endorsed certificate of title, which need not be
+2 notarized. When any vehicle accident report is required
+3 under chapter 5, article 11 of this title, the
+4 investigating officer shall provide written notice to the
+5 owner or operator of the vehicle of the requirements under
+6 this section.
+7
+8 (f) If the owner of a motor vehicle retains the
+9 vehicle upon a settlement with an insurance company, and
+10 the vehicle has incurred damage requiring the vehicle to be
+11 issued a certificate of title branded "nonrepairable" or
+12 "salvage", the owner shall apply for the certificate of
+13 title electronically through the electronic lien and title
+14 system established under W.S. 31-2-113 or at the office of
+15 the county clerk in his own name with the applicable brand
+16 displayed on the certificate of title before the vehicle is
+17 commercially repaired or ownership of the vehicle is
+18 transferred.
+19
+20 (g) If an insurance company is not involved in a
+21 damage settlement involving a salvage vehicle, the motor
+22 vehicle owner shall apply for a certificate of title
+23 branded "salvage", electronically through the electronic
+21 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1 lien and title system established under W.S. 31-2-113 or at
+2 the office of the county clerk before the vehicle is
+3 commercially repaired or ownership of the vehicle is
+4 transferred.
+5
+6 (h) If a leased motor vehicle incurs damage requiring
+7 the vehicle to be issued a certificate of title branded
+8 "salvage", the lessor shall apply for a properly branded
+9 certificate of title electronically through the electronic
+10 lien and title system established under W.S. 31-2-113 or at
+11 the office of the county clerk after being notified by the
+12 lessee that the vehicle has been damaged. The lessee of the
+13 vehicle shall inform the lessor that the leased vehicle has
+14 been damaged within thirty (30) days after the occurrence
+15 of the damage.
+16
+17 (j) Any person acquiring ownership of a damaged motor
+18 vehicle that meets the definition of a salvage vehicle for
+19 which a certificate of title branded "salvage" has not been
+20 issued shall apply for a certificate of title
+21 electronically through the electronic lien and title system
+22 established under W.S. 31-2-113 or at the office of a
+23 county clerk before the vehicle is further transferred.
+22 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1
+2 (o) If an insurance company is unable to obtain a
+3 properly endorsed certificate of title within thirty (30)
+4 days of payment of damages in a claim settlement involving
+5 transfer of a salvage vehicle to the insurance company, the
+6 insurance company, an occupational licensee of the
+7 department authorized by the insurance company or a salvage
+8 pool authorized by the insurance company may request the
+9 county clerk issue a certificate of title branded salvage
+10 for the vehicle. The request shall be submitted on
+11 electronically through the electronic lien and title system
+12 established under W.S. 31-2-113 in a form format provided
+13 by the office of the county clerk and signed electronically
+14 with an electronic signature in accordance with W.S.
+15 40-21-101 through 40-21-119 under penalty of perjury. The
+16 request shall include and document evidence that the
+17 insurance company has paid a claim on the vehicle and has
+18 made at least two (2) written attempts to obtain the
+19 properly endorsed certificate of title at the last known
+20 address of the owner of the vehicle. The request shall also
+21 include a disclosure of any and all security interests,
+22 liens or encumbrances that are known to the insurance
+23 company and that are outstanding against the vehicle.
+23 SF0025
+2025 STATE OF WYOMING 25LSO-0074
+1
+2 Section 3. The department of transportation shall
+3 promulgate any rules necessary to implement this act. The
+4 department of transportation may contract with one (1) or
+5 more vendors to develop and implement the electronic lien
+6 and title system as authorized under section 1 of this act.
+7
+8 Section 4.
+9
+10 (a) Except as provided in subsection (b) of this
+11 section, this act is effective July 1, 2027.
+12
+13 (b) Sections 3 and 4 of this act are effective
+14 immediately upon completion of all acts necessary for a
+15 bill to become law as provided by Article 4, Section 8 of
+16 the Wyoming Constitution.
+17
+18 (END)
+24 SF0025
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0074
+SENATE FILE NO. SF0025
+Electronic lien and title system.
+Sponsored by: Joint Transportation, Highways & Military
+Affairs Interim Committee
+A BILL
+for
+1 AN ACT relating to motor vehicles; creating an electronic
+2 lien and title system; requiring the department of
+3 transportation to implement and administer an electronic
+4 lien and title system; providing a definition; exempting
+5 mobile homes; making conforming amendments; requiring
+6 rulemaking; and providing for effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 31-2-113 is created to read:
+11
+12 31-2-113. Electronic lien and title system.
+13
+14 (a) As used in this section "electronic lien and
+15 title system" means a statewide electronic lien and title
+1 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 system implemented by the department to process through
+2 electronic means:
+3
+4 (i) Certificates of title for vehicles including
+5 new, transferred and corrected certificates of title;
+6
+7 (ii) Certificate of title data in which a lien
+8 is notated;
+9
+10 (iii) The notification, maintenance, perfection
+11 and release of security interests in vehicles; and
+12
+13 (iv) Payment of sales or use tax pursuant to
+14 W.S. 39-15-107(b) or 39-16-107(b).
+15
+16 (b) The department shall implement and administer an
+17 electronic lien and title system as provided in this
+18 section.
+19
+20 (c) The department may contract with one (1) or more
+21 vendors to develop, implement and provide ongoing
+22 administration of the electronic lien and title system
+23 required under subsection (b) of this section. The vendors
+2 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 may charge a transaction fee for each transaction provided
+2 through the electronic lien and title system to recover the
+3 vendor's costs associated with the development,
+4 implementation and ongoing administration of the electronic
+5 lien and title system. No vendor shall charge any fees
+6 under this subsection to the state or counties.
+7
+8 (d) Except for persons who are not normally engaged
+9 in the business or practice of financing vehicles, all
+10 dealers, lenders, lienholders, insurance companies and
+11 secured parties shall use the electronic lien and title
+12 system required under subsection (b) of this section. All
+13 counties shall use the electronic lien and title system
+14 required under subsection (b) of this section. Each person
+15 not normally engaged in the business or practice of
+16 financing vehicles including owners may use the electronic
+17 lien and title system or request a paper certificate of
+18 title at the office of a county clerk.
+19
+20 (e) This section shall not apply to certificates of
+21 title for mobile homes as defined in W.S. 31-2-501(a)(ii).
+22
+3 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 Section 2. W.S. 31-1-202(c) and (d), 31-2-101,
+2 31-2-103(a)(intro), (v), (vi) and (d), 31-2-104(a), (h)(i)
+3 and (ii), 31-2-105(a), (b)(intro), (i)(D) and (c) through
+4 (f), 31-2-107(a), (f) through (j) and (o) are amended to
+5 read:
+6
+7 31-1-202. Records.
+8
+9 (c) Within three (3) business days after issuance of
+10 a vehicle registration or certificate of title, county
+11 treasurers and county clerks shall forward a record thereof
+12 to the department. County clerks shall forward a record of
+13 certificate of title electronically through the electronic
+14 lien and title system established under W.S. 31-2-113.
+15 County treasurers shall notify the department and sheriff
+16 of his county of loss or mutilation of license plates.
+17
+18 (d) The department shall maintain records of vehicle
+19 registrations from all counties indexed by distinctive
+20 vehicle numbers assigned by the department, the name of the
+21 registered owner and vehicle identification numbers. The
+22 department shall maintain a record of all vehicle
+23 certificates of title from all counties in the electronic
+4 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 lien and title system established under W.S. 31-2-113.
+2 Records are public and open to inspection by the public
+3 during reasonable office hours. The department shall
+4 maintain a vehicle identification number index of all
+5 vehicles for which certificates of title have been issued.
+6 Upon receipt of a notice of issuance of a certificate of
+7 title from any county clerk the department may destroy all
+8 records relating to former transfers of title to the
+9 vehicle and shall retain only the notice of issuance of the
+10 certificate of title in effect at any time. The department
+11 may annually compile and publish a list of all registered
+12 vehicles and supplements thereto which shall be furnished
+13 to Wyoming peace officers and the Wyoming office of
+14 homeland security without charge.
+15
+16 31-2-101. Required application; resident and
+17 nonresident applications.
+18
+19 (a) Except as provided by W.S. 31-2-102 and pursuant
+20 to W.S. 31-1-101(a)(xxi)(A) through (G), any owner of a
+21 vehicle for which no Wyoming certificate of title has been
+22 issued to the owner or the transferee upon transfer of
+23 ownership of a vehicle for which a Wyoming certificate of
+5 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 title is required, shall apply for a certificate of title
+2 electronically through the electronic lien and title system
+3 established under W.S. 31-2-113 or at the office of a
+4 county clerk, or if available, electronically, within the
+5 same time periods as required by W.S. 31-2-201(a)(ii) and
+6 (iii).
+7
+8 (b) Any owner, owner's agent or transferee upon
+9 transfer of ownership of any vehicle that has an
+10 identifying number pursuant to W.S. 31-1-101(a)(ix),
+11 including off-road recreational or multipurpose vehicles
+12 and, for the purpose of titling under this section,
+13 including snowmobiles and watercraft, shall apply for a
+14 certificate of title electronically through the electronic
+15 lien and title system established under W.S. 31-2-113 or at
+16 the office of a county clerk.
+17
+18 (c) Any nonresident person registered as a business
+19 entity under the laws of another state in the United States
+20 and who operates a vehicle in this state for business or
+21 commercial purposes for which no Wyoming certificate of
+22 title has been issued may apply for a certificate of title
+23 for that vehicle electronically through the electronic lien
+6 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 and title system established under W.S. 31-2-113 or at the
+2 office of a county clerk., or if available, electronically.
+3
+4 31-2-103. Contents of application; signature; vehicle
+5 identification number; issuance of certificate.
+6
+7 (a) Applications for paper certificates of title or
+8 electronic certificates of title, if available, shall
+9 contain or be accompanied by:
+10
+11 (v) The current title containing an assignment
+12 and warranty of title, if applicable, and an affidavit by
+13 the seller, either on a separate form through the
+14 electronic lien and title system established under W.S.
+15 31-2-113 that provides remote authentication or contained
+16 on the current title, which shall contain a reference to
+17 the federal regulations stating that failure to complete or
+18 providing false information may result in fines and
+19 imprisonment and may include a department approved
+20 statement in substantially the following form: "I state
+21 that the odometer now reads .... miles (no tenths) and to
+22 the best of my knowledge that it reflects the actual
+23 mileage of the vehicle described herein unless one (1) of
+7 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 the following statements is checked: A. I hereby certify
+2 that to the best of my knowledge the odometer reading
+3 reflects the amount of mileage is in excess of its
+4 mechanical limits; B. I hereby certify that the odometer
+5 reading is NOT the actual mileage. WARNING-ODOMETER
+6 DISCREPANCY", to be retained by the county clerk upon
+7 issuance of a new title. This paragraph shall not apply to
+8 vehicles not originally manufactured with an odometer;
+9
+10 (vi) In the case of a vehicle registered or
+11 titled in a state other than Wyoming, or any homemade
+12 vehicle, rebuilt vehicle, reconstructed vehicle, any
+13 vehicle assembled from a kit or any vehicle for which a
+14 bond is required, a current statement submitted to the
+15 office of the county clerk or through the electronic lien
+16 and title system established under W.S. 31-2-113, made by a
+17 Wyoming law enforcement officer, or licensed Wyoming dealer
+18 only for vehicles in his inventory or possession, that the
+19 vehicle identification number on the vehicle has been
+20 inspected and that the inspection occurred in Wyoming and
+21 certifying the correct vehicle identification number
+22 displayed on the vehicle. Any licensed Wyoming dealer
+23 performing an inspection of a vehicle identification number
+8 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 under this section shall, in addition to the requirements
+2 of this act, do so pursuant to W.S. 31-11-108. In the case
+3 of a vehicle not in Wyoming, the vehicle identification
+4 number may be inspected and certified on a form approved by
+5 the department if the inspection is made by an authorized
+6 law enforcement officer of a city, county or state law
+7 enforcement agency or a commissioned officer at a federal
+8 military installation or any other person authorized to do
+9 so by law and delivered to the county clerk in the county
+10 where the application for certificate of title is made
+11 along with payment for the inspection fee required under
+12 W.S. 31-3-102(b)(iv);
+13
+14 (d) Upon receipt of an application and payment of
+15 fees any county clerk shall, if satisfied that the
+16 applicant is the owner of the vehicle for which application
+17 for certificate of title is made, issue a paper certificate
+18 of title if requested by the applicant or electronic
+19 certificate of title, if available, upon a form or
+20 electronic format, approved by and provided at cost to the
+21 county clerk by the department in the name of the owner
+22 bearing the signature and seal of the county clerk's
+23 office. The county clerk shall not deliver a certificate of
+9 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 title issued under this section until presentation of a
+2 receipt for payment of sales or use tax pursuant to W.S.
+3 39-15-107(b) or 39-16-107(b) or presentation of a county
+4 treasurer receipt noting a valid exemption from paying the
+5 sales or use tax. If a lien is filed with respect to the
+6 vehicle, the county clerk shall, within three (3) business
+7 days, deliver a copy of the filed lien and a copy of the
+8 issued title to the financial institution. and if
+9 available, such The delivery may be made electronically.
+10 Each paper certificate of title or and electronic version,
+11 certificate of title shall bear a document control number
+12 with county designation and certificate of title number.
+13 The title shall be completely filled out giving a
+14 description of the vehicle including factory price in a
+15 manner prescribed by the department, indicate all
+16 encumbrances or liens on the vehicle and indicate the date
+17 of issue. Certificates of title shall contain forms for
+18 assignment of title or interest and warranty thereof by the
+19 owner with space for notation of liens and encumbrances at
+20 the time of transfer on the reverse side and contain space
+21 for the notarization of the seller's signature or an
+22 electronic signature in accordance with W.S. 40-21-101
+23 through 40-21-119, for a sale or transfer of title.
+10 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 Certificates of title are valid for the vehicle so long as
+2 the vehicle is owned or held by the person in whose name
+3 the title was issued. A certificate of title is prima facie
+4 proof of ownership of the vehicle for which the certificate
+5 was issued.
+6
+7 31-2-104. Transfer of ownership.
+8
+9 (a) Except as otherwise provided in this section, the
+10 owner of a vehicle who sells or transfers his interest in a
+11 vehicle for which a certificate of title has been issued
+12 shall endorse an assignment and warranty of title upon the
+13 certificate for the vehicle with a statement of all liens
+14 and encumbrances thereon, which assignment, warranty and
+15 statement shall be signed and dated by the owner before a
+16 notarial officer and acknowledged thereby in the manner
+17 provided by law or signed electronically in accordance with
+18 W.S. 40-21-101 through 40-21-119, to be dated and delivered
+19 to the transferee at the time of delivering the vehicle.
+20 Delivery may be made electronically through the electronic
+21 lien and title system established under W.S. 31-2-113.
+22 Except as provided in subsection (b) of this section, the
+23 transferee shall present the certificate to a county clerk
+11 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 and apply for a new certificate of title electronically
+2 through the electronic lien and title system established
+3 under W.S. 31-2-113 or at the office of a county clerk
+4 within the same time periods as required by W.S.
+5 31-2-201(a)(ii).
+6
+7 (h) The requirement under subsection (a) of this
+8 section to deliver a certificate of title to a transferee
+9 at the time the vehicle is delivered does not apply to a
+10 transferor if:
+11
+12 (i) The certificate of title is being held by a
+13 bank or other financial institution on the date the vehicle
+14 is delivered. The transferor shall then deliver to the
+15 transferee a dealer's invoice or a signed bill of sale, in
+16 substantially the form specified in paragraph (ii) of this
+17 subsection, and the certificate of title shall be delivered
+18 either in person or electronically through the electronic
+19 lien and title system established under W.S. 31-2-113 to
+20 the transferee within thirty (30) days from the date of the
+21 sale; or
+22
+12 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 (ii) The transferor is an auctioneer of vehicles
+2 and transfers the vehicle in the course of his business as
+3 an auctioneer of vehicles or through an auctioneer of
+4 vehicles. The transferor or auctioneer shall then deliver
+5 the certificate of title either in person or electronically
+6 through the electronic lien and title system established
+7 under W.S. 31-2-113 to the transferee within thirty (30)
+8 days of the date of sale and shall deliver to the
+9 transferee at the time the vehicle is delivered a signed
+10 bill of sale in substantially the following form:
+11
+12 VEHICLE BILL OF SALE
+13
+14 I, (PRINTED NAME OF TRANSFEROR OR AUCTIONEER), on (date),
+15 hereby sell and convey all (my interest the interest of
+16 (name of current owner)) in the following described
+17 vehicle: (COLOR, YEAR, MAKE, MODEL, VEHICLE IDENTIFICATION
+18 NUMBER) to (PRINTED NAME OF TRANSFEREE) in exchange for:
+19 (sales price). I hereby state that the certificate of
+20 title for the above described vehicle is held by (PRINTED
+21 NAME OF TRANSFEROR-VEHICLE AUCTIONEER, BANK OR OTHER
+22 FINANCIAL INSTITUTION) and that within thirty (30) days,
+23 (PRINTED NAME OF TRANSFEREE) will be provided a properly
+13 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 executed title free of all liens for the vehicle unless
+2 otherwise specified in this bill of sale. I certify (or
+3 declare) under penalty of perjury under the laws of the
+4 State of Wyoming that the contents of this document are
+5 true and correct.
+6
+7 DATE: _________
+8
+9 _______________________________________
+10
+11 (TRANSFEROR'S OR AUCTIONEER'S SIGNATURE)
+12
+13 ___________________________________________________________
+14 ___________________________________________________________
+15 ___________________________________________________________
+16
+17 (TRANSFEROR'S OR AUCTIONEER'S ADDRESS, PHONE NUMBER AND
+18 DRIVER'S LICENSE, IDENTIFICATION OR DEALER NUMBER)
+19
+20 31-2-105. Duplicate titles; affidavit of vehicle
+21 ownership.
+22
+14 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 (a) Upon loss of a paper certificate of title, the
+2 owner may apply to the county clerk issuing the original
+3 title for a duplicate paper certificate of title or
+4 electronic certificate of title. For purposes of applying
+5 for a duplicate title, "owner" means any one (1) person
+6 listed as owner on the face of the title. The applicant
+7 shall file an affidavit describing the loss of a paper
+8 certificate of title with the county clerk. Upon payment of
+9 fees the county clerk shall issue a duplicate paper
+10 certificate of title or electronic certificate of title
+11 corresponding to the original certificate and containing
+12 the following notation prominently displayed in capital
+13 letters on the face of the certificate: "THIS IS A
+14 DUPLICATE CERTIFICATE OF TITLE AND MAY BE SUBJECT TO THE
+15 RIGHTS OF A PERSON OR PERSONS UNDER THE ORIGINAL
+16 CERTIFICATE".
+17
+18 (b) If an applicant for a paper certificate of title
+19 or electronic certificate of title required by this act is
+20 unable to provide the county clerk with a certificate of
+21 title that assigns the prior owner's interest, a notarized
+22 bill of sale or other evidence of ownership that satisfies
+23 the county clerk that the applicant owns the vehicle, a
+15 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 paper certificate of title or electronic certificate of
+2 title may be issued only if:
+3
+4 (i) The applicant submits an affidavit of
+5 vehicle ownership on a form prescribed by the department
+6 that shall be signed and sworn before a person who is
+7 authorized to administer oaths and affirmations. The
+8 affidavit shall contain:
+9
+10 (D) A statement that the applicant is the
+11 true and lawful owner of the vehicle and has the right to
+12 have a paper certificate of title or electronic certificate
+13 of title issued.
+14
+15 (c) If the vehicle for which the applicant is
+16 applying for a paper certificate of title or electronic
+17 certificate of title has a value less than two thousand
+18 five hundred dollars ($2,500.00), a paper title or
+19 electronic title may be issued without a bond if the
+20 applicant presents an affidavit of vehicle ownership, a
+21 notarized bill of sale, a certified, written statement of
+22 the value from a properly licensed Wyoming vehicle dealer
+23 and a vehicle identification number (VIN) inspection, or
+16 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 any other information the county clerk may require for
+2 proof of ownership, at the time of application.
+3
+4 (d) Any bond required by this section shall be
+5 executed by a surety duly authorized to carry on business
+6 in Wyoming or by individual sureties qualified as provided
+7 by W.S. 1-1-104 and 1-1-105. The amount of any bond
+8 required under this section shall not be less than double
+9 the value of the vehicle determined at the time of the
+10 application. If the value of the vehicle cannot be
+11 determined from any prior registration or title, the
+12 applicant shall provide the county clerk the value of the
+13 vehicle. The value of the vehicle shall be determined by
+14 the applicant or the surety from any current national
+15 appraisal guide, current or past registration if the value
+16 is present on any registration for the vehicle, or the
+17 value may be on certified written statement obtained from a
+18 properly licensed Wyoming vehicle dealer. The bond shall be
+19 conditioned to indemnify a prior owner, lienholder,
+20 subsequent purchaser, secured creditor or encumbrancer of
+21 the vehicle and any respective successors in interest
+22 against expenses, losses or damages, including reasonable
+23 attorney fees, caused by the issuance of the paper
+17 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 certificate of title or electronic certificate of title or
+2 by a defect in or undisclosed security interest upon the
+3 right, title and interest of the applicant in the vehicle.
+4
+5 (e) If any person suffers a loss or damage by reason
+6 of the filing or issuance of the paper certificate of title
+7 or electronic certificate of title as provided in this
+8 section, such person shall have a right of action to seek
+9 relief directly against the applicant and the surety on the
+10 applicant's bond against either of whom the person damaged
+11 may proceed independently of the other, but the aggregate
+12 liability of the surety to any or all persons seeking
+13 relief shall not exceed the total amount of the bond.
+14
+15 (f) If an applicant is applying for a paper
+16 certificate of title or electronic certificate of title to
+17 a vehicle which he will restore for his own personal use, a
+18 paper title or electronic title may be issued without a
+19 bond required by this section if the applicant presents an
+20 affidavit of vehicle ownership, a notarized bill of sale, a
+21 certified written statement of the value of the vehicle and
+22 a vehicle identification number (VIN) inspection, at the
+23 time of application. If the value of the vehicle cannot be
+18 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 determined from any prior registration or title, the
+2 applicant shall provide the county clerk the value of the
+3 vehicle. The value of the vehicle shall be determined from
+4 any current national appraisal guide, or the applicant may
+5 elect to submit a certified written statement obtained from
+6 a properly licensed Wyoming vehicle dealer stating the
+7 appraised value of the vehicle. Any paper certificate of
+8 title or electronic certificate of title issued under this
+9 subsection shall state on its face that it is
+10 nontransferable for one hundred eighty (180) days from the
+11 date title issued. Notwithstanding the other requirements
+12 of this subsection, a vehicle shall only be eligible to be
+13 titled under this subsection if, on the date the applicant
+14 purchased the vehicle it was not operational and could not
+15 have been rendered operational without substantial repairs
+16 to one (1) or more of the vehicle's mechanical systems. The
+17 department shall define the term "substantial repairs" by
+18 rule and regulation.
+19
+20 31-2-107. Titles for damaged vehicles; return of
+21 certificate of title and registration for damaged vehicle;
+22 replacement title and registration.
+23
+19 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 (a) When a motor vehicle is declared a total loss by
+2 the insurance company or, in the event an insurance company
+3 is not involved in the settlement of the claim, sustains
+4 damage in an amount exceeding seventy-five percent (75%) of
+5 its actual retail cash value, as set forth in any current
+6 edition of a nationally recognized automotive appraisal
+7 guide or other source approved by the Wyoming insurance
+8 department, the owner or insurance company, if it obtains
+9 ownership of the vehicle through transfer of title as a
+10 result of a settlement of an insurance claim, shall forward
+11 the properly endorsed certificate of title, either to the
+12 office of the county clerk or electronically through the
+13 electronic lien and title system established under W.S.
+14 31-2-113, to the office of the county clerk that issued the
+15 certificate of title together with an electronic
+16 application, submitted through the electronic lien and
+17 title system, for a certificate of title branded salvage
+18 and payment of the fee required under W.S. 31-3-102(a)(vii)
+19 to obtain a properly branded certificate of title. The
+20 owner or insurance company may request a paper certificate
+21 of title branded salvage from the office of the county
+22 clerk. For purposes of this section, a certificate of title
+23 endorsed by an electronic signature shall constitute a
+20 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 properly endorsed certificate of title, which need not be
+2 notarized. When any vehicle accident report is required
+3 under chapter 5, article 11 of this title, the
+4 investigating officer shall provide written notice to the
+5 owner or operator of the vehicle of the requirements under
+6 this section.
+7
+8 (f) If the owner of a motor vehicle retains the
+9 vehicle upon a settlement with an insurance company, and
+10 the vehicle has incurred damage requiring the vehicle to be
+11 issued a certificate of title branded "nonrepairable" or
+12 "salvage", the owner shall apply for the certificate of
+13 title electronically through the electronic lien and title
+14 system established under W.S. 31-2-113 or at the office of
+15 the county clerk in his own name with the applicable brand
+16 displayed on the certificate of title before the vehicle is
+17 commercially repaired or ownership of the vehicle is
+18 transferred.
+19
+20 (g) If an insurance company is not involved in a
+21 damage settlement involving a salvage vehicle, the motor
+22 vehicle owner shall apply for a certificate of title
+23 branded "salvage", electronically through the electronic
+21 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1 lien and title system established under W.S. 31-2-113 or at
+2 the office of the county clerk before the vehicle is
+3 commercially repaired or ownership of the vehicle is
+4 transferred.
+5
+6 (h) If a leased motor vehicle incurs damage requiring
+7 the vehicle to be issued a certificate of title branded
+8 "salvage", the lessor shall apply for a properly branded
+9 certificate of title electronically through the electronic
+10 lien and title system established under W.S. 31-2-113 or at
+11 the office of the county clerk after being notified by the
+12 lessee that the vehicle has been damaged. The lessee of the
+13 vehicle shall inform the lessor that the leased vehicle has
+14 been damaged within thirty (30) days after the occurrence
+15 of the damage.
+16
+17 (j) Any person acquiring ownership of a damaged motor
+18 vehicle that meets the definition of a salvage vehicle for
+19 which a certificate of title branded "salvage" has not been
+20 issued shall apply for a certificate of title
+21 electronically through the electronic lien and title system
+22 established under W.S. 31-2-113 or at the office of a
+23 county clerk before the vehicle is further transferred.
+22 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1
+2 (o) If an insurance company is unable to obtain a
+3 properly endorsed certificate of title within thirty (30)
+4 days of payment of damages in a claim settlement involving
+5 transfer of a salvage vehicle to the insurance company, the
+6 insurance company, an occupational licensee of the
+7 department authorized by the insurance company or a salvage
+8 pool authorized by the insurance company may request the
+9 county clerk issue a certificate of title branded salvage
+10 for the vehicle. The request shall be submitted on
+11 electronically through the electronic lien and title system
+12 established under W.S. 31-2-113 in a form format provided
+13 by the office of the county clerk and signed electronically
+14 with an electronic signature in accordance with W.S.
+15 40-21-101 through 40-21-119 under penalty of perjury. The
+16 request shall include and document evidence that the
+17 insurance company has paid a claim on the vehicle and has
+18 made at least two (2) written attempts to obtain the
+19 properly endorsed certificate of title at the last known
+20 address of the owner of the vehicle. The request shall also
+21 include a disclosure of any and all security interests,
+22 liens or encumbrances that are known to the insurance
+23 company and that are outstanding against the vehicle.
+23 SF0025
+
+2025 STATE OF WYOMING 25LSO-0074
+1
+2 Section 3. The department of transportation shall
+3 promulgate any rules necessary to implement this act. The
+4 department of transportation may contract with one (1) or
+5 more vendors to develop and implement the electronic lien
+6 and title system as authorized under section 1 of this act.
+7
+8 Section 4.
+9
+10 (a) Except as provided in subsection (b) of this
+11 section, this act is effective July 1, 2027.
+12
+13 (b) Sections 3 and 4 of this act are effective
+14 immediately upon completion of all acts necessary for a
+15 bill to become law as provided by Article 4, Section 8 of
+16 the Wyoming Constitution.
+17
+18 (END)
+24 SF0025

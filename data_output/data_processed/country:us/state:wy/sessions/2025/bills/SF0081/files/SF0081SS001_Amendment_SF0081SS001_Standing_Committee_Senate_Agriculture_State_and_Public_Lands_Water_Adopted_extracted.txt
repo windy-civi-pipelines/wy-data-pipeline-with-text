@@ -1,0 +1,41 @@
+Title: 3 "Section 2. The property tax exemption created in section 1
+Official Title: 3 "Section 2. The property tax exemption created in section 1
+Number of Sections: 1
+Source: versions - Amendment SF0081SS001 (Standing Committee) - Senate Agriculture, State and Public Lands & Water (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0081SS001
+1 Page 2-after line 3 Insert:
+2
+4 of this act shall apply to the tax year beginning January 1,
+5 2025.".
+6
+7 Page 2-line 5 Delete "Section 2." and insert "Section 3.";
+8 delete "January 1, 2025" and insert
+9 "immediately upon completion of all acts
+10 necessary for a bill to become law as provided
+11 by Article 4, Section 8 of the Wyoming
+12 Constitution". FRENCH, CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+SF0081SS001
+1 Page 2-after line 3 Insert:
+2
+3 "Section 2. The property tax exemption created in section 1
+4 of this act shall apply to the tax year beginning January 1,
+5 2025.".
+6
+7 Page 2-line 5 Delete "Section 2." and insert "Section 3.";
+8 delete "January 1, 2025" and insert
+9 "immediately upon completion of all acts
+10 necessary for a bill to become law as provided
+11 by Article 4, Section 8 of the Wyoming
+12 Constitution". FRENCH, CHAIRMAN
+1

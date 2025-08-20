@@ -1,0 +1,83 @@
+Title: Sponsored By: Joint Corporations, Elections & Political
+Official Title: Sponsored By: Joint Corporations, Elections & Political
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0059 Registered agents-release of records.
+Subdivisions Interim Committee
+AN ACT relating to registered offices and agents; authorizing the secretary of
+state to release confidential information maintained by registered agents as
+specified; and providing for an effective date.
+12/20/2024 Bill Number Assigned
+1/2/2025 S Received for Introduction
+1/14/2025 S Introduced and Referred to S07 - Corporations
+1/20/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/20/2025 S Placed on General File
+1/21/2025 S COW:Passed
+1/22/2025 S 2nd Reading:Passed
+1/23/2025 S 3rd Reading:Passed 29-1-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones,
+Kolb, Landen, Laursen, Mckeown, Nethercott, Pappas, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Steinmetz
+Nays: Senator Smith
+Excused: Senator Olsen
+Ayes 29 Nays 1 Excused 1 Absent 0 Conflicts 0
+1/23/2025 H Received for Introduction
+2/19/2025 H Introduced and Referred to H07 - Corporations
+2/27/2025 H07 - Corporations:Do Pass Failed 1-8-0-0-0
+ROLL CALL
+Ayes: Representative Yin
+Nays: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber
+Ayes 1 Nays 8 Excused 0 Absent 0 Conflicts 0
+3/3/2025 H No report prior to CoW Cutoff
+3/3/2025 H:Died in Committee Returned Bill Pursuant to HR 5-4
+
+
+================================================================================
+
+Raw Text:
+SF0059 Registered agents-release of records.
+Sponsored By: Joint Corporations, Elections & Political
+Subdivisions Interim Committee
+AN ACT relating to registered offices and agents; authorizing the secretary of
+state to release confidential information maintained by registered agents as
+specified; and providing for an effective date.
+12/20/2024 Bill Number Assigned
+1/2/2025 S Received for Introduction
+1/14/2025 S Introduced and Referred to S07 - Corporations
+1/20/2025 S07 - Corporations:Recommend Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Case, Dockstader, Landen, Steinmetz
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+1/20/2025 S Placed on General File
+1/21/2025 S COW:Passed
+1/22/2025 S 2nd Reading:Passed
+1/23/2025 S 3rd Reading:Passed 29-1-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Ide, Jones,
+Kolb, Landen, Laursen, Mckeown, Nethercott, Pappas, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Steinmetz
+Nays: Senator Smith
+Excused: Senator Olsen
+Ayes 29 Nays 1 Excused 1 Absent 0 Conflicts 0
+1/23/2025 H Received for Introduction
+2/19/2025 H Introduced and Referred to H07 - Corporations
+2/27/2025 H07 - Corporations:Do Pass Failed 1-8-0-0-0
+ROLL CALL
+Ayes: Representative Yin
+Nays: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber
+Ayes 1 Nays 8 Excused 0 Absent 0 Conflicts 0
+3/3/2025 H No report prior to CoW Cutoff
+3/3/2025 H:Died in Committee Returned Bill Pursuant to HR 5-4

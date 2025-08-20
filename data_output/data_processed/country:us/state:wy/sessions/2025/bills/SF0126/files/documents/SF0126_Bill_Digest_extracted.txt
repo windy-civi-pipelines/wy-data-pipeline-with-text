@@ -1,0 +1,227 @@
+Title: Sponsored By: Senator(s) Rothfuss, Biteman, Brennan, Crum and
+Official Title: Sponsored By: Senator(s) Rothfuss, Biteman, Brennan, Crum and
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0126 Establishment of a K-8 public lab school.
+Schuler and Representative(s) Andrew, Chestek,
+Johnson, Provenza, Sherwood and Singh
+AN ACT relating to education; providing definitions; requiring a kindergarten
+through grade eight (8) public lab school; specifying the purpose of the public
+lab school; creating a governing board; specifying membership of the governing
+board; specifying duties of the governing board; specifying enrollment
+requirements and preferences; specifying funding; requiring reporting;
+specifying the first year of enrollment; and providing for an effective date.
+1/16/2025 Bill Number Assigned
+1/17/2025 S Received for Introduction
+1/22/2025 S Introduced and Referred to S04 - Education
+1/29/2025 S04 - Education:Recommend Amend and Do Pass 3-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Brennan, Rothfuss, Scott
+Nays: Senator(s) Olsen, Schuler
+Ayes 3 Nays 2 Excused 0 Absent 0 Conflicts 0
+1/29/2025 S Placed on General File
+SF0126SS001/ADOPTED
+Page 3-line 22 Delete "21-17-502(c)" and insert "21-17-502(b)".
+Page 5-lines 17 through 22 Delete entirely and renumber as necessary.
+Page 6-line 1 Delete "(c)" and insert "(b)".
+Page 6-line 13 After "district" insert "or the University of Wyoming".
+Page 6-line 15 Delete "(d)" and insert "(c)".
+Page 6-line 19 Delete "(e)" and insert "(d)".
+Page 7-line 2 Delete "(f)" and insert "(e)".
+Page 7-line 9 Delete "(g)" and insert "(f)".
+Page 11-line 16 After "district" delete balance of line and insert ".".
+Page 11-line 17 Delete line through ".".
+Page 12-after line 11 Insert:
+"(c) Notwithstanding any other provision of law, the
+public lab school established pursuant to W.S. 21-17-
+501, as created by section 1 of this act, shall not be
+considered a new school by the department of education
+for purposes of generating resources under W.S. 21-17-
+504, as created by section 1 of this act, or for the
+purposes of the foundation program as defined by W.S.
+21-13-101(a)(v). To generate the necessary resources to
+fund the public lab school for school year 2025-2026,
+the department of education shall utilize the data and
+information from the University of Wyoming Lab School
+from school year 2024-2025 to determine the necessary
+resources under W.S. 21-13-101(a)(v).". SCHULER,
+CHAIRMAN
+2/6/2025 S COW:Passed
+2/7/2025 S 2nd Reading:Passed
+2/10/2025 S 3rd Reading:Passed 18-12-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Cooper, Crago, Driskill,
+Gierau, Hutchings, Landen, Laursen, Nethercott, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Smith
+Nays: Senator(s) Barlow, Case, Crum, Dockstader, French, Hicks, Ide, Jones,
+Kolb, Mckeown, Olsen, Steinmetz
+Excused: Senator Pappas
+Ayes 18 Nays 12 Excused 1 Absent 0 Conflicts 0
+2/10/2025 H Received for Introduction
+2/14/2025 H Introduced and Referred to H04 - Education
+2/19/2025 H04 - Education:Recommend Amend and Do Pass 5-4-0-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Guggenmos, Kelly, Singh, Strock
+Nays: Representative(s) Bratten, Erickson, Lawley, Williams
+Ayes 5 Nays 4 Excused 0 Absent 0 Conflicts 0
+2/19/2025 H Placed on General File
+SF0126HS001/ADOPTED (TO ENGROSSED COPY)
+Page 12-line 17 Delete "2024-2025" and insert "2023-2024". ANDREW,
+CHAIRMAN
+SF0126HW001/FAILED (TO ENGROSSED COPY)
+Page 3-line 1 After "(b)" delete balance of line.
+Page 3-lines 2 and 3 Delete entirely.
+Page 3-line 4 Delete "school district.".
+Page 4-line 4 After "of" insert "not less than".
+Page 4-line 5 After "seven (7)" insert ", but not more than nine
+(9),".
+Page 4-line 7 After "board" insert ":".
+Page 4-lines 8 through 14 Delete entirely and insert and renumber as
+necessary:
+"(i) Shall include the following seven (7) voting members:
+Page 4-line 16 Delete "(iii)" and insert "(A)".
+Page 4-line 19 Delete "(iv)" and insert "(B)".
+Page 4-line 22 Delete "(v)" and insert "(C)".
+Page 5-line 2 Delete "(vi) One (1) teacher that instructs" and insert
+"(D) Two (2) teachers that instruct".
+Page 5-line 7 Delete entirely and insert "(E) Two (2) parents of
+students that attend".
+Page 5-line 12 Delete "(viii)" and insert "(ii) Shall include" and
+renumber as necessary.
+Page 5-after line 15 Insert and renumber as necessary:
+"(iii) May, at the discretion of the resident school district,
+include the following two (2) voting members:
+(A) One (1) member that serves on the resident school
+district's board of trustees;
+(B) The superintendent of the resident school district, or
+his designee.". STROCK
+2/28/2025 H COW:Failed 24-32-6-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Brown, G, Campbell, K, Chestek,
+Connolly, Eklund, Filer, Guggenmos, Harshman, Hoeft, Johnson, Kelly, Lucas,
+Mccann, Ottman, Riggins, Rodriguez-Williams, Schmid, Smith, Styvar, Tarver,
+Wasserburger, Webb
+Nays: Representative(s) Angelos, Bear, Brady, Bratten, Brown, L, Byron,
+Campbell, E, Clouston, Erickson, Geringer, Haroldson, Heiner, Jarvis, Knapp,
+Larsen, Larson, Lawley, Lien, Locke, Neiman, Pendergraft, Posey, Provenza,
+Sherwood, Singh, Storer, Thayer, Washut, Webber, Williams, Wylie, Yin
+Excused: Representative(s) Banks, Davis, Nicholas, Strock, Wharff, Winter
+Ayes 24 Nays 32 Excused 6 Absent 0 Conflicts 0
+
+
+================================================================================
+
+Raw Text:
+SF0126 Establishment of a K-8 public lab school.
+Sponsored By: Senator(s) Rothfuss, Biteman, Brennan, Crum and
+Schuler and Representative(s) Andrew, Chestek,
+Johnson, Provenza, Sherwood and Singh
+AN ACT relating to education; providing definitions; requiring a kindergarten
+through grade eight (8) public lab school; specifying the purpose of the public
+lab school; creating a governing board; specifying membership of the governing
+board; specifying duties of the governing board; specifying enrollment
+requirements and preferences; specifying funding; requiring reporting;
+specifying the first year of enrollment; and providing for an effective date.
+1/16/2025 Bill Number Assigned
+1/17/2025 S Received for Introduction
+1/22/2025 S Introduced and Referred to S04 - Education
+1/29/2025 S04 - Education:Recommend Amend and Do Pass 3-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Brennan, Rothfuss, Scott
+Nays: Senator(s) Olsen, Schuler
+Ayes 3 Nays 2 Excused 0 Absent 0 Conflicts 0
+1/29/2025 S Placed on General File
+SF0126SS001/ADOPTED
+Page 3-line 22 Delete "21-17-502(c)" and insert "21-17-502(b)".
+Page 5-lines 17 through 22 Delete entirely and renumber as necessary.
+Page 6-line 1 Delete "(c)" and insert "(b)".
+Page 6-line 13 After "district" insert "or the University of Wyoming".
+Page 6-line 15 Delete "(d)" and insert "(c)".
+Page 6-line 19 Delete "(e)" and insert "(d)".
+Page 7-line 2 Delete "(f)" and insert "(e)".
+Page 7-line 9 Delete "(g)" and insert "(f)".
+Page 11-line 16 After "district" delete balance of line and insert ".".
+Page 11-line 17 Delete line through ".".
+Page 12-after line 11 Insert:
+"(c) Notwithstanding any other provision of law, the
+public lab school established pursuant to W.S. 21-17-
+501, as created by section 1 of this act, shall not be
+considered a new school by the department of education
+for purposes of generating resources under W.S. 21-17-
+504, as created by section 1 of this act, or for the
+purposes of the foundation program as defined by W.S.
+21-13-101(a)(v). To generate the necessary resources to
+
+fund the public lab school for school year 2025-2026,
+the department of education shall utilize the data and
+information from the University of Wyoming Lab School
+from school year 2024-2025 to determine the necessary
+resources under W.S. 21-13-101(a)(v).". SCHULER,
+CHAIRMAN
+2/6/2025 S COW:Passed
+2/7/2025 S 2nd Reading:Passed
+2/10/2025 S 3rd Reading:Passed 18-12-1-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Biteman, Boner, Brennan, Cooper, Crago, Driskill,
+Gierau, Hutchings, Landen, Laursen, Nethercott, Pearson, Rothfuss, Salazar,
+Schuler, Scott, Smith
+Nays: Senator(s) Barlow, Case, Crum, Dockstader, French, Hicks, Ide, Jones,
+Kolb, Mckeown, Olsen, Steinmetz
+Excused: Senator Pappas
+Ayes 18 Nays 12 Excused 1 Absent 0 Conflicts 0
+2/10/2025 H Received for Introduction
+2/14/2025 H Introduced and Referred to H04 - Education
+2/19/2025 H04 - Education:Recommend Amend and Do Pass 5-4-0-0-0
+ROLL CALL
+Ayes: Representative(s) Andrew, Guggenmos, Kelly, Singh, Strock
+Nays: Representative(s) Bratten, Erickson, Lawley, Williams
+Ayes 5 Nays 4 Excused 0 Absent 0 Conflicts 0
+2/19/2025 H Placed on General File
+SF0126HS001/ADOPTED (TO ENGROSSED COPY)
+Page 12-line 17 Delete "2024-2025" and insert "2023-2024". ANDREW,
+CHAIRMAN
+SF0126HW001/FAILED (TO ENGROSSED COPY)
+Page 3-line 1 After "(b)" delete balance of line.
+Page 3-lines 2 and 3 Delete entirely.
+Page 3-line 4 Delete "school district.".
+Page 4-line 4 After "of" insert "not less than".
+Page 4-line 5 After "seven (7)" insert ", but not more than nine
+(9),".
+Page 4-line 7 After "board" insert ":".
+Page 4-lines 8 through 14 Delete entirely and insert and renumber as
+necessary:
+"(i) Shall include the following seven (7) voting members:
+Page 4-line 16 Delete "(iii)" and insert "(A)".
+Page 4-line 19 Delete "(iv)" and insert "(B)".
+
+Page 4-line 22 Delete "(v)" and insert "(C)".
+Page 5-line 2 Delete "(vi) One (1) teacher that instructs" and insert
+"(D) Two (2) teachers that instruct".
+Page 5-line 7 Delete entirely and insert "(E) Two (2) parents of
+students that attend".
+Page 5-line 12 Delete "(viii)" and insert "(ii) Shall include" and
+renumber as necessary.
+Page 5-after line 15 Insert and renumber as necessary:
+"(iii) May, at the discretion of the resident school district,
+include the following two (2) voting members:
+(A) One (1) member that serves on the resident school
+district's board of trustees;
+(B) The superintendent of the resident school district, or
+his designee.". STROCK
+2/28/2025 H COW:Failed 24-32-6-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Brown, G, Campbell, K, Chestek,
+Connolly, Eklund, Filer, Guggenmos, Harshman, Hoeft, Johnson, Kelly, Lucas,
+Mccann, Ottman, Riggins, Rodriguez-Williams, Schmid, Smith, Styvar, Tarver,
+Wasserburger, Webb
+Nays: Representative(s) Angelos, Bear, Brady, Bratten, Brown, L, Byron,
+Campbell, E, Clouston, Erickson, Geringer, Haroldson, Heiner, Jarvis, Knapp,
+Larsen, Larson, Lawley, Lien, Locke, Neiman, Pendergraft, Posey, Provenza,
+Sherwood, Singh, Storer, Thayer, Washut, Webber, Williams, Wylie, Yin
+Excused: Representative(s) Banks, Davis, Nicholas, Strock, Wharff, Winter
+Ayes 24 Nays 32 Excused 6 Absent 0 Conflicts 0

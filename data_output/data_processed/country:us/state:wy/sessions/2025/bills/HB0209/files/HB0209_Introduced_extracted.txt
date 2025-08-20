@@ -1,0 +1,129 @@
+Title: HOUSE BILL NO. HB0209
+Official Title: HOUSE BILL NO. HB0209
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0502
+Reliable and dispatchable low-carbon standards-repeal.
+Sponsored by: Representative(s) Knapp, Angelos, Clouston,
+Haroldson, Tarver and Winter and Senator(s)
+Hicks, Laursen, D, McKeown and Steinmetz
+A BILL
+for
+1 AN ACT relating to public utilities; repealing low-carbon
+2 energy standard requirements; repealing conflicting
+3 provisions; making conforming amendments; specifying
+4 applicability; requiring rulemaking; and providing for an
+5 effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 37-1-101(a)(intro) and 37-2-134(a)(i)
+10 and (iv) are amended to read:
+11
+12 37-1-101. Definitions.
+13
+14 (a) As used in chapters 1, 2, 3, 12, and 17 and 18 of
+15 this title:
+1 HB0209
+2025 STATE OF WYOMING 25LSO-0502
+1
+2 37-2-134. Electric generation facility closures;
+3 presumption; commission review.
+4
+5 (a) As used in this section:
+6
+7 (i) "Dispatchable" means as defined in W.S.
+8 37-18-101(a)(ii) a source of electricity that is available
+9 for use on demand and that can be dispatched upon request
+10 of a power grid operator or that can have its power output
+11 adjusted, according to market needs and includes
+12 dispatchability;
+13
+14 (iv) "Reliable" means as defined in W.S.
+15 37-18-101(a)(iv) generated electricity that is not subject
+16 to intermittent availability.
+17
+18 Section 2. W.S. 37-1-101(a)(vi)(N), 37-18-101 and
+19 37-18-102 are repealed.
+20
+21 Section 3. The public service commission shall
+22 promulgate all rules necessary to implement this act.
+23
+2 HB0209
+2025 STATE OF WYOMING 25LSO-0502
+1 Section 4. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+3 HB0209
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0502
+HOUSE BILL NO. HB0209
+Reliable and dispatchable low-carbon standards-repeal.
+Sponsored by: Representative(s) Knapp, Angelos, Clouston,
+Haroldson, Tarver and Winter and Senator(s)
+Hicks, Laursen, D, McKeown and Steinmetz
+A BILL
+for
+1 AN ACT relating to public utilities; repealing low-carbon
+2 energy standard requirements; repealing conflicting
+3 provisions; making conforming amendments; specifying
+4 applicability; requiring rulemaking; and providing for an
+5 effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 37-1-101(a)(intro) and 37-2-134(a)(i)
+10 and (iv) are amended to read:
+11
+12 37-1-101. Definitions.
+13
+14 (a) As used in chapters 1, 2, 3, 12, and 17 and 18 of
+15 this title:
+1 HB0209
+
+2025 STATE OF WYOMING 25LSO-0502
+1
+2 37-2-134. Electric generation facility closures;
+3 presumption; commission review.
+4
+5 (a) As used in this section:
+6
+7 (i) "Dispatchable" means as defined in W.S.
+8 37-18-101(a)(ii) a source of electricity that is available
+9 for use on demand and that can be dispatched upon request
+10 of a power grid operator or that can have its power output
+11 adjusted, according to market needs and includes
+12 dispatchability;
+13
+14 (iv) "Reliable" means as defined in W.S.
+15 37-18-101(a)(iv) generated electricity that is not subject
+16 to intermittent availability.
+17
+18 Section 2. W.S. 37-1-101(a)(vi)(N), 37-18-101 and
+19 37-18-102 are repealed.
+20
+21 Section 3. The public service commission shall
+22 promulgate all rules necessary to implement this act.
+23
+2 HB0209
+
+2025 STATE OF WYOMING 25LSO-0502
+1 Section 4. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+3 HB0209

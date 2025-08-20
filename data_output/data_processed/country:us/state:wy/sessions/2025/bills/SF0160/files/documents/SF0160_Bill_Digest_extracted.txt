@@ -1,0 +1,170 @@
+Title: Sponsored By: Senator(s) Olsen, Barlow, Crago and Nethercott and
+Official Title: Sponsored By: Senator(s) Olsen, Barlow, Crago and Nethercott and
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0160 Treatment courts-amendments-2.
+Representative(s) Filer, Singh and Washut
+AN ACT relating to courts; amending the Court Supervised Treatment Program Act
+to include mental health treatment; authorizing court supervised treatment
+programs to accept participants from any other jurisdiction in this state;
+amending the Public Defender Act to allow the public defender to participate as
+a team member in court supervised treatment programs and represent participants
+in those programs; changing the term "substance abuse" to "substance use";
+amending definitions; creating definitions; making conforming amendments;
+authorizing rulemaking; repealing provisions; and providing for an effective
+date.
+1/22/2025 Bill Number Assigned
+1/23/2025 S Received for Introduction
+1/29/2025 S Introduced and Referred to S01 - Judiciary
+2/4/2025 S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, Crum, Hicks, Kolb, Olsen
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/4/2025 S Placed on General File
+SF0160SS001/FAILED
+Page 5-lines 13 and 14 Delete entirely and insert:
+"(xix) "Mental illness" means schizophrenia, schizoaffective
+disorder, major depressive disorder, post-traumatic stress disorder or bipolar
+disorder, as diagnosed by a mental health professional;". OLSEN, CHAIRMAN
+2/5/2025 S COW:Passed
+2/6/2025 S 2nd Reading:Passed
+2/7/2025 S 3rd Reading:Passed 27-4-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Jones, Kolb, Landen,
+Laursen, Mckeown, Nethercott, Olsen, Pappas, Rothfuss, Salazar, Schuler, Scott,
+Smith
+Nays: Senator(s) Hutchings, Ide, Pearson, Steinmetz
+Ayes 27 Nays 4 Excused 0 Absent 0 Conflicts 0
+2/7/2025 H Received for Introduction
+2/20/2025 H Introduced and Referred to H01 - Judiciary
+2/24/2025 H01 - Judiciary:Recommend Do Pass 5-4-0-0-0
+ROLL CALL
+Ayes: Representative(s) Chestek, Filer, Kelly, Singh, Washut
+Nays: Representative(s) Brady, Bratten, Lien, Webb
+Ayes 5 Nays 4 Excused 0 Absent 0 Conflicts 0
+2/24/2025 H Placed on General File
+SF0160HW001/ADOPTED (CORRECTED COPY)
+Page 5-lines 13 and 14 Delete entirely and insert:
+"(xix) For purposes of W.S. 5-12-101 through 5-12-118, "mental
+illness" means schizophrenia, schizoaffective disorder, major depressive
+disorder, post-traumatic stress disorder or bipolar disorder, as diagnosed by
+a mental health professional;". BRATTEN, LIEN
+2/28/2025 H COW:Passed
+3/3/2025 H 2nd Reading:Passed
+3/4/2025 H 3rd Reading:Passed 38-22-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Banks, Bratten, Brown, L, Byron,
+Campbell, E, Chestek, Clouston, Connolly, Davis, Eklund, Erickson, Filer,
+Geringer, Harshman, Hoeft, Jarvis, Kelly, Larsen, Larson, Lawley, Nicholas,
+Ottman, Posey, Provenza, Rodriguez-Williams, Sherwood, Singh, Styvar, Tarver,
+Thayer, Washut, Wasserburger, Wharff, Williams, Wylie, Yin
+Nays: Representative(s) Angelos, Bear, Brady, Brown, G, Campbell, K, Guggenmos,
+Haroldson, Heiner, Johnson, Knapp, Lien, Locke, Mccann, Neiman, Pendergraft,
+Riggins, Schmid, Smith, Strock, Webb, Webber, Winter
+Excused: Representative(s) Lucas, Storer
+Ayes 38 Nays 22 Excused 2 Absent 0 Conflicts 0
+3/4/2025 S Received for Concurrence
+3/4/2025 S Concur:Passed 28-3-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Jones,
+Kolb, Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Rothfuss, Salazar,
+Schuler, Scott, Smith
+Nays: Senator(s) Ide, Pearson, Steinmetz
+Ayes 28 Nays 3 Excused 0 Absent 0 Conflicts 0
+3/4/2025 Assigned Number SEA No. 0090
+3/4/2025 S President Signed SEA No. 0090
+3/5/2025 H Speaker Signed SEA No. 0090
+3/18/2025 Governor Signed SEA No. 0090
+3/18/2025 Assigned Chapter Number 160
+Chapter No. 160 Session Laws of Wyoming 2025
+
+
+================================================================================
+
+Raw Text:
+SF0160 Treatment courts-amendments-2.
+Sponsored By: Senator(s) Olsen, Barlow, Crago and Nethercott and
+Representative(s) Filer, Singh and Washut
+AN ACT relating to courts; amending the Court Supervised Treatment Program Act
+to include mental health treatment; authorizing court supervised treatment
+programs to accept participants from any other jurisdiction in this state;
+amending the Public Defender Act to allow the public defender to participate as
+a team member in court supervised treatment programs and represent participants
+in those programs; changing the term "substance abuse" to "substance use";
+amending definitions; creating definitions; making conforming amendments;
+authorizing rulemaking; repealing provisions; and providing for an effective
+date.
+1/22/2025 Bill Number Assigned
+1/23/2025 S Received for Introduction
+1/29/2025 S Introduced and Referred to S01 - Judiciary
+2/4/2025 S01 - Judiciary:Recommend Amend and Do Pass 5-0-0-0-0
+ROLL CALL
+Ayes: Senator(s) Crago, Crum, Hicks, Kolb, Olsen
+Ayes 5 Nays 0 Excused 0 Absent 0 Conflicts 0
+2/4/2025 S Placed on General File
+SF0160SS001/FAILED
+Page 5-lines 13 and 14 Delete entirely and insert:
+"(xix) "Mental illness" means schizophrenia, schizoaffective
+disorder, major depressive disorder, post-traumatic stress disorder or bipolar
+disorder, as diagnosed by a mental health professional;". OLSEN, CHAIRMAN
+2/5/2025 S COW:Passed
+2/6/2025 S 2nd Reading:Passed
+2/7/2025 S 3rd Reading:Passed 27-4-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Jones, Kolb, Landen,
+Laursen, Mckeown, Nethercott, Olsen, Pappas, Rothfuss, Salazar, Schuler, Scott,
+Smith
+Nays: Senator(s) Hutchings, Ide, Pearson, Steinmetz
+Ayes 27 Nays 4 Excused 0 Absent 0 Conflicts 0
+2/7/2025 H Received for Introduction
+2/20/2025 H Introduced and Referred to H01 - Judiciary
+2/24/2025 H01 - Judiciary:Recommend Do Pass 5-4-0-0-0
+ROLL CALL
+Ayes: Representative(s) Chestek, Filer, Kelly, Singh, Washut
+Nays: Representative(s) Brady, Bratten, Lien, Webb
+Ayes 5 Nays 4 Excused 0 Absent 0 Conflicts 0
+2/24/2025 H Placed on General File
+
+SF0160HW001/ADOPTED (CORRECTED COPY)
+Page 5-lines 13 and 14 Delete entirely and insert:
+"(xix) For purposes of W.S. 5-12-101 through 5-12-118, "mental
+illness" means schizophrenia, schizoaffective disorder, major depressive
+disorder, post-traumatic stress disorder or bipolar disorder, as diagnosed by
+a mental health professional;". BRATTEN, LIEN
+2/28/2025 H COW:Passed
+3/3/2025 H 2nd Reading:Passed
+3/4/2025 H 3rd Reading:Passed 38-22-2-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Banks, Bratten, Brown, L, Byron,
+Campbell, E, Chestek, Clouston, Connolly, Davis, Eklund, Erickson, Filer,
+Geringer, Harshman, Hoeft, Jarvis, Kelly, Larsen, Larson, Lawley, Nicholas,
+Ottman, Posey, Provenza, Rodriguez-Williams, Sherwood, Singh, Styvar, Tarver,
+Thayer, Washut, Wasserburger, Wharff, Williams, Wylie, Yin
+Nays: Representative(s) Angelos, Bear, Brady, Brown, G, Campbell, K, Guggenmos,
+Haroldson, Heiner, Johnson, Knapp, Lien, Locke, Mccann, Neiman, Pendergraft,
+Riggins, Schmid, Smith, Strock, Webb, Webber, Winter
+Excused: Representative(s) Lucas, Storer
+Ayes 38 Nays 22 Excused 2 Absent 0 Conflicts 0
+3/4/2025 S Received for Concurrence
+3/4/2025 S Concur:Passed 28-3-0-0-0
+ROLL CALL
+Ayes: Senator(s) Anderson, Barlow, Biteman, Boner, Brennan, Case, Cooper,
+Crago, Crum, Dockstader, Driskill, French, Gierau, Hicks, Hutchings, Jones,
+Kolb, Landen, Laursen, Mckeown, Nethercott, Olsen, Pappas, Rothfuss, Salazar,
+Schuler, Scott, Smith
+Nays: Senator(s) Ide, Pearson, Steinmetz
+Ayes 28 Nays 3 Excused 0 Absent 0 Conflicts 0
+3/4/2025 Assigned Number SEA No. 0090
+3/4/2025 S President Signed SEA No. 0090
+3/5/2025 H Speaker Signed SEA No. 0090
+3/18/2025 Governor Signed SEA No. 0090
+3/18/2025 Assigned Chapter Number 160
+Chapter No. 160 Session Laws of Wyoming 2025

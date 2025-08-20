@@ -1,0 +1,65 @@
+Title: GENERAL FUND ($26,200,000) ($27,000,000) ($27,600,000)
+Official Title: GENERAL FUND ($26,200,000) ($27,000,000) ($27,600,000)
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Sales tax on services-repeal. 25LSO-0462, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+LOCAL SOURCES FUND ($25,200,000) ($25,900,000) ($26,600,000)
+Source of revenue (decrease):
+This bill repeals the sales and use tax on services performed for the repair,
+alteration or improvement of tangible personal property.
+Assumptions:
+The above estimates are based on the FY 2024 sales and use taxes collected on
+services of $49,494,290, as reported in the Department of Revenue’s Total
+Distribution by Major Business Class and by County Report (NAICS code 81). The FY
+2024 total sales and use tax is increased by the projected growth rates in sales
+and use taxes to the General Fund, reflected in Table 1 of the October 2024
+Consensus Revenue Estimating Group (CREG) forecast.
+The weighted average Wyoming sales tax rate is assumed to be 5.45 percent, based
+on fiscal year 2024 sales and use tax collections. Approximately 51 percent of
+the average sales tax rate goes to the General Fund, and the remaining 49 percent
+goes to cities, towns, and counties.
+This bill is effective July 1, 2025, impacting sales and use taxes collected
+beginning in FY 2026.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5220)
+HB0126
+
+
+================================================================================
+
+Raw Text:
+Sales tax on services-repeal. 25LSO-0462, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+GENERAL FUND ($26,200,000) ($27,000,000) ($27,600,000)
+LOCAL SOURCES FUND ($25,200,000) ($25,900,000) ($26,600,000)
+Source of revenue (decrease):
+This bill repeals the sales and use tax on services performed for the repair,
+alteration or improvement of tangible personal property.
+Assumptions:
+The above estimates are based on the FY 2024 sales and use taxes collected on
+services of $49,494,290, as reported in the Department of Revenue’s Total
+Distribution by Major Business Class and by County Report (NAICS code 81). The FY
+2024 total sales and use tax is increased by the projected growth rates in sales
+and use taxes to the General Fund, reflected in Table 1 of the October 2024
+Consensus Revenue Estimating Group (CREG) forecast.
+The weighted average Wyoming sales tax rate is assumed to be 5.45 percent, based
+on fiscal year 2024 sales and use tax collections. Approximately 51 percent of
+the average sales tax rate goes to the General Fund, and the remaining 49 percent
+goes to cities, towns, and counties.
+This bill is effective July 1, 2025, impacting sales and use taxes collected
+beginning in FY 2026.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Bret Fanning, Department of Revenue, 777-5220)
+HB0126

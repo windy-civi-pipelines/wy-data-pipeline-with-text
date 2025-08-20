@@ -1,0 +1,154 @@
+Title: Sponsored By: Representative(s) Bratten, Angelos, Kelly, Locke,
+Official Title: Sponsored By: Representative(s) Bratten, Angelos, Kelly, Locke,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0176 Vacancies in public office-amendments.
+Neiman, Pendergraft and Webb and Senator(s) Biteman
+AN ACT relating to elections; amending the process by which vacancies in elected
+offices are filled; providing for the filling of vacancies when vacancies are
+not filled; establishing a presumption concerning qualifications to hold office;
+making conforming amendments; repealing conflicting provisions; and providing
+for an effective date.
+1/14/2025 Bill Number Assigned
+1/14/2025 H Received for Introduction
+2/3/2025 H Introduced and Referred to H02 - Appropriations
+2/6/2025 H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft, Smith
+Nays: Representative Sherwood
+Ayes 6 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/6/2025 H Placed on General File
+HB0176HS001/ADOPTED
+Page 1-line 11 After "W.S." insert "18-3-524(a) by creating a new
+paragraph (iii) and".
+Page 1-line 12 Delete "is" and insert "are".
+Page 1-after line 12 Insert:
+"18-3-524. Appointments to fill vacancies; term.
+(a) Within twenty (20) days after the office of any county commissioner
+becomes vacant the remaining members of the board shall declare a vacancy to
+exist and immediately give notice of the vacancy in writing to the chairman of
+the county central committee of the political party which the member whose
+office is vacant represented at the time of his election under W.S. 22-6-
+120(a)(vii), or at the time of his appointment if not elected to office. The
+chairman of the county central committee shall within twenty (20) days after
+receipt of the notice call a meeting of the county central committee. At the
+meeting the committee shall select three (3) persons qualified to fill the
+vacancy and transmit the names to the board of county commissioners. The board
+of county commissioners shall fill the vacancy within twenty (20) days after
+receiving the list from the county central committee by appointing one (1) of
+the persons whose names are submitted by the county central committee:
+(iii) If a vacancy is not otherwise filled as provided in this
+subsection, the following shall apply:
+(A) If the incumbent who has vacated an office represented
+a political party and if the county commissioners fail to fill a vacancy within
+the time specified in this subsection and do not fill the vacancy in accordance
+with paragraph (i) of this subsection, the county central committee shall fill
+the vacancy by temporary appointment to the office from the three (3) names
+submitted to the board of county commissioners under this subsection;
+(B) If the incumbent who has vacated an office did not
+represent a political party at the time of the election under W.S. 22-6-
+120(a)(vii) and if the county commissioners do not fill the vacancy by
+appointing a person within the time specified in this subsection, a special
+election shall be held in accordance with W.S. 22-18-109.".
+Page 4-line 12 After "W.S." insert "18-3-524(b) and"; delete "is" and
+insert "are". BEAR, CHAIRMAN
+2/10/2025 H COW:Passed
+2/11/2025 H 2nd Reading:Passed
+HB0176H3001/WITHDRAWN
+2/12/2025 H 3rd Reading:Passed 55-3-4-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Connolly,
+Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman,
+Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien,
+Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Provenza, Rodriguez-
+Williams, Schmid, Singh, Strock, Styvar, Tarver, Thayer, Washut, Wasserburger,
+Webb, Webber, Wharff, Williams, Winter, Wylie
+Nays: Representative(s) Nicholas, Sherwood, Yin
+Excused: Representative(s) Clouston, Riggins, Smith, Storer
+Ayes 55 Nays 3 Excused 4 Absent 0 Conflicts 0
+2/13/2025 S Received for Introduction
+2/14/2025 S Introduced and Referred to S07 - Corporations
+2/28/2025 S No report prior to CoW Cutoff
+3/3/2025 S:Died in Committee Returned Bill Pursuant to SR 5-4
+
+
+================================================================================
+
+Raw Text:
+HB0176 Vacancies in public office-amendments.
+Sponsored By: Representative(s) Bratten, Angelos, Kelly, Locke,
+Neiman, Pendergraft and Webb and Senator(s) Biteman
+AN ACT relating to elections; amending the process by which vacancies in elected
+offices are filled; providing for the filling of vacancies when vacancies are
+not filled; establishing a presumption concerning qualifications to hold office;
+making conforming amendments; repealing conflicting provisions; and providing
+for an effective date.
+1/14/2025 Bill Number Assigned
+1/14/2025 H Received for Introduction
+2/3/2025 H Introduced and Referred to H02 - Appropriations
+2/6/2025 H02 - Appropriations:Recommend Amend and Do Pass 6-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Angelos, Bear, Haroldson, Pendergraft, Smith
+Nays: Representative Sherwood
+Ayes 6 Nays 1 Excused 0 Absent 0 Conflicts 0
+2/6/2025 H Placed on General File
+HB0176HS001/ADOPTED
+Page 1-line 11 After "W.S." insert "18-3-524(a) by creating a new
+paragraph (iii) and".
+Page 1-line 12 Delete "is" and insert "are".
+Page 1-after line 12 Insert:
+"18-3-524. Appointments to fill vacancies; term.
+(a) Within twenty (20) days after the office of any county commissioner
+becomes vacant the remaining members of the board shall declare a vacancy to
+exist and immediately give notice of the vacancy in writing to the chairman of
+the county central committee of the political party which the member whose
+office is vacant represented at the time of his election under W.S. 22-6-
+120(a)(vii), or at the time of his appointment if not elected to office. The
+chairman of the county central committee shall within twenty (20) days after
+receipt of the notice call a meeting of the county central committee. At the
+meeting the committee shall select three (3) persons qualified to fill the
+vacancy and transmit the names to the board of county commissioners. The board
+of county commissioners shall fill the vacancy within twenty (20) days after
+receiving the list from the county central committee by appointing one (1) of
+the persons whose names are submitted by the county central committee:
+(iii) If a vacancy is not otherwise filled as provided in this
+subsection, the following shall apply:
+(A) If the incumbent who has vacated an office represented
+a political party and if the county commissioners fail to fill a vacancy within
+the time specified in this subsection and do not fill the vacancy in accordance
+with paragraph (i) of this subsection, the county central committee shall fill
+the vacancy by temporary appointment to the office from the three (3) names
+submitted to the board of county commissioners under this subsection;
+
+(B) If the incumbent who has vacated an office did not
+represent a political party at the time of the election under W.S. 22-6-
+120(a)(vii) and if the county commissioners do not fill the vacancy by
+appointing a person within the time specified in this subsection, a special
+election shall be held in accordance with W.S. 22-18-109.".
+Page 4-line 12 After "W.S." insert "18-3-524(b) and"; delete "is" and
+insert "are". BEAR, CHAIRMAN
+2/10/2025 H COW:Passed
+2/11/2025 H 2nd Reading:Passed
+HB0176H3001/WITHDRAWN
+2/12/2025 H 3rd Reading:Passed 55-3-4-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, E, Campbell, K, Chestek, Connolly,
+Davis, Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman,
+Heiner, Hoeft, Jarvis, Johnson, Kelly, Knapp, Larsen, Larson, Lawley, Lien,
+Locke, Lucas, Mccann, Neiman, Ottman, Pendergraft, Posey, Provenza, Rodriguez-
+Williams, Schmid, Singh, Strock, Styvar, Tarver, Thayer, Washut, Wasserburger,
+Webb, Webber, Wharff, Williams, Winter, Wylie
+Nays: Representative(s) Nicholas, Sherwood, Yin
+Excused: Representative(s) Clouston, Riggins, Smith, Storer
+Ayes 55 Nays 3 Excused 4 Absent 0 Conflicts 0
+2/13/2025 S Received for Introduction
+2/14/2025 S Introduced and Referred to S07 - Corporations
+2/28/2025 S No report prior to CoW Cutoff
+3/3/2025 S:Died in Committee Returned Bill Pursuant to SR 5-4

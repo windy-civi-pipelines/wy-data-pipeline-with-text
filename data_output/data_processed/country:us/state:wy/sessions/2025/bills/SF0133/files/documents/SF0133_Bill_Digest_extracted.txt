@@ -1,0 +1,81 @@
+Title: Sponsored By: Senator(s) Brennan, Biteman, Hutchings, Pearson,
+Official Title: Sponsored By: Senator(s) Brennan, Biteman, Hutchings, Pearson,
+Number of Sections: 1
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0133 Protection of parental rights-amendments.
+Smith, D and Steinmetz and Representative(s) Andrew,
+Lawley, Neiman, Ottman, Rodriguez-Williams and Singh
+AN ACT relating to parental rights; authorizing claims and defenses against
+governmental action violating parental rights as specified; and providing for
+an effective date.
+1/17/2025 Bill Number Assigned
+1/20/2025 S Received for Introduction
+1/23/2025 S Introduced and Referred to S01 - Judiciary
+1/28/2025 S01 - Judiciary:Recommend Amend and Do Pass 3-1-1-0-0
+ROLL CALL
+Ayes: Senator(s) Hicks, Kolb, Olsen
+Nays: Senator Crago
+Excused: Senator Crum
+Ayes 3 Nays 1 Excused 1 Absent 0 Conflicts 0
+1/28/2025 S Placed on General File
+SF0133SS001/ADOPTED
+Page 2-line 23 Delete "or will be infringed".
+Page 3-line 1 Delete "or".
+Page 3-line 2 Delete "impending violation". OLSEN, CHAIRMAN
+2/6/2025 S COW:Passed 17-14-0-0-0
+ROLL CALL
+Ayes: Senator(s) Barlow, Biteman, Boner, Brennan, Dockstader, French, Hicks,
+Hutchings, Ide, Kolb, Laursen, Mckeown, Pearson, Salazar, Scott, Smith,
+Steinmetz
+Nays: Senator(s) Anderson, Case, Cooper, Crago, Crum, Driskill, Gierau, Jones,
+Landen, Nethercott, Olsen, Pappas, Rothfuss, Schuler
+Ayes 17 Nays 14 Excused 0 Absent 0 Conflicts 0
+2/7/2025 S 2nd Reading:Laid Back
+2/10/2025 S 2nd Reading:Laid Back
+2/11/2025 S 2nd Reading:Laid Back
+2/11/2025 S 2nd Reading:S Did not consider for 2nd Reading
+2/11/2025 S postponed indefinitely
+
+
+================================================================================
+
+Raw Text:
+SF0133 Protection of parental rights-amendments.
+Sponsored By: Senator(s) Brennan, Biteman, Hutchings, Pearson,
+Smith, D and Steinmetz and Representative(s) Andrew,
+Lawley, Neiman, Ottman, Rodriguez-Williams and Singh
+AN ACT relating to parental rights; authorizing claims and defenses against
+governmental action violating parental rights as specified; and providing for
+an effective date.
+1/17/2025 Bill Number Assigned
+1/20/2025 S Received for Introduction
+1/23/2025 S Introduced and Referred to S01 - Judiciary
+1/28/2025 S01 - Judiciary:Recommend Amend and Do Pass 3-1-1-0-0
+ROLL CALL
+Ayes: Senator(s) Hicks, Kolb, Olsen
+Nays: Senator Crago
+Excused: Senator Crum
+Ayes 3 Nays 1 Excused 1 Absent 0 Conflicts 0
+1/28/2025 S Placed on General File
+SF0133SS001/ADOPTED
+Page 2-line 23 Delete "or will be infringed".
+Page 3-line 1 Delete "or".
+Page 3-line 2 Delete "impending violation". OLSEN, CHAIRMAN
+2/6/2025 S COW:Passed 17-14-0-0-0
+ROLL CALL
+Ayes: Senator(s) Barlow, Biteman, Boner, Brennan, Dockstader, French, Hicks,
+Hutchings, Ide, Kolb, Laursen, Mckeown, Pearson, Salazar, Scott, Smith,
+Steinmetz
+Nays: Senator(s) Anderson, Case, Cooper, Crago, Crum, Driskill, Gierau, Jones,
+Landen, Nethercott, Olsen, Pappas, Rothfuss, Schuler
+Ayes 17 Nays 14 Excused 0 Absent 0 Conflicts 0
+2/7/2025 S 2nd Reading:Laid Back
+2/10/2025 S 2nd Reading:Laid Back
+2/11/2025 S 2nd Reading:Laid Back
+2/11/2025 S 2nd Reading:S Did not consider for 2nd Reading
+2/11/2025 S postponed indefinitely

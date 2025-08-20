@@ -1,0 +1,192 @@
+Title: HOUSE BILL NO. HB0195
+Official Title: HOUSE BILL NO. HB0195
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0583
+Credit reporting-medical debt.
+Sponsored by: Representative(s) Provenza and Andrew and
+Senator(s) Barlow and Hutchings
+A BILL
+for
+1 AN ACT relating to consumer protection; prohibiting the
+2 reporting of medical debt to credit reporting agencies;
+3 creating a civil penalty; providing definitions; making
+4 conforming amendments; specifying applicability; and
+5 providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 40-12-115 is created to read:
+10
+11 40-12-115. Credit reports; medical debt reporting
+12 prohibited; definitions.
+13
+14 (a) As used in this section:
+15
+1 HB0195
+2025 STATE OF WYOMING 25LSO-0583
+1 (i) "Collection entity" means any person that
+2 purchases medical debt from or collects medical debt on
+3 behalf of another person;
+4
+5 (ii) "Credit report" means as defined in W.S.
+6 40-12-501(a)(iv);
+7
+8 (iii) "Credit reporting agency" means a person
+9 that collects and sells information about a person's credit
+10 history;
+11
+12 (iv) "Health care product" means a product
+13 including, but not limited to, a good, device, durable
+14 medical equipment or prescription drug provided in the
+15 provision of health care services;
+16
+17 (v) "Health care services" means as defined in
+18 W.S. 26-13-303(a)(ii);
+19
+20 (vi) "Medical debt" means an obligation or
+21 alleged obligation of a consumer to pay any amount related
+22 to the receipt by the consumer of health care products or
+23 health care services. "Medical debt" shall not include debt
+2 HB0195
+2025 STATE OF WYOMING 25LSO-0583
+1 charged to a credit card unless the credit card is issued
+2 under an open-end or closed-end credit plan offered
+3 specifically for the payment of charges related to health
+4 care products or health care services;
+5
+6 (vii) "Medical facility" means a hospital,
+7 clinic, office, nursing home or other facility where a
+8 health care provider provides health care products or
+9 services to patients.
+10
+11 (b) On and after July 1, 2025, each medical facility
+12 and each collection entity doing business in this state
+13 shall not report any portion of a medical debt to a credit
+14 reporting agency for use in a credit report.
+15
+16 (c) If a medical facility or collection entity
+17 violates this section, a court of competent jurisdiction
+18 may impose a civil penalty on the medical facility or
+19 collection entity in the amount of the medical debt
+20 reported.
+21
+22 Section 2. W.S. 40-12-102(a)(x) is amended to read:
+23
+3 HB0195
+2025 STATE OF WYOMING 25LSO-0583
+1 40-12-102. Definitions.
+2
+3 (a) As used in this act:
+4
+5 (x) "This act" means W.S. 40-12-101 through
+6 40-12-114 40-12-115.
+7
+8 Section 3. Nothing in this act is to be construed to
+9 impair any contract entered into before July 1, 2025.
+10
+11 Section 4. This act is effective July 1, 2025.
+12
+13 (END)
+4 HB0195
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0583
+HOUSE BILL NO. HB0195
+Credit reporting-medical debt.
+Sponsored by: Representative(s) Provenza and Andrew and
+Senator(s) Barlow and Hutchings
+A BILL
+for
+1 AN ACT relating to consumer protection; prohibiting the
+2 reporting of medical debt to credit reporting agencies;
+3 creating a civil penalty; providing definitions; making
+4 conforming amendments; specifying applicability; and
+5 providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 40-12-115 is created to read:
+10
+11 40-12-115. Credit reports; medical debt reporting
+12 prohibited; definitions.
+13
+14 (a) As used in this section:
+15
+1 HB0195
+
+2025 STATE OF WYOMING 25LSO-0583
+1 (i) "Collection entity" means any person that
+2 purchases medical debt from or collects medical debt on
+3 behalf of another person;
+4
+5 (ii) "Credit report" means as defined in W.S.
+6 40-12-501(a)(iv);
+7
+8 (iii) "Credit reporting agency" means a person
+9 that collects and sells information about a person's credit
+10 history;
+11
+12 (iv) "Health care product" means a product
+13 including, but not limited to, a good, device, durable
+14 medical equipment or prescription drug provided in the
+15 provision of health care services;
+16
+17 (v) "Health care services" means as defined in
+18 W.S. 26-13-303(a)(ii);
+19
+20 (vi) "Medical debt" means an obligation or
+21 alleged obligation of a consumer to pay any amount related
+22 to the receipt by the consumer of health care products or
+23 health care services. "Medical debt" shall not include debt
+2 HB0195
+
+2025 STATE OF WYOMING 25LSO-0583
+1 charged to a credit card unless the credit card is issued
+2 under an open-end or closed-end credit plan offered
+3 specifically for the payment of charges related to health
+4 care products or health care services;
+5
+6 (vii) "Medical facility" means a hospital,
+7 clinic, office, nursing home or other facility where a
+8 health care provider provides health care products or
+9 services to patients.
+10
+11 (b) On and after July 1, 2025, each medical facility
+12 and each collection entity doing business in this state
+13 shall not report any portion of a medical debt to a credit
+14 reporting agency for use in a credit report.
+15
+16 (c) If a medical facility or collection entity
+17 violates this section, a court of competent jurisdiction
+18 may impose a civil penalty on the medical facility or
+19 collection entity in the amount of the medical debt
+20 reported.
+21
+22 Section 2. W.S. 40-12-102(a)(x) is amended to read:
+23
+3 HB0195
+
+2025 STATE OF WYOMING 25LSO-0583
+1 40-12-102. Definitions.
+2
+3 (a) As used in this act:
+4
+5 (x) "This act" means W.S. 40-12-101 through
+6 40-12-114 40-12-115.
+7
+8 Section 3. Nothing in this act is to be construed to
+9 impair any contract entered into before July 1, 2025.
+10
+11 Section 4. This act is effective July 1, 2025.
+12
+13 (END)
+4 HB0195

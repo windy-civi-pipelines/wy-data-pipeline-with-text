@@ -1,0 +1,91 @@
+Title: Hunting license application fees increase. 25LSO-0057, 1.0
+Official Title: Hunting license application fees increase. 25LSO-0057, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+GAME & FISH FUND $4,876 $0 $0
+Source of expenditure increase:
+Programming costs associated with modifying the application system to allow a single
+application fee for the purchase of multiple hunting licenses at the same time.
+Assumptions:
+Approximately 80 hours of programming at the rate of $60.95 per hour for a senior
+programmer.
+The expenditure increase reflected above could be considered an administrative
+cost. However, for simplicity and to follow consistent practice on legislation of
+this type, it is included on the fiscal note.
+Other assumptions:
+This bill provides for the Game and Fish Commission (Commission) to establish, by
+rule, resident and nonresident application fees not to exceed $20.00 and $75.00,
+respectively. This bill also allows for a single application fee for multiple
+hunting licenses purchased at the same time rather than a single application fee
+for each hunting license. The current application fees for residents and
+nonresidents are $5.00 and $15.00 per license, respectively.
+The estimated revenue increase or decrease in the form of application fees is
+indeterminable due to the unknown number hunting licenses purchased at the same
+time and any potential changes in application fees established by the Commission.
+The Game and Fish Department indicates that if there are no changes to the
+application fees, the same number of hunting licenses from 2024 are purchased by
+residents (59,063) and nonresidents (70,203), and hunters maximize the number of
+licenses purchased in a single transaction, an estimated annual revenue decrease
+of $993,480 to the Game and Fish Fund would occur, $527,070 from resident application
+fees and $466,410 in nonresident application fees.
+However, the Game and Fish Department indicates that if the Commission increases
+the application fees for residents and nonresidents to $14.00 and $22.00,
+respectively, any potential revenue decrease to the Game and Fish Fund from hunters
+maximizing the number of licenses purchased in a single transaction would be offset
+by a corresponding increase in application fees.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Meredith Wood, Game and Fish Department, 777-4618)
+HB0002
+
+
+================================================================================
+
+Raw Text:
+Hunting license application fees increase. 25LSO-0057, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Expenditure increase
+GAME & FISH FUND $4,876 $0 $0
+Source of expenditure increase:
+Programming costs associated with modifying the application system to allow a single
+application fee for the purchase of multiple hunting licenses at the same time.
+Assumptions:
+Approximately 80 hours of programming at the rate of $60.95 per hour for a senior
+programmer.
+The expenditure increase reflected above could be considered an administrative
+cost. However, for simplicity and to follow consistent practice on legislation of
+this type, it is included on the fiscal note.
+Other assumptions:
+This bill provides for the Game and Fish Commission (Commission) to establish, by
+rule, resident and nonresident application fees not to exceed $20.00 and $75.00,
+respectively. This bill also allows for a single application fee for multiple
+hunting licenses purchased at the same time rather than a single application fee
+for each hunting license. The current application fees for residents and
+nonresidents are $5.00 and $15.00 per license, respectively.
+The estimated revenue increase or decrease in the form of application fees is
+indeterminable due to the unknown number hunting licenses purchased at the same
+time and any potential changes in application fees established by the Commission.
+The Game and Fish Department indicates that if there are no changes to the
+application fees, the same number of hunting licenses from 2024 are purchased by
+residents (59,063) and nonresidents (70,203), and hunters maximize the number of
+licenses purchased in a single transaction, an estimated annual revenue decrease
+of $993,480 to the Game and Fish Fund would occur, $527,070 from resident application
+fees and $466,410 in nonresident application fees.
+However, the Game and Fish Department indicates that if the Commission increases
+the application fees for residents and nonresidents to $14.00 and $22.00,
+respectively, any potential revenue decrease to the Game and Fish Fund from hunters
+maximizing the number of licenses purchased in a single transaction would be offset
+by a corresponding increase in application fees.
+Prepared by: Matthew Willmarth, LSO Phone: 777-7881
+(Information provided by Meredith Wood, Game and Fish Department, 777-4618)
+HB0002

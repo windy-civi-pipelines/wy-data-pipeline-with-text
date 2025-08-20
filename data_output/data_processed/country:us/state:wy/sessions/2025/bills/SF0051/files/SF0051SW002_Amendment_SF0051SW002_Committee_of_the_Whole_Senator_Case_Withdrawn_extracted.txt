@@ -1,0 +1,61 @@
+Title: 1 Delete the Senate standing committee amendment (SF0051SS001/A)
+Official Title: 1 Delete the Senate standing committee amendment (SF0051SS001/A)
+Number of Sections: 1
+Source: versions - Amendment SF0051SW002 (Committee of the Whole) - Senator Case (Withdrawn)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0051SW002
+2 entirely and further amend as follows:
+3
+4 Page 1-line 7 Delete "providing for payment".
+5
+6 Page 1-line 8 Delete entirely.
+7
+8 Page 1-line 9 Delete "service;".
+9
+10 Page 2-line 8 Delete "37-15-501(b) through" and insert "37-
+11 15-501(c) and"; after "(g)" delete "," and
+12 insert "and"; after "(h)" delete "and by".
+13
+14 Page 2-line 9 Delete "creating a new subsection (j)".
+15
+16 Page 19-lines 13 through 23 Delete entirely.
+17
+18 Page 20-lines 1 through 6 Delete entirely.
+19
+20 Page 23-lines 12 through 23 Delete entirely.
+21
+22 Pages 24-29 Delete entirely. CASE
+1
+
+
+================================================================================
+
+Raw Text:
+SF0051SW002
+1 Delete the Senate standing committee amendment (SF0051SS001/A)
+2 entirely and further amend as follows:
+3
+4 Page 1-line 7 Delete "providing for payment".
+5
+6 Page 1-line 8 Delete entirely.
+7
+8 Page 1-line 9 Delete "service;".
+9
+10 Page 2-line 8 Delete "37-15-501(b) through" and insert "37-
+11 15-501(c) and"; after "(g)" delete "," and
+12 insert "and"; after "(h)" delete "and by".
+13
+14 Page 2-line 9 Delete "creating a new subsection (j)".
+15
+16 Page 19-lines 13 through 23 Delete entirely.
+17
+18 Page 20-lines 1 through 6 Delete entirely.
+19
+20 Page 23-lines 12 through 23 Delete entirely.
+21
+22 Pages 24-29 Delete entirely. CASE
+1

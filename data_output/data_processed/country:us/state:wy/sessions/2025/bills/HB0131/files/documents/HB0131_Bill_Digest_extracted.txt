@@ -1,0 +1,233 @@
+Title: Sponsored By: Representative(s) Knapp, Angelos, Neiman, Ottman,
+Official Title: Sponsored By: Representative(s) Knapp, Angelos, Neiman, Ottman,
+Number of Sections: 3
+Source: documents - Bill Digest
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0131 Ballot drop boxes-prohibition.
+Rodriguez-Williams, Webb, Wharff and Winter and
+Senator(s) Hutchings, Ide, Kolb, Laursen, D and
+Steinmetz
+AN ACT relating to elections; prohibiting the use of drop boxes for delivery of
+ballots as specified; and providing for an effective date.
+1/8/2025 Bill Number Assigned
+1/9/2025 H Received for Introduction
+1/16/2025 H Introduced and Referred to H07 - Corporations
+1/22/2025 H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber
+Nays: Representative Yin
+Ayes 8 Nays 1 Excused 0 Absent 0 Conflicts 0
+1/22/2025 H Placed on General File
+HB0131HS001/ADOPTED
+Page 1-line 13 After "mailed" insert "through the United States Postal
+Service"; after "to" strike "the" and insert "any".
+Page 1-line 14 After "clerk" insert "within the county where the
+ballot was issued as provided in W.S. 22-3-104(h)(ii)".
+KNAPP, CHAIRMAN
+HB0131HW001/ADOPTED
+Page 1-line 14 Delete the House standing committee amendment
+(HB0131HS001/A) to this line; after "county clerk,"
+insert "election staff of the county clerk,". KNAPP
+1/28/2025 H COW:Passed
+HB0131H2001/FAILED
+Page 1-above line 1 In the catch title, delete "prohibition" and
+insert "requirements".
+Page 1-line 1 Delete "prohibiting" and insert "specifying
+requirements for".
+Page 1-line 11 Before "Upon" insert "(a)".
+Page 1-line 13 Delete "hand".
+Page 1-line 14 Delete "No" and insert "Each"; after "county clerk"
+delete balance of line.
+Page 2-line 1 Delete "official shall" and insert "may".
+Page 2-line 2 After "ballots" delete balance of line.
+Page 2-line 3 Delete line through "box." and insert "in accordance
+with the requirements of this subsection. If a county
+clerk establishes or uses a drop box in accordance with
+this subsection, the county clerk shall provide notice
+to the secretary of state of each drop box's location
+not later than forty-two (42) days before any primary
+and general election and shall ensure that ballots
+deposited in the drop box are collected and returned to
+the county clerk's office at least once during each
+business day.".
+Page 2-line 5 After "ballots" delete balance of line.
+Page 2-lines 6 through 9 Delete entirely and insert:
+". If a county clerk establishes or uses a drop box in accordance with this
+
+Section 2:
+section, the county clerk shall ensure the drop box:
+(i) Is securely fastened to the ground or a concrete slab connected
+to the ground;
+(ii) Is secured by a lock that can only be opened by the clerk or
+by a person designated by the clerk;
+(iii) Complies with the federal Americans with Disabilities Act of
+1990 and is accessible as determined by the county clerk;
+(iv) Is under camera surveillance twenty-four (24) hours per day,
+seven (7) days per week. The county clerk shall keep the recordings of the
+camera surveillance for the same period of time that the county clerk is required
+to keep the ballots in the clerk's possession.". YIN
+HB0131H2002/ADOPTED
+Page 2-line 3 After "drop box." insert "If a ballot is improperly
+delivered to the county clerk in violation of this
+
+Section 3:
+section, the clerk may provide notice to the qualified
+elector that the qualified elector's ballot is
+spoiled.". STORER
+HB0131H2003/ADOPTED
+Page 1-line 13 In the House standing committee amendment
+(HB0131HS001/A) to this line, delete "through the
+United States Postal Service". GERINGER
+1/29/2025 H 2nd Reading:Passed
+HB0131H3001/FAILED
+Page 1-line 14 Before "No county" insert "Except in a special district
+election,". LARSEN, L
+HB0131H3002/FAILED
+Page 1-line 13 After "mailed" insert "through any carrier". YIN
+HB0131H3003/FAILED
+Page 1-line 13 Delete the Geringer second reading amendment
+(HB0131H2003/A) to this line; in the House standing
+committee amendment (HB0131HS001/A) to this line, after
+"Service" insert ", except for any ballot mailed from
+overseas which may be mailed through any carrier,". YIN
+1/30/2025 H 3rd Reading:Passed 51-10-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, K, Clouston, Connolly, Davis,
+Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner,
+Hoeft, Johnson, Kelly, Knapp, Larson, Lawley, Lien, Locke, Lucas, Mccann,
+Neiman, Ottman, Pendergraft, Rodriguez-Williams, Schmid, Singh, Smith, Strock,
+Styvar, Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams,
+Winter, Wylie
+Nays: Representative(s) Campbell, E, Chestek, Jarvis, Larsen, Nicholas, Posey,
+Provenza, Sherwood, Storer, Yin
+Excused: Representative Riggins
+Ayes 51 Nays 10 Excused 1 Absent 0 Conflicts 0
+1/31/2025 S Received for Introduction
+2/10/2025 S Introduced and Referred to S07 - Corporations
+2/19/2025 S07 - Corporations:Recommend Amend and Do Pass 3-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Dockstader, Steinmetz
+Nays: Senator(s) Case, Landen
+Ayes 3 Nays 2 Excused 0 Absent 0 Conflicts 0
+2/19/2025 S Placed on General File
+2/28/2025 S COW:S Did not consider for COW
+
+
+================================================================================
+
+Raw Text:
+HB0131 Ballot drop boxes-prohibition.
+Sponsored By: Representative(s) Knapp, Angelos, Neiman, Ottman,
+Rodriguez-Williams, Webb, Wharff and Winter and
+Senator(s) Hutchings, Ide, Kolb, Laursen, D and
+Steinmetz
+AN ACT relating to elections; prohibiting the use of drop boxes for delivery of
+ballots as specified; and providing for an effective date.
+1/8/2025 Bill Number Assigned
+1/9/2025 H Received for Introduction
+1/16/2025 H Introduced and Referred to H07 - Corporations
+1/22/2025 H07 - Corporations:Recommend Amend and Do Pass 8-1-0-0-0
+ROLL CALL
+Ayes: Representative(s) Brown, Hoeft, Johnson, Knapp, Locke, Lucas, Webb,
+Webber
+Nays: Representative Yin
+Ayes 8 Nays 1 Excused 0 Absent 0 Conflicts 0
+1/22/2025 H Placed on General File
+HB0131HS001/ADOPTED
+Page 1-line 13 After "mailed" insert "through the United States Postal
+Service"; after "to" strike "the" and insert "any".
+Page 1-line 14 After "clerk" insert "within the county where the
+ballot was issued as provided in W.S. 22-3-104(h)(ii)".
+KNAPP, CHAIRMAN
+HB0131HW001/ADOPTED
+Page 1-line 14 Delete the House standing committee amendment
+(HB0131HS001/A) to this line; after "county clerk,"
+insert "election staff of the county clerk,". KNAPP
+1/28/2025 H COW:Passed
+HB0131H2001/FAILED
+Page 1-above line 1 In the catch title, delete "prohibition" and
+insert "requirements".
+Page 1-line 1 Delete "prohibiting" and insert "specifying
+requirements for".
+Page 1-line 11 Before "Upon" insert "(a)".
+Page 1-line 13 Delete "hand".
+Page 1-line 14 Delete "No" and insert "Each"; after "county clerk"
+delete balance of line.
+Page 2-line 1 Delete "official shall" and insert "may".
+Page 2-line 2 After "ballots" delete balance of line.
+
+Page 2-line 3 Delete line through "box." and insert "in accordance
+with the requirements of this subsection. If a county
+clerk establishes or uses a drop box in accordance with
+this subsection, the county clerk shall provide notice
+to the secretary of state of each drop box's location
+not later than forty-two (42) days before any primary
+and general election and shall ensure that ballots
+deposited in the drop box are collected and returned to
+the county clerk's office at least once during each
+business day.".
+Page 2-line 5 After "ballots" delete balance of line.
+Page 2-lines 6 through 9 Delete entirely and insert:
+". If a county clerk establishes or uses a drop box in accordance with this
+section, the county clerk shall ensure the drop box:
+(i) Is securely fastened to the ground or a concrete slab connected
+to the ground;
+(ii) Is secured by a lock that can only be opened by the clerk or
+by a person designated by the clerk;
+(iii) Complies with the federal Americans with Disabilities Act of
+1990 and is accessible as determined by the county clerk;
+(iv) Is under camera surveillance twenty-four (24) hours per day,
+seven (7) days per week. The county clerk shall keep the recordings of the
+camera surveillance for the same period of time that the county clerk is required
+to keep the ballots in the clerk's possession.". YIN
+HB0131H2002/ADOPTED
+Page 2-line 3 After "drop box." insert "If a ballot is improperly
+delivered to the county clerk in violation of this
+section, the clerk may provide notice to the qualified
+elector that the qualified elector's ballot is
+spoiled.". STORER
+HB0131H2003/ADOPTED
+Page 1-line 13 In the House standing committee amendment
+(HB0131HS001/A) to this line, delete "through the
+United States Postal Service". GERINGER
+1/29/2025 H 2nd Reading:Passed
+HB0131H3001/FAILED
+Page 1-line 14 Before "No county" insert "Except in a special district
+election,". LARSEN, L
+HB0131H3002/FAILED
+Page 1-line 13 After "mailed" insert "through any carrier". YIN
+HB0131H3003/FAILED
+Page 1-line 13 Delete the Geringer second reading amendment
+(HB0131H2003/A) to this line; in the House standing
+committee amendment (HB0131HS001/A) to this line, after
+
+"Service" insert ", except for any ballot mailed from
+overseas which may be mailed through any carrier,". YIN
+1/30/2025 H 3rd Reading:Passed 51-10-1-0-0
+ROLL CALL
+Ayes: Representative(s) Allemand, Andrew, Angelos, Banks, Bear, Brady,
+Bratten, Brown, G, Brown, L, Byron, Campbell, K, Clouston, Connolly, Davis,
+Eklund, Erickson, Filer, Geringer, Guggenmos, Haroldson, Harshman, Heiner,
+Hoeft, Johnson, Kelly, Knapp, Larson, Lawley, Lien, Locke, Lucas, Mccann,
+Neiman, Ottman, Pendergraft, Rodriguez-Williams, Schmid, Singh, Smith, Strock,
+Styvar, Tarver, Thayer, Washut, Wasserburger, Webb, Webber, Wharff, Williams,
+Winter, Wylie
+Nays: Representative(s) Campbell, E, Chestek, Jarvis, Larsen, Nicholas, Posey,
+Provenza, Sherwood, Storer, Yin
+Excused: Representative Riggins
+Ayes 51 Nays 10 Excused 1 Absent 0 Conflicts 0
+1/31/2025 S Received for Introduction
+2/10/2025 S Introduced and Referred to S07 - Corporations
+2/19/2025 S07 - Corporations:Recommend Amend and Do Pass 3-2-0-0-0
+ROLL CALL
+Ayes: Senator(s) Boner, Dockstader, Steinmetz
+Nays: Senator(s) Case, Landen
+Ayes 3 Nays 2 Excused 0 Absent 0 Conflicts 0
+2/19/2025 S Placed on General File
+2/28/2025 S COW:S Did not consider for COW

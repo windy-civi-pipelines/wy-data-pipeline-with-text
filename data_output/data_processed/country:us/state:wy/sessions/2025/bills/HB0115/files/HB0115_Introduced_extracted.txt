@@ -1,0 +1,698 @@
+Title: HOUSE BILL NO. HB0115
+Official Title: HOUSE BILL NO. HB0115
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0340
+Medical Ethics Defense Act.
+Sponsored by: Representative(s) Ottman, Schmid, Singh and
+Styvar and Senator(s) Hutchings, Ide,
+Pearson and Steinmetz
+A BILL
+for
+1 AN ACT relating to public health and safety; allowing
+2 health care providers, health care institutions and health
+3 care payers the right to refuse to participate in or pay
+4 for health care services as specified; authorizing
+5 religious-based health care organizations to make decisions
+6 consistent with religious beliefs; prohibiting
+7 discrimination for making health care decisions based on
+8 conscience; prohibiting adverse licensing actions based on
+9 protected expressive activity; specifying liability and
+10 damages for notice requirements; providing immunity;
+11 providing definitions; specifying applicability; requiring
+12 rulemaking; and providing for effective dates.
+13
+14 Be It Enacted by the Legislature of the State of Wyoming:
+15
+1 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 Section 1. W.S. 35-34-101 through 35-34-106 are
+2 created to read:
+3
+4 CHAPTER 34
+5 MEDICAL ETHICS DEFENSE ACT
+6
+7 35-34-101. Short title.
+8
+9 This chapter shall be known and may be cited as the
+10 "Medical Ethics Defense Act."
+11
+12 35-34-102. Definitions.
+13
+14 (a) As used in this act:
+15
+16 (i) "Conscience" means the ethical, moral or
+17 religious beliefs or principles held by any health care
+18 provider, health care institution or health care payer. For
+19 health care institutions and health care payers, conscience
+20 shall be determined by reference to the health care
+21 institution's or health care payer's governing documents,
+22 including any published ethical, moral or religious
+23 guidelines or directives, mission statements,
+2 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 constitutions, articles of incorporation, bylaws, policies
+2 or regulations;
+3
+4 (ii) "Discrimination" means an adverse action
+5 against or the communication of a threat of adverse action
+6 to any health care provider, health care institution or
+7 health care payer as a result of a decision by the health
+8 care provider, health care institution or health care payer
+9 to decline to participate in or pay for any health care
+10 service on the basis of the conscience of the health care
+11 provider, health care institution or health care payer.
+12 "Discrimination" shall not include:
+13
+14 (A) Declining to use, the refusal to use or
+15 the purchase of health care services from a specific health
+16 care provider, health care institution or health care payer
+17 if that health care provider, health care institution or
+18 health care payer exercises the right to refuse to
+19 participate in or pay for health care services based on its
+20 conscience;
+21
+3 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 (B) Good faith efforts to accommodate
+2 conscientious objections of a health care provider, health
+3 care institution or health care payer.
+4
+5 (iii) "Health care institution" means as defined
+6 by W.S. 35-22-402(a)(x);
+7
+8 (iv) "Health care payer" means any employer,
+9 health plan, health maintenance organization, insurance
+10 company, management services corporation or any other
+11 entity that pays for or arranges for the payment of any
+12 health care service provided to any person, whether the
+13 payment is made in whole or in part;
+14
+15 (v) "Health care provider" means any person who
+16 may be or is asked to participate in any health care
+17 service, including doctors, nurse practitioners, physician
+18 assistants, nurses, nurse aides, allied health
+19 professionals, medical assistants, hospital employees,
+20 clinic employees, nursing home employees, pharmacists,
+21 pharmacy technicians, pharmacy employees, medical school
+22 faculty and students, nursing school faculty and students,
+23 psychology and counseling faculty and students, medical
+4 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 researchers, laboratory technicians, psychologists,
+2 psychiatrists, counselors, mental health professionals,
+3 social workers or any other person who facilitates or
+4 participates in a health care service;
+5
+6 (vi) "Health care service" means medical care
+7 provided to any person at any time over the course of
+8 treatment, including testing, diagnosis, referral, the
+9 prescribing, dispensing or administering of any drug,
+10 medication or device, psychological therapy or counseling,
+11 research, prognosis, therapy, record making or record
+12 keeping, notes relating to treatment, the preparation for
+13 or performance of a surgery or procedure or any other
+14 medical care or service provided by any health care
+15 provider;
+16
+17 (vii) "This act" means W.S. 35-34-101 through
+18 35-34-106.
+19
+20 35-34-103. Rights of conscience for health care
+21 providers, health care institutions and health care payers.
+22
+5 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 (a) Each health care provider, health care
+2 institution and health care payer shall have the right to
+3 refuse to participate in or pay for any health care service
+4 that violates the health care provider's, health care
+5 institution's or health care payer's conscience. The right
+6 of conscience provided under this subsection shall:
+7
+8 (i) Be limited to a specific health care
+9 service;
+10
+11 (ii) Not be construed to waive or modify any
+12 duty a health care provider, health care institution or
+13 health care payer has to provide or pay for health care
+14 services that do not violate the health care provider's,
+15 health care institution's or health care payer's
+16 conscience;
+17
+18 (iii) Not be construed to waive or modify any
+19 duty of a health care provider or health care institution
+20 to provide other health care services or provide emergency
+21 medical treatment under 42 U.S.C. § 1395dd.
+22
+6 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 (b) Notwithstanding any other provision of this act,
+2 a religious health care provider, health care institution
+3 or health care payer that holds itself out to the public as
+4 religious, states in its governing documents that it has a
+5 religious purpose or mission and has internal operating
+6 policies and procedures that implement its religious
+7 beliefs shall have the right to make employment, staffing,
+8 contracting and admitting privilege decisions consistent
+9 with its religious beliefs.
+10
+11 (c) No health care provider shall be scheduled for,
+12 assigned or requested to directly or indirectly perform,
+13 facilitate, refer for or participate in any abortion unless
+14 the health care provider first affirmatively consents in
+15 writing to perform, facilitate, refer for or participate in
+16 the abortion.
+17
+18 (d) Each health care institution shall adopt internal
+19 policies, programs, plans or procedures for each health
+20 care provider employed, contracted or granted admitting
+21 privileges by the health care institution for the health
+22 care provider to exercise the right to refuse to
+23 participate in a health care service based on the health
+7 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 care provider's conscience as provided by subsection (a) of
+2 this section.
+3
+4 (e) Each health care payer shall adopt internal
+5 policies, programs, plans or procedures for:
+6
+7 (i) How the health care payer may exercise its
+8 right to refuse to pay for a health care service based on
+9 its conscience as provided by subsection (a) of this
+10 section;
+11
+12 (ii) The resolution of conflicts arising between
+13 a health care payer exercising the right to refuse to pay
+14 for a health care service based on its conscience as
+15 provided by subsection (a) of this section and a health
+16 care institution or health care provider who provided the
+17 health care service to the patient.
+18
+19 (f) A health care payer shall file and update the
+20 conscience policies established under subsection (e) of
+21 this section not less than annually with the state
+22 insurance department by including a comprehensive list, by
+23 billing code, of any products, services and procedures that
+8 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 the health care payer will not pay or make payment for
+2 based on its conscience. The annual filing shall be
+3 submitted annually to each beneficiary of the health care
+4 payer.
+5
+6 (g) A health care payer shall not refuse or reduce
+7 payments based on its conscience to a health care provider,
+8 health care institution or a beneficiary for any product,
+9 service or procedure that is not included in the annual
+10 filing required under subsection (f) of this section.
+11
+12 35-34-104. Participation in health care services;
+13 discrimination prohibited.
+14
+15 (a) No person or entity shall discriminate against
+16 any health care provider, health care institution or health
+17 care payer for exercising the right to refuse to
+18 participate in or pay for health care services based on
+19 conscience under this act.
+20
+21 (b) No person or entity shall discriminate against a
+22 health care provider or health care institution for:
+23
+9 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 (i) Providing the health care provider's
+2 employer, the department of health or the attorney general
+3 of Wyoming information relating to any violation of or any
+4 act or omission that the health care provider or health
+5 care institution reasonably believes violates this act; or
+6
+7 (ii) Testifying, assisting, participating or
+8 agreeing to testify, assist or participate in a proceeding
+9 concerning a violation of this act.
+10
+11 (c) Unless the disclosure is specifically prohibited
+12 by law, no health care provider shall be subject to
+13 discrimination for disclosing any information that the
+14 health care provider reasonably believes violates:
+15
+16 (i) Any federal or state law, rule or
+17 regulation;
+18
+19 (ii) Any standard of care or other ethical
+20 guidelines for the provision of any health care service; or
+21
+22 (iii) Gross mismanagement, a gross waste of
+23 funds, an abuse of authority, practice or methods of
+10 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 treatment that may place a patient's health at risk or a
+2 substantial and specific danger to public health or safety.
+3
+4 (d) The department of health or a board, certifying
+5 agency or licensing agency shall not reprimand, sanction or
+6 revoke or threaten to revoke a license, certificate,
+7 certification or registration of a health care provider for
+8 engaging in speech or expressive activity protected by the
+9 first amendment to the United States constitution unless
+10 the department, board or agency demonstrates beyond a
+11 reasonable doubt that the health care provider's speech was
+12 the direct cause of physical harm to a person with whom the
+13 health care provider had established a health care
+14 provider-patient relationship within the immediately
+15 preceding three (3) years before the incident of physical
+16 harm.
+17
+18 (e) Not later than fourteen (14) days after receipt,
+19 the department of health or any board, certifying agency or
+20 licensing agency, as applicable to the health care
+21 provider, shall provide a health care provider with notice
+22 of any complaint or action to suspend or revoke the health
+23 care provider's license, certificate, certification or
+11 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 registration. The department or a board or agency that
+2 fails to provide notice under this subsection shall be
+3 liable for damages of five hundred dollars ($500.00) for
+4 each full or partial week that the notice is not provided
+5 to the health care provider. This subsection shall not
+6 apply if notice of a complaint or action is required to be
+7 provided within a shorter period of time under another
+8 provision of law.
+9
+10 35-34-105. Right of conscience and right of refusal;
+11 immunity from liability.
+12
+13 (a) No health care provider, health care institution
+14 or health care payer shall be subject to civil or criminal
+15 liability for exercising the right to refuse to participate
+16 in or pay for any health care service based on the right of
+17 conscience provided in W.S. 35-34-103(a).
+18
+19 (b) No health care institution shall be subject to
+20 civil or criminal liability for a health care provider
+21 employed, contracted or granted admitting privileges by the
+22 health care institution for the health care provider
+23 exercising the provider's right to refuse to participate in
+12 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 a health care service based on the right of conscience
+2 provided under W.S. 35-34-103(a).
+3
+4 35-34-106. Health care services and right of
+5 conscience; civil remedies.
+6
+7 A health care provider, health care institution or health
+8 care payer may bring a civil action for damages or
+9 injunctive relief, or both, in a court of competent
+10 jurisdiction for any alleged violation of this act.
+11
+12 Section 2.
+13
+14 (a) This act shall apply to health care services
+15 provided, and health care payment obligations, that were
+16 provided or arose on and after July 1, 2025.
+17
+18 (b) This act shall not be construed to supersede any
+19 law of the state that is equally as protective of the
+20 conscience or more protective of the conscience than this
+21 act.
+22
+13 HB0115
+2025 STATE OF WYOMING 25LSO-0340
+1 Section 3. The department of insurance and the
+2 department of health shall promulgate all rules necessary
+3 to implement this act.
+4
+5 Section 4.
+6
+7 (a) Except as provided in subsection (b) of this
+8 section, this act is effective July 1, 2025.
+9
+10 (b) Sections 3 and 4 of this act are effective
+11 immediately upon completion of all acts necessary for a
+12 bill to become law as provided by Article 4, Section 8 of
+13 the Wyoming Constitution.
+14
+15 (END)
+14 HB0115
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0340
+HOUSE BILL NO. HB0115
+Medical Ethics Defense Act.
+Sponsored by: Representative(s) Ottman, Schmid, Singh and
+Styvar and Senator(s) Hutchings, Ide,
+Pearson and Steinmetz
+A BILL
+for
+1 AN ACT relating to public health and safety; allowing
+2 health care providers, health care institutions and health
+3 care payers the right to refuse to participate in or pay
+4 for health care services as specified; authorizing
+5 religious-based health care organizations to make decisions
+6 consistent with religious beliefs; prohibiting
+7 discrimination for making health care decisions based on
+8 conscience; prohibiting adverse licensing actions based on
+9 protected expressive activity; specifying liability and
+10 damages for notice requirements; providing immunity;
+11 providing definitions; specifying applicability; requiring
+12 rulemaking; and providing for effective dates.
+13
+14 Be It Enacted by the Legislature of the State of Wyoming:
+15
+1 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 Section 1. W.S. 35-34-101 through 35-34-106 are
+2 created to read:
+3
+4 CHAPTER 34
+5 MEDICAL ETHICS DEFENSE ACT
+6
+7 35-34-101. Short title.
+8
+9 This chapter shall be known and may be cited as the
+10 "Medical Ethics Defense Act."
+11
+12 35-34-102. Definitions.
+13
+14 (a) As used in this act:
+15
+16 (i) "Conscience" means the ethical, moral or
+17 religious beliefs or principles held by any health care
+18 provider, health care institution or health care payer. For
+19 health care institutions and health care payers, conscience
+20 shall be determined by reference to the health care
+21 institution's or health care payer's governing documents,
+22 including any published ethical, moral or religious
+23 guidelines or directives, mission statements,
+2 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 constitutions, articles of incorporation, bylaws, policies
+2 or regulations;
+3
+4 (ii) "Discrimination" means an adverse action
+5 against or the communication of a threat of adverse action
+6 to any health care provider, health care institution or
+7 health care payer as a result of a decision by the health
+8 care provider, health care institution or health care payer
+9 to decline to participate in or pay for any health care
+10 service on the basis of the conscience of the health care
+11 provider, health care institution or health care payer.
+12 "Discrimination" shall not include:
+13
+14 (A) Declining to use, the refusal to use or
+15 the purchase of health care services from a specific health
+16 care provider, health care institution or health care payer
+17 if that health care provider, health care institution or
+18 health care payer exercises the right to refuse to
+19 participate in or pay for health care services based on its
+20 conscience;
+21
+3 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 (B) Good faith efforts to accommodate
+2 conscientious objections of a health care provider, health
+3 care institution or health care payer.
+4
+5 (iii) "Health care institution" means as defined
+6 by W.S. 35-22-402(a)(x);
+7
+8 (iv) "Health care payer" means any employer,
+9 health plan, health maintenance organization, insurance
+10 company, management services corporation or any other
+11 entity that pays for or arranges for the payment of any
+12 health care service provided to any person, whether the
+13 payment is made in whole or in part;
+14
+15 (v) "Health care provider" means any person who
+16 may be or is asked to participate in any health care
+17 service, including doctors, nurse practitioners, physician
+18 assistants, nurses, nurse aides, allied health
+19 professionals, medical assistants, hospital employees,
+20 clinic employees, nursing home employees, pharmacists,
+21 pharmacy technicians, pharmacy employees, medical school
+22 faculty and students, nursing school faculty and students,
+23 psychology and counseling faculty and students, medical
+4 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 researchers, laboratory technicians, psychologists,
+2 psychiatrists, counselors, mental health professionals,
+3 social workers or any other person who facilitates or
+4 participates in a health care service;
+5
+6 (vi) "Health care service" means medical care
+7 provided to any person at any time over the course of
+8 treatment, including testing, diagnosis, referral, the
+9 prescribing, dispensing or administering of any drug,
+10 medication or device, psychological therapy or counseling,
+11 research, prognosis, therapy, record making or record
+12 keeping, notes relating to treatment, the preparation for
+13 or performance of a surgery or procedure or any other
+14 medical care or service provided by any health care
+15 provider;
+16
+17 (vii) "This act" means W.S. 35-34-101 through
+18 35-34-106.
+19
+20 35-34-103. Rights of conscience for health care
+21 providers, health care institutions and health care payers.
+22
+5 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 (a) Each health care provider, health care
+2 institution and health care payer shall have the right to
+3 refuse to participate in or pay for any health care service
+4 that violates the health care provider's, health care
+5 institution's or health care payer's conscience. The right
+6 of conscience provided under this subsection shall:
+7
+8 (i) Be limited to a specific health care
+9 service;
+10
+11 (ii) Not be construed to waive or modify any
+12 duty a health care provider, health care institution or
+13 health care payer has to provide or pay for health care
+14 services that do not violate the health care provider's,
+15 health care institution's or health care payer's
+16 conscience;
+17
+18 (iii) Not be construed to waive or modify any
+19 duty of a health care provider or health care institution
+20 to provide other health care services or provide emergency
+21 medical treatment under 42 U.S.C. § 1395dd.
+22
+6 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 (b) Notwithstanding any other provision of this act,
+2 a religious health care provider, health care institution
+3 or health care payer that holds itself out to the public as
+4 religious, states in its governing documents that it has a
+5 religious purpose or mission and has internal operating
+6 policies and procedures that implement its religious
+7 beliefs shall have the right to make employment, staffing,
+8 contracting and admitting privilege decisions consistent
+9 with its religious beliefs.
+10
+11 (c) No health care provider shall be scheduled for,
+12 assigned or requested to directly or indirectly perform,
+13 facilitate, refer for or participate in any abortion unless
+14 the health care provider first affirmatively consents in
+15 writing to perform, facilitate, refer for or participate in
+16 the abortion.
+17
+18 (d) Each health care institution shall adopt internal
+19 policies, programs, plans or procedures for each health
+20 care provider employed, contracted or granted admitting
+21 privileges by the health care institution for the health
+22 care provider to exercise the right to refuse to
+23 participate in a health care service based on the health
+7 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 care provider's conscience as provided by subsection (a) of
+2 this section.
+3
+4 (e) Each health care payer shall adopt internal
+5 policies, programs, plans or procedures for:
+6
+7 (i) How the health care payer may exercise its
+8 right to refuse to pay for a health care service based on
+9 its conscience as provided by subsection (a) of this
+10 section;
+11
+12 (ii) The resolution of conflicts arising between
+13 a health care payer exercising the right to refuse to pay
+14 for a health care service based on its conscience as
+15 provided by subsection (a) of this section and a health
+16 care institution or health care provider who provided the
+17 health care service to the patient.
+18
+19 (f) A health care payer shall file and update the
+20 conscience policies established under subsection (e) of
+21 this section not less than annually with the state
+22 insurance department by including a comprehensive list, by
+23 billing code, of any products, services and procedures that
+8 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 the health care payer will not pay or make payment for
+2 based on its conscience. The annual filing shall be
+3 submitted annually to each beneficiary of the health care
+4 payer.
+5
+6 (g) A health care payer shall not refuse or reduce
+7 payments based on its conscience to a health care provider,
+8 health care institution or a beneficiary for any product,
+9 service or procedure that is not included in the annual
+10 filing required under subsection (f) of this section.
+11
+12 35-34-104. Participation in health care services;
+13 discrimination prohibited.
+14
+15 (a) No person or entity shall discriminate against
+16 any health care provider, health care institution or health
+17 care payer for exercising the right to refuse to
+18 participate in or pay for health care services based on
+19 conscience under this act.
+20
+21 (b) No person or entity shall discriminate against a
+22 health care provider or health care institution for:
+23
+9 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 (i) Providing the health care provider's
+2 employer, the department of health or the attorney general
+3 of Wyoming information relating to any violation of or any
+4 act or omission that the health care provider or health
+5 care institution reasonably believes violates this act; or
+6
+7 (ii) Testifying, assisting, participating or
+8 agreeing to testify, assist or participate in a proceeding
+9 concerning a violation of this act.
+10
+11 (c) Unless the disclosure is specifically prohibited
+12 by law, no health care provider shall be subject to
+13 discrimination for disclosing any information that the
+14 health care provider reasonably believes violates:
+15
+16 (i) Any federal or state law, rule or
+17 regulation;
+18
+19 (ii) Any standard of care or other ethical
+20 guidelines for the provision of any health care service; or
+21
+22 (iii) Gross mismanagement, a gross waste of
+23 funds, an abuse of authority, practice or methods of
+10 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 treatment that may place a patient's health at risk or a
+2 substantial and specific danger to public health or safety.
+3
+4 (d) The department of health or a board, certifying
+5 agency or licensing agency shall not reprimand, sanction or
+6 revoke or threaten to revoke a license, certificate,
+7 certification or registration of a health care provider for
+8 engaging in speech or expressive activity protected by the
+9 first amendment to the United States constitution unless
+10 the department, board or agency demonstrates beyond a
+11 reasonable doubt that the health care provider's speech was
+12 the direct cause of physical harm to a person with whom the
+13 health care provider had established a health care
+14 provider-patient relationship within the immediately
+15 preceding three (3) years before the incident of physical
+16 harm.
+17
+18 (e) Not later than fourteen (14) days after receipt,
+19 the department of health or any board, certifying agency or
+20 licensing agency, as applicable to the health care
+21 provider, shall provide a health care provider with notice
+22 of any complaint or action to suspend or revoke the health
+23 care provider's license, certificate, certification or
+11 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 registration. The department or a board or agency that
+2 fails to provide notice under this subsection shall be
+3 liable for damages of five hundred dollars ($500.00) for
+4 each full or partial week that the notice is not provided
+5 to the health care provider. This subsection shall not
+6 apply if notice of a complaint or action is required to be
+7 provided within a shorter period of time under another
+8 provision of law.
+9
+10 35-34-105. Right of conscience and right of refusal;
+11 immunity from liability.
+12
+13 (a) No health care provider, health care institution
+14 or health care payer shall be subject to civil or criminal
+15 liability for exercising the right to refuse to participate
+16 in or pay for any health care service based on the right of
+17 conscience provided in W.S. 35-34-103(a).
+18
+19 (b) No health care institution shall be subject to
+20 civil or criminal liability for a health care provider
+21 employed, contracted or granted admitting privileges by the
+22 health care institution for the health care provider
+23 exercising the provider's right to refuse to participate in
+12 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 a health care service based on the right of conscience
+2 provided under W.S. 35-34-103(a).
+3
+4 35-34-106. Health care services and right of
+5 conscience; civil remedies.
+6
+7 A health care provider, health care institution or health
+8 care payer may bring a civil action for damages or
+9 injunctive relief, or both, in a court of competent
+10 jurisdiction for any alleged violation of this act.
+11
+12 Section 2.
+13
+14 (a) This act shall apply to health care services
+15 provided, and health care payment obligations, that were
+16 provided or arose on and after July 1, 2025.
+17
+18 (b) This act shall not be construed to supersede any
+19 law of the state that is equally as protective of the
+20 conscience or more protective of the conscience than this
+21 act.
+22
+13 HB0115
+
+2025 STATE OF WYOMING 25LSO-0340
+1 Section 3. The department of insurance and the
+2 department of health shall promulgate all rules necessary
+3 to implement this act.
+4
+5 Section 4.
+6
+7 (a) Except as provided in subsection (b) of this
+8 section, this act is effective July 1, 2025.
+9
+10 (b) Sections 3 and 4 of this act are effective
+11 immediately upon completion of all acts necessary for a
+12 bill to become law as provided by Article 4, Section 8 of
+13 the Wyoming Constitution.
+14
+15 (END)
+14 HB0115

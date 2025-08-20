@@ -1,0 +1,55 @@
+Title: 1 Page 4-after line 12 Insert and renumber as necessary:
+Official Title: 1 Page 4-after line 12 Insert and renumber as necessary:
+Number of Sections: 1
+Source: versions - Amendment SF0065SS001 (Standing Committee) - Senate Minerals, Business and Economic Development (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+SF0065SS001
+2
+3 "(ii) A government entity may transfer personal data to
+4 nongovernment entity contracted by the government entity to
+5 provide or assist with government services provided by the
+6 government entity. Any contract for services with a nongovernment
+7 entity shall include requirements for the protection of personal
+8 data consistent with this article. Any personal data transferred
+9 pursuant to this paragraph shall be returned or destroyed by the
+10 nongovernment entity once the personal data is no longer necessary
+11 for the provision of the government service. No nongovernment
+12 entity shall maintain, sell, transfer, process or otherwise use
+13 the personal data in any manner except as necessary to provide the
+14 contracted service;".
+15
+16 Page 4-line 14 Delete "(ii)" and insert "(iii)".
+17
+18 Page 5-line 1 Delete "(iii)" and insert "(iv)". ANDERSON,
+19 CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+SF0065SS001
+1 Page 4-after line 12 Insert and renumber as necessary:
+2
+3 "(ii) A government entity may transfer personal data to
+4 nongovernment entity contracted by the government entity to
+5 provide or assist with government services provided by the
+6 government entity. Any contract for services with a nongovernment
+7 entity shall include requirements for the protection of personal
+8 data consistent with this article. Any personal data transferred
+9 pursuant to this paragraph shall be returned or destroyed by the
+10 nongovernment entity once the personal data is no longer necessary
+11 for the provision of the government service. No nongovernment
+12 entity shall maintain, sell, transfer, process or otherwise use
+13 the personal data in any manner except as necessary to provide the
+14 contracted service;".
+15
+16 Page 4-line 14 Delete "(ii)" and insert "(iii)".
+17
+18 Page 5-line 1 Delete "(iii)" and insert "(iv)". ANDERSON,
+19 CHAIRMAN
+1

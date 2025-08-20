@@ -1,0 +1,91 @@
+Title: 1 Page 1-line 3 Delete "an exception" and insert "exceptions".
+Official Title: 1 Page 1-line 3 Delete "an exception" and insert "exceptions".
+Number of Sections: 1
+Source: versions - Amendment HB0238HS001 (Standing Committee) - House Appropriations Committee (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0238HS001
+2
+3 Page 2-line 4 Delete "subsection (b)" and insert
+4 "subsections (b) and (c)".
+5
+6 Page 2-line 8 Delete "or" and insert ",".
+7
+8 Page 2-line 9 After "elector" insert "or the person is an
+9 employee of a residential care facility
+10 authorized to deliver a ballot under
+11 subsection (c) of this section".
+12
+13 Page 2-after line 10 Insert the following and renumber as
+14 necessary:
+15
+16 "(c) An employee of a residential care facility, including
+17 nursing homes, assisted living facilities, adult family homes and
+18 community-based residential facilities may deliver an absentee
+19 ballot on behalf of a qualified elector residing in that facility
+20 as provided in this subsection. For each absentee ballot delivered
+21 on behalf of a qualified elector under this subsection, the
+22 employee shall concurrently file an affidavit with the county clerk
+23 on a form prescribed by the secretary of state attesting under
+24 penalty of perjury that, among other requirements specified by the
+25 secretary of state, the employee is authorized to deliver the
+26 ballot on behalf of the qualified elector under this subsection.
+27 Not later than thirty (30) days following each election, the county
+28 clerk shall transmit all affidavits received under this subsection
+29 pertaining to that election to the secretary of state.".
+30
+31 Page 2-line 12 Delete "(c)" and insert "(d)".
+32
+33 Page 2-line 14 Delete "subsection (b)" and insert
+34 "subsections (b) and (c)".
+35
+36 Page 2-line 15 Delete "subsection (b)" and insert
+37 "subsections (b) and (c)". BEAR, CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0238HS001
+1 Page 1-line 3 Delete "an exception" and insert "exceptions".
+2
+3 Page 2-line 4 Delete "subsection (b)" and insert
+4 "subsections (b) and (c)".
+5
+6 Page 2-line 8 Delete "or" and insert ",".
+7
+8 Page 2-line 9 After "elector" insert "or the person is an
+9 employee of a residential care facility
+10 authorized to deliver a ballot under
+11 subsection (c) of this section".
+12
+13 Page 2-after line 10 Insert the following and renumber as
+14 necessary:
+15
+16 "(c) An employee of a residential care facility, including
+17 nursing homes, assisted living facilities, adult family homes and
+18 community-based residential facilities may deliver an absentee
+19 ballot on behalf of a qualified elector residing in that facility
+20 as provided in this subsection. For each absentee ballot delivered
+21 on behalf of a qualified elector under this subsection, the
+22 employee shall concurrently file an affidavit with the county clerk
+23 on a form prescribed by the secretary of state attesting under
+24 penalty of perjury that, among other requirements specified by the
+25 secretary of state, the employee is authorized to deliver the
+26 ballot on behalf of the qualified elector under this subsection.
+27 Not later than thirty (30) days following each election, the county
+28 clerk shall transmit all affidavits received under this subsection
+29 pertaining to that election to the secretary of state.".
+30
+31 Page 2-line 12 Delete "(c)" and insert "(d)".
+32
+33 Page 2-line 14 Delete "subsection (b)" and insert
+34 "subsections (b) and (c)".
+35
+36 Page 2-line 15 Delete "subsection (b)" and insert
+37 "subsections (b) and (c)". BEAR, CHAIRMAN
+1

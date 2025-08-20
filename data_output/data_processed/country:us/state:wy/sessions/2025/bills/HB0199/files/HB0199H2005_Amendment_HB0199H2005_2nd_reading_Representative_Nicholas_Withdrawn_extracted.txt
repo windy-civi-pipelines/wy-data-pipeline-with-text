@@ -1,0 +1,33 @@
+Title: 3 Page 17-line 19 Delete "Section 4." and insert "Section 3.".
+Official Title: 3 Page 17-line 19 Delete "Section 4." and insert "Section 3.".
+Number of Sections: 1
+Source: versions - Amendment HB0199H2005 (2nd reading) - Representative Nicholas (Withdrawn)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0199H2005
+1 Page 17-lines 16 and 17 Delete entirely.
+2
+4
+5 Page 17-line 22 Delete "Section 5." and insert "Section 4.".
+6
+7 Page 18-line 5 Delete "Section 6." and insert "Section 5.".
+8 NICHOLAS
+1
+
+
+================================================================================
+
+Raw Text:
+HB0199H2005
+1 Page 17-lines 16 and 17 Delete entirely.
+2
+3 Page 17-line 19 Delete "Section 4." and insert "Section 3.".
+4
+5 Page 17-line 22 Delete "Section 5." and insert "Section 4.".
+6
+7 Page 18-line 5 Delete "Section 6." and insert "Section 5.".
+8 NICHOLAS
+1

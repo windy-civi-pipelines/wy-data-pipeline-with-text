@@ -1,0 +1,223 @@
+Title: HOUSE BILL NO. HB0245
+Official Title: HOUSE BILL NO. HB0245
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+2025 STATE OF WYOMING 25LSO-0504
+Pen and paper ballots.
+Sponsored by: Representative(s) Knapp, Brown, G, Haroldson
+and Locke and Senator(s) McKeown
+A BILL
+for
+1 AN ACT relating to elections; requiring counties to use pen
+2 and paper as the default method to mark ballots for
+3 elections in Wyoming; providing an exception; making
+4 conforming amendments; and providing for an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 22-13-119 is created to read:
+9
+10 22-13-119. Paper ballots required; exceptions.
+11
+12 (a) Notwithstanding any other provision of law, each
+13 county shall provide paper ballots and pens as the default
+14 method to mark ballots for all in-person voting in all
+15 elections in Wyoming. The county clerk shall provide all
+1 HB0245
+2025 STATE OF WYOMING 25LSO-0504
+1 voters with a paper ballot and a pen to mark the ballot
+2 secretly as provided in this Election Code.
+3
+4 (b) Subsection (a) of this section shall not prohibit
+5 any county clerk from providing electronic ballot marking
+6 devices for use by persons with disabilities. Electronic
+7 ballot marking devices shall comply with all federal
+8 accessibility requirements and shall conform with the
+9 requirements of this Election Code for voting machines and
+10 electronic voting systems. Nothing in this subsection shall
+11 authorize any county to use electronic ballot marking
+12 devices as the default method of marking ballots in the
+13 county.
+14
+15 (c) As used in this section:
+16
+17 (i) "Disability" has the meaning stated in the
+18 Americans with Disabilities Act of 1990, as amended by the
+19 Americans with Disabilities Amendments Act of 2008;
+20
+21 (ii) "Electronic ballot marking device" means
+22 any electronic device that assists voters in marking
+23 ballots, including, without limitation, any voting machine
+2 HB0245
+2025 STATE OF WYOMING 25LSO-0504
+1 that uses a touch screen to produce a marked paper ballot
+2 or ballot card.
+3
+4 Section 2. W.S. 22-10-102, 22-11-102, 22-21-109 and
+5 22-22-203(b) are amended to read:
+6
+7 22-10-102. Selection by county commissioners.
+8
+9 Subject to the limitations of W.S. 22-13-119, the board of
+10 county commissioners may adopt for use in any precinct in
+11 the county a type of voting machine meeting the standards
+12 specified in W.S. 22-10-101.
+13
+14 22-11-102. Use authorized; purchase or lease.
+15
+16 Subject to the limitations of W.S. 22-13-119, the board of
+17 county commissioners of each county may adopt for use,
+18 either experimentally or permanently, in any election in
+19 any or all polling places within the county, any electronic
+20 voting system authorized by law.
+21
+22 22-21-109. Supplies; regulations; costs.
+23
+3 HB0245
+2025 STATE OF WYOMING 25LSO-0504
+1 Subject to the limitations of W.S. 22-13-119, the county
+2 clerk may utilize voting machines or electronic voting
+3 systems at any bond election and may prescribe the form of
+4 the ballot, the duties of election officials, and other
+5 reasonable regulations pertaining thereto. The political
+6 subdivision holding the bond election shall pay the actual
+7 costs of the election or an equitably proportioned share of
+8 a concurrent election, as determined by the county clerk.
+9
+10 22-22-203. Determining validity of application;
+11 placement on ballot; procedure for multi-county districts.
+12
+13 (b) Subject to the limitations of W.S. 22-13-119,
+14 each county clerk in each election involving a school or
+15 community college district which crosses county boundaries
+16 shall determine whether voting machines, electronic voting
+17 system, paper ballots, or a combination thereof, shall be
+18 used to insure ensure that each qualified elector votes
+19 only for the candidate or candidates from the school
+20 district and trustee residence area, if any, and from the
+21 community college district and subdistrict, if any, for
+22 which he is entitled to vote.
+23
+4 HB0245
+2025 STATE OF WYOMING 25LSO-0504
+1 Section 3. This act is effective July 1, 2025.
+2
+3 (END)
+5 HB0245
+
+
+================================================================================
+
+Raw Text:
+2025 STATE OF WYOMING 25LSO-0504
+HOUSE BILL NO. HB0245
+Pen and paper ballots.
+Sponsored by: Representative(s) Knapp, Brown, G, Haroldson
+and Locke and Senator(s) McKeown
+A BILL
+for
+1 AN ACT relating to elections; requiring counties to use pen
+2 and paper as the default method to mark ballots for
+3 elections in Wyoming; providing an exception; making
+4 conforming amendments; and providing for an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 22-13-119 is created to read:
+9
+10 22-13-119. Paper ballots required; exceptions.
+11
+12 (a) Notwithstanding any other provision of law, each
+13 county shall provide paper ballots and pens as the default
+14 method to mark ballots for all in-person voting in all
+15 elections in Wyoming. The county clerk shall provide all
+1 HB0245
+
+2025 STATE OF WYOMING 25LSO-0504
+1 voters with a paper ballot and a pen to mark the ballot
+2 secretly as provided in this Election Code.
+3
+4 (b) Subsection (a) of this section shall not prohibit
+5 any county clerk from providing electronic ballot marking
+6 devices for use by persons with disabilities. Electronic
+7 ballot marking devices shall comply with all federal
+8 accessibility requirements and shall conform with the
+9 requirements of this Election Code for voting machines and
+10 electronic voting systems. Nothing in this subsection shall
+11 authorize any county to use electronic ballot marking
+12 devices as the default method of marking ballots in the
+13 county.
+14
+15 (c) As used in this section:
+16
+17 (i) "Disability" has the meaning stated in the
+18 Americans with Disabilities Act of 1990, as amended by the
+19 Americans with Disabilities Amendments Act of 2008;
+20
+21 (ii) "Electronic ballot marking device" means
+22 any electronic device that assists voters in marking
+23 ballots, including, without limitation, any voting machine
+2 HB0245
+
+2025 STATE OF WYOMING 25LSO-0504
+1 that uses a touch screen to produce a marked paper ballot
+2 or ballot card.
+3
+4 Section 2. W.S. 22-10-102, 22-11-102, 22-21-109 and
+5 22-22-203(b) are amended to read:
+6
+7 22-10-102. Selection by county commissioners.
+8
+9 Subject to the limitations of W.S. 22-13-119, the board of
+10 county commissioners may adopt for use in any precinct in
+11 the county a type of voting machine meeting the standards
+12 specified in W.S. 22-10-101.
+13
+14 22-11-102. Use authorized; purchase or lease.
+15
+16 Subject to the limitations of W.S. 22-13-119, the board of
+17 county commissioners of each county may adopt for use,
+18 either experimentally or permanently, in any election in
+19 any or all polling places within the county, any electronic
+20 voting system authorized by law.
+21
+22 22-21-109. Supplies; regulations; costs.
+23
+3 HB0245
+
+2025 STATE OF WYOMING 25LSO-0504
+1 Subject to the limitations of W.S. 22-13-119, the county
+2 clerk may utilize voting machines or electronic voting
+3 systems at any bond election and may prescribe the form of
+4 the ballot, the duties of election officials, and other
+5 reasonable regulations pertaining thereto. The political
+6 subdivision holding the bond election shall pay the actual
+7 costs of the election or an equitably proportioned share of
+8 a concurrent election, as determined by the county clerk.
+9
+10 22-22-203. Determining validity of application;
+11 placement on ballot; procedure for multi-county districts.
+12
+13 (b) Subject to the limitations of W.S. 22-13-119,
+14 each county clerk in each election involving a school or
+15 community college district which crosses county boundaries
+16 shall determine whether voting machines, electronic voting
+17 system, paper ballots, or a combination thereof, shall be
+18 used to insure ensure that each qualified elector votes
+19 only for the candidate or candidates from the school
+20 district and trustee residence area, if any, and from the
+21 community college district and subdistrict, if any, for
+22 which he is entitled to vote.
+23
+4 HB0245
+
+2025 STATE OF WYOMING 25LSO-0504
+1 Section 3. This act is effective July 1, 2025.
+2
+3 (END)
+5 HB0245

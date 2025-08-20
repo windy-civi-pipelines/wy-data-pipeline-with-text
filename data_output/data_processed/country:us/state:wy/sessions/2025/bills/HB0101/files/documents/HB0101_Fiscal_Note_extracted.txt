@@ -1,0 +1,63 @@
+Title: This bill contains an appropriation of $3,000,000 from the GENERAL FUND to the
+Official Title: This bill contains an appropriation of $3,000,000 from the GENERAL FUND to the
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Forest health grant program-3. 25LSO-0401, 1.0
+FISCAL NOTE
+forest health grant account created by this legislation for grants authorized by
+the State Forester within the Office of State Lands and Investments (OSLI).
+DETAIL OF APPROPRIATION
+Agency #: 060
+Agency Name: Office of State Lands and Investments
+Unit: 0201
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0700 Capital Expenditures $0 $1,500,000 $1,500,000
+Total Expenditure Per Year: $0 $1,500,000 $1,500,000
+Grand Total Expenditure: $3,000,000
+Total Appropriated to Agency: $3,000,000
+Total Appropriated by Fund:
+GENERAL FUND $3,000,000
+Description of appropriation:
+The State Forester reports funds will be used to implement critical vegetation
+treatments on non-federal lands.
+Assumptions:
+The OSLI Forestry Division can absorb this program into its existing workload.
+Prepared by: Polly Scott, LSO Phone: 777-7881
+(Information provided by Kelly Norris, Office of State Lands and Investments,
+777-7586)
+HB0101
+
+
+================================================================================
+
+Raw Text:
+Forest health grant program-3. 25LSO-0401, 1.0
+FISCAL NOTE
+This bill contains an appropriation of $3,000,000 from the GENERAL FUND to the
+forest health grant account created by this legislation for grants authorized by
+the State Forester within the Office of State Lands and Investments (OSLI).
+DETAIL OF APPROPRIATION
+Agency #: 060
+Agency Name: Office of State Lands and Investments
+Unit: 0201
+EXPENDITURE BY SERIES AND YEAR FY 2025 FY 2026 FY 2027
+0700 Capital Expenditures $0 $1,500,000 $1,500,000
+Total Expenditure Per Year: $0 $1,500,000 $1,500,000
+Grand Total Expenditure: $3,000,000
+Total Appropriated to Agency: $3,000,000
+Total Appropriated by Fund:
+GENERAL FUND $3,000,000
+Description of appropriation:
+The State Forester reports funds will be used to implement critical vegetation
+treatments on non-federal lands.
+Assumptions:
+The OSLI Forestry Division can absorb this program into its existing workload.
+Prepared by: Polly Scott, LSO Phone: 777-7881
+(Information provided by Kelly Norris, Office of State Lands and Investments,
+777-7586)
+HB0101

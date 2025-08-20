@@ -1,0 +1,99 @@
+Title: 1 Page 1-above line 1 In the catch title, delete "sales and".
+Official Title: 1 Page 1-above line 1 In the catch title, delete "sales and".
+Number of Sections: 1
+Source: versions - Amendment HB0033S2001 (2nd reading) - Senator Hicks (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0033S2001
+2
+3 Page 1-line 1 Delete "sales and".
+4
+5 Page 1-line 2 Delete "sales and".
+6
+7 Page 1-line 8 After "Section 1." delete balance of line.
+8
+9 Page 1-line 9 Delete "new subsection (r) and".
+10
+11 Page 1-line 10 Delete "are" and insert "is".
+12
+13 Page 1-lines 12 through 15 Delete entirely.
+14
+15 Page 2-lines 1 through 11 Delete entirely.
+16
+17 Page 3-line 1 Delete "all" and insert "twenty-five million
+18 dollars ($25,000,000.00) each fiscal year of
+19 the".
+20
+21 Page 3-line 4 After "39-16-111(b)(i)" delete "and".
+22
+23 Page 3-line 5 Delete "(ii)".
+24
+25 Page 3-line 6 After "fund" insert "for the construction and
+26 maintenance of highways. The department shall
+27 report on the expenditure of funds distributed
+28 under this subsection not later than September
+29 30 of each year to the joint appropriations
+30 interim committee and the joint
+31 transportation, highways and military affairs
+32 interim committee. This subsection is repealed
+33 effective July 1, 2027.".
+34
+35 Page 3-line 10 Delete "sales and"; delete "sales of".
+36
+37 Page 3-line 14 Delete "sales and".
+38
+39 Page 3-line 16 Delete "and thereafter".
+40
+41 Page 3-line 17 Delete "sales and". HICKS
+1
+
+
+================================================================================
+
+Raw Text:
+HB0033S2001
+1 Page 1-above line 1 In the catch title, delete "sales and".
+2
+3 Page 1-line 1 Delete "sales and".
+4
+5 Page 1-line 2 Delete "sales and".
+6
+7 Page 1-line 8 After "Section 1." delete balance of line.
+8
+9 Page 1-line 9 Delete "new subsection (r) and".
+10
+11 Page 1-line 10 Delete "are" and insert "is".
+12
+13 Page 1-lines 12 through 15 Delete entirely.
+14
+15 Page 2-lines 1 through 11 Delete entirely.
+16
+17 Page 3-line 1 Delete "all" and insert "twenty-five million
+18 dollars ($25,000,000.00) each fiscal year of
+19 the".
+20
+21 Page 3-line 4 After "39-16-111(b)(i)" delete "and".
+22
+23 Page 3-line 5 Delete "(ii)".
+24
+25 Page 3-line 6 After "fund" insert "for the construction and
+26 maintenance of highways. The department shall
+27 report on the expenditure of funds distributed
+28 under this subsection not later than September
+29 30 of each year to the joint appropriations
+30 interim committee and the joint
+31 transportation, highways and military affairs
+32 interim committee. This subsection is repealed
+33 effective July 1, 2027.".
+34
+35 Page 3-line 10 Delete "sales and"; delete "sales of".
+36
+37 Page 3-line 14 Delete "sales and".
+38
+39 Page 3-line 16 Delete "and thereafter".
+40
+41 Page 3-line 17 Delete "sales and". HICKS
+1

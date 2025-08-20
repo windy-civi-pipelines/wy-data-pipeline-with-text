@@ -1,0 +1,59 @@
+Title: 1 Page 3-line 19 Strike "tank" and insert "system".
+Official Title: 1 Page 3-line 19 Strike "tank" and insert "system".
+Number of Sections: 1
+Source: versions - Amendment HB0024HS001 (Standing Committee)
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+HB0024HS001
+2
+3 Page 5-line 23 After "means a" delete balance of line.
+4
+5 Page 6-lines 1 through 4 Delete entirely and insert "public
+6 charging station or device that is capable of
+7 providing direct current power of fifty (50)
+8 kilowatt hours or more directly to the battery
+9 of an all-electric vehicle or plug-in hybrid
+10 electric vehicle.".
+11
+12 Page 7-line 3 Delete "a sign stating".
+13
+14 Page 7-line 4 Delete "kilowatt hour" and insert "unit of
+15 measurement".
+16
+17 Page 7-line 19 Delete "four cents ($.04)" and insert "three
+18 cents ($.03)".
+19
+20 Page 11-line 12 Delete "kilowatt hour" and insert "unit of
+21 measurement". BROWN, L, CHAIRMAN
+1
+
+
+================================================================================
+
+Raw Text:
+HB0024HS001
+1 Page 3-line 19 Strike "tank" and insert "system".
+2
+3 Page 5-line 23 After "means a" delete balance of line.
+4
+5 Page 6-lines 1 through 4 Delete entirely and insert "public
+6 charging station or device that is capable of
+7 providing direct current power of fifty (50)
+8 kilowatt hours or more directly to the battery
+9 of an all-electric vehicle or plug-in hybrid
+10 electric vehicle.".
+11
+12 Page 7-line 3 Delete "a sign stating".
+13
+14 Page 7-line 4 Delete "kilowatt hour" and insert "unit of
+15 measurement".
+16
+17 Page 7-line 19 Delete "four cents ($.04)" and insert "three
+18 cents ($.03)".
+19
+20 Page 11-line 12 Delete "kilowatt hour" and insert "unit of
+21 measurement". BROWN, L, CHAIRMAN
+1

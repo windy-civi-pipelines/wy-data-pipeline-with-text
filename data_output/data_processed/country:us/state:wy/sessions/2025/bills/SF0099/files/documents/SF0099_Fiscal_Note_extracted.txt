@@ -1,0 +1,91 @@
+Title: Game and fish property tax exemption. 25LSO-0056, 1.0
+Official Title: Game and fish property tax exemption. 25LSO-0056, 1.0
+Number of Sections: 1
+Source: documents - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+SCHOOL FOUNDATION FUND (43 mills) ($0) ($340,000) ($340,000)
+AD VALOREM TAX (local taxing entities) ($0) ($200,000) ($200,000)
+Source of revenue (decrease):
+This bill provides a property tax exemption for real property owned by the
+Wyoming Game and Fish Commission, except for real property used for wildlife
+management purposes and assessed as agricultural land under W.S. 39-13-
+103(b)(xii). The bill is effective January 1, 2026, reducing property tax revenue
+beginning in tax year 2026 (paid in FY 2027). The estimated decreases in property
+tax revenues to the School Foundation Program (SFP) and to other local taxing
+entities are provided in the above table.
+The SFP will experience a revenue decrease from the 43 mills supporting K-12
+public education, which include the statewide 12 mill levy, the school district
+25 mill levy, and the countywide 6 mill levy. For purposes of this analysis, the
+decrease in property tax revenues to the SFP is shown as an absolute revenue
+decrease in lieu of estimating the school district recapture revenue decrease and
+the school district entitlement expenditure increase separately.
+Assumptions:
+The above estimate is based on information obtained from the statewide Computer
+Assisted Mass Appraisal (CAMA) system from tax year 2024 data. The property tax
+revenue decrease is computed using the statewide average mill levy for the 2024
+tax year of 68.504 mills. The October 2024 Consensus Revenue Estimating Group
+(CREG) forecast projects a zero percent growth rate in the assessed valuation of
+non-mineral property for FY 2027 and FY 2028.
+Based on the information above, this bill would decrease total property taxes by
+approximately $540,000 per year in tax years 2026 and 2027 (FY 2027 and FY 2028).
+Of the estimated total impact, the decreased revenue from the 43 mills supporting
+the SFP is approximately $340,000 per year in tax years 2026 and 2027 (FY 2027
+and FY 2028).
+This bill will also result in a corresponding expenditure decrease in Game and
+Fish Commission funds. The total expenditure decrease in Game and Fish Commission
+funds is estimated at approximately $540,000 per year, beginning in FY 2027.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Kenneth Guille, Department of Revenue, 777-5235)
+SF0099
+
+
+================================================================================
+
+Raw Text:
+Game and fish property tax exemption. 25LSO-0056, 1.0
+FISCAL NOTE
+FY 2026 FY 2027 FY 2028
+NON-ADMINISTRATIVE IMPACT
+Anticipated Revenue (decrease)
+SCHOOL FOUNDATION FUND (43 mills) ($0) ($340,000) ($340,000)
+AD VALOREM TAX (local taxing entities) ($0) ($200,000) ($200,000)
+Source of revenue (decrease):
+This bill provides a property tax exemption for real property owned by the
+Wyoming Game and Fish Commission, except for real property used for wildlife
+management purposes and assessed as agricultural land under W.S. 39-13-
+103(b)(xii). The bill is effective January 1, 2026, reducing property tax revenue
+beginning in tax year 2026 (paid in FY 2027). The estimated decreases in property
+tax revenues to the School Foundation Program (SFP) and to other local taxing
+entities are provided in the above table.
+The SFP will experience a revenue decrease from the 43 mills supporting K-12
+public education, which include the statewide 12 mill levy, the school district
+25 mill levy, and the countywide 6 mill levy. For purposes of this analysis, the
+decrease in property tax revenues to the SFP is shown as an absolute revenue
+decrease in lieu of estimating the school district recapture revenue decrease and
+the school district entitlement expenditure increase separately.
+Assumptions:
+The above estimate is based on information obtained from the statewide Computer
+Assisted Mass Appraisal (CAMA) system from tax year 2024 data. The property tax
+revenue decrease is computed using the statewide average mill levy for the 2024
+tax year of 68.504 mills. The October 2024 Consensus Revenue Estimating Group
+(CREG) forecast projects a zero percent growth rate in the assessed valuation of
+non-mineral property for FY 2027 and FY 2028.
+Based on the information above, this bill would decrease total property taxes by
+approximately $540,000 per year in tax years 2026 and 2027 (FY 2027 and FY 2028).
+Of the estimated total impact, the decreased revenue from the 43 mills supporting
+the SFP is approximately $340,000 per year in tax years 2026 and 2027 (FY 2027
+and FY 2028).
+This bill will also result in a corresponding expenditure decrease in Game and
+Fish Commission funds. The total expenditure decrease in Game and Fish Commission
+funds is estimated at approximately $540,000 per year, beginning in FY 2027.
+Prepared by: Dean Temte, LSO Phone: 777-7881
+(Information provided by Kenneth Guille, Department of Revenue, 777-5235)
+SF0099
