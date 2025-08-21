@@ -1,101 +1,52 @@
-name: "LLM Analysis Action"
-description: "Analyzes legislative bills using LLM for summarization and change tracking"
+name: LLM Bill Analysis
 
 on:
   schedule:
-    - cron: "0 1 * * *" # every day at 1am UTC
+    - cron: "0 2 * * *" # every day at 2am UTC (after data update)
   workflow_dispatch:
-  
-inputs:
-  state:
-    description: "State to analyze"
-    required: true
-    default: "wy"
-  analyze-versions:
-    description: "Analyze bill versions and track changes"
-    required: false
-    default: "true"
-  generate-reports:
-    description: "Generate human-readable reports"
-    required: false
-    default: "true"
+    inputs:
+      state:
+        type: choice
+        description: "State to analyze"
+        options:
+          - wy
+          - all
+        default: "wy"
+      analyze-versions:
+        type: boolean
+        description: "Analyze bill versions and track changes"
+        default: true
+      generate-reports:
+        type: boolean
+        description: "Generate human-readable reports"
+        default: true
 
-runs:
-  using: "composite"
-  steps:
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.11"
+jobs:
+  llm-bill-analysis:
+    name: LLM Bill Analysis
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: read
 
-    - name: Install dependencies
-      shell: bash
-      run: |
-        python -m pip install --upgrade pip
-        pip install pdfplumber click requests
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Set up OpenAI API Key
-      shell: bash
-      run: |
-        if [ -n "${{ secrets.OPENAI_API_KEY }}" ]; then
-          echo "Using repository secret API key"
-          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
-        else
-          echo "No API key provided - will run in mock mode"
-        fi
+      - name: Use LLM Analysis Action
+        uses: windy-civi/opencivicdata-blockchain-transformer@llm-bill-tracker
+        with:
+          state: ${{ inputs.state }}
+          analyze-versions: ${{ inputs.analyze-versions }}
+          generate-reports: ${{ inputs.generate-reports }}
 
-    - name: Run LLM Bill Analysis
-      shell: bash
-      run: |
-        echo "🤖 Starting LLM Bill Analysis"
-        echo "State: ${{ inputs.state }}"
-        echo "Analyze versions: ${{ inputs.analyze-versions }}"
-        echo "Generate reports: ${{ inputs.generate-reports }}"
-
-        # For now, run the Wyoming analysis
-        if [ "${{ inputs.state }}" = "wy" ] || [ "${{ inputs.state }}" = "all" ]; then
-          echo "📄 Analyzing Wyoming bills..."
-
-          # Check if sample data exists
-          if [ -d "sample_data/wy_sample" ]; then
-            python openstates_scraped_data_formatter/cli_bill_tracker.py analyze \
-              --show-summary \
-              --verbose \
-              --output "wyoming_llm_analysis_$(date +%Y%m%d_%H%M%S).json"
-
-            echo "✅ Wyoming analysis complete"
-          else
-            echo "⚠️ No Wyoming sample data found"
-          fi
-        fi
-
-        # Future: Add other states here
-        # if [ "${{ inputs.state }}" = "all" ]; then
-        #   echo "📄 Analyzing all available states..."
-        #   # Add logic for other states
-        # fi
-
-    - name: Upload analysis reports
-      uses: actions/upload-artifact@v4
-      if: inputs.generate-reports == 'true'
-      with:
-        name: llm-analysis-reports-${{ github.run_id }}
-        path: |
-          *.json
-          llm_analysis_results.json
-          wyoming_bill_tracker_report.json
-        retention-days: 30
-
-    - name: Generate summary
-      shell: bash
-      run: |
-        echo "📊 LLM Analysis Summary"
-        echo "========================"
-        echo "Run ID: ${{ github.run_id }}"
-        echo "State: ${{ inputs.state }}"
-        echo "Timestamp: $(date)"
-        echo ""
-        echo "Reports generated:"
-        ls -la *.json 2>/dev/null || echo "No JSON reports found"
-        echo ""
-        echo "Artifacts available for download"
+      - name: Summary
+        run: |
+          echo "🤖 LLM analysis complete!"
+          echo "📊 State analyzed: ${{ inputs.state }}"
+          echo "📄 Reports generated: ${{ inputs.generate-reports }}"
+          echo "🕒 Run completed at: $(date)"
+          echo ""
+          echo "💡 Download artifacts to view detailed reports"
