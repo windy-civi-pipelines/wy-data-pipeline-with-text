@@ -27,3 +27,4 @@ jobs:
           state: wy
           analyze-versions: ${{ inputs.analyze-versions }}
           generate-reports: ${{ inputs.generate-reports }}
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
