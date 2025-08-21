@@ -1,6 +1,11 @@
 name: "LLM Analysis Action"
 description: "Analyzes legislative bills using LLM for summarization and change tracking"
 
+on:
+  schedule:
+    - cron: "0 1 * * *" # every day at 1am UTC
+  workflow_dispatch:
+  
 inputs:
   state:
     description: "State to analyze"
