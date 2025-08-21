@@ -1,52 +1,29 @@
 name: LLM Bill Analysis
-
 on:
   schedule:
-    - cron: "0 2 * * *" # every day at 2am UTC (after data update)
+    - cron: "0 2 * * *"
   workflow_dispatch:
     inputs:
-      state:
-        type: choice
-        description: "State to analyze"
-        options:
-          - wy
-          - all
-        default: "wy"
       analyze-versions:
         type: boolean
-        description: "Analyze bill versions and track changes"
         default: true
       generate-reports:
         type: boolean
-        description: "Generate human-readable reports"
         default: true
 
 jobs:
-  llm-bill-analysis:
-    name: LLM Bill Analysis
+  llm-analysis:
     runs-on: ubuntu-latest
     permissions:
       contents: read
       actions: read
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Use LLM Analysis Action
+      
+      - name: Run LLM Analysis
         uses: windy-civi/opencivicdata-blockchain-transformer@llm-bill-tracker
         with:
-          state: ${{ inputs.state }}
+          state: wy
           analyze-versions: ${{ inputs.analyze-versions }}
           generate-reports: ${{ inputs.generate-reports }}
-
-      - name: Summary
-        run: |
-          echo "🤖 LLM analysis complete!"
-          echo "📊 State analyzed: ${{ inputs.state }}"
-          echo "📄 Reports generated: ${{ inputs.generate-reports }}"
-          echo "🕒 Run completed at: $(date)"
-          echo ""
-          echo "💡 Download artifacts to view detailed reports"
