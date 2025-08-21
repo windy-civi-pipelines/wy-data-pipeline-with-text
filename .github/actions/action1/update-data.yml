@@ -1,6 +1,11 @@
 name: "Data Pipeline Action"
 description: "Scrapes, cleans, and formats state legislative data from OpenStates"
 
+on:
+  schedule:
+    - cron: "0 1 * * *" # every day at 1am UTC
+  workflow_dispatch:
+
 inputs:
   state:
     description: "State to process (2-letter abbreviation)"
